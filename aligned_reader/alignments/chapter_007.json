@@ -1,0 +1,2384 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.480",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter Seven. The Slug Club."
+   ]
+  },
+  {
+   "begin": "6.480",
+   "children": [],
+   "end": "38.280",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Harry spent a lot of the last week of the holidays pondering the meaning of Malfoy's behavior in Knockturn Alley. What disturbed him most was the satisfied look on Malfoy's face as he had left the shop. Nothing that made Malfoy look that happy could be good news. To his slight annoyance, however, neither Ron nor Hermione seemed quite as curious about Malfoy's activities as he was; or at least, they seemed to get bored of discussing it after a few days."
+   ]
+  },
+  {
+   "begin": "38.280",
+   "children": [],
+   "end": "60.680",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "\"Yes, I've already agreed it was fishy, Harry,\" said Hermione a little impatiently. She was sitting on the windowsill in Fred and George's room with her feet up on one of the cardboard boxes and had only grudgingly looked up from her new copy of Advanced Rune Translation. \"But haven't we agreed there could be a lot of explanations?\""
+   ]
+  },
+  {
+   "begin": "60.680",
+   "children": [],
+   "end": "72.400",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "\"Maybe he's broken his Hand of Glory,\" said Ron vaguely, as he attempted to straighten his broomstick's bent tail twigs. \"Remember that shriveled-up arm Malfoy had?\""
+   ]
+  },
+  {
+   "begin": "72.400",
+   "children": [],
+   "end": "86.840",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "\"But what about when he said, 'Don't forget to keep that one safe'?\" asked Harry for the umpteenth time. \"That sounded to me like Borgin's got another one of the broken objects, and Malfoy wants both.\""
+   ]
+  },
+  {
+   "begin": "86.840",
+   "children": [],
+   "end": "91.840",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "\"You reckon?\" said Ron, now trying to scrape some dirt off his broom handle."
+   ]
+  },
+  {
+   "begin": "91.840",
+   "children": [],
+   "end": "104.800",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "\"Yeah, I do,\" said Harry. When neither Ron nor Hermione answered, he said, \"Malfoy's father's in Azkaban. Don't you think Malfoy'd like revenge?\""
+   ]
+  },
+  {
+   "begin": "104.800",
+   "children": [],
+   "end": "106.200",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Ron looked up, blinking."
+   ]
+  },
+  {
+   "begin": "106.200",
+   "children": [],
+   "end": "110.360",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "\"Malfoy, revenge? What can he do about it?\""
+   ]
+  },
+  {
+   "begin": "110.360",
+   "children": [],
+   "end": "121.800",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "\"That's my point, I don't know!\" said Harry, frustrated. \"But he's up to something and I think we should take it seriously. His father's a Death Eater and - \""
+   ]
+  },
+  {
+   "begin": "121.800",
+   "children": [],
+   "end": "129.880",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Harry broke off, his eyes fixed on the window behind Hermione, his mouth open. A startling thought had just occurred to him."
+   ]
+  },
+  {
+   "begin": "129.880",
+   "children": [],
+   "end": "134.800",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "\"Harry?\" said Hermione in an anxious voice. \"What's wrong?\""
+   ]
+  },
+  {
+   "begin": "134.800",
+   "children": [],
+   "end": "139.200",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "\"Your scar's not hurting again, is it?\" asked Ron nervously."
+   ]
+  },
+  {
+   "begin": "139.200",
+   "children": [],
+   "end": "150.320",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "\"He's a Death Eater,\" said Harry slowly. \"He's replaced his father as a Death Eater!\""
+   ]
+  },
+  {
+   "begin": "150.320",
+   "children": [],
+   "end": "160.480",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "There was a silence; then Ron erupted in laughter. \"Malfoy? He's sixteen, Harry! You think You-Know-Who would let Malfoy join?\""
+   ]
+  },
+  {
+   "begin": "160.480",
+   "children": [],
+   "end": "168.880",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "\"It seems very unlikely, Harry,\" said Hermione in a repressive sort of voice. \"What makes you think - ?\""
+   ]
+  },
+  {
+   "begin": "168.880",
+   "children": [],
+   "end": "183.240",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "\"In Madam Malkin's. She didn't touch him, but he yelled and jerked his arm away from her when she went to roll up his sleeve. It was his left arm. He's been branded with the Dark Mark.\""
+   ]
+  },
+  {
+   "begin": "183.240",
+   "children": [],
+   "end": "184.960",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Ron and Hermione looked at each other."
+   ]
+  },
+  {
+   "begin": "184.960",
+   "children": [],
+   "end": "189.720",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "\"Well...\" said Ron, sounding thoroughly unconvinced."
+   ]
+  },
+  {
+   "begin": "189.720",
+   "children": [],
+   "end": "194.000",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "\"I think he just wanted to get out of there, Harry,\" said Hermione."
+   ]
+  },
+  {
+   "begin": "194.000",
+   "children": [],
+   "end": "212.400",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "\"He showed Borgin something we couldn't see,\" Harry pressed on stubbornly. \"Something that seriously scared Borgin. It was the Mark, I know it - he was showing Borgin who he was dealing with, you saw how seriously Borgin took him!\""
+   ]
+  },
+  {
+   "begin": "212.400",
+   "children": [],
+   "end": "217.280",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Ron and Hermione exchanged another look. \"I'm not sure, Harry.\""
+   ]
+  },
+  {
+   "begin": "217.280",
+   "children": [],
+   "end": "222.560",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "\"Yeah, I still don't reckon You-Know-Who would let Malfoy join.\""
+   ]
+  },
+  {
+   "begin": "222.560",
+   "children": [],
+   "end": "244.480",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Annoyed, but absolutely convinced he was right, Harry snatched up a pile of filthy Quidditch robes and left the room; Mrs. Weasley had been urging them for days not to leave their washing and packing until the last moment. On the landing he bumped into Ginny, who was returning to her room carrying a pile of freshly laundered clothes."
+   ]
+  },
+  {
+   "begin": "244.480",
+   "children": [],
+   "end": "250.520",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "\"I wouldn't go in the kitchen just now,\" she warned him. \"There's a lot of Phlegm around.\""
+   ]
+  },
+  {
+   "begin": "250.520",
+   "children": [],
+   "end": "254.600",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "\"I'll be careful not to slip in it.\" Harry smiled."
+   ]
+  },
+  {
+   "begin": "254.600",
+   "children": [],
+   "end": "269.560",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Sure enough, when he entered the kitchen it was to find Fleur sitting at the kitchen table, in full flow about plans for her wedding to Bill, while Mrs. Weasley kept watch over a pile of self-peeling sprouts, looking bad-temp-ered."
+   ]
+  },
+  {
+   "begin": "269.560",
+   "children": [],
+   "end": "285.720",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "\"... Bill and I 'ave almost decided on only two bridesmaids, Ginny and Gabrielle will look very sweet togezzer. I am theenking of dressing zem in pale gold - pink would of course be 'orrible with Ginny's 'air - \""
+   ]
+  },
+  {
+   "begin": "285.720",
+   "children": [],
+   "end": "300.440",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "\"Ah, Harry!\" said Mrs. Weasley loudly, cutting across Fleur's monologue. \"Good, I wanted to explain about the security arrangements for the journey to Hogwarts tomorrow. We've got Ministry cars again, and there will be Aurors waiting at the station - \""
+   ]
+  },
+  {
+   "begin": "300.440",
+   "children": [],
+   "end": "304.640",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "\"Is Tonks going to be there?\" asked Harry, handing over his Quidditch things."
+   ]
+  },
+  {
+   "begin": "304.640",
+   "children": [],
+   "end": "309.760",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "\"No, I don't think so, she's been stationed somewhere else from what Arthur said.\""
+   ]
+  },
+  {
+   "begin": "309.760",
+   "children": [],
+   "end": "320.520",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "\"She has let 'erself go, zat Tonks,\" Fleur mused, examining her own stunning reflection in the back of a teaspoon. \"A big mistake if you ask - \""
+   ]
+  },
+  {
+   "begin": "320.520",
+   "children": [],
+   "end": "334.040",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "\"Yes, thank you,\" said Mrs. Weasley tartly, cutting across Fleur again. \"You'd better get on, Harry, I want the trunks ready tonight, if possible, so we don't have the usual last-minute scramble.\""
+   ]
+  },
+  {
+   "begin": "334.040",
+   "children": [],
+   "end": "342.240",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And in fact, their departure the following morning was smoother than usual. The Ministry cars glided up to the front of the Burrow to find them"
+   ]
+  },
+  {
+   "begin": "342.240",
+   "children": [],
+   "end": "355.120",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "waiting, trunks packed; Hermione's cat, Crookshanks, safely enclosed in his traveling basket; and Hedwig; Ron's owl, Pigwidgeon; and Ginny's new purple Pygmy Puff, Arnold, in cages."
+   ]
+  },
+  {
+   "begin": "355.120",
+   "children": [],
+   "end": "376.640",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "\"Au revoir, 'Arry,\" said Fleur throatily, kissing him good-bye. Ron hurried forward, looking hopeful, but Ginny stuck out her foot and Ron fell, sprawling in the dust at Fleur's feet. Furious, red-faced, and dirt-spattered, he hurried into the car without saying good-bye."
+   ]
+  },
+  {
+   "begin": "376.640",
+   "children": [],
+   "end": "392.720",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "There was no cheerful Hagrid waiting for them at King's Cross Station. Instead, two grim-faced, bearded Aurors in dark Muggle suits moved forward the moment the cars stopped and, flanking the party, marched them into the station without speaking."
+   ]
+  },
+  {
+   "begin": "392.720",
+   "children": [],
+   "end": "402.480",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "\"Quick, quick, through the barrier,\" said Mrs. Weasley, who seemed a little flustered by this austere efficiency. \"Harry had better go first, with.\""
+   ]
+  },
+  {
+   "begin": "402.480",
+   "children": [],
+   "end": "412.640",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "She looked inquiringly at one of the Aurors, who nodded briefly, seized Harry's upper arm, and attempted to steer him toward the barrier between platforms nine and ten."
+   ]
+  },
+  {
+   "begin": "412.640",
+   "children": [],
+   "end": "437.080",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "\"I can walk, thanks,\" said Harry irritably, jerking his arm out of the Auror's grip. He pushed his trolley directly at the solid barrier, ignoring his silent companion, and found himself, a second later, standing on platform nine and three-quarters, where the scarlet Hogwarts Express stood belching steam over the crowd."
+   ]
+  },
+  {
+   "begin": "437.080",
+   "children": [],
+   "end": "448.520",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Hermione and the Weasleys joined him within seconds. Without waiting to consult his grim-faced Auror, Harry motioned to Ron and Hermione to follow him up the platform, looking for an empty compartment."
+   ]
+  },
+  {
+   "begin": "448.520",
+   "children": [],
+   "end": "458.600",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "\"We can't, Harry,\" said Hermione, looking apologetic. \"Ron and I've got to go to the prefects' carriage first and then patrol the corridors for a bit.\""
+   ]
+  },
+  {
+   "begin": "458.600",
+   "children": [],
+   "end": "461.400",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "\"Oh yeah, I forgot,\" said Harry."
+   ]
+  },
+  {
+   "begin": "461.400",
+   "children": [],
+   "end": "471.800",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "\"You'd better get straight on the train, all of you, you've only got a few minutes to go,\" said Mrs. Weasley, consulting her watch. \"Well, have a lovely term, Ron \""
+   ]
+  },
+  {
+   "begin": "471.800",
+   "children": [],
+   "end": "475.680",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "\"Mr. Weasley, can I have a quick word?\" said Harry, making up his mind"
+   ]
+  },
+  {
+   "begin": "475.680",
+   "children": [],
+   "end": "476.840",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "on the spur of the moment."
+   ]
+  },
+  {
+   "begin": "476.840",
+   "children": [],
+   "end": "485.680",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "\"Of course,\" said Mr. Weasley, who looked slightly surprised, but followed Harry out of earshot of the others nevertheless."
+   ]
+  },
+  {
+   "begin": "485.680",
+   "children": [],
+   "end": "507.000",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Harry had thought it through carefully and come to the conclusion that, if he was to tell anyone, Mr. Weasley was the right person; firstly, because he worked at the Ministry and was therefore in the best position to make further investigations, and secondly, because he thought that there was not too much risk of Mr. Weasley exploding with anger."
+   ]
+  },
+  {
+   "begin": "507.000",
+   "children": [],
+   "end": "513.360",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "He could see Mrs. Weasley and the grim-faced Auror casting the pair of them suspicious looks as they moved away."
+   ]
+  },
+  {
+   "begin": "513.360",
+   "children": [],
+   "end": "520.920",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "\"When we were in Diagon Alley,\" Harry began, but Mr. Weasley forestalled him with a grimace."
+   ]
+  },
+  {
+   "begin": "520.920",
+   "children": [],
+   "end": "529.240",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "\"Am I about to discover where you, Ron, and Hermione disappeared to while you were supposed to be in the back room of Fred and George's shop?\""
+   ]
+  },
+  {
+   "begin": "529.240",
+   "children": [],
+   "end": "530.720",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "\"How did you - ?\""
+   ]
+  },
+  {
+   "begin": "530.720",
+   "children": [],
+   "end": "535.440",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "\"Harry, please. You're talking to the man who raised Fred and George.\""
+   ]
+  },
+  {
+   "begin": "535.440",
+   "children": [],
+   "end": "539.000",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "\"Er yeah, all right, we weren't in the back room.\""
+   ]
+  },
+  {
+   "begin": "539.000",
+   "children": [],
+   "end": "542.000",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "\"Very well, then, let's hear the worst.\""
+   ]
+  },
+  {
+   "begin": "542.000",
+   "children": [],
+   "end": "547.760",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "\"Well, we followed Draco Malfoy. We used my Invisibility Cloak.\""
+   ]
+  },
+  {
+   "begin": "547.760",
+   "children": [],
+   "end": "552.200",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "\"Did you have any particular reason for doing so, or was it a mere whim?\""
+   ]
+  },
+  {
+   "begin": "552.200",
+   "children": [],
+   "end": "560.160",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "\"Because I thought Malfoy was up to something,\" said Harry, disregarding Mr. Weasley's look of mingled exasperation and amusement."
+   ]
+  },
+  {
+   "begin": "560.160",
+   "children": [],
+   "end": "563.680",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "\"He'd given his mother the slip and I wanted to know why.\""
+   ]
+  },
+  {
+   "begin": "563.680",
+   "children": [],
+   "end": "571.360",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "\"Of course you did,\" said Mr. Weasley, sounding resigned. \"Well? Did you find out why?\""
+   ]
+  },
+  {
+   "begin": "571.360",
+   "children": [],
+   "end": "591.240",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "\"He went into Borgin and Burkes,\" said Harry, \"and started bullying the bloke in there, Borgin, to help him fix something. And he said he wanted Borgin to keep something else for him. He made it sound like it was the same kind of thing that needed fixing. Like they were a pair. And...\""
+   ]
+  },
+  {
+   "begin": "591.240",
+   "children": [],
+   "end": "592.600",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "Harry took a deep breath."
+   ]
+  },
+  {
+   "begin": "592.600",
+   "children": [],
+   "end": "608.800",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "\"There's something else. We saw Malfoy jump about a mile when Madam Malkin tried to touch his left arm. I think he's been branded with the Dark Mark. I think he's replaced his father as a Death Eater.\""
+   ]
+  },
+  {
+   "begin": "608.800",
+   "children": [],
+   "end": "618.520",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "Mr. Weasley looked taken aback. After a moment he said, \"Harry, I doubt whether You-Know-Who would allow a sixteen-year-old - \""
+   ]
+  },
+  {
+   "begin": "618.520",
+   "children": [],
+   "end": "635.920",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "\"Does anyone really know what You-Know-Who would or wouldn't do?\" asked Harry angrily. \"Mr. Weasley, I'm sorry, but isn't it worth investigating? If Malfoy wants something fixing, and he needs to threaten Borgin to get it done, it's probably something Dark or dangerous, isn't it?\""
+   ]
+  },
+  {
+   "begin": "635.920",
+   "children": [],
+   "end": "649.880",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "\"I doubt it, to be honest, Harry,\" said Mr. Weasley slowly. \"You see, when Lucius Malfoy was arrested, we raided his house. We took away everything that might have been dangerous.\""
+   ]
+  },
+  {
+   "begin": "649.880",
+   "children": [],
+   "end": "653.840",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "\"I think you missed something,\" said Harry stubbornly."
+   ]
+  },
+  {
+   "begin": "653.840",
+   "children": [],
+   "end": "661.120",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "\"Well, maybe,\" said Mr. Weasley, but Harry could tell that Mr. Weasley was humoring him."
+   ]
+  },
+  {
+   "begin": "661.120",
+   "children": [],
+   "end": "665.840",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "There was a whistle behind them; nearly everyone had boarded the train and the doors were closing."
+   ]
+  },
+  {
+   "begin": "665.840",
+   "children": [],
+   "end": "670.520",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "\"You'd better hurry,\" said Mr. Weasley, as Mrs. Weasley cried, \"Harry, quickly!\""
+   ]
+  },
+  {
+   "begin": "670.520",
+   "children": [],
+   "end": "675.800",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "He hurried forward and Mr. and Mrs. Weasley helped him load his trunk onto the train."
+   ]
+  },
+  {
+   "begin": "675.800",
+   "children": [],
+   "end": "691.040",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "\"Now, dear, you're coming to us for Christmas, it's all fixed with Dumbledore, so we'll see you quite soon,\" said Mrs. Weasley through the window, as Harry slammed the door shut behind him and the train began to move. \"You make sure you look after yourself and - \""
+   ]
+  },
+  {
+   "begin": "691.040",
+   "children": [],
+   "end": "694.600",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "The train was gathering speed. \" - be good and - \""
+   ]
+  },
+  {
+   "begin": "694.600",
+   "children": [],
+   "end": "698.280",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "She was jogging to keep up now. \" - stay safe!\""
+   ]
+  },
+  {
+   "begin": "698.280",
+   "children": [],
+   "end": "711.680",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "Harry waved until the train had turned a corner and Mr. and Mrs. Weasley were lost to view, then turned to see where the others had got to. He supposed Ron and Hermione were cloistered in the prefects' carriage, but"
+   ]
+  },
+  {
+   "begin": "711.680",
+   "children": [],
+   "end": "718.240",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "Ginny was a little way along the corridor, chatting to some friends. He made his way toward her, dragging his trunk."
+   ]
+  },
+  {
+   "begin": "718.240",
+   "children": [],
+   "end": "744.240",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "People stared shamelessly as he approached. They even pressed their faces against the windows of their compartments to get a look at him. He had expected an upswing in the amount of gaping and gawping he would have to endure this term after all the \"Chosen One\" rumors in the Daily Prophet, but he did not enjoy the sensation of standing in a very bright spotlight. He tapped Ginny on the shoulder."
+   ]
+  },
+  {
+   "begin": "744.240",
+   "children": [],
+   "end": "746.480",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "\"Fancy trying to find a compartment?\""
+   ]
+  },
+  {
+   "begin": "746.480",
+   "children": [],
+   "end": "751.800",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "\"I can't, Harry, I said I'd meet Dean,\" said Ginny brightly. \"See you later.\""
+   ]
+  },
+  {
+   "begin": "751.800",
+   "children": [],
+   "end": "780.920",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "\"Right,\" said Harry. He felt a strange twinge of annoyance as she walked away, her long red hair dancing behind her; he had become so used to her presence over the summer that he had almost forgotten that Ginny did not hang around with him, Ron, and Hermione while at school. Then he blinked and looked around: He was surrounded by mesmerized girls. \"Hi, Harry!\" said a familiar voice from behind him."
+   ]
+  },
+  {
+   "begin": "780.920",
+   "children": [],
+   "end": "786.880",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "\"Neville!\" said Harry in relief, turning to see a round-faced boy struggling toward him."
+   ]
+  },
+  {
+   "begin": "786.880",
+   "children": [],
+   "end": "794.240",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "\"Hello, Harry,\" said a girl with long hair and large misty eyes, who was just behind Neville."
+   ]
+  },
+  {
+   "begin": "794.240",
+   "children": [],
+   "end": "796.320",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "\"Luna, hi, how are you?\""
+   ]
+  },
+  {
+   "begin": "796.320",
+   "children": [],
+   "end": "809.320",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "\"Very well, thank you,\" said Luna. She was clutching a magazine to her chest; large letters on the front announced that there was a pair of free Spectrespecs inside."
+   ]
+  },
+  {
+   "begin": "809.320",
+   "children": [],
+   "end": "818.160",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "\"Quibbler still going strong, then?\" asked Harry, who felt a certain fondness for the magazine, having given it an exclusive interview the previous year."
+   ]
+  },
+  {
+   "begin": "818.160",
+   "children": [],
+   "end": "822.640",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "\"Oh yes, circulation's well up,\" said Luna happily."
+   ]
+  },
+  {
+   "begin": "822.640",
+   "children": [],
+   "end": "832.760",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "\"Let's find seats,\" said Harry, and the three of them set off along the train through hordes of silently staring students. At last they found an empty com-"
+   ]
+  },
+  {
+   "begin": "832.760",
+   "children": [],
+   "end": "835.560",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "partment, and Harry hurried inside gratefully."
+   ]
+  },
+  {
+   "begin": "835.560",
+   "children": [],
+   "end": "842.720",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "\"They're even staring at us!\" said Neville, indicating himself and Luna. \"Because we're with you!\""
+   ]
+  },
+  {
+   "begin": "842.720",
+   "children": [],
+   "end": "853.800",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "\"They're staring at you because you were at the Ministry too,\" said Harry, as he hoisted his trunk into the luggage rack. \"Our little adventure there was all over the Daily Prophet, you must've seen it.\""
+   ]
+  },
+  {
+   "begin": "853.800",
+   "children": [],
+   "end": "865.960",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "\"Yes, I thought Gran would be angry about all the publicity,\" said Neville, \"but she was really pleased. Says I'm starting to live up to my dad at long last. She bought me a new wand, look!\""
+   ]
+  },
+  {
+   "begin": "865.960",
+   "children": [],
+   "end": "868.320",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "He pulled it out and showed it to Harry."
+   ]
+  },
+  {
+   "begin": "868.320",
+   "children": [],
+   "end": "879.680",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "\"Cherry and unicorn hair,\" he said proudly. \"We think it was one of the last Ollivander ever sold, he vanished next day - oi, come back here, Trevor!\""
+   ]
+  },
+  {
+   "begin": "879.680",
+   "children": [],
+   "end": "885.240",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "And he dived under the seat to retrieve his toad as it made one of its frequent bids for freedom."
+   ]
+  },
+  {
+   "begin": "885.240",
+   "children": [],
+   "end": "894.640",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "\"Are we still doing D.A. meetings this year, Harry?\" asked Luna, who was detaching a pair of psychedelic spectacles from the middle of The Quibbler."
+   ]
+  },
+  {
+   "begin": "894.640",
+   "children": [],
+   "end": "905.400",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "\"No point now we've got rid of Umbridge, is there?\" said Harry, sitting down. Neville bumped his head against the seat as he emerged from under it. He looked most disappointed."
+   ]
+  },
+  {
+   "begin": "905.400",
+   "children": [],
+   "end": "909.160",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "\"I liked the D.A.! I learned loads with you!\""
+   ]
+  },
+  {
+   "begin": "909.160",
+   "children": [],
+   "end": "916.000",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "\"I enjoyed the meetings too,\" said Luna serenely. \"It was like having friends.\""
+   ]
+  },
+  {
+   "begin": "916.000",
+   "children": [],
+   "end": "936.480",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "This was one of those uncomfortable things Luna often said and which made Harry feel a squirming mixture of pity and embarrassment. Before he could respond, however, there was a disturbance outside their compartment door; a group of fourth-year girls was whispering and giggling together on the other side of the glass."
+   ]
+  },
+  {
+   "begin": "936.480",
+   "children": [],
+   "end": "937.920",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "\"You ask him!\""
+   ]
+  },
+  {
+   "begin": "937.920",
+   "children": [],
+   "end": "939.040",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "\"No, you!\""
+   ]
+  },
+  {
+   "begin": "939.040",
+   "children": [],
+   "end": "940.080",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "\"I'll do it!\""
+   ]
+  },
+  {
+   "begin": "940.080",
+   "children": [],
+   "end": "949.000",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "And one of them, a bold-looking girl with large dark eyes, a prominent chin, and long black hair pushed her way through the door."
+   ]
+  },
+  {
+   "begin": "949.000",
+   "children": [],
+   "end": "975.080",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "\"Hi, Harry, I'm Romilda, Romilda Vane,\" she said loudly and confidently. \"Why don't you join us in our compartment? You don't have to sit with them,\" she added in a stage whisper, indicating Neville's bottom, which was sticking out from under the seat again as he groped around for Trevor, and Luna, who was now wearing her free Spectrespecs, which gave her the look of a demented, multicolored owl."
+   ]
+  },
+  {
+   "begin": "975.080",
+   "children": [],
+   "end": "978.960",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "\"They're friends of mine,\" said Harry coldly."
+   ]
+  },
+  {
+   "begin": "978.960",
+   "children": [],
+   "end": "988.880",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "\"Oh,\" said the girl, looking very surprised. \"Oh. Okay.\" And she withdrew, sliding the door closed behind her."
+   ]
+  },
+  {
+   "begin": "988.880",
+   "children": [],
+   "end": "996.960",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "\"People expect you to have cooler friends than us,\" said Luna, once again displaying her knack for embarrassing honesty."
+   ]
+  },
+  {
+   "begin": "996.960",
+   "children": [],
+   "end": "1002.600",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "\"You are cool,\" said Harry shortly. \"None of them was at the Ministry."
+   ]
+  },
+  {
+   "begin": "1002.600",
+   "children": [],
+   "end": "1003.920",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "They didn't fight with me.\""
+   ]
+  },
+  {
+   "begin": "1003.920",
+   "children": [],
+   "end": "1014.240",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "\"That's a very nice thing to say,\" beamed Luna. Then she pushed her Spectrespecs farther up her nose and settled down to read The Quibbler."
+   ]
+  },
+  {
+   "begin": "1014.240",
+   "children": [],
+   "end": "1035.680",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "\"We didn't face him, though,\" said Neville, emerging from under the seat with fluff and dust in his hair and a resigned-looking Trevor in his hand. \"You did. You should hear my gran talk about you. 'That Harry Potter's got more backbone than the whole Ministry of Magic put together!' She'd give anything to have you as a grandson \""
+   ]
+  },
+  {
+   "begin": "1035.680",
+   "children": [],
+   "end": "1054.680",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "Harry laughed uncomfortably and changed the subject to O.W.L. results as soon as he could. While Neville recited his grades and wondered aloud whether he would be allowed to take a Transfiguration N.E.W.T. with only an \"Acceptable,\" Harry watched him without really listening."
+   ]
+  },
+  {
+   "begin": "1054.680",
+   "children": [],
+   "end": "1074.520",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "Neville's childhood had been blighted by Voldemort just as much as Harry's had, but Neville had no idea how close he had come to having Harry's destiny. The prophecy could have referred to either of them, yet, for his own inscrutable reasons, Voldemort had chosen to believe that Harry"
+   ]
+  },
+  {
+   "begin": "1074.520",
+   "children": [],
+   "end": "1075.520",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "was the one meant."
+   ]
+  },
+  {
+   "begin": "1075.520",
+   "children": [],
+   "end": "1083.880",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Had Voldemort chosen Neville, it would be Neville sitting opposite Harry bearing the lightning-shaped scar and the weight of the prophecy Or"
+   ]
+  },
+  {
+   "begin": "1083.880",
+   "children": [],
+   "end": "1110.120",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "would it? Would Neville's mother have died to save him, as Lily had died for Harry? Surely she would... But what if she had been unable to stand between her son and Voldemort? Would there then have been no \"Chosen One\" at all? An empty seat where Neville now sat and a scarless Harry who would have been kissed good-bye by his own mother, not Ron's?"
+   ]
+  },
+  {
+   "begin": "1110.120",
+   "children": [],
+   "end": "1116.960",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "\"You all right, Harry? You look funny,\" said Neville. Harry started. \"Sorry - I - \""
+   ]
+  },
+  {
+   "begin": "1116.960",
+   "children": [],
+   "end": "1124.200",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "\"Wrackspurt got you?\" asked Luna sympathetically, peering at Harry through her enormous colored spectacles."
+   ]
+  },
+  {
+   "begin": "1124.200",
+   "children": [],
+   "end": "1125.960",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "\"I - what?\""
+   ]
+  },
+  {
+   "begin": "1125.960",
+   "children": [],
+   "end": "1137.080",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "\"A Wrackspurt... They're invisible. They float in through your ears and make your brain go fuzzy,\" she said. \"I thought I felt one zooming around in here.\""
+   ]
+  },
+  {
+   "begin": "1137.080",
+   "children": [],
+   "end": "1147.640",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "She flapped her hands at thin air, as though beating off large invisible moths. Harry and Neville caught each other's eyes and hastily began to talk of Quidditch."
+   ]
+  },
+  {
+   "begin": "1147.640",
+   "children": [],
+   "end": "1168.280",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "The weather beyond the train windows was as patchy as it had been all summer; they passed through stretches of the chilling mist, then out into weak, clear sunlight. It was during one of the clear spells, when the sun was visible almost directly overhead, that Ron and Hermione entered the compartment at last."
+   ]
+  },
+  {
+   "begin": "1168.280",
+   "children": [],
+   "end": "1187.240",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "\"Wish the lunch trolley would hurry up, I'm starving,\" said Ron longingly, slumping into the seat beside Harry and rubbing his stomach. \"Hi, Neville. Hi, Luna. Guess what?\" he added, turning to Harry. \"Malfoy's not doing prefect duty. He's just sitting in his compartment with the other Slytherins, we saw him when we passed.\""
+   ]
+  },
+  {
+   "begin": "1187.240",
+   "children": [],
+   "end": "1198.520",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Harry sat up straight, interested. It was not like Malfoy to pass up the chance to demonstrate his power as prefect, which he had happily abused all"
+   ]
+  },
+  {
+   "begin": "1198.520",
+   "children": [],
+   "end": "1199.440",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "the previous year."
+   ]
+  },
+  {
+   "begin": "1199.440",
+   "children": [],
+   "end": "1202.000",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "\"What did he do when he saw you?\""
+   ]
+  },
+  {
+   "begin": "1202.000",
+   "children": [],
+   "end": "1215.560",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "\"The usual,\" said Ron indifferently, demonstrating a rude hand gesture. \"Not like him, though, is it? Well - that is\" - he did the hand gesture again - \"but why isn't he out there bullying first years?\""
+   ]
+  },
+  {
+   "begin": "1215.560",
+   "children": [],
+   "end": "1225.440",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "\"Dunno,\" said Harry, but his mind was racing. Didn't this look as though Malfoy had more important things on his mind than bullying younger students?"
+   ]
+  },
+  {
+   "begin": "1225.440",
+   "children": [],
+   "end": "1233.000",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "\"Maybe he preferred the Inquisitorial Squad,\" said Hermione. \"Maybe being a prefect seems a bit tame after that.\""
+   ]
+  },
+  {
+   "begin": "1233.000",
+   "children": [],
+   "end": "1237.120",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "\"I don't think so,\" said Harry. \"I think he's - \""
+   ]
+  },
+  {
+   "begin": "1237.120",
+   "children": [],
+   "end": "1244.680",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "But before he could expound on his theory, the compartment door slid open again and a breathless third-year girl stepped inside."
+   ]
+  },
+  {
+   "begin": "1244.680",
+   "children": [],
+   "end": "1267.080",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "\"I'm supposed to deliver these to Neville Longbottom and Harry P- Potter,\" she faltered, as her eyes met Harry's and she turned scarlet. She was holding out two scrolls of parchment tied with violet ribbon. Perplexed, Harry and Neville took the scroll addressed to each of them and the girl stumbled back out of the compartment."
+   ]
+  },
+  {
+   "begin": "1267.080",
+   "children": [],
+   "end": "1285.600",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "\"What is it?\" Ron demanded, as Harry unrolled his. \"An invitation,\" said Harry. Harry, I would be delighted if you would join me for a bite of lunch in compartment C. Sincerely, Professor H.E.F. Slughorn"
+   ]
+  },
+  {
+   "begin": "1285.600",
+   "children": [],
+   "end": "1292.120",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "\"Who's Professor Slughorn?\" asked Neville, looking perplexedly at his own invitation."
+   ]
+  },
+  {
+   "begin": "1292.120",
+   "children": [],
+   "end": "1296.720",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "\"New teacher,\" said Harry. \"Well, I suppose we'll have to go, won't we?\""
+   ]
+  },
+  {
+   "begin": "1296.720",
+   "children": [],
+   "end": "1300.960",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "\"But what does he want me for?\" asked Neville nervously, as though he"
+   ]
+  },
+  {
+   "begin": "1300.960",
+   "children": [],
+   "end": "1302.080",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "was expecting detention."
+   ]
+  },
+  {
+   "begin": "1302.080",
+   "children": [],
+   "end": "1319.680",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "\"No idea,\" said Harry, which was not entirely true, though he had no proof yet that his hunch was correct. \"Listen,\" he added, seized by a sudden brain wave, \"let's go under the Invisibility Cloak, then we might get a good look at Malfoy on the way, see what he's up to.\""
+   ]
+  },
+  {
+   "begin": "1319.680",
+   "children": [],
+   "end": "1374.960",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "This idea, however, came to nothing: The corridors, which were packed with people on the lookout for the lunch trolley, were impossible to negotiate while wearing the Cloak. Harry stowed it regretfully back in his bag, reflecting that it would have been nice to wear it just to avoid all the staring, which seemed to have increased in intensity even since he had last walked down the train. Every now and then, students would hurtle out of their compartments to get a better look at him. The exception was Cho Chang, who darted into her compartment when she saw Harry coming. As Harry passed the window, he saw her deep in determined conversation with her friend Marietta, who was wearing a very thick layer of makeup that did not entirely obscure the odd formation of pimples still etched across her face. Smirking slightly, Harry pushed on."
+   ]
+  },
+  {
+   "begin": "1374.960",
+   "children": [],
+   "end": "1387.480",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "When they reached compartment C, they saw at once that they were not Slughorn's only invitees, although judging by the enthusiasm of Slughorn's welcome, Harry was the most warmly anticipated."
+   ]
+  },
+  {
+   "begin": "1387.480",
+   "children": [],
+   "end": "1412.000",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "\"Harry, m'boy!\" said Slughorn, jumping up at the sight of him so that his great velvet-covered belly seemed to fill all the remaining space in the compartment. His shiny bald head and great silvery mustache gleamed as brightly in the sunlight as the golden buttons on his waistcoat. \"Good to see you, good to see you! And you must be Mr. Longbottom!\""
+   ]
+  },
+  {
+   "begin": "1412.000",
+   "children": [],
+   "end": "1443.680",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "Neville nodded, looking scared. At a gesture from Slughorn, they sat down opposite each other in the only two empty seats, which were nearest the door. Harry glanced around at their fellow guests. He recognized a Slytherin from their year, a tall black boy with high cheekbones and long, slanting eyes; there were also two seventh-year boys Harry did not know and, squashed in the corner beside Slughorn and looking as though she was not entirely sure how she had got there, Ginny."
+   ]
+  },
+  {
+   "begin": "1443.680",
+   "children": [],
+   "end": "1451.800",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "\"Now, do you know everyone?\" Slughorn asked Harry and Neville. \"Blaise Zabini is in your year, of course - \""
+   ]
+  },
+  {
+   "begin": "1451.800",
+   "children": [],
+   "end": "1462.920",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Zabini did not make any sign of recognition or greeting, nor did Harry or Neville: Gryffindor and Slytherin students loathed each other on principle."
+   ]
+  },
+  {
+   "begin": "1462.920",
+   "children": [],
+   "end": "1469.080",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "\"This is Cormac McLaggen, perhaps you've come across each other - ? No?\""
+   ]
+  },
+  {
+   "begin": "1469.080",
+   "children": [],
+   "end": "1476.040",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "McLaggen, a large, wiry-haired youth, raised a hand, and Harry and Neville nodded back at him."
+   ]
+  },
+  {
+   "begin": "1476.040",
+   "children": [],
+   "end": "1485.480",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "\" - and this is Marcus Belby, I don't know whether - ?\" Belby, who was thin and nervous-looking, gave a strained smile."
+   ]
+  },
+  {
+   "begin": "1485.480",
+   "children": [],
+   "end": "1491.040",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "\" - and this charming young lady tells me she knows you!\" Slughorn finished."
+   ]
+  },
+  {
+   "begin": "1491.040",
+   "children": [],
+   "end": "1497.040",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "Ginny grimaced at Harry and Neville from behind Slughorn's back."
+   ]
+  },
+  {
+   "begin": "1497.040",
+   "children": [],
+   "end": "1516.120",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "\"Well now, this is most pleasant,\" said Slughorn cozily. \"A chance to get to know you all a little better. Here, take a napkin. I've packed my own lunch; the trolley, as I remember it, is heavy on licorice wands, and a poor old man's digestive system isn't quite up to such things Pheasant, Belby?\""
+   ]
+  },
+  {
+   "begin": "1516.120",
+   "children": [],
+   "end": "1520.720",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "Belby started and accepted what looked like half a cold pheasant."
+   ]
+  },
+  {
+   "begin": "1520.720",
+   "children": [],
+   "end": "1539.280",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "\"I was just telling young Marcus here that I had the pleasure of teaching his Uncle Damocles,\" Slughorn told Harry and Neville, now passing around a basket of rolls. \"Outstanding wizard, outstanding, and his Order of Merlin most well-deserved. Do you see much of your uncle, Marcus?\""
+   ]
+  },
+  {
+   "begin": "1539.280",
+   "children": [],
+   "end": "1550.240",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "Unfortunately, Belby had just taken a large mouthful of pheasant; in his haste to answer Slughorn he swallowed too fast, turned purple, and began to choke."
+   ]
+  },
+  {
+   "begin": "1550.240",
+   "children": [],
+   "end": "1558.240",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "\"Anapneo,\" said Slughorn calmly, pointing his wand at Belby, whose airway seemed to clear at once."
+   ]
+  },
+  {
+   "begin": "1558.240",
+   "children": [],
+   "end": "1564.640",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "\"Not not much of him, no,\" gasped Belby, his eyes streaming."
+   ]
+  },
+  {
+   "begin": "1564.640",
+   "children": [],
+   "end": "1575.040",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "\"Well, of course, I daresay he's busy,\" said Slughorn, looking questioningly at Belby. \"I doubt he invented the Wolfsbane Potion without considerable hard work!\""
+   ]
+  },
+  {
+   "begin": "1575.040",
+   "children": [],
+   "end": "1590.040",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "\"I suppose...\" said Belby, who seemed afraid to take another bite of pheasant until he was sure that Slughorn had finished with him. \"Er he and my dad don't get on very well, you see, so I don't really know much about.\""
+   ]
+  },
+  {
+   "begin": "1590.040",
+   "children": [],
+   "end": "1596.280",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "His voice tailed away as Slughorn gave him a cold smile and turned to McLaggen instead."
+   ]
+  },
+  {
+   "begin": "1596.280",
+   "children": [],
+   "end": "1608.840",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "\"Now, you, Cormac,\" said Slughorn, \"I happen to know you see a lot of your Uncle Tiberius, because he has a rather splendid picture of the two of you hunting nogtails in, I think, Norfolk?\""
+   ]
+  },
+  {
+   "begin": "1608.840",
+   "children": [],
+   "end": "1617.520",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "\"Oh, yeah, that was fun, that was,\" said McLaggen. \"We went with Bertie Higgs and Rufus Scrimgeour - this was before he became Minister, obviously - \""
+   ]
+  },
+  {
+   "begin": "1617.520",
+   "children": [],
+   "end": "1630.040",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "\"Ah, you know Bertie and Rufus too?\" beamed Slughorn, now offering around a small tray of pies; somehow, Belby was missed out. \"Now tell me...\""
+   ]
+  },
+  {
+   "begin": "1630.040",
+   "children": [],
+   "end": "1681.320",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "It was as Harry had suspected. Everyone here seemed to have been invited because they were connected to somebody well-known or influential - everyone except Ginny. Zabini, who was interrogated after McLaggen, turned out to have a famously beautiful witch for a mother (from what Harry could make out, she had been married seven times, each of her husbands dying mysteriously and leaving her mounds of gold). It was Neville's turn next: This was a very uncomfortable ten minutes, for Neville's parents, well-known Aurors, had been tortured into insanity by Bellatrix Lestrange and a couple of Death Eater cronies. At the end of Neville's interview, Harry had the impression that Slughorn was reserving judgment on Neville, yet to see whether he had any of his parents' flair."
+   ]
+  },
+  {
+   "begin": "1681.320",
+   "children": [],
+   "end": "1710.840",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "\"And now,\" said Slughorn, shifting massively in his seat with the air of a compere introducing his star act. \"Harry Potter! Where to begin? I feel I barely scratched the surface when we met over the summer!\" He contemplated Harry for a moment as though he was a particularly large and succulent piece of pheasant, then said, \"'The Chosen One,' they're calling you now!\""
+   ]
+  },
+  {
+   "begin": "1710.840",
+   "children": [],
+   "end": "1716.600",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "Harry said nothing. Belby, McLaggen, and Zabini were all staring at him."
+   ]
+  },
+  {
+   "begin": "1716.600",
+   "children": [],
+   "end": "1738.640",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "\"Of course,\" said Slughorn, watching Harry closely, \"there have been rumors for years... I remember when - well - after that terrible night - Lily - James - and you survived - and the word was that you must have powers beyond the ordinary - \""
+   ]
+  },
+  {
+   "begin": "1738.640",
+   "children": [],
+   "end": "1749.360",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "Zabini gave a tiny little cough that was clearly supposed to indicate amused skepticism. An angry voice burst out from behind Slughorn."
+   ]
+  },
+  {
+   "begin": "1749.360",
+   "children": [],
+   "end": "1754.200",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "\"Yeah, Zabini, because you're so talented... at posing \""
+   ]
+  },
+  {
+   "begin": "1754.200",
+   "children": [],
+   "end": "1774.160",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "\"Oh dear!\" chuckled Slughorn comfortably, looking around at Ginny, who was glaring at Zabini around Slughorn's great belly. \"You want to be careful, Blaise! I saw this young lady perform the most marvelous Bat- Bogey Hex as I was passing her carriage! I wouldn't cross her!\""
+   ]
+  },
+  {
+   "begin": "1774.160",
+   "children": [],
+   "end": "1777.920",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "Zabini merely looked contemptuous."
+   ]
+  },
+  {
+   "begin": "1777.920",
+   "children": [],
+   "end": "1799.800",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "\"Anyway,\" said Slughorn, turning back to Harry. \"Such rumors this summer. Of course, one doesn't know what to believe, the Prophet has been known to print inaccuracies, make mistakes - but there seems little doubt, given the number of witnesses, that there was quite a disturbance at the Ministry and that you were there in the thick of it all!\""
+   ]
+  },
+  {
+   "begin": "1799.800",
+   "children": [],
+   "end": "1809.320",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "Harry, who could not see any way out of this without flatly lying, nodded but still said nothing. Slughorn beamed at him."
+   ]
+  },
+  {
+   "begin": "1809.320",
+   "children": [],
+   "end": "1826.800",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "\"So modest, so modest, no wonder Dumbledore is so fond - you were there, then? But the rest of the stories - so sensational, of course, one doesn't know quite what to believe - this fabled prophecy, for instance.\""
+   ]
+  },
+  {
+   "begin": "1826.800",
+   "children": [],
+   "end": "1832.720",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "\"We never heard a prophecy,\" said Neville, turning geranium pink as he said it."
+   ]
+  },
+  {
+   "begin": "1832.720",
+   "children": [],
+   "end": "1842.080",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "\"That's right,\" said Ginny staunchly. \"Neville and I were both there too, and all this 'Chosen One' rubbish is just the Prophet making things up as usual.\""
+   ]
+  },
+  {
+   "begin": "1842.080",
+   "children": [],
+   "end": "1854.720",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "\"You were both there too, were you?\" said Slughorn with great interest, looking from Ginny to Neville, but both of them sat clamlike before his encouraging smile."
+   ]
+  },
+  {
+   "begin": "1854.720",
+   "children": [],
+   "end": "1860.680",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "\"Yes... well... it is true that the Prophet often exaggerates, of course...\""
+   ]
+  },
+  {
+   "begin": "1860.680",
+   "children": [],
+   "end": "1871.280",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "Slughorn said, sounding a little disappointed. \"I remember dear Gwenog telling me (Gwenog Jones, I mean, of course, Captain of the Holyhead Harpies) - \""
+   ]
+  },
+  {
+   "begin": "1871.280",
+   "children": [],
+   "end": "1883.200",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "He meandered off into a long-winded reminiscence, but Harry had the distinct impression that Slughorn had not finished with him, and that he had not been convinced by Neville and Ginny."
+   ]
+  },
+  {
+   "begin": "1883.200",
+   "children": [],
+   "end": "1911.280",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "The afternoon wore on with more anecdotes about illustrious wizards Slughorn had taught, all of whom had been delighted to join what he called the \"Slug Club\" at Hogwarts. Harry could not wait to leave, but couldn't see how to do so politely. Finally the train emerged from yet another long misty stretch into a red sunset, and Slughorn looked around, blinking in the twilight."
+   ]
+  },
+  {
+   "begin": "1911.280",
+   "children": [],
+   "end": "1932.080",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "\"Good gracious, it's getting dark already! I didn't notice that they'd lit the lamps! You'd better go and change into your robes, all of you. Mc- Laggen, you must drop by and borrow that book on nogtails. Harry, Blaise - any time you're passing. Same goes for you, miss,\" he twinkled at Ginny. \"Well, off you go, off you go!\""
+   ]
+  },
+  {
+   "begin": "1932.080",
+   "children": [],
+   "end": "1944.160",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "As he pushed past Harry into the darkening corridor, Zabini shot him a filthy look that Harry returned with interest. He, Ginny, and Neville followed Zabini back along the train."
+   ]
+  },
+  {
+   "begin": "1944.160",
+   "children": [],
+   "end": "1949.240",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "\"I'm glad that's over,\" muttered Neville. \"Strange man, isn't he?\""
+   ]
+  },
+  {
+   "begin": "1949.240",
+   "children": [],
+   "end": "1955.800",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "\"Yeah, he is a bit,\" said Harry, his eyes on Zabini. \"How come you ended up in there, Ginny?\""
+   ]
+  },
+  {
+   "begin": "1955.800",
+   "children": [],
+   "end": "1976.800",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "\"He saw me hex Zacharias Smith,\" said Ginny. \"You remember that idiot from Hufflepuff who was in the D.A.? He kept on and on asking about what happened at the Ministry and in the end he annoyed me so much I hexed him - when Slughorn came in I thought I was going to get detention, but he just thought it was a really good hex and invited me to lunch! Mad, eh?\""
+   ]
+  },
+  {
+   "begin": "1976.800",
+   "children": [],
+   "end": "1991.480",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "\"Better reason for inviting someone than because their mother's famous,\" said Harry, scowling at the back of Zabini's head, \"or because their uncle - \" But he broke off. An idea had just occurred to him, a reckless but poten-"
+   ]
+  },
+  {
+   "begin": "1991.480",
+   "children": [],
+   "end": "2012.600",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "tially wonderful idea... In a minute's time, Zabini was going to reenter the Slytherin sixth-year compartment and Malfoy would be sitting there, thinking himself unheard by anybody except fellow Slytherins. If Harry could only enter, unseen, behind him, what might he not see or hear?"
+   ]
+  },
+  {
+   "begin": "2012.600",
+   "children": [],
+   "end": "2028.040",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "True, there was little of the journey left - Hogsmeade Station had to be less than half an hour away, judging by the wildness of the scenery flashing by the windows - but nobody else seemed prepared to take Harry's suspicions seriously, so it was down to him to prove them."
+   ]
+  },
+  {
+   "begin": "2028.040",
+   "children": [],
+   "end": "2035.800",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "\"I'll see you two later,\" said Harry under his breath, pulling out his Invisibility Cloak and flinging it over himself."
+   ]
+  },
+  {
+   "begin": "2035.800",
+   "children": [],
+   "end": "2038.160",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "\"But what're you - ?\" asked Neville."
+   ]
+  },
+  {
+   "begin": "2038.160",
+   "children": [],
+   "end": "2046.360",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "\"Later!\" whispered Harry, darting after Zabini as quietly as possible, though the rattling of the train made such caution almost pointless."
+   ]
+  },
+  {
+   "begin": "2046.360",
+   "children": [],
+   "end": "2070.400",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "The corridors were almost completely empty now. Nearly everyone had returned to their carriages to change into their school robes and pack up their possessions. Though he was as close as he could get to Zabini without touching him, Harry was not quick enough to slip into the compartment when Zabini opened the door. Zabini was already sliding it shut when Harry hastily stuck out his foot to prevent it closing."
+   ]
+  },
+  {
+   "begin": "2070.400",
+   "children": [],
+   "end": "2077.320",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "\"What's wrong with this thing?\" said Zabini angrily as he smashed the sliding door repeatedly into Harry's foot."
+   ]
+  },
+  {
+   "begin": "2077.320",
+   "children": [],
+   "end": "2125.440",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "Harry seized the door and pushed it open, hard; Zabini, still clinging on to the handle, toppled over sideways into Gregory Goyle's lap, and in the ensuing ruckus, Harry darted into the compartment, leapt onto Zabini's temporarily empty seat, and hoisted himself up into the luggage rack. It was fortunate that Goyle and Zabini were snarling at each other, drawing all eyes onto them, for Harry was quite sure his feet and ankles had been revealed as the Cloak had flapped around them; indeed, for one horrible moment he thought he saw Malfoy's eyes follow his trainer as it whipped upward out of sight. But then Goyle slammed the door shut and flung Zabini off him; Zabini collapsed into his own seat looking ruffled, Vincent Crabbe returned"
+   ]
+  },
+  {
+   "begin": "2125.440",
+   "children": [],
+   "end": "2160.280",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "to his comic, and Malfoy, sniggering, lay back down across two seats with his head in Pansy Parkinson's lap. Harry lay curled uncomfortably under the Cloak to ensure that every inch of him remained hidden, and watched Pansy stroke the sleek blond hair off Malfoy's forehead, smirking as she did so, as though anyone would have loved to have been in her place. The lanterns swinging from the carriage ceiling cast a bright light over the scene: Harry could read every word of Crabbe's comic directly below him."
+   ]
+  },
+  {
+   "begin": "2160.280",
+   "children": [],
+   "end": "2166.480",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "\"So, Zabini,\" said Malfoy, \"what did Slughorn want?\""
+   ]
+  },
+  {
+   "begin": "2166.480",
+   "children": [],
+   "end": "2175.040",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "\"Just trying to make up to well-connected people,\" said Zabini, who was still glowering at Goyle. \"Not that he managed to find many.\""
+   ]
+  },
+  {
+   "begin": "2175.040",
+   "children": [],
+   "end": "2186.080",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "This information did not seem to please Malfoy. \"Who else had he invited?\" he demanded. \"McLaggen from Gryffindor,\" said Zabini."
+   ]
+  },
+  {
+   "begin": "2186.080",
+   "children": [],
+   "end": "2190.560",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "\"Oh yeah, his uncle's big in the Ministry,\" said Malfoy."
+   ]
+  },
+  {
+   "begin": "2190.560",
+   "children": [],
+   "end": "2194.520",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "\" - someone else called Belby, from Ravenclaw - \""
+   ]
+  },
+  {
+   "begin": "2194.520",
+   "children": [],
+   "end": "2197.760",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "\"Not him, he's a prat!\" said Pansy."
+   ]
+  },
+  {
+   "begin": "2197.760",
+   "children": [],
+   "end": "2207.520",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "\" - and Longbottom, Potter, and that Weasley girl,\" finished Zabini. Malfoy sat up very suddenly, knocking Pansy's hand aside."
+   ]
+  },
+  {
+   "begin": "2207.520",
+   "children": [],
+   "end": "2210.560",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "\"He invited Longbottom?\""
+   ]
+  },
+  {
+   "begin": "2210.560",
+   "children": [],
+   "end": "2220.400",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "\"Well, I assume so, as Longbottom was there,\" said Zabini indifferently. \"What's Longbottom got to interest Slughorn?\""
+   ]
+  },
+  {
+   "begin": "2220.400",
+   "children": [],
+   "end": "2222.280",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Zabini shrugged."
+   ]
+  },
+  {
+   "begin": "2222.280",
+   "children": [],
+   "end": "2234.000",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "\"Potter, precious Potter, obviously he wanted a look at 'the Chosen One,'\" sneered Malfoy, \"but that Weasley girl! What's so special about her?\""
+   ]
+  },
+  {
+   "begin": "2234.000",
+   "children": [],
+   "end": "2247.680",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "\"A lot of boys like her,\" said Pansy, watching Malfoy out of the corner of her eyes for his reaction. \"Even you think she's good-looking, don't you, Blaise, and we all know how hard you are to please!\""
+   ]
+  },
+  {
+   "begin": "2247.680",
+   "children": [],
+   "end": "2261.480",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "\"I wouldn't touch a filthy little blood traitor like her whatever she looked like,\" said Zabini coldly, and Pansy looked pleased. Malfoy sank back across her lap and allowed her to resume the stroking of his hair."
+   ]
+  },
+  {
+   "begin": "2261.480",
+   "children": [],
+   "end": "2269.280",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "\"Well, I pity Slughorn's taste. Maybe he's going a bit senile. Shame, my"
+   ]
+  },
+  {
+   "begin": "2269.280",
+   "children": [],
+   "end": "2278.440",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "father always said he was a good wizard in his day. My father used to be a bit of a favorite of his. Slughorn probably hasn't heard I'm on the train, or.\""
+   ]
+  },
+  {
+   "begin": "2278.440",
+   "children": [],
+   "end": "2296.400",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "\"I wouldn't bank on an invitation,\" said Zabini. \"He asked me about Nott's father when I first arrived. They used to be old friends, apparently, but when he heard he'd been caught at the Ministry he didn't look happy, and Nott didn't get an invitation, did he? I don't think Slughorn's interested in Death Eaters.\""
+   ]
+  },
+  {
+   "begin": "2296.400",
+   "children": [],
+   "end": "2302.520",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "Malfoy looked angry, but forced out a singularly humorless laugh."
+   ]
+  },
+  {
+   "begin": "2302.520",
+   "children": [],
+   "end": "2322.040",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "\"Well, who cares what he's interested in? What is he, when you come down to it? Just some stupid teacher.\" Malfoy yawned ostentatiously. \"I mean, I might not even be at Hogwarts next year, what's it matter to me if some fat old has-been likes me or not?\""
+   ]
+  },
+  {
+   "begin": "2322.040",
+   "children": [],
+   "end": "2330.040",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "\"What do you mean, you might not be at Hogwarts next year?\" said Pansy indignantly, ceasing grooming Malfoy at once."
+   ]
+  },
+  {
+   "begin": "2330.040",
+   "children": [],
+   "end": "2339.280",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "\"Well, you never know,\" said Malfoy with the ghost of a smirk. \"I might have - er - moved on to bigger and better things.\""
+   ]
+  },
+  {
+   "begin": "2339.280",
+   "children": [],
+   "end": "2368.280",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "Crouched in the luggage rack under his Cloak, Harry's heart began to race. What would Ron and Hermione say about this? Crabbe and Goyle were gawping at Malfoy; apparently they had had no inkling of any plans to move on to bigger and better things. Even Zabini had allowed a look of curiosity to mar his haughty features. Pansy resumed the slow stroking of Malfoy's hair, looking dumbfounded."
+   ]
+  },
+  {
+   "begin": "2368.280",
+   "children": [],
+   "end": "2373.160",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "\"Do you mean - Him?\" Malfoy shrugged."
+   ]
+  },
+  {
+   "begin": "2373.160",
+   "children": [],
+   "end": "2397.200",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "\"Mother wants me to complete my education, but personally, I don't see it as that important these days. I mean, think about it... When the Dark Lord takes over, is he going to care how many O.W.L.s or N.E.W.T.s anyone's got? Of course he isn't... It'll be all about the kind of service he received, the level of devotion he was shown.\""
+   ]
+  },
+  {
+   "begin": "2397.200",
+   "children": [],
+   "end": "2405.800",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "\"And you think you'll be able to do something for him?\" asked Zabini scathingly. \"Sixteen years old and not even fully qualified yet?\""
+   ]
+  },
+  {
+   "begin": "2405.800",
+   "children": [],
+   "end": "2413.040",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "\"I've just said, haven't I? Maybe he doesn't care if I'm qualified. Maybe"
+   ]
+  },
+  {
+   "begin": "2413.040",
+   "children": [],
+   "end": "2420.800",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "the job he wants me to do isn't something that you need to be qualified for,\" said Malfoy quietly."
+   ]
+  },
+  {
+   "begin": "2420.800",
+   "children": [],
+   "end": "2433.560",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "Crabbe and Goyle were both sitting with their mouths open like gargoyles. Pansy was gazing down at Malfoy as though she had never seen anything so awe-inspiring."
+   ]
+  },
+  {
+   "begin": "2433.560",
+   "children": [],
+   "end": "2444.520",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "\"I can see Hogwarts,\" said Malfoy, clearly relishing the effect he had created as he pointed out of the blackened window. \"We'd better get our robes on.\""
+   ]
+  },
+  {
+   "begin": "2444.520",
+   "children": [],
+   "end": "2462.720",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "Harry was so busy staring at Malfoy, he did not notice Goyle reaching up for his trunk; as he swung it down, it hit Harry hard on the side of the head. He let out an involuntary gasp of pain, and Malfoy looked up at the luggage rack, frowning."
+   ]
+  },
+  {
+   "begin": "2462.720",
+   "children": [],
+   "end": "2501.760",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "Harry was not afraid of Malfoy, but he still did not much like the idea of being discovered hiding under his Invisibility Cloak by a group of unfriendly Slytherins. Eyes still watering and head still throbbing, he drew his wand, careful not to disarrange the Cloak, and waited, breath held. To his relief, Malfoy seemed to decide that he had imagined the noise; he pulled on his robes like the others, locked his trunk, and as the train slowed to a jerky crawl, fastened a thick new traveling cloak round his neck."
+   ]
+  },
+  {
+   "begin": "2501.760",
+   "children": [],
+   "end": "2527.800",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "Harry could see the corridors filling up again and hoped that Hermione and Ron would take his things out onto the platform for him; he was stuck where he was until the compartment had quite emptied. At last, with a final lurch, the train came to a complete halt. Goyle threw the door open and muscled his way out into a crowd of second years, punching them aside; Crabbe and Zabini followed."
+   ]
+  },
+  {
+   "begin": "2527.800",
+   "children": [],
+   "end": "2554.560",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "\"You go on,\" Malfoy told Pansy, who was waiting for him with her hand held out as though hoping he would hold it. \"I just want to check something.\" Pansy left. Now Harry and Malfoy were alone in the compartment. People were filing past, descending onto the dark platform. Malfoy moved over to the compartment door and let down the blinds, so that people in the"
+   ]
+  },
+  {
+   "begin": "2554.560",
+   "children": [],
+   "end": "2561.160",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "corridor beyond could not peer in. He then bent down over his trunk and opened it again."
+   ]
+  },
+  {
+   "begin": "2561.160",
+   "children": [],
+   "end": "2576.120",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "Harry peered down over the edge of the luggage rack, his heart pumping a little faster. What had Malfoy wanted to hide from Pansy? Was he about to see the mysterious broken object it was so important to mend?"
+   ]
+  },
+  {
+   "begin": "2576.120",
+   "children": [],
+   "end": "2579.560",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "\"Petrificus Totalus!\""
+   ]
+  },
+  {
+   "begin": "2579.560",
+   "children": [],
+   "end": "2611.640",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "Without warning, Malfoy pointed his wand at Harry, who was instantly paralyzed. As though in slow motion, he toppled out of the luggage rack and fell, with an agonizing, floor-shaking crash, at Malfoy's feet, the Invisibility Cloak trapped beneath him, his whole body revealed with his legs still curled absurdly into the cramped kneeling position. He couldn't move a muscle; he could only gaze up at Malfoy, who smiled broadly."
+   ]
+  },
+  {
+   "begin": "2611.640",
+   "children": [],
+   "end": "2624.360",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "\"I thought so,\" he said jubilantly. \"I heard Goyle's trunk hit you. And I thought I saw something white flash through the air after Zabini came back...\""
+   ]
+  },
+  {
+   "begin": "2624.360",
+   "children": [],
+   "end": "2628.320",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "His eyes lingered for a moment upon Harry's trainers."
+   ]
+  },
+  {
+   "begin": "2628.320",
+   "children": [],
+   "end": "2642.760",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "\"You didn't hear anything I care about, Potter. But while I've got you here...\""
+   ]
+  },
+  {
+   "begin": "2642.760",
+   "children": [],
+   "end": "2651.440",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "And he stamped, hard, on Harry's face. Harry felt his nose break; blood spurted everywhere."
+   ]
+  },
+  {
+   "begin": "2651.440",
+   "children": [],
+   "end": "2655.760",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "\"That's from my father. Now, let's see \""
+   ]
+  },
+  {
+   "begin": "2655.760",
+   "children": [],
+   "end": "2662.320",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "Malfoy dragged the Cloak out from under Harry's immobilized body and threw it over him."
+   ]
+  },
+  {
+   "begin": "2662.320",
+   "children": [],
+   "end": "2672.800",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "\"I don't reckon they'll find you till the train's back in London,\" he said quietly. \"See you around, Potter or not.\""
+   ]
+  },
+  {
+   "begin": "2672.800",
+   "children": [],
+   "end": "2682.160",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "And taking care to tread on Harry's fingers, Malfoy left the compartment."
+   ]
+  }
+ ]
+}
