@@ -13,18 +13,28 @@
   {
    "begin": "7.920",
    "children": [],
-   "end": "17.320",
+   "end": "15.600",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Harry felt as though he too were hurtling through space; it had not happened... It could not have happened..."
+    "Harry felt as though he too were hurtling through space; it had not happened..."
+   ]
+  },
+  {
+   "begin": "15.600",
+   "children": [],
+   "end": "17.320",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "It could not have happened..."
    ]
   },
   {
    "begin": "17.320",
    "children": [],
    "end": "21.400",
-   "id": "f000003",
+   "id": "f000004",
    "language": "eng",
    "lines": [
     "\"Out of here, quickly,\" said Snape."
@@ -33,18 +43,48 @@
   {
    "begin": "21.400",
    "children": [],
-   "end": "52.960",
-   "id": "f000004",
+   "end": "33.400",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "He seized Malfoy by the scruff of the neck and forced him through the door ahead of the rest; Greyback and the squat brother and sister followed, the latter both panting excitedly. As they vanished through the door, Harry realized he could move again. What was now holding him paralyzed against the wall was not magic, but horror and shock. He threw the Invisibility Cloak aside as the brutal-faced Death Eater, last to leave the tower top, was disappearing through the door."
+    "He seized Malfoy by the scruff of the neck and forced him through the door ahead of the rest; Greyback and the squat brother and sister followed, the latter both panting excitedly."
+   ]
+  },
+  {
+   "begin": "33.400",
+   "children": [],
+   "end": "37.800",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "As they vanished through the door, Harry realized he could move again."
+   ]
+  },
+  {
+   "begin": "37.800",
+   "children": [],
+   "end": "44.200",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "What was now holding him paralyzed against the wall was not magic, but horror and shock."
+   ]
+  },
+  {
+   "begin": "44.200",
+   "children": [],
+   "end": "52.960",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "He threw the Invisibility Cloak aside as the brutal-faced Death Eater, last to leave the tower top, was disappearing through the door."
    ]
   },
   {
    "begin": "52.960",
    "children": [],
    "end": "56.360",
-   "id": "f000005",
+   "id": "f000009",
    "language": "eng",
    "lines": [
     "\"Petrificus Totalus!\""
@@ -53,48 +93,98 @@
   {
    "begin": "56.360",
    "children": [],
-   "end": "71.400",
-   "id": "f000006",
+   "end": "72.800",
+   "id": "f000010",
    "language": "eng",
    "lines": [
     "The Death Eater buckled as though hit in the back with something solid and fell to the ground, rigid as a waxwork, but he had barely hit the floor when Harry was clambering over him and running down the darkened staircase."
    ]
   },
   {
-   "begin": "71.400",
+   "begin": "72.800",
    "children": [],
-   "end": "83.680",
-   "id": "f000007",
+   "end": "80.120",
+   "id": "f000011",
    "language": "eng",
    "lines": [
-    "Terror tore at Harry's heart He had to get to Dumbledore and he had to catch Snape... Somehow the two things were linked... He could reverse what"
+    "Terror tore at Harry's heart He had to get to Dumbledore and he had to catch Snape..."
    ]
   },
   {
-   "begin": "83.680",
+   "begin": "80.120",
    "children": [],
-   "end": "89.600",
-   "id": "f000008",
+   "end": "82.320",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "had happened if he had them both together... Dumbledore could not have died..."
+    "Somehow the two things were linked..."
+   ]
+  },
+  {
+   "begin": "82.320",
+   "children": [],
+   "end": "83.480",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "He could reverse what"
+   ]
+  },
+  {
+   "begin": "83.480",
+   "children": [],
+   "end": "86.480",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "had happened if he had them both together..."
+   ]
+  },
+  {
+   "begin": "86.480",
+   "children": [],
+   "end": "89.600",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Dumbledore could not have died..."
    ]
   },
   {
    "begin": "89.600",
    "children": [],
-   "end": "149.440",
-   "id": "f000009",
+   "end": "125.080",
+   "id": "f000016",
    "language": "eng",
    "lines": [
-    "He leapt the last ten steps of the spiral staircase and stopped where he landed, his wand raised: The dimly lit corridor was full of dust; half the ceiling seemed to have fallen in; and a battle was raging before him, but even as he attempted to make out who was fighting whom, he heard the hated voice shout, \"It's over, time to go!\" and saw Snape disappearing around the corner at the far end of the corridor; he and Malfoy seemed to have forced their way through the fight unscathed. As Harry plunged after them, one of the fighters detached themselves from the fray and flew at him: It was the werewolf, Fenrir. He was on top of Harry before Harry could raise his wand: Harry fell backward, with filthy matted hair in his face, the stench of sweat and blood filling his nose and mouth, hot greedy breath at his throat -"
+    "He leapt the last ten steps of the spiral staircase and stopped where he landed, his wand raised: The dimly lit corridor was full of dust; half the ceiling seemed to have fallen in; and a battle was raging before him, but even as he attempted to make out who was fighting whom, he heard the hated voice shout, \"It's over, time to go!\" and saw Snape disappearing around the corner at the far end of the corridor; he and Malfoy seemed to have forced their way through the fight unscathed."
+   ]
+  },
+  {
+   "begin": "125.080",
+   "children": [],
+   "end": "134.600",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "As Harry plunged after them, one of the fighters detached themselves from the fray and flew at him: It was the werewolf, Fenrir."
+   ]
+  },
+  {
+   "begin": "134.600",
+   "children": [],
+   "end": "149.440",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "He was on top of Harry before Harry could raise his wand: Harry fell backward, with filthy matted hair in his face, the stench of sweat and blood filling his nose and mouth, hot greedy breath at his throat -"
    ]
   },
   {
    "begin": "149.440",
    "children": [],
    "end": "152.960",
-   "id": "f000010",
+   "id": "f000019",
    "language": "eng",
    "lines": [
     "\"Petrificus Totalus!\""
@@ -103,18 +193,38 @@
   {
    "begin": "152.960",
    "children": [],
-   "end": "203.680",
-   "id": "f000011",
+   "end": "168.480",
+   "id": "f000020",
    "language": "eng",
    "lines": [
-    "Harry felt Fenrir collapse against him; with a stupendous effort he pushed the werewolf off and onto the floor as a jet of green light came flying toward him; he ducked and ran, headfirst, into the fight. His feet met something squashy and slippery on the floor and he stumbled: There were two bodies lying there, lying facedown in a pool of blood, but there was no time to investigate. Harry now saw red hair flying like flames in front of him: Ginny was locked in combat with the lumpy Death Eater, Amycus, who was throwing hex after hex at her while she dodged them: Amycus was giggling, enjoying the sport: \"Crucio - Crucio - you can't dance forever, pretty\u2026\""
+    "Harry felt Fenrir collapse against him; with a stupendous effort he pushed the werewolf off and onto the floor as a jet of green light came flying toward him; he ducked and ran, headfirst, into the fight."
+   ]
+  },
+  {
+   "begin": "168.480",
+   "children": [],
+   "end": "181.960",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "His feet met something squashy and slippery on the floor and he stumbled: There were two bodies lying there, lying facedown in a pool of blood, but there was no time to investigate."
+   ]
+  },
+  {
+   "begin": "181.960",
+   "children": [],
+   "end": "203.680",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Harry now saw red hair flying like flames in front of him: Ginny was locked in combat with the lumpy Death Eater, Amycus, who was throwing hex after hex at her while she dodged them: Amycus was giggling, enjoying the sport: \"Crucio - Crucio - you can't dance forever, pretty\u2026\""
    ]
   },
   {
    "begin": "203.680",
    "children": [],
    "end": "206.880",
-   "id": "f000012",
+   "id": "f000023",
    "language": "eng",
    "lines": [
     "\"Impedimenta!\" yelled Harry."
@@ -123,18 +233,28 @@
   {
    "begin": "206.880",
    "children": [],
-   "end": "237.600",
-   "id": "f000013",
+   "end": "225.840",
+   "id": "f000024",
    "language": "eng",
    "lines": [
-    "His jinx hit Amycus in the chest: He gave a piglike squeal of pain, was lifted off his feet and slammed into the opposite wall, slid down it, and fell out of sight behind Ron, Professor McGonagall, and Lupin, each of whom was battling a separate Death Eater. Beyond them, Harry saw Tonks fighting an enormous blond wizard who was sending curses flying in all directions, so that they ricocheted off the walls around them, cracking stone, shat-"
+    "His jinx hit Amycus in the chest: He gave a piglike squeal of pain, was lifted off his feet and slammed into the opposite wall, slid down it, and fell out of sight behind Ron, Professor McGonagall, and Lupin, each of whom was battling a separate Death Eater."
+   ]
+  },
+  {
+   "begin": "225.840",
+   "children": [],
+   "end": "237.600",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Beyond them, Harry saw Tonks fighting an enormous blond wizard who was sending curses flying in all directions, so that they ricocheted off the walls around them, cracking stone, shat-"
    ]
   },
   {
    "begin": "237.600",
    "children": [],
    "end": "239.040",
-   "id": "f000014",
+   "id": "f000026",
    "language": "eng",
    "lines": [
     "tering the nearest window -"
@@ -143,28 +263,78 @@
   {
    "begin": "239.040",
    "children": [],
-   "end": "259.120",
-   "id": "f000015",
+   "end": "242.000",
+   "id": "f000027",
    "language": "eng",
    "lines": [
-    "\"Harry, where did you come from?\" Ginny cried, but there was no time to answer her. He put his head down and sprinted forward, narrowly avoiding a blast that erupted over his head, showering them all in bits of wall. Snape must not escape, he must catch up with Snape -"
+    "\"Harry, where did you come from?\""
+   ]
+  },
+  {
+   "begin": "242.000",
+   "children": [],
+   "end": "245.280",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Ginny cried, but there was no time to answer her."
+   ]
+  },
+  {
+   "begin": "245.280",
+   "children": [],
+   "end": "254.440",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "He put his head down and sprinted forward, narrowly avoiding a blast that erupted over his head, showering them all in bits of wall."
+   ]
+  },
+  {
+   "begin": "254.440",
+   "children": [],
+   "end": "259.120",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Snape must not escape, he must catch up with Snape -"
    ]
   },
   {
    "begin": "259.120",
    "children": [],
-   "end": "285.720",
-   "id": "f000016",
+   "end": "272.800",
+   "id": "f000031",
    "language": "eng",
    "lines": [
-    "\"Take that!\" shouted Professor McGonagall, and Harry glimpsed the female Death Eater, Alecto, sprinting away down the corridor with her arms over her head, her brother right behind her. He launched himself after them but his foot caught on something, and next moment he was lying across someone's legs. Looking around, he saw Neville's pale, round face flat against the floor."
+    "\"Take that!\" shouted Professor McGonagall, and Harry glimpsed the female Death Eater, Alecto, sprinting away down the corridor with her arms over her head, her brother right behind her."
+   ]
+  },
+  {
+   "begin": "272.800",
+   "children": [],
+   "end": "280.440",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "He launched himself after them but his foot caught on something, and next moment he was lying across someone's legs."
+   ]
+  },
+  {
+   "begin": "280.440",
+   "children": [],
+   "end": "285.720",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Looking around, he saw Neville's pale, round face flat against the floor."
    ]
   },
   {
    "begin": "285.720",
    "children": [],
    "end": "287.480",
-   "id": "f000017",
+   "id": "f000034",
    "language": "eng",
    "lines": [
     "\"Neville, are you - ?\""
@@ -173,108 +343,228 @@
   {
    "begin": "287.480",
    "children": [],
-   "end": "295.760",
-   "id": "f000018",
+   "end": "292.960",
+   "id": "f000035",
    "language": "eng",
    "lines": [
-    "\"M'all right,\" muttered Neville, who was clutching his stomach, \"Harry... Snape 'n' Malfoy... ran past...\""
+    "\"M'all right,\" muttered Neville, who was clutching his stomach, \"Harry..."
+   ]
+  },
+  {
+   "begin": "292.960",
+   "children": [],
+   "end": "295.760",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Snape 'n' Malfoy... ran past...\""
    ]
   },
   {
    "begin": "295.760",
    "children": [],
-   "end": "328.800",
-   "id": "f000019",
+   "end": "304.240",
+   "id": "f000037",
    "language": "eng",
    "lines": [
-    "\"I know, I'm on it!\" said Harry, aiming a hex from the floor at the enormous blond Death Eater who was causing most of the chaos. The man gave a howl of pain as the spell hit him in the face: He wheeled around, staggered, and then pounded away after the brother and sister. Harry scrambled up from the floor and began to sprint along the corridor, ignoring the bangs issuing from behind him, the yells of the others to come back, and the mute call of the figures on the ground whose fate he did not yet know..."
+    "\"I know, I'm on it!\" said Harry, aiming a hex from the floor at the enormous blond Death Eater who was causing most of the chaos."
+   ]
+  },
+  {
+   "begin": "304.240",
+   "children": [],
+   "end": "314.200",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "The man gave a howl of pain as the spell hit him in the face: He wheeled around, staggered, and then pounded away after the brother and sister."
+   ]
+  },
+  {
+   "begin": "314.200",
+   "children": [],
+   "end": "328.800",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Harry scrambled up from the floor and began to sprint along the corridor, ignoring the bangs issuing from behind him, the yells of the others to come back, and the mute call of the figures on the ground whose fate he did not yet know..."
    ]
   },
   {
    "begin": "328.800",
    "children": [],
-   "end": "365.480",
-   "id": "f000020",
+   "end": "336.360",
+   "id": "f000040",
    "language": "eng",
    "lines": [
-    "He skidded around the corner, his trainers slippery with blood; Snape had an immense head start. Was it possible that he had already entered the cabinet in the Room of Requirement, or had the Order made steps to secure it, to prevent the Death Eaters retreating that way? He could hear nothing but his own pounding feet, his own hammering heart as he sprinted along the next empty corridor, but then spotted a bloody footprint that showed at least one of the fleeing Death Eaters was heading toward the front doors perhaps the Room of Requirement was indeed blocked -"
+    "He skidded around the corner, his trainers slippery with blood; Snape had an immense head start."
+   ]
+  },
+  {
+   "begin": "336.360",
+   "children": [],
+   "end": "346.240",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Was it possible that he had already entered the cabinet in the Room of Requirement, or had the Order made steps to secure it, to prevent the Death Eaters retreating that way?"
+   ]
+  },
+  {
+   "begin": "346.240",
+   "children": [],
+   "end": "365.480",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "He could hear nothing but his own pounding feet, his own hammering heart as he sprinted along the next empty corridor, but then spotted a bloody footprint that showed at least one of the fleeing Death Eaters was heading toward the front doors perhaps the Room of Requirement was indeed blocked -"
    ]
   },
   {
    "begin": "365.480",
    "children": [],
-   "end": "375.040",
-   "id": "f000021",
+   "end": "372.440",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "He skidded around another corner and a curse flew past him; he dived behind a suit of armor that exploded. He saw the brother and sister running"
+    "He skidded around another corner and a curse flew past him; he dived behind a suit of armor that exploded."
+   ]
+  },
+  {
+   "begin": "372.440",
+   "children": [],
+   "end": "375.040",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "He saw the brother and sister running"
    ]
   },
   {
    "begin": "375.040",
    "children": [],
-   "end": "394.840",
-   "id": "f000022",
+   "end": "386.160",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "down the marble staircase ahead and aimed jinxes at them, but merely hit several bewigged witches in a portrait on the landing, who ran screeching into neighboring paintings. As he leapt the wreckage of armor, Harry heard more shouts and screams; other people within the castle seemed to have awoken..."
+    "down the marble staircase ahead and aimed jinxes at them, but merely hit several bewigged witches in a portrait on the landing, who ran screeching into neighboring paintings."
+   ]
+  },
+  {
+   "begin": "386.160",
+   "children": [],
+   "end": "394.840",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "As he leapt the wreckage of armor, Harry heard more shouts and screams; other people within the castle seemed to have awoken..."
    ]
   },
   {
    "begin": "394.840",
    "children": [],
-   "end": "416.800",
-   "id": "f000023",
+   "end": "404.920",
+   "id": "f000047",
    "language": "eng",
    "lines": [
-    "He pelted toward a shortcut, hoping to overtake the brother and sister and close in on Snape and Malfoy, who must surely have reached the grounds by now. Remembering to leap the vanishing step halfway down the concealed staircase, he burst through a tapestry at the bottom and out into a corridor where a number of bewildered and pajama-clad Hufflepuffs stood."
+    "He pelted toward a shortcut, hoping to overtake the brother and sister and close in on Snape and Malfoy, who must surely have reached the grounds by now."
+   ]
+  },
+  {
+   "begin": "404.920",
+   "children": [],
+   "end": "416.800",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Remembering to leap the vanishing step halfway down the concealed staircase, he burst through a tapestry at the bottom and out into a corridor where a number of bewildered and pajama-clad Hufflepuffs stood."
    ]
   },
   {
    "begin": "416.800",
    "children": [],
-   "end": "422.440",
-   "id": "f000024",
+   "end": "418.080",
+   "id": "f000049",
    "language": "eng",
    "lines": [
-    "\"Harry! We heard a noise, and someone said something about the Dark Mark - \" began Ernie Macmillan."
+    "\"Harry!"
+   ]
+  },
+  {
+   "begin": "418.080",
+   "children": [],
+   "end": "422.440",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "We heard a noise, and someone said something about the Dark Mark - \" began Ernie Macmillan."
    ]
   },
   {
    "begin": "422.440",
    "children": [],
-   "end": "456.360",
-   "id": "f000025",
+   "end": "432.120",
+   "id": "f000051",
    "language": "eng",
    "lines": [
-    "\"Out of the way!\" yelled Harry, knocking two boys aside as he sprinted toward the landing and down the remainder of the marble staircase. The oak front doors had been blasted open, there were smears of blood on the flagstones, and several terrified students stood huddled against the walls, one or two still cowering with their arms over their faces. The giant Gryffindor hourglass had been hit by a curse, and the rubies within were still falling, with a loud rattle, onto the flagstones below."
+    "\"Out of the way!\" yelled Harry, knocking two boys aside as he sprinted toward the landing and down the remainder of the marble staircase."
+   ]
+  },
+  {
+   "begin": "432.120",
+   "children": [],
+   "end": "445.960",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "The oak front doors had been blasted open, there were smears of blood on the flagstones, and several terrified students stood huddled against the walls, one or two still cowering with their arms over their faces."
+   ]
+  },
+  {
+   "begin": "445.960",
+   "children": [],
+   "end": "456.360",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "The giant Gryffindor hourglass had been hit by a curse, and the rubies within were still falling, with a loud rattle, onto the flagstones below."
    ]
   },
   {
    "begin": "456.360",
    "children": [],
-   "end": "475.240",
-   "id": "f000026",
+   "end": "475.200",
+   "id": "f000054",
    "language": "eng",
    "lines": [
     "Harry flew across the entrance hall and out into the dark grounds: He could just make out three figures racing across the lawn, heading for the gates beyond which they could Disapparate - by the looks of them, the huge blond Death Eater and, some way ahead of him, Snape and Malfoy..."
    ]
   },
   {
-   "begin": "475.240",
+   "begin": "475.200",
    "children": [],
-   "end": "491.480",
-   "id": "f000027",
+   "end": "484.120",
+   "id": "f000055",
    "language": "eng",
    "lines": [
-    "The cold night air ripped at Harry's lungs as he tore after them; he saw a flash of light in the distance that momentarily silhouetted his quarry. He did not know what it was but continued to run, not yet near enough to get a good aim with a curse -"
+    "The cold night air ripped at Harry's lungs as he tore after them; he saw a flash of light in the distance that momentarily silhouetted his quarry."
+   ]
+  },
+  {
+   "begin": "484.120",
+   "children": [],
+   "end": "491.480",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "He did not know what it was but continued to run, not yet near enough to get a good aim with a curse -"
    ]
   },
   {
    "begin": "491.480",
    "children": [],
    "end": "511.600",
-   "id": "f000028",
+   "id": "f000057",
    "language": "eng",
    "lines": [
     "Another flash, shouts, retaliatory jets of light, and Harry understood: Hagrid had emerged from his cabin and was trying to stop the Death Eaters escaping, and though every breath seemed to shred his lungs and the stitch in his chest was like fire, Harry sped up as an unbidden voice in his head"
@@ -284,7 +574,7 @@
    "begin": "511.600",
    "children": [],
    "end": "515.880",
-   "id": "f000029",
+   "id": "f000058",
    "language": "eng",
    "lines": [
     "said: not Hagrid... not Hagrid too..."
@@ -294,7 +584,7 @@
    "begin": "515.880",
    "children": [],
    "end": "534.680",
-   "id": "f000030",
+   "id": "f000059",
    "language": "eng",
    "lines": [
     "Something caught Harry hard in the small of the back and he fell forward, his face smacking the ground, blood pouring out of both nostrils: He knew, even as he rolled over, his wand ready, that the brother and sister he had overtaken using his shortcut were closing in behind him..."
@@ -304,7 +594,7 @@
    "begin": "534.680",
    "children": [],
    "end": "552.600",
-   "id": "f000031",
+   "id": "f000060",
    "language": "eng",
    "lines": [
     "\"Impedimenta!\" he yelled as he rolled over again, crouching close to the dark ground, and miraculously his jinx hit one of them, who stumbled and fell, tripping up the other; Harry leapt to his feet and sprinted on after Snape."
@@ -313,18 +603,28 @@
   {
    "begin": "552.600",
    "children": [],
-   "end": "582.080",
-   "id": "f000032",
+   "end": "574.480",
+   "id": "f000061",
    "language": "eng",
    "lines": [
-    "And now he saw the vast outline of Hagrid, illuminated by the light of the crescent moon revealed suddenly behind clouds; the blond Death Eater was aiming curse after curse at the gamekeeper; but Hagrid's immense strength and the toughened skin he had inherited from his giantess mother seemed to be protecting him. Snape and Malfoy, however, were still running; they would soon be beyond the gates, able to Disapparate -"
+    "And now he saw the vast outline of Hagrid, illuminated by the light of the crescent moon revealed suddenly behind clouds; the blond Death Eater was aiming curse after curse at the gamekeeper; but Hagrid's immense strength and the toughened skin he had inherited from his giantess mother seemed to be protecting him."
+   ]
+  },
+  {
+   "begin": "574.480",
+   "children": [],
+   "end": "582.080",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "Snape and Malfoy, however, were still running; they would soon be beyond the gates, able to Disapparate -"
    ]
   },
   {
    "begin": "582.080",
    "children": [],
    "end": "589.400",
-   "id": "f000033",
+   "id": "f000063",
    "language": "eng",
    "lines": [
     "Harry tore past Hagrid and his opponent, took aim at Snape's back, and yelled, \"Stupefy!\""
@@ -333,18 +633,28 @@
   {
    "begin": "589.400",
    "children": [],
-   "end": "604.480",
-   "id": "f000034",
+   "end": "597.640",
+   "id": "f000064",
    "language": "eng",
    "lines": [
-    "He missed; the jet of red light soared past Snape's head; Snape shouted, \"Run, Draco!\" and turned. Twenty yards apart, he and Harry looked at each other before raising their wands simultaneously."
+    "He missed; the jet of red light soared past Snape's head; Snape shouted, \"Run, Draco!\" and turned."
+   ]
+  },
+  {
+   "begin": "597.640",
+   "children": [],
+   "end": "604.480",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "Twenty yards apart, he and Harry looked at each other before raising their wands simultaneously."
    ]
   },
   {
    "begin": "604.480",
    "children": [],
    "end": "606.120",
-   "id": "f000035",
+   "id": "f000066",
    "language": "eng",
    "lines": [
     "\"Cruc - \""
@@ -353,48 +663,88 @@
   {
    "begin": "606.120",
    "children": [],
-   "end": "628.000",
-   "id": "f000036",
+   "end": "619.680",
+   "id": "f000067",
    "language": "eng",
    "lines": [
-    "But Snape parried the curse, knocking Harry backward off his feet before he could complete it; Harry rolled over and scrambled back up again as the huge Death Eater behind him yelled, \"Incendio!\" Harry heard an explosive bang and a dancing orange light spilled over all of them: Hagrid's house was on fire."
+    "But Snape parried the curse, knocking Harry backward off his feet before he could complete it; Harry rolled over and scrambled back up again as the huge Death Eater behind him yelled, \"Incendio!\""
+   ]
+  },
+  {
+   "begin": "619.680",
+   "children": [],
+   "end": "628.000",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Harry heard an explosive bang and a dancing orange light spilled over all of them: Hagrid's house was on fire."
    ]
   },
   {
    "begin": "628.000",
    "children": [],
-   "end": "632.120",
-   "id": "f000037",
+   "end": "631.080",
+   "id": "f000069",
    "language": "eng",
    "lines": [
-    "\"Fang's in there, yer evil - !\" Hagrid bellowed."
+    "\"Fang's in there, yer evil - !\""
+   ]
+  },
+  {
+   "begin": "631.080",
+   "children": [],
+   "end": "632.120",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Hagrid bellowed."
    ]
   },
   {
    "begin": "632.120",
    "children": [],
-   "end": "645.080",
-   "id": "f000038",
+   "end": "642.800",
+   "id": "f000071",
    "language": "eng",
    "lines": [
-    "\"Cruc - \" yelled Harry for the second time, aiming for the figure ahead illuminated in the dancing firelight, but Snape blocked the spell again. Harry could see him sneering."
+    "\"Cruc - \" yelled Harry for the second time, aiming for the figure ahead illuminated in the dancing firelight, but Snape blocked the spell again."
+   ]
+  },
+  {
+   "begin": "642.800",
+   "children": [],
+   "end": "645.080",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "Harry could see him sneering."
    ]
   },
   {
    "begin": "645.080",
    "children": [],
-   "end": "656.560",
-   "id": "f000039",
+   "end": "656.040",
+   "id": "f000073",
    "language": "eng",
    "lines": [
-    "\"No Unforgivable Curses from you, Potter!\" he shouted over the rushing of the flames, Hagrid's yells, and the wild yelping of the trapped Fang. \"You"
+    "\"No Unforgivable Curses from you, Potter!\" he shouted over the rushing of the flames, Hagrid's yells, and the wild yelping of the trapped Fang."
    ]
   },
   {
-   "begin": "656.560",
+   "begin": "656.040",
+   "children": [],
+   "end": "656.600",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "\"You"
+   ]
+  },
+  {
+   "begin": "656.600",
    "children": [],
    "end": "659.320",
-   "id": "f000040",
+   "id": "f000075",
    "language": "eng",
    "lines": [
     "haven't got the nerve or the ability - \""
@@ -404,7 +754,7 @@
    "begin": "659.320",
    "children": [],
    "end": "667.040",
-   "id": "f000041",
+   "id": "f000076",
    "language": "eng",
    "lines": [
     "\"Incarc - \" Harry roared, but Snape deflected the spell with an almost lazy flick of his arm."
@@ -413,28 +763,58 @@
   {
    "begin": "667.040",
    "children": [],
-   "end": "672.840",
-   "id": "f000042",
+   "end": "669.080",
+   "id": "f000077",
    "language": "eng",
    "lines": [
-    "\"Fight back!\" Harry screamed at him. \"Fight back, you cowardly - \""
+    "\"Fight back!\""
+   ]
+  },
+  {
+   "begin": "669.080",
+   "children": [],
+   "end": "670.480",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "Harry screamed at him."
+   ]
+  },
+  {
+   "begin": "670.480",
+   "children": [],
+   "end": "672.840",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "\"Fight back, you cowardly - \""
    ]
   },
   {
    "begin": "672.840",
    "children": [],
-   "end": "683.680",
-   "id": "f000043",
+   "end": "676.800",
+   "id": "f000080",
    "language": "eng",
    "lines": [
-    "\"Coward, did you call me, Potter?\" shouted Snape. \"Your father would never attack me unless it was four on one, what would you call him, I wonder?\""
+    "\"Coward, did you call me, Potter?\" shouted Snape."
+   ]
+  },
+  {
+   "begin": "676.800",
+   "children": [],
+   "end": "683.680",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "\"Your father would never attack me unless it was four on one, what would you call him, I wonder?\""
    ]
   },
   {
    "begin": "683.680",
    "children": [],
    "end": "685.400",
-   "id": "f000044",
+   "id": "f000082",
    "language": "eng",
    "lines": [
     "\"Stupe - \""
@@ -443,108 +823,258 @@
   {
    "begin": "685.400",
    "children": [],
-   "end": "709.000",
-   "id": "f000045",
+   "end": "699.080",
+   "id": "f000083",
    "language": "eng",
    "lines": [
-    "\"Blocked again and again and again until you learn to keep your mouth shut and your mind closed, Potter!\" sneered Snape, deflecting the curse once more. \"Now come!\" he shouted at the huge Death Eater behind Harry. \"It is time to be gone, before the Ministry turns up - \""
+    "\"Blocked again and again and again until you learn to keep your mouth shut and your mind closed, Potter!\" sneered Snape, deflecting the curse once more."
+   ]
+  },
+  {
+   "begin": "699.080",
+   "children": [],
+   "end": "704.480",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "\"Now come!\" he shouted at the huge Death Eater behind Harry."
+   ]
+  },
+  {
+   "begin": "704.480",
+   "children": [],
+   "end": "709.000",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "\"It is time to be gone, before the Ministry turns up - \""
    ]
   },
   {
    "begin": "709.000",
    "children": [],
-   "end": "710.800",
-   "id": "f000046",
+   "end": "710.480",
+   "id": "f000086",
    "language": "eng",
    "lines": [
     "\"Impedi - \""
    ]
   },
   {
-   "begin": "710.800",
+   "begin": "710.480",
    "children": [],
-   "end": "727.160",
-   "id": "f000047",
+   "end": "718.160",
+   "id": "f000087",
    "language": "eng",
    "lines": [
-    "But before he could finish this jinx, excruciating pain hit Harry; he keeled over in the grass. Someone was screaming, he would surely die of this agony, Snape was going to torture him to death or madness -"
+    "But before he could finish this jinx, excruciating pain hit Harry; he keeled over in the grass."
+   ]
+  },
+  {
+   "begin": "718.160",
+   "children": [],
+   "end": "727.160",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "Someone was screaming, he would surely die of this agony, Snape was going to torture him to death or madness -"
    ]
   },
   {
    "begin": "727.160",
    "children": [],
-   "end": "753.120",
-   "id": "f000048",
+   "end": "746.320",
+   "id": "f000089",
    "language": "eng",
    "lines": [
-    "\"No!\" roared Snape's voice and the pain stopped as suddenly as it had started; Harry lay curled on the dark grass, clutching his wand and panting; somewhere overhead Snape was shouting, \"Have you forgotten our orders? Potter belongs to the Dark Lord - we are to leave him! Go! Go!\""
+    "\"No!\" roared Snape's voice and the pain stopped as suddenly as it had started; Harry lay curled on the dark grass, clutching his wand and panting; somewhere overhead Snape was shouting, \"Have you forgotten our orders?"
    ]
   },
   {
-   "begin": "753.120",
+   "begin": "746.320",
    "children": [],
-   "end": "780.880",
-   "id": "f000049",
+   "end": "751.040",
+   "id": "f000090",
    "language": "eng",
    "lines": [
-    "And Harry felt the ground shudder under his face as the brother and sister and the enormous Death Eater obeyed, running toward the gates. Harry uttered an inarticulate yell of rage: In that instant, he cared not whether he lived or died. Pushing himself to his feet again, he staggered blindly toward Snape, the man he now hated as much as he hated Voldemort himself -"
+    "Potter belongs to the Dark Lord - we are to leave him!"
    ]
   },
   {
-   "begin": "780.880",
+   "begin": "751.040",
    "children": [],
-   "end": "783.200",
-   "id": "f000050",
+   "end": "751.720",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "Go!"
+   ]
+  },
+  {
+   "begin": "751.720",
+   "children": [],
+   "end": "753.080",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "Go!\""
+   ]
+  },
+  {
+   "begin": "753.080",
+   "children": [],
+   "end": "762.120",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "And Harry felt the ground shudder under his face as the brother and sister and the enormous Death Eater obeyed, running toward the gates."
+   ]
+  },
+  {
+   "begin": "762.120",
+   "children": [],
+   "end": "770.880",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "Harry uttered an inarticulate yell of rage: In that instant, he cared not whether he lived or died."
+   ]
+  },
+  {
+   "begin": "770.880",
+   "children": [],
+   "end": "781.360",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Pushing himself to his feet again, he staggered blindly toward Snape, the man he now hated as much as he hated Voldemort himself -"
+   ]
+  },
+  {
+   "begin": "781.360",
+   "children": [],
+   "end": "782.960",
+   "id": "f000096",
    "language": "eng",
    "lines": [
     "\"Sectum - !\""
    ]
   },
   {
-   "begin": "783.200",
+   "begin": "782.960",
    "children": [],
-   "end": "807.560",
-   "id": "f000051",
+   "end": "800.840",
+   "id": "f000097",
    "language": "eng",
    "lines": [
-    "Snape flicked his wand and the curse was repelled yet again; but Harry was mere feet away now and he could see Snape's face clearly at last: He was no longer sneering or jeering; the blazing flames showed a face full of rage. Mustering all his powers of concentration, Harry thought, Levi -"
+    "Snape flicked his wand and the curse was repelled yet again; but Harry was mere feet away now and he could see Snape's face clearly at last: He was no longer sneering or jeering; the blazing flames showed a face full of rage."
+   ]
+  },
+  {
+   "begin": "800.840",
+   "children": [],
+   "end": "807.560",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "Mustering all his powers of concentration, Harry thought, Levi -"
    ]
   },
   {
    "begin": "807.560",
    "children": [],
-   "end": "815.000",
-   "id": "f000052",
+   "end": "810.920",
+   "id": "f000099",
    "language": "eng",
    "lines": [
-    "\"No, Potter!\" screamed Snape. There was a loud BANG and Harry was"
+    "\"No, Potter!\" screamed Snape."
+   ]
+  },
+  {
+   "begin": "810.920",
+   "children": [],
+   "end": "815.000",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "There was a loud BANG and Harry was"
    ]
   },
   {
    "begin": "815.000",
    "children": [],
-   "end": "843.320",
-   "id": "f000053",
+   "end": "821.560",
+   "id": "f000101",
    "language": "eng",
    "lines": [
-    "soaring backward, hitting the ground hard again, and this time his wand flew out of his hand. He could hear Hagrid yelling and Fang howling as Snape closed in and looked down on him where he lay, wandless and defenseless as Dumbledore had been. Snape's pale face, illuminated by the flaming cabin, was suffused with hatred just as it had been before he had cursed Dumbledore."
+    "soaring backward, hitting the ground hard again, and this time his wand flew out of his hand."
+   ]
+  },
+  {
+   "begin": "821.560",
+   "children": [],
+   "end": "832.400",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "He could hear Hagrid yelling and Fang howling as Snape closed in and looked down on him where he lay, wandless and defenseless as Dumbledore had been."
+   ]
+  },
+  {
+   "begin": "832.400",
+   "children": [],
+   "end": "843.320",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "Snape's pale face, illuminated by the flaming cabin, was suffused with hatred just as it had been before he had cursed Dumbledore."
    ]
   },
   {
    "begin": "843.320",
    "children": [],
-   "end": "863.720",
-   "id": "f000054",
+   "end": "849.160",
+   "id": "f000104",
    "language": "eng",
    "lines": [
-    "\"You dare use my own spells against me, Potter? It was I who invented them - I, the Half-Blood Prince! And you'd turn my inventions on me, like your filthy father, would you? I don't think so... no!\""
+    "\"You dare use my own spells against me, Potter?"
    ]
   },
   {
-   "begin": "863.720",
+   "begin": "849.160",
+   "children": [],
+   "end": "855.360",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "It was I who invented them - I, the Half-Blood Prince!"
+   ]
+  },
+  {
+   "begin": "855.360",
+   "children": [],
+   "end": "860.560",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "And you'd turn my inventions on me, like your filthy father, would you?"
+   ]
+  },
+  {
+   "begin": "860.560",
+   "children": [],
+   "end": "862.840",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "I don't think so... no!\""
+   ]
+  },
+  {
+   "begin": "862.840",
    "children": [],
    "end": "870.760",
-   "id": "f000055",
+   "id": "f000108",
    "language": "eng",
    "lines": [
     "Harry had dived for his wand; Snape shot a hex at it and it flew feet away into the darkness and out of sight."
@@ -553,38 +1083,78 @@
   {
    "begin": "870.760",
    "children": [],
-   "end": "881.440",
-   "id": "f000056",
+   "end": "878.040",
+   "id": "f000109",
    "language": "eng",
    "lines": [
-    "\"Kill me then,\" panted Harry, who felt no fear at all, but only rage and contempt. \"Kill me like you killed him, you coward - \""
+    "\"Kill me then,\" panted Harry, who felt no fear at all, but only rage and contempt."
+   ]
+  },
+  {
+   "begin": "878.040",
+   "children": [],
+   "end": "881.440",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "\"Kill me like you killed him, you coward - \""
    ]
   },
   {
    "begin": "881.440",
    "children": [],
-   "end": "899.360",
-   "id": "f000057",
+   "end": "898.680",
+   "id": "f000111",
    "language": "eng",
    "lines": [
     "\"DON'T - \" screamed Snape, and his face was suddenly demented, inhuman, as though he was in as much pain as the yelping, howling dog stuck in the burning house behind them - \"CALL ME COWARD!\""
    ]
   },
   {
-   "begin": "899.360",
+   "begin": "898.680",
    "children": [],
-   "end": "970.680",
-   "id": "f000058",
+   "end": "909.040",
+   "id": "f000112",
    "language": "eng",
    "lines": [
-    "And he slashed at the air: Harry felt a white-hot, whiplike something hit him across the face and was slammed backward into the ground. Spots of light burst in front of his eyes and for a moment all the breath seemed to have gone from his body, then he heard a rush of wings above him and something enormous obscured the stars. Buckbeak had flown at Snape, who staggered backward as the razor-sharp claws slashed at him. As Harry raised himself into a sitting position, his head still swimming from its last contact with the ground, he saw Snape running as hard as he could, the enormous beast flapping behind him and screeching as Harry had never heard him screech - Harry struggled to his feet, looking around groggily for his wand, hoping to give chase again, but even as his fingers fumbled in the grass, discarding twigs, he knew it would be too late, and sure enough, by the time he had located his wand, he turned only to see the hippogriff circling the gates."
+    "And he slashed at the air: Harry felt a white-hot, whiplike something hit him across the face and was slammed backward into the ground."
+   ]
+  },
+  {
+   "begin": "909.040",
+   "children": [],
+   "end": "923.160",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "Spots of light burst in front of his eyes and for a moment all the breath seemed to have gone from his body, then he heard a rush of wings above him and something enormous obscured the stars."
+   ]
+  },
+  {
+   "begin": "923.160",
+   "children": [],
+   "end": "930.520",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Buckbeak had flown at Snape, who staggered backward as the razor-sharp claws slashed at him."
+   ]
+  },
+  {
+   "begin": "930.520",
+   "children": [],
+   "end": "970.680",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "As Harry raised himself into a sitting position, his head still swimming from its last contact with the ground, he saw Snape running as hard as he could, the enormous beast flapping behind him and screeching as Harry had never heard him screech - Harry struggled to his feet, looking around groggily for his wand, hoping to give chase again, but even as his fingers fumbled in the grass, discarding twigs, he knew it would be too late, and sure enough, by the time he had located his wand, he turned only to see the hippogriff circling the gates."
    ]
   },
   {
    "begin": "970.680",
    "children": [],
    "end": "975.800",
-   "id": "f000059",
+   "id": "f000116",
    "language": "eng",
    "lines": [
     "Snape had managed to Disapparate just beyond the school's boundaries."
@@ -593,78 +1163,148 @@
   {
    "begin": "975.800",
    "children": [],
-   "end": "983.320",
-   "id": "f000060",
+   "end": "981.920",
+   "id": "f000117",
    "language": "eng",
    "lines": [
-    "\"Hagrid,\" muttered Harry, still dazed, looking around. \"HAGRID?\""
+    "\"Hagrid,\" muttered Harry, still dazed, looking around."
+   ]
+  },
+  {
+   "begin": "981.920",
+   "children": [],
+   "end": "983.320",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "\"HAGRID?\""
    ]
   },
   {
    "begin": "983.320",
    "children": [],
-   "end": "1004.600",
-   "id": "f000061",
+   "end": "992.800",
+   "id": "f000119",
    "language": "eng",
    "lines": [
-    "He stumbled toward the burning house as an enormous figure emerged from out of the flames carrying Fang on his back. With a cry of thankfulness, Harry sank to his knees; he was shaking in every limb, his body ached all over, and his breath came in painful stabs."
+    "He stumbled toward the burning house as an enormous figure emerged from out of the flames carrying Fang on his back."
+   ]
+  },
+  {
+   "begin": "992.800",
+   "children": [],
+   "end": "1004.600",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "With a cry of thankfulness, Harry sank to his knees; he was shaking in every limb, his body ached all over, and his breath came in painful stabs."
    ]
   },
   {
    "begin": "1004.600",
    "children": [],
-   "end": "1009.760",
-   "id": "f000062",
+   "end": "1006.480",
+   "id": "f000121",
    "language": "eng",
    "lines": [
-    "\"Yeh all righ', Harry? Yeh all righ'? Speak ter me, Harry\u2026\""
+    "\"Yeh all righ', Harry?"
    ]
   },
   {
-   "begin": "1009.760",
+   "begin": "1006.480",
    "children": [],
-   "end": "1025.720",
-   "id": "f000063",
+   "end": "1007.480",
+   "id": "f000122",
    "language": "eng",
    "lines": [
-    "Hagrid's huge, hairy face was swimming above Harry, blocking out the stars. Harry could smell burnt wood and dog hair; he put out a hand and felt Fang's reassuringly warm and alive body quivering beside him."
+    "Yeh all righ'?"
+   ]
+  },
+  {
+   "begin": "1007.480",
+   "children": [],
+   "end": "1008.960",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Speak ter me, Harry\u2026\""
+   ]
+  },
+  {
+   "begin": "1008.960",
+   "children": [],
+   "end": "1014.880",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Hagrid's huge, hairy face was swimming above Harry, blocking out the stars."
+   ]
+  },
+  {
+   "begin": "1014.880",
+   "children": [],
+   "end": "1025.720",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "Harry could smell burnt wood and dog hair; he put out a hand and felt Fang's reassuringly warm and alive body quivering beside him."
    ]
   },
   {
    "begin": "1025.720",
    "children": [],
-   "end": "1029.880",
-   "id": "f000064",
+   "end": "1028.920",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "\"I'm all right,\" panted Harry. \"Are you?\""
+    "\"I'm all right,\" panted Harry."
+   ]
+  },
+  {
+   "begin": "1028.920",
+   "children": [],
+   "end": "1029.880",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "\"Are you?\""
    ]
   },
   {
    "begin": "1029.880",
    "children": [],
-   "end": "1034.040",
-   "id": "f000065",
+   "end": "1033.000",
+   "id": "f000128",
    "language": "eng",
    "lines": [
     "\"'Course I am take more'n that ter finish me.\""
    ]
   },
   {
-   "begin": "1034.040",
+   "begin": "1033.000",
    "children": [],
-   "end": "1051.400",
-   "id": "f000066",
+   "end": "1044.000",
+   "id": "f000129",
    "language": "eng",
    "lines": [
-    "Hagrid put his hands under Harry's arms and raised him up with such force that Harry's feet momentarily left the ground before Hagrid set him upright again. He could see blood trickling down Hagrid's cheek from a deep cut under one eye, which was swelling rapidly."
+    "Hagrid put his hands under Harry's arms and raised him up with such force that Harry's feet momentarily left the ground before Hagrid set him upright again."
+   ]
+  },
+  {
+   "begin": "1044.000",
+   "children": [],
+   "end": "1051.400",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "He could see blood trickling down Hagrid's cheek from a deep cut under one eye, which was swelling rapidly."
    ]
   },
   {
    "begin": "1051.400",
    "children": [],
    "end": "1057.160",
-   "id": "f000067",
+   "id": "f000131",
    "language": "eng",
    "lines": [
     "\"We should put out your house,\" said Harry, \"the charm's 'Aguamenti'...\""
@@ -673,48 +1313,78 @@
   {
    "begin": "1057.160",
    "children": [],
-   "end": "1068.400",
-   "id": "f000068",
+   "end": "1068.360",
+   "id": "f000132",
    "language": "eng",
    "lines": [
     "\"Knew it was summat like that,\" mumbled Hagrid, and he raised a smoldering pink, flowery umbrella and said, \"Aguamenti!\""
    ]
   },
   {
-   "begin": "1068.400",
+   "begin": "1068.360",
    "children": [],
-   "end": "1085.560",
-   "id": "f000069",
+   "end": "1071.160",
+   "id": "f000133",
    "language": "eng",
    "lines": [
-    "A jet of water flew out of the umbrella tip. Harry raised his wand arm, which felt like lead, and murmured \"Aguamenti\" too: Together, he and Hagrid poured water on the house until the last flame was extinguished."
+    "A jet of water flew out of the umbrella tip."
+   ]
+  },
+  {
+   "begin": "1071.160",
+   "children": [],
+   "end": "1085.560",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "Harry raised his wand arm, which felt like lead, and murmured \"Aguamenti\" too: Together, he and Hagrid poured water on the house until the last flame was extinguished."
    ]
   },
   {
    "begin": "1085.560",
    "children": [],
-   "end": "1096.520",
-   "id": "f000070",
+   "end": "1092.800",
+   "id": "f000135",
    "language": "eng",
    "lines": [
-    "\"S'not too bad,\" said Hagrid hopefully a few minutes later, looking at the smoking wreck. \"Nothin' Dumbledore won' be able to put righ'...\""
+    "\"S'not too bad,\" said Hagrid hopefully a few minutes later, looking at the smoking wreck."
    ]
   },
   {
-   "begin": "1096.520",
+   "begin": "1092.800",
    "children": [],
-   "end": "1106.440",
-   "id": "f000071",
+   "end": "1095.280",
+   "id": "f000136",
    "language": "eng",
    "lines": [
-    "Harry felt a searing pain in his stomach at the sound of the name. In the silence and the stillness, horror rose inside him."
+    "\"Nothin' Dumbledore won' be able to put righ'...\""
+   ]
+  },
+  {
+   "begin": "1095.280",
+   "children": [],
+   "end": "1102.120",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "Harry felt a searing pain in his stomach at the sound of the name."
+   ]
+  },
+  {
+   "begin": "1102.120",
+   "children": [],
+   "end": "1106.440",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "In the silence and the stillness, horror rose inside him."
    ]
   },
   {
    "begin": "1106.440",
    "children": [],
    "end": "1108.680",
-   "id": "f000072",
+   "id": "f000139",
    "language": "eng",
    "lines": [
     "\"Hagrid...\""
@@ -723,18 +1393,28 @@
   {
    "begin": "1108.680",
    "children": [],
-   "end": "1121.120",
-   "id": "f000073",
+   "end": "1117.560",
+   "id": "f000140",
    "language": "eng",
    "lines": [
-    "\"I was bindin' up a couple o' bowtruckle legs when I heard 'em comin,'\" said Hagrid sadly, still staring at his wrecked cabin. \"They'll've bin burnt ter twigs, poor little things\u2026\""
+    "\"I was bindin' up a couple o' bowtruckle legs when I heard 'em comin,'\" said Hagrid sadly, still staring at his wrecked cabin."
+   ]
+  },
+  {
+   "begin": "1117.560",
+   "children": [],
+   "end": "1121.120",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "\"They'll've bin burnt ter twigs, poor little things\u2026\""
    ]
   },
   {
    "begin": "1121.120",
    "children": [],
    "end": "1122.360",
-   "id": "f000074",
+   "id": "f000142",
    "language": "eng",
    "lines": [
     "\"Hagrid\u2026\""
@@ -743,48 +1423,118 @@
   {
    "begin": "1122.360",
    "children": [],
-   "end": "1132.320",
-   "id": "f000075",
+   "end": "1124.360",
+   "id": "f000143",
    "language": "eng",
    "lines": [
-    "\"But what happened, Harry? I jus' saw them Death Eaters runnin' down from the castle, but what the ruddy hell was Snape doin' with 'em? Where's he gone - was he chasin' them?\""
+    "\"But what happened, Harry?"
+   ]
+  },
+  {
+   "begin": "1124.360",
+   "children": [],
+   "end": "1130.000",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "I jus' saw them Death Eaters runnin' down from the castle, but what the ruddy hell was Snape doin' with 'em?"
+   ]
+  },
+  {
+   "begin": "1130.000",
+   "children": [],
+   "end": "1132.320",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "Where's he gone - was he chasin' them?\""
    ]
   },
   {
    "begin": "1132.320",
    "children": [],
-   "end": "1142.840",
-   "id": "f000076",
+   "end": "1133.760",
+   "id": "f000146",
    "language": "eng",
    "lines": [
-    "\"He...\" Harry cleared his throat; it was dry from panic and the smoke. \"Hagrid, he killed \""
+    "\"He...\""
+   ]
+  },
+  {
+   "begin": "1133.760",
+   "children": [],
+   "end": "1139.200",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "Harry cleared his throat; it was dry from panic and the smoke."
+   ]
+  },
+  {
+   "begin": "1139.200",
+   "children": [],
+   "end": "1142.840",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "\"Hagrid, he killed \""
    ]
   },
   {
    "begin": "1142.840",
    "children": [],
-   "end": "1149.360",
-   "id": "f000077",
+   "end": "1146.800",
+   "id": "f000149",
    "language": "eng",
    "lines": [
-    "\"Killed?\" said Hagrid loudly, staring down at Harry. \"Snape killed? What're yeh on abou', Harry?\""
+    "\"Killed?\" said Hagrid loudly, staring down at Harry."
+   ]
+  },
+  {
+   "begin": "1146.800",
+   "children": [],
+   "end": "1148.160",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "\"Snape killed?"
+   ]
+  },
+  {
+   "begin": "1148.160",
+   "children": [],
+   "end": "1149.360",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "What're yeh on abou', Harry?\""
    ]
   },
   {
    "begin": "1149.360",
    "children": [],
-   "end": "1158.760",
-   "id": "f000078",
+   "end": "1152.560",
+   "id": "f000152",
    "language": "eng",
    "lines": [
-    "\"Dumbledore,\" said Harry. \"Snape killed Dumbledore.\""
+    "\"Dumbledore,\" said Harry."
    ]
   },
   {
-   "begin": "1158.760",
+   "begin": "1152.560",
+   "children": [],
+   "end": "1157.200",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "\"Snape killed Dumbledore.\""
+   ]
+  },
+  {
+   "begin": "1157.200",
    "children": [],
    "end": "1166.080",
-   "id": "f000079",
+   "id": "f000154",
    "language": "eng",
    "lines": [
     "Hagrid simply looked at him, the little of his face that could be seen completely blank, uncomprehending."
@@ -794,7 +1544,7 @@
    "begin": "1166.080",
    "children": [],
    "end": "1169.000",
-   "id": "f000080",
+   "id": "f000155",
    "language": "eng",
    "lines": [
     "\"Dumbledore wha', Harry?\""
@@ -803,28 +1553,58 @@
   {
    "begin": "1169.000",
    "children": [],
-   "end": "1173.360",
-   "id": "f000081",
+   "end": "1171.320",
+   "id": "f000156",
    "language": "eng",
    "lines": [
-    "\"He's dead. Snape killed him\u2026\""
+    "\"He's dead."
+   ]
+  },
+  {
+   "begin": "1171.320",
+   "children": [],
+   "end": "1173.360",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "Snape killed him\u2026\""
    ]
   },
   {
    "begin": "1173.360",
    "children": [],
-   "end": "1182.440",
-   "id": "f000082",
+   "end": "1176.760",
+   "id": "f000158",
    "language": "eng",
    "lines": [
-    "\"Don' say that,\" said Hagrid roughly. \"Snape kill Dumbledore - don' be stupid, Harry. Wha's made yeh say tha'?\""
+    "\"Don' say that,\" said Hagrid roughly."
+   ]
+  },
+  {
+   "begin": "1176.760",
+   "children": [],
+   "end": "1180.680",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "\"Snape kill Dumbledore - don' be stupid, Harry."
+   ]
+  },
+  {
+   "begin": "1180.680",
+   "children": [],
+   "end": "1182.440",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "Wha's made yeh say tha'?\""
    ]
   },
   {
    "begin": "1182.440",
    "children": [],
    "end": "1185.040",
-   "id": "f000083",
+   "id": "f000161",
    "language": "eng",
    "lines": [
     "\"I saw it happen.\""
@@ -834,7 +1614,7 @@
    "begin": "1185.040",
    "children": [],
    "end": "1186.640",
-   "id": "f000084",
+   "id": "f000162",
    "language": "eng",
    "lines": [
     "\"Yeh couldn' have.\""
@@ -844,7 +1624,7 @@
    "begin": "1186.640",
    "children": [],
    "end": "1188.840",
-   "id": "f000085",
+   "id": "f000163",
    "language": "eng",
    "lines": [
     "\"I saw it, Hagrid.\""
@@ -854,7 +1634,7 @@
    "begin": "1188.840",
    "children": [],
    "end": "1203.160",
-   "id": "f000086",
+   "id": "f000164",
    "language": "eng",
    "lines": [
     "Hagrid shook his head; his expression was disbelieving but sympathetic, and Harry knew that Hagrid thought he had sustained a blow to the head, that he was confused, perhaps by the aftereffects of a jinx..."
@@ -863,151 +1643,481 @@
   {
    "begin": "1203.160",
    "children": [],
-   "end": "1217.360",
-   "id": "f000087",
+   "end": "1211.320",
+   "id": "f000165",
    "language": "eng",
    "lines": [
-    "\"What musta happened was, Dumbledore musta told Snape ter go with them Death Eaters,\" Hagrid said confidently. \"I suppose he's gotta keep his cover. Look, let's get yeh back up ter the school. Come on, Harry\u2026\""
+    "\"What musta happened was, Dumbledore musta told Snape ter go with them Death Eaters,\" Hagrid said confidently."
+   ]
+  },
+  {
+   "begin": "1211.320",
+   "children": [],
+   "end": "1213.640",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "\"I suppose he's gotta keep his cover."
+   ]
+  },
+  {
+   "begin": "1213.640",
+   "children": [],
+   "end": "1216.320",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "Look, let's get yeh back up ter the school."
+   ]
+  },
+  {
+   "begin": "1216.320",
+   "children": [],
+   "end": "1217.360",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "Come on, Harry\u2026\""
    ]
   },
   {
    "begin": "1217.360",
    "children": [],
-   "end": "1251.760",
-   "id": "f000088",
+   "end": "1221.600",
+   "id": "f000169",
    "language": "eng",
    "lines": [
-    "Harry did not attempt to argue or explain. He was still shaking uncontrollably. Hagrid would find out soon enough, too soon... As they directed their steps back toward the castle, Harry saw that many of its windows were lit now. He could imagine, clearly, the scenes inside as people moved from room to room, telling each other that Death Eaters had got in, that the Mark was shining over Hogwarts, that somebody must have been killed..."
+    "Harry did not attempt to argue or explain."
+   ]
+  },
+  {
+   "begin": "1221.600",
+   "children": [],
+   "end": "1224.680",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "He was still shaking uncontrollably."
+   ]
+  },
+  {
+   "begin": "1224.680",
+   "children": [],
+   "end": "1229.320",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "Hagrid would find out soon enough, too soon..."
+   ]
+  },
+  {
+   "begin": "1229.320",
+   "children": [],
+   "end": "1236.560",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "As they directed their steps back toward the castle, Harry saw that many of its windows were lit now."
+   ]
+  },
+  {
+   "begin": "1236.560",
+   "children": [],
+   "end": "1251.760",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "He could imagine, clearly, the scenes inside as people moved from room to room, telling each other that Death Eaters had got in, that the Mark was shining over Hogwarts, that somebody must have been killed..."
    ]
   },
   {
    "begin": "1251.760",
    "children": [],
-   "end": "1264.240",
-   "id": "f000089",
+   "end": "1258.760",
+   "id": "f000174",
    "language": "eng",
    "lines": [
-    "The oak front doors stood open ahead of them, light flooding out onto the drive and the lawn. Slowly, uncertainly, dressing-gowned people were cree-"
+    "The oak front doors stood open ahead of them, light flooding out onto the drive and the lawn."
+   ]
+  },
+  {
+   "begin": "1258.760",
+   "children": [],
+   "end": "1264.240",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "Slowly, uncertainly, dressing-gowned people were cree-"
    ]
   },
   {
    "begin": "1264.240",
    "children": [],
-   "end": "1298.280",
-   "id": "f000090",
+   "end": "1271.120",
+   "id": "f000176",
    "language": "eng",
    "lines": [
-    "ping down the steps, looking around nervously for some sign of the Death Eaters who had fled into the night. Harry's eyes, however, were fixed upon the ground at the foot of the tallest tower. He imagined that he could see a black, huddled mass lying in the grass there, though he was really too far away to see anything of the sort. Even as he stared wordlessly at the place where he thought Dumbledore's body must lie, however, he saw people beginning to move toward it."
+    "ping down the steps, looking around nervously for some sign of the Death Eaters who had fled into the night."
    ]
   },
   {
-   "begin": "1298.280",
+   "begin": "1271.120",
    "children": [],
-   "end": "1325.200",
-   "id": "f000091",
+   "end": "1277.720",
+   "id": "f000177",
    "language": "eng",
    "lines": [
-    "\"What're they all lookin' at?\" said Hagrid, as he and Harry approached the castle front, Fang keeping as close as he could to their ankles. \"Wha's tha', lyin' on the grass?\" Hagrid added sharply, heading now toward the foot of the Astronomy Tower, where a small crowd was congregating. \"See it, Harry? Righ' at the foot o' the tower? Under where the Mark... Blimey... yeh don' think someone got thrown - ?\""
+    "Harry's eyes, however, were fixed upon the ground at the foot of the tallest tower."
+   ]
+  },
+  {
+   "begin": "1277.720",
+   "children": [],
+   "end": "1287.640",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "He imagined that he could see a black, huddled mass lying in the grass there, though he was really too far away to see anything of the sort."
+   ]
+  },
+  {
+   "begin": "1287.640",
+   "children": [],
+   "end": "1298.360",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "Even as he stared wordlessly at the place where he thought Dumbledore's body must lie, however, he saw people beginning to move toward it."
+   ]
+  },
+  {
+   "begin": "1298.360",
+   "children": [],
+   "end": "1307.800",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "\"What're they all lookin' at?\" said Hagrid, as he and Harry approached the castle front, Fang keeping as close as he could to their ankles."
+   ]
+  },
+  {
+   "begin": "1307.800",
+   "children": [],
+   "end": "1309.720",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "\"Wha's tha', lyin' on the grass?\""
+   ]
+  },
+  {
+   "begin": "1309.720",
+   "children": [],
+   "end": "1317.320",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "Hagrid added sharply, heading now toward the foot of the Astronomy Tower, where a small crowd was congregating."
+   ]
+  },
+  {
+   "begin": "1317.320",
+   "children": [],
+   "end": "1318.960",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "\"See it, Harry?"
+   ]
+  },
+  {
+   "begin": "1318.960",
+   "children": [],
+   "end": "1320.520",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "Righ' at the foot o' the tower?"
+   ]
+  },
+  {
+   "begin": "1320.520",
+   "children": [],
+   "end": "1321.840",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "Under where the Mark..."
+   ]
+  },
+  {
+   "begin": "1321.840",
+   "children": [],
+   "end": "1325.200",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "Blimey... yeh don' think someone got thrown - ?\""
    ]
   },
   {
    "begin": "1325.200",
    "children": [],
-   "end": "1354.400",
-   "id": "f000092",
+   "end": "1331.720",
+   "id": "f000187",
    "language": "eng",
    "lines": [
-    "Hagrid fell silent, the thought apparently too horrible to express aloud. Harry walked alongside him, feeling the aches and pains in his face and his legs where the various hexes of the last half hour had hit him, though in an oddly detached way, as though somebody near him was suffering them. What was real and inescapable was the awful pressing feeling in his chest..."
+    "Hagrid fell silent, the thought apparently too horrible to express aloud."
    ]
   },
   {
-   "begin": "1354.400",
+   "begin": "1331.720",
    "children": [],
-   "end": "1366.000",
-   "id": "f000093",
+   "end": "1346.640",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "Harry walked alongside him, feeling the aches and pains in his face and his legs where the various hexes of the last half hour had hit him, though in an oddly detached way, as though somebody near him was suffering them."
+   ]
+  },
+  {
+   "begin": "1346.640",
+   "children": [],
+   "end": "1354.480",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "What was real and inescapable was the awful pressing feeling in his chest..."
+   ]
+  },
+  {
+   "begin": "1354.480",
+   "children": [],
+   "end": "1366.160",
+   "id": "f000190",
    "language": "eng",
    "lines": [
     "He and Hagrid moved, dreamlike, through the murmuring crowd to the very front, where the dumbstruck students and teachers had left a gap."
    ]
   },
   {
-   "begin": "1366.000",
+   "begin": "1366.160",
    "children": [],
-   "end": "1410.600",
-   "id": "f000094",
+   "end": "1381.680",
+   "id": "f000191",
    "language": "eng",
    "lines": [
-    "Harry heard Hagrid's moan of pain and shock, but he did not stop; he walked slowly forward until he reached the place where Dumbledore lay and crouched down beside him. He had known there was no hope from the moment that the full Body-Bind Curse Dumbledore had placed upon him lifted, known that it could have happened only because its caster was dead, but there was still no preparation for seeing him here, spread-eagled, broken: the greatest wizard Harry had ever, or would ever, meet."
+    "Harry heard Hagrid's moan of pain and shock, but he did not stop; he walked slowly forward until he reached the place where Dumbledore lay and crouched down beside him."
    ]
   },
   {
-   "begin": "1410.600",
+   "begin": "1381.680",
    "children": [],
-   "end": "1436.360",
-   "id": "f000095",
+   "end": "1410.800",
+   "id": "f000192",
    "language": "eng",
    "lines": [
-    "Dumbledore's eyes were closed; but for the strange angle of his arms and legs, he might have been sleeping. Harry reached out, straightened the halfmoon spectacles upon the crooked nose, and wiped a trickle of blood from the mouth with his own sleeve. Then he gazed down at the wise old face"
+    "He had known there was no hope from the moment that the full Body-Bind Curse Dumbledore had placed upon him lifted, known that it could have happened only because its caster was dead, but there was still no preparation for seeing him here, spread-eagled, broken: the greatest wizard Harry had ever, or would ever, meet."
    ]
   },
   {
-   "begin": "1436.360",
+   "begin": "1410.800",
    "children": [],
-   "end": "1447.880",
-   "id": "f000096",
+   "end": "1420.320",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "Dumbledore's eyes were closed; but for the strange angle of his arms and legs, he might have been sleeping."
+   ]
+  },
+  {
+   "begin": "1420.320",
+   "children": [],
+   "end": "1431.160",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "Harry reached out, straightened the halfmoon spectacles upon the crooked nose, and wiped a trickle of blood from the mouth with his own sleeve."
+   ]
+  },
+  {
+   "begin": "1431.160",
+   "children": [],
+   "end": "1435.640",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "Then he gazed down at the wise old face"
+   ]
+  },
+  {
+   "begin": "1435.640",
+   "children": [],
+   "end": "1447.760",
+   "id": "f000196",
    "language": "eng",
    "lines": [
     "and tried to absorb the enormous and incomprehensible truth: that never again would Dumbledore speak to him, never again could he help..."
    ]
   },
   {
-   "begin": "1447.880",
+   "begin": "1447.760",
    "children": [],
-   "end": "1460.160",
-   "id": "f000097",
+   "end": "1451.960",
+   "id": "f000197",
    "language": "eng",
    "lines": [
-    "The crowd murmured behind Harry. After what seemed like a long time, he became aware that he was kneeling upon something hard and looked down."
+    "The crowd murmured behind Harry."
+   ]
+  },
+  {
+   "begin": "1451.960",
+   "children": [],
+   "end": "1460.160",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "After what seemed like a long time, he became aware that he was kneeling upon something hard and looked down."
    ]
   },
   {
    "begin": "1460.160",
    "children": [],
-   "end": "1484.520",
-   "id": "f000098",
+   "end": "1467.880",
+   "id": "f000199",
    "language": "eng",
    "lines": [
-    "The locket they had managed to steal so many hours before had fallen out of Dumbledore's pocket. It had opened, perhaps due to the force with which it hit the ground. And although he could not feel more shock or horror or sadness than he felt already, Harry knew, as he picked it up, that there was something wrong..."
+    "The locket they had managed to steal so many hours before had fallen out of Dumbledore's pocket."
+   ]
+  },
+  {
+   "begin": "1467.880",
+   "children": [],
+   "end": "1472.840",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "It had opened, perhaps due to the force with which it hit the ground."
+   ]
+  },
+  {
+   "begin": "1472.840",
+   "children": [],
+   "end": "1484.520",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "And although he could not feel more shock or horror or sadness than he felt already, Harry knew, as he picked it up, that there was something wrong..."
    ]
   },
   {
    "begin": "1484.520",
    "children": [],
-   "end": "1511.880",
-   "id": "f000099",
+   "end": "1488.240",
+   "id": "f000202",
    "language": "eng",
    "lines": [
-    "He turned the locket over in his hands. This was neither as large as the locket he remembered seeing in the Pensieve, nor were there any markings upon it, no sign of the ornate S that was supposed to be Slytherin's mark. Moreover, there was nothing inside but for a scrap of folded parchment wedged tightly into the place where a portrait should have been."
+    "He turned the locket over in his hands."
    ]
   },
   {
-   "begin": "1511.880",
+   "begin": "1488.240",
    "children": [],
-   "end": "1558.280",
-   "id": "f000100",
+   "end": "1501.480",
+   "id": "f000203",
    "language": "eng",
    "lines": [
-    "Automatically, without really thinking about what he was doing, Harry pulled out the fragment of parchment, opened it, and read by the light of the many wands that had now been lit behind him: To the Dark Lord I know I will be dead long before you read this but I want you to know that it was I who discovered your secret. I have stolen the real Horcrux and intend to destroy it as soon as I can. I face death in the hope that when you meet your match, you will be mortal once more. R.A.B."
+    "This was neither as large as the locket he remembered seeing in the Pensieve, nor were there any markings upon it, no sign of the ornate S that was supposed to be Slytherin's mark."
    ]
   },
   {
-   "begin": "1558.280",
+   "begin": "1501.480",
+   "children": [],
+   "end": "1510.680",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Moreover, there was nothing inside but for a scrap of folded parchment wedged tightly into the place where a portrait should have been."
+   ]
+  },
+  {
+   "begin": "1510.680",
+   "children": [],
+   "end": "1538.040",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "Automatically, without really thinking about what he was doing, Harry pulled out the fragment of parchment, opened it, and read by the light of the many wands that had now been lit behind him: To the Dark Lord I know I will be dead long before you read this but I want you to know that it was I who discovered your secret."
+   ]
+  },
+  {
+   "begin": "1538.040",
+   "children": [],
+   "end": "1545.640",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "I have stolen the real Horcrux and intend to destroy it as soon as I can."
+   ]
+  },
+  {
+   "begin": "1545.640",
+   "children": [],
+   "end": "1553.520",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "I face death in the hope that when you meet your match, you will be mortal once more."
+   ]
+  },
+  {
+   "begin": "1553.520",
+   "children": [],
+   "end": "1555.880",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "R.A.B."
+   ]
+  },
+  {
+   "begin": "1555.880",
+   "children": [],
+   "end": "1561.240",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "Harry neither knew nor cared what the message meant."
+   ]
+  },
+  {
+   "begin": "1561.240",
+   "children": [],
+   "end": "1567.200",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "Only one thing mattered: This was not a Horcrux."
+   ]
+  },
+  {
+   "begin": "1567.200",
+   "children": [],
+   "end": "1574.000",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "Dumbledore had weakened himself by drinking that terrible potion for nothing."
+   ]
+  },
+  {
+   "begin": "1574.000",
    "children": [],
    "end": "1590.120",
-   "id": "f000101",
+   "id": "f000212",
    "language": "eng",
    "lines": [
-    "Harry neither knew nor cared what the message meant. Only one thing mattered: This was not a Horcrux. Dumbledore had weakened himself by drinking that terrible potion for nothing. Harry crumpled the parchment in his hand, and his eyes burned with tears as behind him Fang began to howl."
+    "Harry crumpled the parchment in his hand, and his eyes burned with tears as behind him Fang began to howl."
    ]
   }
  ]

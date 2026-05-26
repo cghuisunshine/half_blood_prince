@@ -13,28 +13,78 @@
   {
    "begin": "7.200",
    "children": [],
-   "end": "57.400",
+   "end": "27.720",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "For the rest of the week's Potions lessons Harry continued to follow the Half-Blood Prince's instructions wherever they deviated from Libatius Borage's, with the result that by their fourth lesson Slughorn was raving about Harry's abilities, saying that he had rarely taught anyone so talented. Neither Ron nor Hermione was delighted by this. Although Harry had offered to share his book with both of them, Ron had more difficulty deciphering the handwriting than Harry did, and could not keep asking Harry to read aloud or it might look suspicious. Hermione, meanwhile, was resolutely plowing on with what she called the \"official\" instructions, but becoming increasingly bad-tempered as they yielded poorer results than the Prince's."
+    "For the rest of the week's Potions lessons Harry continued to follow the Half-Blood Prince's instructions wherever they deviated from Libatius Borage's, with the result that by their fourth lesson Slughorn was raving about Harry's abilities, saying that he had rarely taught anyone so talented."
+   ]
+  },
+  {
+   "begin": "27.720",
+   "children": [],
+   "end": "31.360",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Neither Ron nor Hermione was delighted by this."
+   ]
+  },
+  {
+   "begin": "31.360",
+   "children": [],
+   "end": "43.720",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Although Harry had offered to share his book with both of them, Ron had more difficulty deciphering the handwriting than Harry did, and could not keep asking Harry to read aloud or it might look suspicious."
+   ]
+  },
+  {
+   "begin": "43.720",
+   "children": [],
+   "end": "57.400",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Hermione, meanwhile, was resolutely plowing on with what she called the \"official\" instructions, but becoming increasingly bad-tempered as they yielded poorer results than the Prince's."
    ]
   },
   {
    "begin": "57.400",
    "children": [],
-   "end": "87.200",
-   "id": "f000003",
+   "end": "62.560",
+   "id": "f000006",
    "language": "eng",
    "lines": [
-    "Harry wondered vaguely who the Half-Blood Prince had been. Although the amount of homework they had been given prevented him from reading the whole of his copy of Advanced Potion-Making, he had skimmed through it sufficiently to see that there was barely a page on which the Prince had not made additional notes, not all of them concerned with potion-mak-ing. Here and there were directions for what looked like spells that the Prince had made up himself."
+    "Harry wondered vaguely who the Half-Blood Prince had been."
    ]
   },
   {
-   "begin": "87.200",
+   "begin": "62.560",
+   "children": [],
+   "end": "80.440",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Although the amount of homework they had been given prevented him from reading the whole of his copy of Advanced Potion-Making, he had skimmed through it sufficiently to see that there was barely a page on which the Prince had not made additional notes, not all of them concerned with potion-mak-ing."
+   ]
+  },
+  {
+   "begin": "80.440",
+   "children": [],
+   "end": "86.400",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Here and there were directions for what looked like spells that the Prince had made up himself."
+   ]
+  },
+  {
+   "begin": "86.400",
    "children": [],
    "end": "92.280",
-   "id": "f000004",
+   "id": "f000009",
    "language": "eng",
    "lines": [
     "\"Or herself,\" said Hermione irritably, overhearing Harry pointing some"
@@ -43,38 +93,78 @@
   {
    "begin": "92.280",
    "children": [],
-   "end": "100.400",
-   "id": "f000005",
+   "end": "95.000",
+   "id": "f000010",
    "language": "eng",
    "lines": [
-    "of these out to Ron in the common room on Saturday evening. \"It might have been a girl. I think the handwriting looks more like a girl's than a boy's.\""
+    "of these out to Ron in the common room on Saturday evening."
+   ]
+  },
+  {
+   "begin": "95.000",
+   "children": [],
+   "end": "97.360",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "\"It might have been a girl."
+   ]
+  },
+  {
+   "begin": "97.360",
+   "children": [],
+   "end": "100.400",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "I think the handwriting looks more like a girl's than a boy's.\""
    ]
   },
   {
    "begin": "100.400",
    "children": [],
-   "end": "107.720",
-   "id": "f000006",
+   "end": "104.520",
+   "id": "f000013",
    "language": "eng",
    "lines": [
-    "\"The Half-Blood Prince, he was called,\" Harry said. \"How many girls have been Princes?\""
+    "\"The Half-Blood Prince, he was called,\" Harry said."
+   ]
+  },
+  {
+   "begin": "104.520",
+   "children": [],
+   "end": "107.720",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "\"How many girls have been Princes?\""
    ]
   },
   {
    "begin": "107.720",
    "children": [],
-   "end": "120.680",
-   "id": "f000007",
+   "end": "110.040",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "Hermione seemed to have no answer to this. She merely scowled and twitched her essay on The Principles of Rematerialization away from Ron, who was trying to read it upside down."
+    "Hermione seemed to have no answer to this."
+   ]
+  },
+  {
+   "begin": "110.040",
+   "children": [],
+   "end": "120.680",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "She merely scowled and twitched her essay on The Principles of Rematerialization away from Ron, who was trying to read it upside down."
    ]
   },
   {
    "begin": "120.680",
    "children": [],
    "end": "126.960",
-   "id": "f000008",
+   "id": "f000017",
    "language": "eng",
    "lines": [
     "Harry looked at his watch and hurriedly put the old copy of Advanced Potion-Making back into his bag."
@@ -84,7 +174,7 @@
    "begin": "126.960",
    "children": [],
    "end": "131.000",
-   "id": "f000009",
+   "id": "f000018",
    "language": "eng",
    "lines": [
     "\"It's five to eight, I'd better go, I'll be late for Dumbledore.\""
@@ -93,28 +183,48 @@
   {
    "begin": "131.000",
    "children": [],
-   "end": "138.160",
-   "id": "f000010",
+   "end": "134.360",
+   "id": "f000019",
    "language": "eng",
    "lines": [
-    "\"Ooooh!\" gasped Hermione, looking up at once. \"Good luck! We'll wait up, we want to hear what he teaches you!\""
+    "\"Ooooh!\" gasped Hermione, looking up at once."
+   ]
+  },
+  {
+   "begin": "134.360",
+   "children": [],
+   "end": "135.640",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "\"Good luck!"
+   ]
+  },
+  {
+   "begin": "135.640",
+   "children": [],
+   "end": "138.160",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "We'll wait up, we want to hear what he teaches you!\""
    ]
   },
   {
    "begin": "138.160",
    "children": [],
-   "end": "145.520",
-   "id": "f000011",
+   "end": "145.480",
+   "id": "f000022",
    "language": "eng",
    "lines": [
     "\"Hope it goes okay,\" said Ron, and the pair of them watched Harry leave through the portrait hole."
    ]
   },
   {
-   "begin": "145.520",
+   "begin": "145.480",
    "children": [],
    "end": "160.040",
-   "id": "f000012",
+   "id": "f000023",
    "language": "eng",
    "lines": [
     "Harry proceeded through deserted corridors, though he had to step hastily behind a statue when Professor Trelawney appeared around a corner, muttering to herself as she shuffled a pack of dirty-looking playing cards, reading them as she walked."
@@ -123,18 +233,48 @@
   {
    "begin": "160.040",
    "children": [],
-   "end": "184.840",
-   "id": "f000013",
+   "end": "167.480",
+   "id": "f000024",
    "language": "eng",
    "lines": [
-    "\"Two of spades: conflict,\" she murmured, as she passed the place where Harry crouched, hidden. \"Seven of spades: an ill omen. Ten of spades: violence. Knave of spades: a dark young man, possibly troubled, one who dislikes the questioner - \""
+    "\"Two of spades: conflict,\" she murmured, as she passed the place where Harry crouched, hidden."
    ]
   },
   {
-   "begin": "184.840",
+   "begin": "167.480",
+   "children": [],
+   "end": "171.200",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "\"Seven of spades: an ill omen."
+   ]
+  },
+  {
+   "begin": "171.200",
+   "children": [],
+   "end": "175.720",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Ten of spades: violence."
+   ]
+  },
+  {
+   "begin": "175.720",
+   "children": [],
+   "end": "184.800",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Knave of spades: a dark young man, possibly troubled, one who dislikes the questioner - \""
+   ]
+  },
+  {
+   "begin": "184.800",
    "children": [],
    "end": "188.720",
-   "id": "f000014",
+   "id": "f000028",
    "language": "eng",
    "lines": [
     "She stopped dead, right on the other side of Harry's statue."
@@ -143,18 +283,28 @@
   {
    "begin": "188.720",
    "children": [],
-   "end": "210.680",
-   "id": "f000015",
+   "end": "200.520",
+   "id": "f000029",
    "language": "eng",
    "lines": [
-    "\"Well, that can't be right,\" she said, annoyed, and Harry heard her reshuffling vigorously as she set off again, leaving nothing but a whiff of cooking sherry behind her. Harry waited until he was quite sure she had gone, then hurried off again until he reached the spot in the seventh-floor corridor where a single gargoyle stood against the wall."
+    "\"Well, that can't be right,\" she said, annoyed, and Harry heard her reshuffling vigorously as she set off again, leaving nothing but a whiff of cooking sherry behind her."
+   ]
+  },
+  {
+   "begin": "200.520",
+   "children": [],
+   "end": "210.680",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Harry waited until he was quite sure she had gone, then hurried off again until he reached the spot in the seventh-floor corridor where a single gargoyle stood against the wall."
    ]
   },
   {
    "begin": "210.680",
    "children": [],
    "end": "223.440",
-   "id": "f000016",
+   "id": "f000031",
    "language": "eng",
    "lines": [
     "\"Acid Pops,\" said Harry, and the gargoyle leapt aside; the wall behind it slid apart, and a moving spiral stone staircase was revealed, onto which"
@@ -164,7 +314,7 @@
    "begin": "223.440",
    "children": [],
    "end": "232.840",
-   "id": "f000017",
+   "id": "f000032",
    "language": "eng",
    "lines": [
     "Harry stepped, so that he was carried in smooth circles up to the door with the brass knocker that led to Dumbledore's office."
@@ -174,7 +324,7 @@
    "begin": "232.840",
    "children": [],
    "end": "233.680",
-   "id": "f000018",
+   "id": "f000033",
    "language": "eng",
    "lines": [
     "Harry knocked."
@@ -184,7 +334,7 @@
    "begin": "233.680",
    "children": [],
    "end": "236.880",
-   "id": "f000019",
+   "id": "f000034",
    "language": "eng",
    "lines": [
     "\"Come in,\" said Dumbledore's voice."
@@ -193,18 +343,48 @@
   {
    "begin": "236.880",
    "children": [],
-   "end": "251.200",
-   "id": "f000020",
+   "end": "241.440",
+   "id": "f000035",
    "language": "eng",
    "lines": [
-    "\"Good evening, sir,\" said Harry, walking into the headmaster's office. \"Ah, good evening, Harry. Sit down,\" said Dumbledore, smiling. \"I hope you've had an enjoyable first week back at school?\""
+    "\"Good evening, sir,\" said Harry, walking into the headmaster's office."
+   ]
+  },
+  {
+   "begin": "241.440",
+   "children": [],
+   "end": "244.840",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "\"Ah, good evening, Harry."
+   ]
+  },
+  {
+   "begin": "244.840",
+   "children": [],
+   "end": "247.320",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Sit down,\" said Dumbledore, smiling."
+   ]
+  },
+  {
+   "begin": "247.320",
+   "children": [],
+   "end": "251.200",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "\"I hope you've had an enjoyable first week back at school?\""
    ]
   },
   {
    "begin": "251.200",
    "children": [],
    "end": "253.760",
-   "id": "f000021",
+   "id": "f000039",
    "language": "eng",
    "lines": [
     "\"Yes, thanks, sir,\" said Harry."
@@ -214,7 +394,7 @@
    "begin": "253.760",
    "children": [],
    "end": "258.520",
-   "id": "f000022",
+   "id": "f000040",
    "language": "eng",
    "lines": [
     "\"You must have been busy, a detention under your belt already!\""
@@ -224,7 +404,7 @@
    "begin": "258.520",
    "children": [],
    "end": "264.200",
-   "id": "f000023",
+   "id": "f000041",
    "language": "eng",
    "lines": [
     "\"Er,\" began Harry awkwardly, but Dumbledore did not look too stern."
@@ -234,7 +414,7 @@
    "begin": "264.200",
    "children": [],
    "end": "270.680",
-   "id": "f000024",
+   "id": "f000042",
    "language": "eng",
    "lines": [
     "\"I have arranged with Professor Snape that you will do your detention next Saturday instead.\""
@@ -243,28 +423,58 @@
   {
    "begin": "270.680",
    "children": [],
-   "end": "314.440",
-   "id": "f000025",
+   "end": "284.960",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "\"Right,\" said Harry, who had more pressing matters on his mind than Snape's detention, and now looked around surreptitiously for some indication of what Dumbledore was planning to do with him this evening. The circular office looked just as it always did; the delicate silver instruments stood on spindle-legged tables, puffing smoke and whirring; portraits of previous headmasters and headmistresses dozed in their frames, and Dumbledore's magnificent phoenix, Fawkes, stood on his perch behind the door, watching Harry with bright interest. It did not even look as though Dumbledore had cleared a space for dueling practice."
+    "\"Right,\" said Harry, who had more pressing matters on his mind than Snape's detention, and now looked around surreptitiously for some indication of what Dumbledore was planning to do with him this evening."
+   ]
+  },
+  {
+   "begin": "284.960",
+   "children": [],
+   "end": "309.880",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "The circular office looked just as it always did; the delicate silver instruments stood on spindle-legged tables, puffing smoke and whirring; portraits of previous headmasters and headmistresses dozed in their frames, and Dumbledore's magnificent phoenix, Fawkes, stood on his perch behind the door, watching Harry with bright interest."
+   ]
+  },
+  {
+   "begin": "309.880",
+   "children": [],
+   "end": "314.440",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "It did not even look as though Dumbledore had cleared a space for dueling practice."
    ]
   },
   {
    "begin": "314.440",
    "children": [],
-   "end": "327.160",
-   "id": "f000026",
+   "end": "319.400",
+   "id": "f000046",
    "language": "eng",
    "lines": [
-    "\"So, Harry,\" said Dumbledore, in a businesslike voice. \"You have been wondering, I am sure, what I have planned for you during these - for want of a better word - lessons?\""
+    "\"So, Harry,\" said Dumbledore, in a businesslike voice."
+   ]
+  },
+  {
+   "begin": "319.400",
+   "children": [],
+   "end": "327.160",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "\"You have been wondering, I am sure, what I have planned for you during these - for want of a better word - lessons?\""
    ]
   },
   {
    "begin": "327.160",
    "children": [],
    "end": "328.360",
-   "id": "f000027",
+   "id": "f000048",
    "language": "eng",
    "lines": [
     "\"Yes, sir.\""
@@ -274,7 +484,7 @@
    "begin": "328.360",
    "children": [],
    "end": "342.760",
-   "id": "f000028",
+   "id": "f000049",
    "language": "eng",
    "lines": [
     "\"Well, I have decided that it is time, now that you know what prompted Lord Voldemort to try and kill you fifteen years ago, for you to be given certain information.\""
@@ -284,7 +494,7 @@
    "begin": "342.760",
    "children": [],
    "end": "343.680",
-   "id": "f000029",
+   "id": "f000050",
    "language": "eng",
    "lines": [
     "There was a pause."
@@ -293,18 +503,38 @@
   {
    "begin": "343.680",
    "children": [],
-   "end": "355.000",
-   "id": "f000030",
+   "end": "350.840",
+   "id": "f000051",
    "language": "eng",
    "lines": [
-    "\"You said, at the end of last term, you were going to tell me everything,\" said Harry. It was hard to keep a note of accusation from his voice. \"Sir,\""
+    "\"You said, at the end of last term, you were going to tell me everything,\" said Harry."
+   ]
+  },
+  {
+   "begin": "350.840",
+   "children": [],
+   "end": "353.760",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "It was hard to keep a note of accusation from his voice."
+   ]
+  },
+  {
+   "begin": "353.760",
+   "children": [],
+   "end": "355.000",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "\"Sir,\""
    ]
   },
   {
    "begin": "355.000",
    "children": [],
    "end": "355.480",
-   "id": "f000031",
+   "id": "f000054",
    "language": "eng",
    "lines": [
     "he added."
@@ -313,18 +543,48 @@
   {
    "begin": "355.480",
    "children": [],
-   "end": "384.400",
-   "id": "f000032",
+   "end": "359.400",
+   "id": "f000055",
    "language": "eng",
    "lines": [
-    "\"And so I did,\" said Dumbledore placidly. \"I told you everything I know. From this point forth, we shall be leaving the firm foundation of fact and journeying together through the murky marshes of memory into thickets of wildest guesswork. From here on in, Harry, I may be as woefully wrong as Humphrey Belcher, who believed the time was ripe for a cheese cauldron.\""
+    "\"And so I did,\" said Dumbledore placidly."
+   ]
+  },
+  {
+   "begin": "359.400",
+   "children": [],
+   "end": "363.280",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "\"I told you everything I know."
+   ]
+  },
+  {
+   "begin": "363.280",
+   "children": [],
+   "end": "376.320",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "From this point forth, we shall be leaving the firm foundation of fact and journeying together through the murky marshes of memory into thickets of wildest guesswork."
+   ]
+  },
+  {
+   "begin": "376.320",
+   "children": [],
+   "end": "384.400",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "From here on in, Harry, I may be as woefully wrong as Humphrey Belcher, who believed the time was ripe for a cheese cauldron.\""
    ]
   },
   {
    "begin": "384.400",
    "children": [],
    "end": "387.360",
-   "id": "f000033",
+   "id": "f000059",
    "language": "eng",
    "lines": [
     "\"But you think you're right?\" said Harry."
@@ -333,68 +593,138 @@
   {
    "begin": "387.360",
    "children": [],
-   "end": "401.240",
-   "id": "f000034",
+   "end": "393.040",
+   "id": "f000060",
    "language": "eng",
    "lines": [
-    "\"Naturally I do, but as I have already proven to you, I make mistakes like the next man. In fact, being - forgive me - rather cleverer than most men, my mistakes tend to be correspondingly huger.\""
+    "\"Naturally I do, but as I have already proven to you, I make mistakes like the next man."
+   ]
+  },
+  {
+   "begin": "393.040",
+   "children": [],
+   "end": "401.240",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "In fact, being - forgive me - rather cleverer than most men, my mistakes tend to be correspondingly huger.\""
    ]
   },
   {
    "begin": "401.240",
    "children": [],
-   "end": "412.720",
-   "id": "f000035",
+   "end": "410.240",
+   "id": "f000062",
    "language": "eng",
    "lines": [
-    "\"Sir,\" said Harry tentatively, \"does what you're going to tell me have anything to do with the prophecy? Will it help me... survive?\""
+    "\"Sir,\" said Harry tentatively, \"does what you're going to tell me have anything to do with the prophecy?"
+   ]
+  },
+  {
+   "begin": "410.240",
+   "children": [],
+   "end": "412.720",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "Will it help me... survive?\""
    ]
   },
   {
    "begin": "412.720",
    "children": [],
-   "end": "427.840",
-   "id": "f000036",
+   "end": "426.760",
+   "id": "f000064",
    "language": "eng",
    "lines": [
     "\"It has a very great deal to do with the prophecy,\" said Dumbledore, as casually as if Harry had asked him about the next day's weather, \"and I certainly hope that it will help you to survive.\""
    ]
   },
   {
-   "begin": "427.840",
+   "begin": "426.760",
    "children": [],
-   "end": "451.840",
-   "id": "f000037",
+   "end": "438.760",
+   "id": "f000065",
    "language": "eng",
    "lines": [
-    "Dumbledore got to his feet and walked around the desk, past Harry, who turned eagerly in his seat to watch Dumbledore bending over the cabinet beside the door. When Dumbledore straightened up, he was holding a familiar shallow stone basin etched with odd markings around its rim. He placed the Pensieve on the desk in front of Harry."
+    "Dumbledore got to his feet and walked around the desk, past Harry, who turned eagerly in his seat to watch Dumbledore bending over the cabinet beside the door."
+   ]
+  },
+  {
+   "begin": "438.760",
+   "children": [],
+   "end": "448.240",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "When Dumbledore straightened up, he was holding a familiar shallow stone basin etched with odd markings around its rim."
+   ]
+  },
+  {
+   "begin": "448.240",
+   "children": [],
+   "end": "451.840",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "He placed the Pensieve on the desk in front of Harry."
    ]
   },
   {
    "begin": "451.840",
    "children": [],
-   "end": "455.120",
-   "id": "f000038",
+   "end": "453.960",
+   "id": "f000068",
    "language": "eng",
    "lines": [
     "\"You look worried.\""
    ]
   },
   {
-   "begin": "455.120",
+   "begin": "453.960",
    "children": [],
-   "end": "478.600",
-   "id": "f000039",
+   "end": "459.720",
+   "id": "f000069",
    "language": "eng",
    "lines": [
-    "Harry had indeed been eyeing the Pensieve with some apprehension. His previous experiences with the odd device that stored and revealed thoughts and memories, though highly instructive, had also been uncomfortable. The last time he had disturbed its contents, he had seen much more than he would have wished. But Dumbledore was smiling."
+    "Harry had indeed been eyeing the Pensieve with some apprehension."
+   ]
+  },
+  {
+   "begin": "459.720",
+   "children": [],
+   "end": "470.480",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "His previous experiences with the odd device that stored and revealed thoughts and memories, though highly instructive, had also been uncomfortable."
+   ]
+  },
+  {
+   "begin": "470.480",
+   "children": [],
+   "end": "476.040",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "The last time he had disturbed its contents, he had seen much more than he would have wished."
+   ]
+  },
+  {
+   "begin": "476.040",
+   "children": [],
+   "end": "478.600",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "But Dumbledore was smiling."
    ]
   },
   {
    "begin": "478.600",
    "children": [],
    "end": "486.040",
-   "id": "f000040",
+   "id": "f000073",
    "language": "eng",
    "lines": [
     "\"This time, you enter the Pensieve with me... and, even more unusually, with permission.\""
@@ -404,7 +734,7 @@
    "begin": "486.040",
    "children": [],
    "end": "488.440",
-   "id": "f000041",
+   "id": "f000074",
    "language": "eng",
    "lines": [
     "\"Where are we going, sir?\""
@@ -414,7 +744,7 @@
    "begin": "488.440",
    "children": [],
    "end": "500.360",
-   "id": "f000042",
+   "id": "f000075",
    "language": "eng",
    "lines": [
     "\"For a trip down Bob Ogden's memory lane,\" said Dumbledore, pulling from his pocket a crystal bottle containing a swirling silvery-white subst-"
@@ -424,7 +754,7 @@
    "begin": "500.360",
    "children": [],
    "end": "500.640",
-   "id": "f000043",
+   "id": "f000076",
    "language": "eng",
    "lines": [
     "ance."
@@ -434,7 +764,7 @@
    "begin": "500.640",
    "children": [],
    "end": "502.960",
-   "id": "f000044",
+   "id": "f000077",
    "language": "eng",
    "lines": [
     "\"Who was Bob Ogden?\""
@@ -443,18 +773,48 @@
   {
    "begin": "502.960",
    "children": [],
-   "end": "525.600",
-   "id": "f000045",
+   "end": "508.960",
+   "id": "f000078",
    "language": "eng",
    "lines": [
-    "\"He was employed by the Department of Magical Law Enforcement,\" said Dumbledore. \"He died some time ago, but not before I had tracked him down and persuaded him to confide these recollections to me. We are about to accompany him on a visit he made in the course of his duties. If you will stand, Harry...\""
+    "\"He was employed by the Department of Magical Law Enforcement,\" said Dumbledore."
    ]
   },
   {
-   "begin": "525.600",
+   "begin": "508.960",
+   "children": [],
+   "end": "517.680",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "\"He died some time ago, but not before I had tracked him down and persuaded him to confide these recollections to me."
+   ]
+  },
+  {
+   "begin": "517.680",
+   "children": [],
+   "end": "522.640",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "We are about to accompany him on a visit he made in the course of his duties."
+   ]
+  },
+  {
+   "begin": "522.640",
+   "children": [],
+   "end": "524.360",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "If you will stand, Harry...\""
+   ]
+  },
+  {
+   "begin": "524.360",
    "children": [],
    "end": "533.040",
-   "id": "f000046",
+   "id": "f000082",
    "language": "eng",
    "lines": [
     "But Dumbledore was having difficulty pulling out the stopper of the crystal bottle: His injured hand seemed stiff and painful."
@@ -464,7 +824,7 @@
    "begin": "533.040",
    "children": [],
    "end": "535.600",
-   "id": "f000047",
+   "id": "f000083",
    "language": "eng",
    "lines": [
     "\"Shall - shall I, sir?\""
@@ -474,7 +834,7 @@
    "begin": "535.600",
    "children": [],
    "end": "537.320",
-   "id": "f000048",
+   "id": "f000084",
    "language": "eng",
    "lines": [
     "\"No matter, Harry - \""
@@ -484,7 +844,7 @@
    "begin": "537.320",
    "children": [],
    "end": "541.560",
-   "id": "f000049",
+   "id": "f000085",
    "language": "eng",
    "lines": [
     "Dumbledore pointed his wand at the bottle and the cork flew out."
@@ -493,28 +853,58 @@
   {
    "begin": "541.560",
    "children": [],
-   "end": "551.520",
-   "id": "f000050",
+   "end": "546.040",
+   "id": "f000086",
    "language": "eng",
    "lines": [
-    "\"Sir - how did you injure your hand?\" Harry asked again, looking at the blackened fingers with a mixture of revulsion and pity."
+    "\"Sir - how did you injure your hand?\""
+   ]
+  },
+  {
+   "begin": "546.040",
+   "children": [],
+   "end": "551.520",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "Harry asked again, looking at the blackened fingers with a mixture of revulsion and pity."
    ]
   },
   {
    "begin": "551.520",
    "children": [],
-   "end": "560.480",
-   "id": "f000051",
+   "end": "556.160",
+   "id": "f000088",
    "language": "eng",
    "lines": [
-    "\"Now is not the moment for that story, Harry. Not yet. We have an appointment with Bob Ogden.\""
+    "\"Now is not the moment for that story, Harry."
    ]
   },
   {
-   "begin": "560.480",
+   "begin": "556.160",
+   "children": [],
+   "end": "557.200",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "Not yet."
+   ]
+  },
+  {
+   "begin": "557.200",
+   "children": [],
+   "end": "559.360",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "We have an appointment with Bob Ogden.\""
+   ]
+  },
+  {
+   "begin": "559.360",
    "children": [],
    "end": "570.560",
-   "id": "f000052",
+   "id": "f000091",
    "language": "eng",
    "lines": [
     "Dumbledore tipped the silvery contents of the bottle into the Pensieve, where they swirled and shimmered, neither liquid nor gas."
@@ -523,88 +913,268 @@
   {
    "begin": "570.560",
    "children": [],
-   "end": "577.080",
-   "id": "f000053",
+   "end": "575.400",
+   "id": "f000092",
    "language": "eng",
    "lines": [
     "\"After you,\" said Dumbledore, gesturing toward the bowl."
    ]
   },
   {
-   "begin": "577.080",
+   "begin": "575.400",
    "children": [],
-   "end": "601.200",
-   "id": "f000054",
+   "end": "584.080",
+   "id": "f000093",
    "language": "eng",
    "lines": [
-    "Harry bent forward, took a deep breath, and plunged his face into the silvery substance. He felt his feet leave the office floor; he was falling, falling through whirling darkness and then, quite suddenly, he was blinking in dazzling sunlight. Before his eyes had adjusted, Dumbledore landed beside him."
+    "Harry bent forward, took a deep breath, and plunged his face into the silvery substance."
    ]
   },
   {
-   "begin": "601.200",
+   "begin": "584.080",
    "children": [],
-   "end": "638.320",
-   "id": "f000055",
+   "end": "595.120",
+   "id": "f000094",
    "language": "eng",
    "lines": [
-    "They were standing in a country lane bordered by high, tangled hedgerows, beneath a summer sky as bright and blue as a forget-me-not. Some ten feet in front of them stood a short, plump man wearing enormously thick glasses that reduced his eyes to molelike specks. He was reading a wooden signpost that was sticking out of the brambles on the left-hand side of the road. Harry knew this must be Ogden; he was the only person in sight, and he was also wearing the strange assortment of clothes so often chosen by"
+    "He felt his feet leave the office floor; he was falling, falling through whirling darkness and then, quite suddenly, he was blinking in dazzling sunlight."
    ]
   },
   {
-   "begin": "638.320",
+   "begin": "595.120",
+   "children": [],
+   "end": "599.800",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Before his eyes had adjusted, Dumbledore landed beside him."
+   ]
+  },
+  {
+   "begin": "599.800",
+   "children": [],
+   "end": "611.520",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "They were standing in a country lane bordered by high, tangled hedgerows, beneath a summer sky as bright and blue as a forget-me-not."
+   ]
+  },
+  {
+   "begin": "611.520",
+   "children": [],
+   "end": "621.400",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "Some ten feet in front of them stood a short, plump man wearing enormously thick glasses that reduced his eyes to molelike specks."
+   ]
+  },
+  {
+   "begin": "621.400",
+   "children": [],
+   "end": "627.360",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "He was reading a wooden signpost that was sticking out of the brambles on the left-hand side of the road."
+   ]
+  },
+  {
+   "begin": "627.360",
+   "children": [],
+   "end": "638.120",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "Harry knew this must be Ogden; he was the only person in sight, and he was also wearing the strange assortment of clothes so often chosen by"
+   ]
+  },
+  {
+   "begin": "638.120",
+   "children": [],
+   "end": "648.240",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "inexperienced wizards trying to look like Muggles: in this case, a frock coat and spats over a striped one-piece bathing costume."
+   ]
+  },
+  {
+   "begin": "648.240",
    "children": [],
    "end": "658.640",
-   "id": "f000056",
+   "id": "f000101",
    "language": "eng",
    "lines": [
-    "inexperienced wizards trying to look like Muggles: in this case, a frock coat and spats over a striped one-piece bathing costume. Before Harry had time to do more than register his bizarre appearance, however, Ogden had set off at a brisk walk down the lane."
+    "Before Harry had time to do more than register his bizarre appearance, however, Ogden had set off at a brisk walk down the lane."
    ]
   },
   {
    "begin": "658.640",
    "children": [],
-   "end": "679.080",
-   "id": "f000057",
+   "end": "660.400",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "Dumbledore and Harry followed. As they passed the wooden sign, Harry looked up at its two arms. The one pointing back the way they had come read: GREAT HANGLETON, 5 MILES. The arm pointing after Ogden said LITTLE HANGLETON, 1 MILE."
+    "Dumbledore and Harry followed."
    ]
   },
   {
-   "begin": "679.080",
+   "begin": "660.400",
    "children": [],
-   "end": "721.560",
-   "id": "f000058",
+   "end": "665.400",
+   "id": "f000103",
    "language": "eng",
    "lines": [
-    "They walked a short way with nothing to see but the hedgerows, the wide blue sky overhead and the swishing, frock-coated figure ahead. Then the lane curved to the left and fell away, sloping steeply down a hillside, so that they had a sudden, unexpected view of a whole valley laid out in front of them. Harry could see a village, undoubtedly Little Hangleton, nestled between two steep hills, its church and graveyard clearly visible. Across the valley, set on the opposite hillside, was a handsome manor house surrounded by a wide expanse of velvety green lawn."
+    "As they passed the wooden sign, Harry looked up at its two arms."
+   ]
+  },
+  {
+   "begin": "665.400",
+   "children": [],
+   "end": "672.440",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "The one pointing back the way they had come read: GREAT HANGLETON, 5 MILES."
+   ]
+  },
+  {
+   "begin": "672.440",
+   "children": [],
+   "end": "677.600",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "The arm pointing after Ogden said LITTLE HANGLETON, 1 MILE."
+   ]
+  },
+  {
+   "begin": "677.600",
+   "children": [],
+   "end": "688.440",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "They walked a short way with nothing to see but the hedgerows, the wide blue sky overhead and the swishing, frock-coated figure ahead."
+   ]
+  },
+  {
+   "begin": "688.440",
+   "children": [],
+   "end": "700.760",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "Then the lane curved to the left and fell away, sloping steeply down a hillside, so that they had a sudden, unexpected view of a whole valley laid out in front of them."
+   ]
+  },
+  {
+   "begin": "700.760",
+   "children": [],
+   "end": "711.480",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "Harry could see a village, undoubtedly Little Hangleton, nestled between two steep hills, its church and graveyard clearly visible."
+   ]
+  },
+  {
+   "begin": "711.480",
+   "children": [],
+   "end": "721.560",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "Across the valley, set on the opposite hillside, was a handsome manor house surrounded by a wide expanse of velvety green lawn."
    ]
   },
   {
    "begin": "721.560",
    "children": [],
-   "end": "760.080",
-   "id": "f000059",
+   "end": "727.320",
+   "id": "f000110",
    "language": "eng",
    "lines": [
-    "Ogden had broken into a reluctant trot due to the steep downward slope. Dumbledore lengthened his stride, and Harry hurried to keep up. He thought Little Hangleton must be their final destination and wondered, as he had done on the night they had found Slughorn, why they had to approach it from such a distance. He soon discovered that he was mistaken in thinking that they were going to the village, however. The lane curved to the right and when they rounded the corner, it was to see the very edge of Ogden's frock coat vanishing through a gap in the hedge."
+    "Ogden had broken into a reluctant trot due to the steep downward slope."
    ]
   },
   {
-   "begin": "760.080",
+   "begin": "727.320",
    "children": [],
-   "end": "791.600",
-   "id": "f000060",
+   "end": "732.360",
+   "id": "f000111",
    "language": "eng",
    "lines": [
-    "Dumbledore and Harry followed him onto a narrow dirt track bordered by higher and wilder hedgerows than those they had left behind. The path was crooked, rocky, and potholed, sloping downhill like the last one, and it seemed to be heading for a patch of dark trees a little below them. Sure enough, the track soon opened up at the copse, and Dumbledore and Harry came to a halt behind Ogden, who had stopped and drawn his wand."
+    "Dumbledore lengthened his stride, and Harry hurried to keep up."
    ]
   },
   {
-   "begin": "791.600",
+   "begin": "732.360",
+   "children": [],
+   "end": "742.880",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "He thought Little Hangleton must be their final destination and wondered, as he had done on the night they had found Slughorn, why they had to approach it from such a distance."
+   ]
+  },
+  {
+   "begin": "742.880",
+   "children": [],
+   "end": "748.080",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "He soon discovered that he was mistaken in thinking that they were going to the village, however."
+   ]
+  },
+  {
+   "begin": "748.080",
+   "children": [],
+   "end": "758.720",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "The lane curved to the right and when they rounded the corner, it was to see the very edge of Ogden's frock coat vanishing through a gap in the hedge."
+   ]
+  },
+  {
+   "begin": "758.720",
+   "children": [],
+   "end": "768.320",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Dumbledore and Harry followed him onto a narrow dirt track bordered by higher and wilder hedgerows than those they had left behind."
+   ]
+  },
+  {
+   "begin": "768.320",
+   "children": [],
+   "end": "778.960",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "The path was crooked, rocky, and potholed, sloping downhill like the last one, and it seemed to be heading for a patch of dark trees a little below them."
+   ]
+  },
+  {
+   "begin": "778.960",
+   "children": [],
+   "end": "790.080",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "Sure enough, the track soon opened up at the copse, and Dumbledore and Harry came to a halt behind Ogden, who had stopped and drawn his wand."
+   ]
+  },
+  {
+   "begin": "790.080",
    "children": [],
    "end": "798.440",
-   "id": "f000061",
+   "id": "f000118",
    "language": "eng",
    "lines": [
     "Despite the cloudless sky, the old trees ahead cast deep, dark, cool sha-"
@@ -613,28 +1183,78 @@
   {
    "begin": "798.440",
    "children": [],
-   "end": "851.480",
-   "id": "f000062",
+   "end": "806.720",
+   "id": "f000119",
    "language": "eng",
    "lines": [
-    "dows, and it was a few seconds before Harry's eyes discerned the building half-hidden amongst the tangle of trunks. It seemed to him a very strange location to choose for a house, or else an odd decision to leave the trees growing nearby, blocking all light and the view of the valley below. He wondered whether it was inhabited; its walls were mossy and so many tiles had fallen off the roof that the rafters were visible in places. Nettles grew all around it, their tips reaching the windows, which were tiny and thick with grime. Just as he had concluded that nobody could possibly live there, however, one of the windows was thrown open with a clatter, and a thin trickle of steam or smoke issued from it, as though somebody was cooking."
+    "dows, and it was a few seconds before Harry's eyes discerned the building half-hidden amongst the tangle of trunks."
+   ]
+  },
+  {
+   "begin": "806.720",
+   "children": [],
+   "end": "819.160",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "It seemed to him a very strange location to choose for a house, or else an odd decision to leave the trees growing nearby, blocking all light and the view of the valley below."
+   ]
+  },
+  {
+   "begin": "819.160",
+   "children": [],
+   "end": "829.560",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "He wondered whether it was inhabited; its walls were mossy and so many tiles had fallen off the roof that the rafters were visible in places."
+   ]
+  },
+  {
+   "begin": "829.560",
+   "children": [],
+   "end": "835.600",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "Nettles grew all around it, their tips reaching the windows, which were tiny and thick with grime."
+   ]
+  },
+  {
+   "begin": "835.600",
+   "children": [],
+   "end": "851.480",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Just as he had concluded that nobody could possibly live there, however, one of the windows was thrown open with a clatter, and a thin trickle of steam or smoke issued from it, as though somebody was cooking."
    ]
   },
   {
    "begin": "851.480",
    "children": [],
-   "end": "868.640",
-   "id": "f000063",
+   "end": "857.560",
+   "id": "f000124",
    "language": "eng",
    "lines": [
-    "Ogden moved forward quietly and, it seemed to Harry, rather cautiously. As the dark shadows of the trees slid over him, he stopped again, staring at the front door, to which somebody had nailed a dead snake."
+    "Ogden moved forward quietly and, it seemed to Harry, rather cautiously."
    ]
   },
   {
-   "begin": "868.640",
+   "begin": "857.560",
+   "children": [],
+   "end": "870.080",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "As the dark shadows of the trees slid over him, he stopped again, staring at the front door, to which somebody had nailed a dead snake."
+   ]
+  },
+  {
+   "begin": "870.080",
    "children": [],
    "end": "883.560",
-   "id": "f000064",
+   "id": "f000126",
    "language": "eng",
    "lines": [
     "Then there was a rustle and a crack, and a man in rags dropped from the nearest tree, landing on his feet right in front of Ogden, who leapt backward so fast he stood on the tails of his frock coat and stumbled."
@@ -643,58 +1263,98 @@
   {
    "begin": "883.560",
    "children": [],
-   "end": "887.160",
-   "id": "f000065",
+   "end": "886.120",
+   "id": "f000127",
    "language": "eng",
    "lines": [
     "\"You're not welcome.\""
    ]
   },
   {
-   "begin": "887.160",
+   "begin": "886.120",
    "children": [],
-   "end": "912.880",
-   "id": "f000066",
+   "end": "893.000",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "The man standing before them had thick hair so matted with dirt it could have been any color. Several of his teeth were missing. His eyes were small and dark and stared in opposite directions. He might have looked comical, but he did not; the effect was frightening, and Harry could not blame Ogden for backing away several more paces before he spoke."
+    "The man standing before them had thick hair so matted with dirt it could have been any color."
    ]
   },
   {
-   "begin": "912.880",
+   "begin": "893.000",
    "children": [],
-   "end": "918.400",
-   "id": "f000067",
+   "end": "896.080",
+   "id": "f000129",
    "language": "eng",
    "lines": [
-    "\"Er - good morning. I'm from the Ministry of Magic - \""
+    "Several of his teeth were missing."
+   ]
+  },
+  {
+   "begin": "896.080",
+   "children": [],
+   "end": "901.160",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "His eyes were small and dark and stared in opposite directions."
+   ]
+  },
+  {
+   "begin": "901.160",
+   "children": [],
+   "end": "912.240",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "He might have looked comical, but he did not; the effect was frightening, and Harry could not blame Ogden for backing away several more paces before he spoke."
+   ]
+  },
+  {
+   "begin": "912.240",
+   "children": [],
+   "end": "916.280",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "\"Er - good morning."
+   ]
+  },
+  {
+   "begin": "916.280",
+   "children": [],
+   "end": "918.400",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "I'm from the Ministry of Magic - \""
    ]
   },
   {
    "begin": "918.400",
    "children": [],
-   "end": "920.280",
-   "id": "f000068",
+   "end": "920.960",
+   "id": "f000134",
    "language": "eng",
    "lines": [
     "\"You're not welcome.\""
    ]
   },
   {
-   "begin": "920.280",
+   "begin": "920.960",
    "children": [],
-   "end": "928.360",
-   "id": "f000069",
+   "end": "927.120",
+   "id": "f000135",
    "language": "eng",
    "lines": [
     "\"Er - I'm sorry - I don't understand you,\" said Ogden nervously."
    ]
   },
   {
-   "begin": "928.360",
+   "begin": "927.120",
    "children": [],
    "end": "941.240",
-   "id": "f000070",
+   "id": "f000136",
    "language": "eng",
    "lines": [
     "Harry thought Ogden was being extremely dim; the stranger was making himself very clear in Harry's opinion, particularly as he was brandishing a wand in one hand and a short and rather bloody knife in the other."
@@ -704,7 +1364,7 @@
    "begin": "941.240",
    "children": [],
    "end": "946.600",
-   "id": "f000071",
+   "id": "f000137",
    "language": "eng",
    "lines": [
     "\"You understand him, I'm sure, Harry?\" said Dumbledore quietly."
@@ -713,28 +1373,38 @@
   {
    "begin": "946.600",
    "children": [],
-   "end": "952.040",
-   "id": "f000072",
+   "end": "950.520",
+   "id": "f000138",
    "language": "eng",
    "lines": [
-    "\"Yes, of course,\" said Harry, slightly nonplussed. \"Why can't Ogden?\""
+    "\"Yes, of course,\" said Harry, slightly nonplussed."
+   ]
+  },
+  {
+   "begin": "950.520",
+   "children": [],
+   "end": "952.040",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "\"Why can't Ogden?\""
    ]
   },
   {
    "begin": "952.040",
    "children": [],
-   "end": "958.400",
-   "id": "f000073",
+   "end": "958.360",
+   "id": "f000140",
    "language": "eng",
    "lines": [
     "But as his eyes found the dead snake on the door again, he suddenly un-"
    ]
   },
   {
-   "begin": "958.400",
+   "begin": "958.360",
    "children": [],
    "end": "959.000",
-   "id": "f000074",
+   "id": "f000141",
    "language": "eng",
    "lines": [
     "derstood."
@@ -744,7 +1414,7 @@
    "begin": "959.000",
    "children": [],
    "end": "962.120",
-   "id": "f000075",
+   "id": "f000142",
    "language": "eng",
    "lines": [
     "\"He's speaking Parseltongue?\""
@@ -754,7 +1424,7 @@
    "begin": "962.120",
    "children": [],
    "end": "966.320",
-   "id": "f000076",
+   "id": "f000143",
    "language": "eng",
    "lines": [
     "\"Very good,\" said Dumbledore, nodding and smiling."
@@ -764,7 +1434,7 @@
    "begin": "966.320",
    "children": [],
    "end": "973.320",
-   "id": "f000077",
+   "id": "f000144",
    "language": "eng",
    "lines": [
     "The man in rags was now advancing on Ogden, knife in one hand, wand in the other."
@@ -774,7 +1444,7 @@
    "begin": "973.320",
    "children": [],
    "end": "985.400",
-   "id": "f000078",
+   "id": "f000145",
    "language": "eng",
    "lines": [
     "\"Now, look - \" Ogden began, but too late: There was a bang, and Ogden was on the ground, clutching his nose, while a nasty yellowish goo squirted from between his fingers."
@@ -784,7 +1454,7 @@
    "begin": "985.400",
    "children": [],
    "end": "989.080",
-   "id": "f000079",
+   "id": "f000146",
    "language": "eng",
    "lines": [
     "\"Morfin!\" said a loud voice."
@@ -793,18 +1463,38 @@
   {
    "begin": "989.080",
    "children": [],
-   "end": "1023.160",
-   "id": "f000080",
+   "end": "997.480",
+   "id": "f000147",
    "language": "eng",
    "lines": [
-    "An elderly man had come hurrying out of the cottage, banging the door behind him so that the dead snake swung pathetically. This man was shorter than the first, and oddly proportioned; his shoulders were very broad and his arms overlong, which, with his bright brown eyes, short scrubby hair, and wrinkled face, gave him the look of a powerful, aged monkey. He came to a halt beside the man with the knife, who was now cackling with laughter at the sight of Ogden on the ground."
+    "An elderly man had come hurrying out of the cottage, banging the door behind him so that the dead snake swung pathetically."
+   ]
+  },
+  {
+   "begin": "997.480",
+   "children": [],
+   "end": "1015.600",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "This man was shorter than the first, and oddly proportioned; his shoulders were very broad and his arms overlong, which, with his bright brown eyes, short scrubby hair, and wrinkled face, gave him the look of a powerful, aged monkey."
+   ]
+  },
+  {
+   "begin": "1015.600",
+   "children": [],
+   "end": "1023.160",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "He came to a halt beside the man with the knife, who was now cackling with laughter at the sight of Ogden on the ground."
    ]
   },
   {
    "begin": "1023.160",
    "children": [],
    "end": "1028.080",
-   "id": "f000081",
+   "id": "f000150",
    "language": "eng",
    "lines": [
     "\"Ministry, is it?\" said the older man, looking down at Ogden."
@@ -813,28 +1503,48 @@
   {
    "begin": "1028.080",
    "children": [],
-   "end": "1035.040",
-   "id": "f000082",
+   "end": "1032.240",
+   "id": "f000151",
    "language": "eng",
    "lines": [
-    "\"Correct!\" said Ogden angrily, dabbing his face. \"And you, I take it, are Mr. Gaunt?\""
+    "\"Correct!\" said Ogden angrily, dabbing his face."
+   ]
+  },
+  {
+   "begin": "1032.240",
+   "children": [],
+   "end": "1035.040",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "\"And you, I take it, are Mr. Gaunt?\""
    ]
   },
   {
    "begin": "1035.040",
    "children": [],
-   "end": "1039.560",
-   "id": "f000083",
+   "end": "1037.520",
+   "id": "f000153",
    "language": "eng",
    "lines": [
-    "\"S'right,\" said Gaunt. \"Got you in the face, did he?\""
+    "\"S'right,\" said Gaunt."
+   ]
+  },
+  {
+   "begin": "1037.520",
+   "children": [],
+   "end": "1039.560",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "\"Got you in the face, did he?\""
    ]
   },
   {
    "begin": "1039.560",
    "children": [],
    "end": "1042.280",
-   "id": "f000084",
+   "id": "f000155",
    "language": "eng",
    "lines": [
     "\"Yes, he did!\" snapped Ogden."
@@ -843,18 +1553,38 @@
   {
    "begin": "1042.280",
    "children": [],
-   "end": "1054.520",
-   "id": "f000085",
+   "end": "1047.360",
+   "id": "f000156",
    "language": "eng",
    "lines": [
-    "\"Should've made your presence known, shouldn't you?\" said Gaunt aggressively. \"This is private property. Can't just walk in here and not expect my son to defend himself.\""
+    "\"Should've made your presence known, shouldn't you?\" said Gaunt aggressively."
+   ]
+  },
+  {
+   "begin": "1047.360",
+   "children": [],
+   "end": "1049.880",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "\"This is private property."
+   ]
+  },
+  {
+   "begin": "1049.880",
+   "children": [],
+   "end": "1054.520",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "Can't just walk in here and not expect my son to defend himself.\""
    ]
   },
   {
    "begin": "1054.520",
    "children": [],
    "end": "1059.880",
-   "id": "f000086",
+   "id": "f000159",
    "language": "eng",
    "lines": [
     "\"Defend himself against what, man?\" said Ogden, clambering back to his feet."
@@ -863,88 +1593,188 @@
   {
    "begin": "1059.880",
    "children": [],
-   "end": "1066.560",
-   "id": "f000087",
+   "end": "1061.440",
+   "id": "f000160",
    "language": "eng",
    "lines": [
-    "\"Busybodies. Intruders. Muggles and filth.\""
+    "\"Busybodies."
    ]
   },
   {
-   "begin": "1066.560",
+   "begin": "1061.440",
    "children": [],
-   "end": "1079.600",
-   "id": "f000088",
+   "end": "1062.880",
+   "id": "f000161",
    "language": "eng",
    "lines": [
-    "Ogden pointed his wand at his own nose, which was still issuing large amounts of what looked like yellow pus, and the flow stopped at once. Mr. Gaunt spoke out of the corner of his mouth to Morfin."
+    "Intruders."
+   ]
+  },
+  {
+   "begin": "1062.880",
+   "children": [],
+   "end": "1065.320",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "Muggles and filth.\""
+   ]
+  },
+  {
+   "begin": "1065.320",
+   "children": [],
+   "end": "1075.680",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "Ogden pointed his wand at his own nose, which was still issuing large amounts of what looked like yellow pus, and the flow stopped at once."
+   ]
+  },
+  {
+   "begin": "1075.680",
+   "children": [],
+   "end": "1079.600",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "Mr. Gaunt spoke out of the corner of his mouth to Morfin."
    ]
   },
   {
    "begin": "1079.600",
    "children": [],
-   "end": "1085.000",
-   "id": "f000089",
+   "end": "1082.240",
+   "id": "f000165",
    "language": "eng",
    "lines": [
-    "\"Get in the house. Don't argue.\""
+    "\"Get in the house."
    ]
   },
   {
-   "begin": "1085.000",
+   "begin": "1082.240",
    "children": [],
-   "end": "1114.240",
-   "id": "f000090",
+   "end": "1083.920",
+   "id": "f000166",
    "language": "eng",
    "lines": [
-    "This time, ready for it, Harry recognized Parseltongue; even while he could understand what was being said, he distinguished the weird hissing noise that was all Ogden could hear. Morfin seemed to be on the point of disagreeing, but when his father cast him a threatening look he changed his mind, lumbering away to the cottage with an odd rolling gait and slamming the front door behind him, so that the snake swung sadly again."
+    "Don't argue.\""
+   ]
+  },
+  {
+   "begin": "1083.920",
+   "children": [],
+   "end": "1096.400",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "This time, ready for it, Harry recognized Parseltongue; even while he could understand what was being said, he distinguished the weird hissing noise that was all Ogden could hear."
+   ]
+  },
+  {
+   "begin": "1096.400",
+   "children": [],
+   "end": "1114.240",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "Morfin seemed to be on the point of disagreeing, but when his father cast him a threatening look he changed his mind, lumbering away to the cottage with an odd rolling gait and slamming the front door behind him, so that the snake swung sadly again."
    ]
   },
   {
    "begin": "1114.240",
    "children": [],
-   "end": "1125.040",
-   "id": "f000091",
+   "end": "1122.120",
+   "id": "f000169",
    "language": "eng",
    "lines": [
-    "\"It's your son I'm here to see, Mr. Gaunt,\" said Ogden, as he mopped the last of the pus from the front of his coat. \"That was Morfin, wasn't it?\""
+    "\"It's your son I'm here to see, Mr. Gaunt,\" said Ogden, as he mopped the last of the pus from the front of his coat."
+   ]
+  },
+  {
+   "begin": "1122.120",
+   "children": [],
+   "end": "1125.040",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "\"That was Morfin, wasn't it?\""
    ]
   },
   {
    "begin": "1125.040",
    "children": [],
-   "end": "1133.440",
-   "id": "f000092",
+   "end": "1129.200",
+   "id": "f000171",
    "language": "eng",
    "lines": [
-    "\"Ar, that was Morfin,\" said the old man indifferently. \"Are you pureblood?\" he asked, suddenly aggressive."
+    "\"Ar, that was Morfin,\" said the old man indifferently."
+   ]
+  },
+  {
+   "begin": "1129.200",
+   "children": [],
+   "end": "1133.440",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "\"Are you pureblood?\" he asked, suddenly aggressive."
    ]
   },
   {
    "begin": "1133.440",
    "children": [],
-   "end": "1156.240",
-   "id": "f000093",
+   "end": "1140.400",
+   "id": "f000173",
    "language": "eng",
    "lines": [
-    "\"That's neither here nor there,\" said Ogden coldly, and Harry felt his respect for Ogden rise. Apparently Gaunt felt rather differently. He squinted into Ogden's face and muttered, in what was clearly supposed to be an offensive tone, \"Now I come to think about it, I've seen noses like yours down in the village.\""
+    "\"That's neither here nor there,\" said Ogden coldly, and Harry felt his respect for Ogden rise."
+   ]
+  },
+  {
+   "begin": "1140.400",
+   "children": [],
+   "end": "1143.880",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "Apparently Gaunt felt rather differently."
+   ]
+  },
+  {
+   "begin": "1143.880",
+   "children": [],
+   "end": "1156.240",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "He squinted into Ogden's face and muttered, in what was clearly supposed to be an offensive tone, \"Now I come to think about it, I've seen noses like yours down in the village.\""
    ]
   },
   {
    "begin": "1156.240",
    "children": [],
-   "end": "1164.400",
-   "id": "f000094",
+   "end": "1160.600",
+   "id": "f000176",
    "language": "eng",
    "lines": [
-    "\"I don't doubt it, if your son's been let loose on them,\" said Ogden. \"Perhaps we could continue this discussion inside?\""
+    "\"I don't doubt it, if your son's been let loose on them,\" said Ogden."
+   ]
+  },
+  {
+   "begin": "1160.600",
+   "children": [],
+   "end": "1164.400",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "\"Perhaps we could continue this discussion inside?\""
    ]
   },
   {
    "begin": "1164.400",
    "children": [],
    "end": "1166.480",
-   "id": "f000095",
+   "id": "f000178",
    "language": "eng",
    "lines": [
     "\"Inside?\""
@@ -953,58 +1783,138 @@
   {
    "begin": "1166.480",
    "children": [],
-   "end": "1172.640",
-   "id": "f000096",
+   "end": "1168.080",
+   "id": "f000179",
    "language": "eng",
    "lines": [
-    "\"Yes, Mr. Gaunt. I've already told you. I'm here about Morfin. We sent an owl - \""
+    "\"Yes, Mr. Gaunt."
+   ]
+  },
+  {
+   "begin": "1168.080",
+   "children": [],
+   "end": "1169.080",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "I've already told you."
+   ]
+  },
+  {
+   "begin": "1169.080",
+   "children": [],
+   "end": "1171.200",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "I'm here about Morfin."
+   ]
+  },
+  {
+   "begin": "1171.200",
+   "children": [],
+   "end": "1172.640",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "We sent an owl - \""
    ]
   },
   {
    "begin": "1172.640",
    "children": [],
-   "end": "1177.120",
-   "id": "f000097",
+   "end": "1175.320",
+   "id": "f000183",
    "language": "eng",
    "lines": [
-    "\"I've no use for owls,\" said Gaunt. \"I don't open letters.\""
+    "\"I've no use for owls,\" said Gaunt."
+   ]
+  },
+  {
+   "begin": "1175.320",
+   "children": [],
+   "end": "1177.120",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "\"I don't open letters.\""
    ]
   },
   {
    "begin": "1177.120",
    "children": [],
-   "end": "1190.120",
-   "id": "f000098",
+   "end": "1183.120",
+   "id": "f000185",
    "language": "eng",
    "lines": [
-    "\"Then you can hardly complain that you get no warning of visitors,\" said Ogden tartly. \"I am here following a serious breach of Wizarding law, which occurred here in the early hours of this morning - \""
+    "\"Then you can hardly complain that you get no warning of visitors,\" said Ogden tartly."
+   ]
+  },
+  {
+   "begin": "1183.120",
+   "children": [],
+   "end": "1190.120",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "\"I am here following a serious breach of Wizarding law, which occurred here in the early hours of this morning - \""
    ]
   },
   {
    "begin": "1190.120",
    "children": [],
-   "end": "1198.840",
-   "id": "f000099",
+   "end": "1193.600",
+   "id": "f000187",
    "language": "eng",
    "lines": [
-    "\"All right, all right, all right!\" bellowed Gaunt. \"Come in the bleeding house, then, and much good it'll do you!\""
+    "\"All right, all right, all right!\" bellowed Gaunt."
    ]
   },
   {
-   "begin": "1198.840",
+   "begin": "1193.600",
    "children": [],
-   "end": "1220.040",
-   "id": "f000100",
+   "end": "1197.080",
+   "id": "f000188",
    "language": "eng",
    "lines": [
-    "The house seemed to contain three tiny rooms. Two doors led off the main room, which served as kitchen and living room combined. Morfin was sitting in a filthy armchair beside the smoking fire, twisting a live adder between his thick fingers and crooning softly at it in Parseltongue:"
+    "\"Come in the bleeding house, then, and much good it'll do you!\""
+   ]
+  },
+  {
+   "begin": "1197.080",
+   "children": [],
+   "end": "1202.720",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "The house seemed to contain three tiny rooms."
+   ]
+  },
+  {
+   "begin": "1202.720",
+   "children": [],
+   "end": "1208.000",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "Two doors led off the main room, which served as kitchen and living room combined."
+   ]
+  },
+  {
+   "begin": "1208.000",
+   "children": [],
+   "end": "1220.040",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Morfin was sitting in a filthy armchair beside the smoking fire, twisting a live adder between his thick fingers and crooning softly at it in Parseltongue:"
    ]
   },
   {
    "begin": "1220.040",
    "children": [],
    "end": "1235.280",
-   "id": "f000101",
+   "id": "f000192",
    "language": "eng",
    "lines": [
     "Hissy, hissy, little snakey, Slither on the floor, You be good to Morfin Or he'll nail you to the door."
@@ -1013,18 +1923,58 @@
   {
    "begin": "1235.280",
    "children": [],
-   "end": "1281.000",
-   "id": "f000102",
+   "end": "1250.640",
+   "id": "f000193",
    "language": "eng",
    "lines": [
-    "There was a scuffling noise in the corner beside the open window, and Harry realized that there was somebody else in the room, a girl whose ragged gray dress was the exact color of the dirty stone wall behind her. She was standing beside a steaming pot on a grimy black stove, and was fiddling around with the shelf of squalid-looking pots and pans above it. Her hair was lank and dull and she had a plain, pale, rather heavy face. Her eyes, like her brother's, stared in opposite directions. She looked a little cleaner than the two men, but Harry thought he had never seen a more defeated-looking person."
+    "There was a scuffling noise in the corner beside the open window, and Harry realized that there was somebody else in the room, a girl whose ragged gray dress was the exact color of the dirty stone wall behind her."
+   ]
+  },
+  {
+   "begin": "1250.640",
+   "children": [],
+   "end": "1260.760",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "She was standing beside a steaming pot on a grimy black stove, and was fiddling around with the shelf of squalid-looking pots and pans above it."
+   ]
+  },
+  {
+   "begin": "1260.760",
+   "children": [],
+   "end": "1267.880",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "Her hair was lank and dull and she had a plain, pale, rather heavy face."
+   ]
+  },
+  {
+   "begin": "1267.880",
+   "children": [],
+   "end": "1272.720",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "Her eyes, like her brother's, stared in opposite directions."
+   ]
+  },
+  {
+   "begin": "1272.720",
+   "children": [],
+   "end": "1281.000",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "She looked a little cleaner than the two men, but Harry thought he had never seen a more defeated-looking person."
    ]
   },
   {
    "begin": "1281.000",
    "children": [],
    "end": "1288.280",
-   "id": "f000103",
+   "id": "f000198",
    "language": "eng",
    "lines": [
     "\"M'daughter, Merope,\" said Gaunt grudgingly, as Ogden looked inquiringly toward her."
@@ -1034,7 +1984,7 @@
    "begin": "1288.280",
    "children": [],
    "end": "1290.880",
-   "id": "f000104",
+   "id": "f000199",
    "language": "eng",
    "lines": [
     "\"Good morning,\" said Ogden."
@@ -1043,28 +1993,38 @@
   {
    "begin": "1290.880",
    "children": [],
-   "end": "1306.720",
-   "id": "f000105",
+   "end": "1300.560",
+   "id": "f000200",
    "language": "eng",
    "lines": [
-    "She did not answer, but with a frightened glance at her father turned her back on the room and continued shifting the pots on the shelf behind her. \"Well, Mr. Gaunt,\" said Ogden, \"to get straight to the point, we have"
+    "She did not answer, but with a frightened glance at her father turned her back on the room and continued shifting the pots on the shelf behind her."
    ]
   },
   {
-   "begin": "1306.720",
+   "begin": "1300.560",
    "children": [],
-   "end": "1311.520",
-   "id": "f000106",
+   "end": "1306.680",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "\"Well, Mr. Gaunt,\" said Ogden, \"to get straight to the point, we have"
+   ]
+  },
+  {
+   "begin": "1306.680",
+   "children": [],
+   "end": "1311.800",
+   "id": "f000202",
    "language": "eng",
    "lines": [
     "reason to believe that your son, Morfin, performed magic in front of a"
    ]
   },
   {
-   "begin": "1311.520",
+   "begin": "1311.800",
    "children": [],
    "end": "1313.080",
-   "id": "f000107",
+   "id": "f000203",
    "language": "eng",
    "lines": [
     "Muggle late last night.\""
@@ -1073,108 +2033,218 @@
   {
    "begin": "1313.080",
    "children": [],
-   "end": "1318.760",
-   "id": "f000108",
+   "end": "1315.840",
+   "id": "f000204",
    "language": "eng",
    "lines": [
-    "There was a deafening clang. Merope had dropped one of the pots."
+    "There was a deafening clang."
+   ]
+  },
+  {
+   "begin": "1315.840",
+   "children": [],
+   "end": "1318.760",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "Merope had dropped one of the pots."
    ]
   },
   {
    "begin": "1318.760",
    "children": [],
-   "end": "1329.600",
-   "id": "f000109",
+   "end": "1320.320",
+   "id": "f000206",
    "language": "eng",
    "lines": [
-    "\"Pick it up!\" Gaunt bellowed at her. \"That's it, grub on the floor like some filthy Muggle, what's your wand for, you useless sack of muck?\""
+    "\"Pick it up!\""
+   ]
+  },
+  {
+   "begin": "1320.320",
+   "children": [],
+   "end": "1322.000",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "Gaunt bellowed at her."
+   ]
+  },
+  {
+   "begin": "1322.000",
+   "children": [],
+   "end": "1329.600",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "\"That's it, grub on the floor like some filthy Muggle, what's your wand for, you useless sack of muck?\""
    ]
   },
   {
    "begin": "1329.600",
    "children": [],
-   "end": "1354.320",
-   "id": "f000110",
+   "end": "1330.600",
+   "id": "f000209",
    "language": "eng",
    "lines": [
-    "\"Mr. Gaunt, please!\" said Ogden in a shocked voice, as Merope, who had already picked up the pot, flushed blotchily scarlet, lost her grip on the pot again, drew her wand shakily from her pocket, pointed it at the pot, and muttered a hasty, inaudible spell that caused the pot to shoot across the floor away from her, hit the opposite wall, and crack in two."
+    "\"Mr."
+   ]
+  },
+  {
+   "begin": "1330.600",
+   "children": [],
+   "end": "1354.320",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "Gaunt, please!\" said Ogden in a shocked voice, as Merope, who had already picked up the pot, flushed blotchily scarlet, lost her grip on the pot again, drew her wand shakily from her pocket, pointed it at the pot, and muttered a hasty, inaudible spell that caused the pot to shoot across the floor away from her, hit the opposite wall, and crack in two."
    ]
   },
   {
    "begin": "1354.320",
    "children": [],
-   "end": "1360.840",
-   "id": "f000111",
+   "end": "1357.960",
+   "id": "f000211",
    "language": "eng",
    "lines": [
-    "Morfin let out a mad cackle of laughter. Gaunt screamed, \"Mend it, you"
+    "Morfin let out a mad cackle of laughter."
+   ]
+  },
+  {
+   "begin": "1357.960",
+   "children": [],
+   "end": "1360.840",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "Gaunt screamed, \"Mend it, you"
    ]
   },
   {
    "begin": "1360.840",
    "children": [],
-   "end": "1363.920",
-   "id": "f000112",
+   "end": "1362.920",
+   "id": "f000213",
    "language": "eng",
    "lines": [
     "pointless lump, mend it!\""
    ]
   },
   {
-   "begin": "1363.920",
+   "begin": "1362.920",
    "children": [],
-   "end": "1376.040",
-   "id": "f000113",
+   "end": "1372.720",
+   "id": "f000214",
    "language": "eng",
    "lines": [
-    "Merope stumbled across the room, but before she had time to raise her wand, Ogden had lifted his own and said firmly, \"Reparo.\" The pot mended itself instantly."
+    "Merope stumbled across the room, but before she had time to raise her wand, Ogden had lifted his own and said firmly, \"Reparo.\""
+   ]
+  },
+  {
+   "begin": "1372.720",
+   "children": [],
+   "end": "1376.040",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "The pot mended itself instantly."
    ]
   },
   {
    "begin": "1376.040",
    "children": [],
-   "end": "1394.400",
-   "id": "f000114",
+   "end": "1389.040",
+   "id": "f000216",
    "language": "eng",
    "lines": [
-    "Gaunt looked for a moment as though he was going to shout at Ogden, but seemed to think better of it: Instead, he jeered at his daughter, \"Lucky the nice man from the Ministry's here, isn't it? Perhaps he'll take you off my hands, perhaps he doesn't mind dirty Squibs \""
+    "Gaunt looked for a moment as though he was going to shout at Ogden, but seemed to think better of it: Instead, he jeered at his daughter, \"Lucky the nice man from the Ministry's here, isn't it?"
+   ]
+  },
+  {
+   "begin": "1389.040",
+   "children": [],
+   "end": "1394.400",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "Perhaps he'll take you off my hands, perhaps he doesn't mind dirty Squibs \""
    ]
   },
   {
    "begin": "1394.400",
    "children": [],
-   "end": "1415.160",
-   "id": "f000115",
+   "end": "1403.360",
+   "id": "f000218",
    "language": "eng",
    "lines": [
-    "Without looking at anybody or thanking Ogden, Merope picked up the pot and returned it, hands trembling, to its shelf. She then stood quite still, her back against the wall between the filthy window and the stove, as though she wished for nothing more than to sink into the stone and vanish."
+    "Without looking at anybody or thanking Ogden, Merope picked up the pot and returned it, hands trembling, to its shelf."
+   ]
+  },
+  {
+   "begin": "1403.360",
+   "children": [],
+   "end": "1415.160",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "She then stood quite still, her back against the wall between the filthy window and the stove, as though she wished for nothing more than to sink into the stone and vanish."
    ]
   },
   {
    "begin": "1415.160",
    "children": [],
-   "end": "1422.880",
-   "id": "f000116",
+   "end": "1417.160",
+   "id": "f000220",
    "language": "eng",
    "lines": [
-    "\"Mr. Gaunt,\" Ogden began again, \"as I've said: the reason for my visit.\""
+    "\"Mr."
+   ]
+  },
+  {
+   "begin": "1417.160",
+   "children": [],
+   "end": "1422.880",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "Gaunt,\" Ogden began again, \"as I've said: the reason for my visit.\""
    ]
   },
   {
    "begin": "1422.880",
    "children": [],
-   "end": "1431.920",
-   "id": "f000117",
+   "end": "1425.920",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "\"I heard you the first time!\" snapped Gaunt. \"And so what? Morfin gave a Muggle a bit of what was coming to him - what about it, then?\""
+    "\"I heard you the first time!\" snapped Gaunt."
+   ]
+  },
+  {
+   "begin": "1425.920",
+   "children": [],
+   "end": "1427.200",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "\"And so what?"
+   ]
+  },
+  {
+   "begin": "1427.200",
+   "children": [],
+   "end": "1431.920",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "Morfin gave a Muggle a bit of what was coming to him - what about it, then?\""
    ]
   },
   {
    "begin": "1431.920",
    "children": [],
    "end": "1436.880",
-   "id": "f000118",
+   "id": "f000225",
    "language": "eng",
    "lines": [
     "\"Morfin has broken Wizarding law,\" said Ogden sternly."
@@ -1183,28 +2253,68 @@
   {
    "begin": "1436.880",
    "children": [],
-   "end": "1452.720",
-   "id": "f000119",
+   "end": "1440.680",
+   "id": "f000226",
    "language": "eng",
    "lines": [
-    "\"'Morfin has broken Wizarding law.'\" Gaunt imitated Ogden's voice, making it pompous and singsong. Morfin cackled again. \"He taught a filthy Muggle a lesson, that's illegal now, is it?\""
+    "\"'Morfin has broken Wizarding law.'\""
+   ]
+  },
+  {
+   "begin": "1440.680",
+   "children": [],
+   "end": "1445.240",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "Gaunt imitated Ogden's voice, making it pompous and singsong."
+   ]
+  },
+  {
+   "begin": "1445.240",
+   "children": [],
+   "end": "1447.600",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "Morfin cackled again."
+   ]
+  },
+  {
+   "begin": "1447.600",
+   "children": [],
+   "end": "1452.720",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "\"He taught a filthy Muggle a lesson, that's illegal now, is it?\""
    ]
   },
   {
    "begin": "1452.720",
    "children": [],
-   "end": "1456.600",
-   "id": "f000120",
+   "end": "1454.920",
+   "id": "f000230",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Ogden. \"I'm afraid it is.\""
+    "\"Yes,\" said Ogden."
+   ]
+  },
+  {
+   "begin": "1454.920",
+   "children": [],
+   "end": "1456.600",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "\"I'm afraid it is.\""
    ]
   },
   {
    "begin": "1456.600",
    "children": [],
    "end": "1461.920",
-   "id": "f000121",
+   "id": "f000232",
    "language": "eng",
    "lines": [
     "He pulled from an inside pocket a small scroll of parchment and unrolled it."
@@ -1213,28 +2323,58 @@
   {
    "begin": "1461.920",
    "children": [],
-   "end": "1471.720",
-   "id": "f000122",
+   "end": "1467.680",
+   "id": "f000233",
    "language": "eng",
    "lines": [
-    "\"What's that, then, his sentence?\" said Gaunt, his voice rising angrily. \"It is a summons to the Ministry for a hearing - \""
+    "\"What's that, then, his sentence?\" said Gaunt, his voice rising angrily."
+   ]
+  },
+  {
+   "begin": "1467.680",
+   "children": [],
+   "end": "1471.720",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "\"It is a summons to the Ministry for a hearing - \""
    ]
   },
   {
    "begin": "1471.720",
    "children": [],
-   "end": "1478.400",
-   "id": "f000123",
+   "end": "1472.680",
+   "id": "f000235",
    "language": "eng",
    "lines": [
-    "\"Summons! Summons? Who do you think you are, summoning my son anywhere?\""
+    "\"Summons!"
+   ]
+  },
+  {
+   "begin": "1472.680",
+   "children": [],
+   "end": "1474.200",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "Summons?"
+   ]
+  },
+  {
+   "begin": "1474.200",
+   "children": [],
+   "end": "1478.400",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "Who do you think you are, summoning my son anywhere?\""
    ]
   },
   {
    "begin": "1478.400",
    "children": [],
    "end": "1483.400",
-   "id": "f000124",
+   "id": "f000238",
    "language": "eng",
    "lines": [
     "\"I'm Head of the Magical Law Enforcement Squad,\" said Ogden."
@@ -1243,18 +2383,38 @@
   {
    "begin": "1483.400",
    "children": [],
-   "end": "1502.800",
-   "id": "f000125",
+   "end": "1494.160",
+   "id": "f000239",
    "language": "eng",
    "lines": [
-    "\"And you think we're scum, do you?\" screamed Gaunt, advancing on Ogden now, with a dirty yellow-nailed finger pointing at his chest. \"Scum who'll come running when the Ministry tells 'em to? Do you know who you're talking to, you filthy little Mudblood, do you?\""
+    "\"And you think we're scum, do you?\" screamed Gaunt, advancing on Ogden now, with a dirty yellow-nailed finger pointing at his chest."
+   ]
+  },
+  {
+   "begin": "1494.160",
+   "children": [],
+   "end": "1497.800",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "\"Scum who'll come running when the Ministry tells 'em to?"
+   ]
+  },
+  {
+   "begin": "1497.800",
+   "children": [],
+   "end": "1502.800",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "Do you know who you're talking to, you filthy little Mudblood, do you?\""
    ]
   },
   {
    "begin": "1502.800",
    "children": [],
    "end": "1511.600",
-   "id": "f000126",
+   "id": "f000242",
    "language": "eng",
    "lines": [
     "\"I was under the impression that I was speaking to Mr. Gaunt,\" said Ogden, looking wary, but standing his ground."
@@ -1263,98 +2423,308 @@
   {
    "begin": "1511.600",
    "children": [],
-   "end": "1548.280",
-   "id": "f000127",
+   "end": "1514.520",
+   "id": "f000243",
    "language": "eng",
    "lines": [
-    "\"That's right!\" roared Gaunt. For a moment, Harry thought Gaunt was making an obscene hand gesture, but then realized that he was showing Ogden the ugly, black-stoned ring he was wearing on his middle finger, waving it before Ogden's eyes. \"See this? See this? Know what it is? Know where it came from? Centuries it's been in our family, that's how far back we go, and pure-blood all the way! Know how much I've been offered for this, with the Peverell coat of arms engraved on the stone?\""
+    "\"That's right!\" roared Gaunt."
+   ]
+  },
+  {
+   "begin": "1514.520",
+   "children": [],
+   "end": "1528.760",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "For a moment, Harry thought Gaunt was making an obscene hand gesture, but then realized that he was showing Ogden the ugly, black-stoned ring he was wearing on his middle finger, waving it before Ogden's eyes."
+   ]
+  },
+  {
+   "begin": "1528.760",
+   "children": [],
+   "end": "1530.360",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "\"See this?"
+   ]
+  },
+  {
+   "begin": "1530.360",
+   "children": [],
+   "end": "1531.800",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "See this?"
+   ]
+  },
+  {
+   "begin": "1531.800",
+   "children": [],
+   "end": "1533.120",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "Know what it is?"
+   ]
+  },
+  {
+   "begin": "1533.120",
+   "children": [],
+   "end": "1535.200",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "Know where it came from?"
+   ]
+  },
+  {
+   "begin": "1535.200",
+   "children": [],
+   "end": "1542.520",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "Centuries it's been in our family, that's how far back we go, and pure-blood all the way!"
+   ]
+  },
+  {
+   "begin": "1542.520",
+   "children": [],
+   "end": "1548.280",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "Know how much I've been offered for this, with the Peverell coat of arms engraved on the stone?\""
    ]
   },
   {
    "begin": "1548.280",
    "children": [],
-   "end": "1560.800",
-   "id": "f000128",
+   "end": "1558.560",
+   "id": "f000251",
    "language": "eng",
    "lines": [
-    "\"I've really no idea,\" said Ogden, blinking as the ring sailed within an inch of his nose, \"and it's quite beside the point, Mr. Gaunt. Your son has committed - \""
+    "\"I've really no idea,\" said Ogden, blinking as the ring sailed within an inch of his nose, \"and it's quite beside the point, Mr. Gaunt."
+   ]
+  },
+  {
+   "begin": "1558.560",
+   "children": [],
+   "end": "1560.800",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "Your son has committed - \""
    ]
   },
   {
    "begin": "1560.800",
    "children": [],
-   "end": "1588.560",
-   "id": "f000129",
+   "end": "1564.400",
+   "id": "f000253",
    "language": "eng",
    "lines": [
-    "With a howl of rage, Gaunt ran toward his daughter. For a split second, Harry thought he was going to throttle her as his hand flew to her throat; next moment, he was dragging her toward Ogden by a gold chain around her neck. \"See this?\" he bellowed at Ogden, shaking a heavy gold locket at him, while Merope spluttered and gasped for breath. \"I see it, I see it!\" said Ogden hastily."
+    "With a howl of rage, Gaunt ran toward his daughter."
+   ]
+  },
+  {
+   "begin": "1564.400",
+   "children": [],
+   "end": "1576.520",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "For a split second, Harry thought he was going to throttle her as his hand flew to her throat; next moment, he was dragging her toward Ogden by a gold chain around her neck."
+   ]
+  },
+  {
+   "begin": "1576.520",
+   "children": [],
+   "end": "1585.080",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "\"See this?\" he bellowed at Ogden, shaking a heavy gold locket at him, while Merope spluttered and gasped for breath."
+   ]
+  },
+  {
+   "begin": "1585.080",
+   "children": [],
+   "end": "1588.560",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "\"I see it, I see it!\" said Ogden hastily."
    ]
   },
   {
    "begin": "1588.560",
    "children": [],
-   "end": "1598.640",
-   "id": "f000130",
+   "end": "1591.680",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "\"Slytherin's!\" yelled Gaunt. \"Salazar Slytherin's! We're his last living descendants, what do you say to that, eh?\""
+    "\"Slytherin's!\" yelled Gaunt."
+   ]
+  },
+  {
+   "begin": "1591.680",
+   "children": [],
+   "end": "1594.440",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "\"Salazar Slytherin's!"
+   ]
+  },
+  {
+   "begin": "1594.440",
+   "children": [],
+   "end": "1598.640",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "We're his last living descendants, what do you say to that, eh?\""
    ]
   },
   {
    "begin": "1598.640",
    "children": [],
-   "end": "1612.240",
-   "id": "f000131",
+   "end": "1600.040",
+   "id": "f000260",
    "language": "eng",
    "lines": [
-    "\"Mr. Gaunt, your daughter!\" said Ogden in alarm, but Gaunt had already released Merope; she staggered away from him, back to her corner, massaging her neck and gulping for air."
+    "\"Mr."
+   ]
+  },
+  {
+   "begin": "1600.040",
+   "children": [],
+   "end": "1612.240",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "Gaunt, your daughter!\" said Ogden in alarm, but Gaunt had already released Merope; she staggered away from him, back to her corner, massaging her neck and gulping for air."
    ]
   },
   {
    "begin": "1612.240",
    "children": [],
-   "end": "1631.760",
-   "id": "f000132",
+   "end": "1619.760",
+   "id": "f000262",
    "language": "eng",
    "lines": [
-    "\"So!\" said Gaunt triumphantly, as though he had just proved a complicated point beyond all possible dispute. \"Don't you go talking to us as if we're dirt on your shoes! Generations of purebloods, wizards all - more than you can say, I don't doubt!\""
+    "\"So!\" said Gaunt triumphantly, as though he had just proved a complicated point beyond all possible dispute."
    ]
   },
   {
-   "begin": "1631.760",
+   "begin": "1619.760",
    "children": [],
-   "end": "1644.280",
-   "id": "f000133",
+   "end": "1624.280",
+   "id": "f000263",
    "language": "eng",
    "lines": [
-    "And he spat on the floor at Ogden's feet. Morfin cackled again. Merope, huddled beside the window, her head bowed and her face hidden by her lank hair, said nothing."
+    "\"Don't you go talking to us as if we're dirt on your shoes!"
+   ]
+  },
+  {
+   "begin": "1624.280",
+   "children": [],
+   "end": "1631.000",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "Generations of purebloods, wizards all - more than you can say, I don't doubt!\""
+   ]
+  },
+  {
+   "begin": "1631.000",
+   "children": [],
+   "end": "1634.160",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "And he spat on the floor at Ogden's feet."
+   ]
+  },
+  {
+   "begin": "1634.160",
+   "children": [],
+   "end": "1636.440",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "Morfin cackled again."
+   ]
+  },
+  {
+   "begin": "1636.440",
+   "children": [],
+   "end": "1644.280",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "Merope, huddled beside the window, her head bowed and her face hidden by her lank hair, said nothing."
    ]
   },
   {
    "begin": "1644.280",
    "children": [],
-   "end": "1652.760",
-   "id": "f000134",
+   "end": "1646.280",
+   "id": "f000268",
    "language": "eng",
    "lines": [
-    "\"Mr. Gaunt,\" said Ogden doggedly, \"I am afraid that neither your ancest-"
+    "\"Mr."
+   ]
+  },
+  {
+   "begin": "1646.280",
+   "children": [],
+   "end": "1652.760",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "Gaunt,\" said Ogden doggedly, \"I am afraid that neither your ancest-"
    ]
   },
   {
    "begin": "1652.760",
    "children": [],
-   "end": "1677.720",
-   "id": "f000135",
+   "end": "1656.640",
+   "id": "f000270",
    "language": "eng",
    "lines": [
-    "ors nor mine have anything to do with the matter in hand. I am here because of Morfin, Morfin and the Muggle he accosted late last night. Our information\" - he glanced down at his scroll of parchment - \"is that Morfin performed a jinx or hex on the said Muggle, causing him to erupt in highly painful hives.\""
+    "ors nor mine have anything to do with the matter in hand."
+   ]
+  },
+  {
+   "begin": "1656.640",
+   "children": [],
+   "end": "1663.880",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "I am here because of Morfin, Morfin and the Muggle he accosted late last night."
+   ]
+  },
+  {
+   "begin": "1663.880",
+   "children": [],
+   "end": "1677.720",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "Our information\" - he glanced down at his scroll of parchment - \"is that Morfin performed a jinx or hex on the said Muggle, causing him to erupt in highly painful hives.\""
    ]
   },
   {
    "begin": "1677.720",
    "children": [],
    "end": "1679.880",
-   "id": "f000136",
+   "id": "f000273",
    "language": "eng",
    "lines": [
     "Morfin giggled."
@@ -1364,7 +2734,7 @@
    "begin": "1679.880",
    "children": [],
    "end": "1688.000",
-   "id": "f000137",
+   "id": "f000274",
    "language": "eng",
    "lines": [
     "\"Be quiet, boy,\" snarled Gaunt in Parseltongue, and Morfin fell silent again."
@@ -1373,28 +2743,58 @@
   {
    "begin": "1688.000",
    "children": [],
-   "end": "1698.640",
-   "id": "f000138",
+   "end": "1690.640",
+   "id": "f000275",
    "language": "eng",
    "lines": [
-    "\"And so what if he did, then?\" Gaunt said defiantly to Ogden. \"I expect you've wiped the Muggle's filthy face clean for him, and his memory to boot - \""
+    "\"And so what if he did, then?\""
+   ]
+  },
+  {
+   "begin": "1690.640",
+   "children": [],
+   "end": "1692.920",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "Gaunt said defiantly to Ogden."
+   ]
+  },
+  {
+   "begin": "1692.920",
+   "children": [],
+   "end": "1698.640",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "\"I expect you've wiped the Muggle's filthy face clean for him, and his memory to boot - \""
    ]
   },
   {
    "begin": "1698.640",
    "children": [],
-   "end": "1706.600",
-   "id": "f000139",
+   "end": "1703.120",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "\"That's hardly the point, is it, Mr. Gaunt?\" said Ogden. \"This was an unprovoked attack on a defenseless - \""
+    "\"That's hardly the point, is it, Mr. Gaunt?\" said Ogden."
+   ]
+  },
+  {
+   "begin": "1703.120",
+   "children": [],
+   "end": "1706.600",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "\"This was an unprovoked attack on a defenseless - \""
    ]
   },
   {
    "begin": "1706.600",
    "children": [],
    "end": "1714.480",
-   "id": "f000140",
+   "id": "f000280",
    "language": "eng",
    "lines": [
     "\"Ar, I had you marked out as a Muggle-lover the moment I saw you,\" sneered Gaunt, and he spat on the floor again."
@@ -1403,68 +2803,208 @@
   {
    "begin": "1714.480",
    "children": [],
-   "end": "1741.120",
-   "id": "f000141",
+   "end": "1720.000",
+   "id": "f000281",
    "language": "eng",
    "lines": [
-    "\"This discussion is getting us nowhere,\" said Ogden firmly. \"It is clear from your son's attitude that he feels no remorse for his actions.\" He glanced down at his scroll of parchment again. \"Morfin will attend a hearing on the fourteenth of September to answer the charges of using magic in front of a Muggle and causing harm and distress to that same Mugg - \""
+    "\"This discussion is getting us nowhere,\" said Ogden firmly."
    ]
   },
   {
-   "begin": "1741.120",
+   "begin": "1720.000",
    "children": [],
-   "end": "1773.240",
-   "id": "f000142",
+   "end": "1725.200",
+   "id": "f000282",
    "language": "eng",
    "lines": [
-    "Ogden broke off. The jingling, clopping sounds of horses and loud, laughing voices were drifting in through the open window. Apparently the winding lane to the village passed very close to the copse where the house stood. Gaunt froze, listening, his eyes wide. Morfin hissed and turned his face toward the sounds, his expression hungry. Merope raised her head. Her face, Harry saw, was starkly white."
+    "\"It is clear from your son's attitude that he feels no remorse for his actions.\""
+   ]
+  },
+  {
+   "begin": "1725.200",
+   "children": [],
+   "end": "1728.480",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "He glanced down at his scroll of parchment again."
+   ]
+  },
+  {
+   "begin": "1728.480",
+   "children": [],
+   "end": "1740.680",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "\"Morfin will attend a hearing on the fourteenth of September to answer the charges of using magic in front of a Muggle and causing harm and distress to that same Mugg - \""
+   ]
+  },
+  {
+   "begin": "1740.680",
+   "children": [],
+   "end": "1742.280",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "Ogden broke off."
+   ]
+  },
+  {
+   "begin": "1742.280",
+   "children": [],
+   "end": "1749.680",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "The jingling, clopping sounds of horses and loud, laughing voices were drifting in through the open window."
+   ]
+  },
+  {
+   "begin": "1749.680",
+   "children": [],
+   "end": "1756.200",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "Apparently the winding lane to the village passed very close to the copse where the house stood."
+   ]
+  },
+  {
+   "begin": "1756.200",
+   "children": [],
+   "end": "1760.880",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "Gaunt froze, listening, his eyes wide."
+   ]
+  },
+  {
+   "begin": "1760.880",
+   "children": [],
+   "end": "1766.480",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "Morfin hissed and turned his face toward the sounds, his expression hungry."
+   ]
+  },
+  {
+   "begin": "1766.480",
+   "children": [],
+   "end": "1768.800",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "Merope raised her head."
+   ]
+  },
+  {
+   "begin": "1768.800",
+   "children": [],
+   "end": "1773.240",
+   "id": "f000291",
+   "language": "eng",
+   "lines": [
+    "Her face, Harry saw, was starkly white."
    ]
   },
   {
    "begin": "1773.240",
    "children": [],
-   "end": "1788.480",
-   "id": "f000143",
+   "end": "1784.280",
+   "id": "f000292",
    "language": "eng",
    "lines": [
-    "\"My God, what an eyesore!\" rang out a girl's voice, as clearly audible through the open window as if she had stood in the room beside them. \"Couldn't your father have that hovel cleared away, Tom?\""
+    "\"My God, what an eyesore!\" rang out a girl's voice, as clearly audible through the open window as if she had stood in the room beside them."
+   ]
+  },
+  {
+   "begin": "1784.280",
+   "children": [],
+   "end": "1788.480",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "\"Couldn't your father have that hovel cleared away, Tom?\""
    ]
   },
   {
    "begin": "1788.480",
    "children": [],
-   "end": "1797.480",
-   "id": "f000144",
+   "end": "1792.280",
+   "id": "f000294",
    "language": "eng",
    "lines": [
-    "\"It's not ours,\" said a young man's voice. \"Everything on the other side of the valley belongs to us, but that cottage belongs to an old tramp called"
+    "\"It's not ours,\" said a young man's voice."
+   ]
+  },
+  {
+   "begin": "1792.280",
+   "children": [],
+   "end": "1797.480",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "\"Everything on the other side of the valley belongs to us, but that cottage belongs to an old tramp called"
    ]
   },
   {
    "begin": "1797.480",
    "children": [],
-   "end": "1803.560",
-   "id": "f000145",
+   "end": "1799.120",
+   "id": "f000296",
    "language": "eng",
    "lines": [
-    "Gaunt, and his children. The son's quite mad, you should hear some of the stories they tell in the village - \""
+    "Gaunt, and his children."
+   ]
+  },
+  {
+   "begin": "1799.120",
+   "children": [],
+   "end": "1803.560",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "The son's quite mad, you should hear some of the stories they tell in the village - \""
    ]
   },
   {
    "begin": "1803.560",
    "children": [],
-   "end": "1812.000",
-   "id": "f000146",
+   "end": "1805.160",
+   "id": "f000298",
    "language": "eng",
    "lines": [
-    "The girl laughed. The jingling, clopping noises were growing louder and louder. Morfin made to get out of his armchair."
+    "The girl laughed."
+   ]
+  },
+  {
+   "begin": "1805.160",
+   "children": [],
+   "end": "1809.360",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "The jingling, clopping noises were growing louder and louder."
+   ]
+  },
+  {
+   "begin": "1809.360",
+   "children": [],
+   "end": "1812.000",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "Morfin made to get out of his armchair."
    ]
   },
   {
    "begin": "1812.000",
    "children": [],
    "end": "1817.360",
-   "id": "f000147",
+   "id": "f000301",
    "language": "eng",
    "lines": [
     "\"Keep your seat,\" said his father warningly, in Parseltongue."
@@ -1474,7 +3014,7 @@
    "begin": "1817.360",
    "children": [],
    "end": "1831.400",
-   "id": "f000148",
+   "id": "f000302",
    "language": "eng",
    "lines": [
     "\"Tom,\" said the girl's voice again, now so close they were clearly right beside the house, \"I might be wrong - but has somebody nailed a snake to that door?\""
@@ -1483,18 +3023,38 @@
   {
    "begin": "1831.400",
    "children": [],
-   "end": "1840.720",
-   "id": "f000149",
+   "end": "1835.240",
+   "id": "f000303",
    "language": "eng",
    "lines": [
-    "\"Good lord, you're right!\" said the man's voice. \"That'll be the son, I told you he's not right in the head. Don't look at it, Cecilia, darling.\""
+    "\"Good lord, you're right!\" said the man's voice."
+   ]
+  },
+  {
+   "begin": "1835.240",
+   "children": [],
+   "end": "1838.520",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "\"That'll be the son, I told you he's not right in the head."
+   ]
+  },
+  {
+   "begin": "1838.520",
+   "children": [],
+   "end": "1840.720",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "Don't look at it, Cecilia, darling.\""
    ]
   },
   {
    "begin": "1840.720",
    "children": [],
    "end": "1845.800",
-   "id": "f000150",
+   "id": "f000306",
    "language": "eng",
    "lines": [
     "The jingling and clopping sounds were now growing fainter again."
@@ -1504,7 +3064,7 @@
    "begin": "1845.800",
    "children": [],
    "end": "1852.560",
-   "id": "f000151",
+   "id": "f000307",
    "language": "eng",
    "lines": [
     "\"'Darling,'\" whispered Morfin in Parseltongue, looking at his sister."
@@ -1513,18 +3073,28 @@
   {
    "begin": "1852.560",
    "children": [],
-   "end": "1859.160",
-   "id": "f000152",
+   "end": "1855.920",
+   "id": "f000308",
    "language": "eng",
    "lines": [
-    "\"'Darling,' he called her. So he wouldn't have you anyway.\""
+    "\"'Darling,' he called her."
+   ]
+  },
+  {
+   "begin": "1855.920",
+   "children": [],
+   "end": "1859.160",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "So he wouldn't have you anyway.\""
    ]
   },
   {
    "begin": "1859.160",
    "children": [],
    "end": "1864.440",
-   "id": "f000153",
+   "id": "f000310",
    "language": "eng",
    "lines": [
     "Merope was so white Harry felt sure she was going to faint."
@@ -1533,38 +3103,68 @@
   {
    "begin": "1864.440",
    "children": [],
-   "end": "1874.200",
-   "id": "f000154",
+   "end": "1871.440",
+   "id": "f000311",
    "language": "eng",
    "lines": [
-    "\"What's that?\" said Gaunt sharply, also in Parseltongue, looking from his son to his daughter. \"What did you say, Morfin?\""
+    "\"What's that?\" said Gaunt sharply, also in Parseltongue, looking from his son to his daughter."
+   ]
+  },
+  {
+   "begin": "1871.440",
+   "children": [],
+   "end": "1874.200",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "\"What did you say, Morfin?\""
    ]
   },
   {
    "begin": "1874.200",
    "children": [],
-   "end": "1893.400",
-   "id": "f000155",
+   "end": "1884.560",
+   "id": "f000313",
    "language": "eng",
    "lines": [
-    "\"She likes looking at that Muggle,\" said Morfin, a vicious expression on his face as he stared at his sister, who now looked terrified. \"Always in the garden when he passes, peering through the hedge at him, isn't she? And last night - \""
+    "\"She likes looking at that Muggle,\" said Morfin, a vicious expression on his face as he stared at his sister, who now looked terrified."
+   ]
+  },
+  {
+   "begin": "1884.560",
+   "children": [],
+   "end": "1891.840",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "\"Always in the garden when he passes, peering through the hedge at him, isn't she?"
+   ]
+  },
+  {
+   "begin": "1891.840",
+   "children": [],
+   "end": "1893.400",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "And last night - \""
    ]
   },
   {
    "begin": "1893.400",
    "children": [],
-   "end": "1899.160",
-   "id": "f000156",
+   "end": "1899.120",
+   "id": "f000316",
    "language": "eng",
    "lines": [
     "Merope shook her head jerkily, imploringly, but Morfin went on ruthlessly,"
    ]
   },
   {
-   "begin": "1899.160",
+   "begin": "1899.120",
    "children": [],
    "end": "1905.600",
-   "id": "f000157",
+   "id": "f000317",
    "language": "eng",
    "lines": [
     "\"Hanging out of the window waiting for him to ride home, wasn't she?\""
@@ -1574,7 +3174,7 @@
    "begin": "1905.600",
    "children": [],
    "end": "1912.160",
-   "id": "f000158",
+   "id": "f000318",
    "language": "eng",
    "lines": [
     "\"Hanging out of the window to look at a Muggle?\" said Gaunt quietly."
@@ -1584,7 +3184,7 @@
    "begin": "1912.160",
    "children": [],
    "end": "1924.040",
-   "id": "f000159",
+   "id": "f000319",
    "language": "eng",
    "lines": [
     "All three of the Gaunts seemed to have forgotten Ogden, who was looking both bewildered and irritated at this renewed outbreak of incomprehensible hissing and rasping."
@@ -1593,28 +3193,38 @@
   {
    "begin": "1924.040",
    "children": [],
-   "end": "1945.760",
-   "id": "f000160",
+   "end": "1934.120",
+   "id": "f000320",
    "language": "eng",
    "lines": [
-    "\"Is it true?\" said Gaunt in a deadly voice, advancing a step or two toward the terrified girl. \"My daughter - pure-blooded descendant of Salazar Slytherin - hankering after a filthy, dirt-veined Muggle?\""
+    "\"Is it true?\" said Gaunt in a deadly voice, advancing a step or two toward the terrified girl."
+   ]
+  },
+  {
+   "begin": "1934.120",
+   "children": [],
+   "end": "1945.760",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "\"My daughter - pure-blooded descendant of Salazar Slytherin - hankering after a filthy, dirt-veined Muggle?\""
    ]
   },
   {
    "begin": "1945.760",
    "children": [],
-   "end": "1950.800",
-   "id": "f000161",
+   "end": "1951.160",
+   "id": "f000322",
    "language": "eng",
    "lines": [
     "Merope shook her head frantically, pressing herself into the wall, appa-"
    ]
   },
   {
-   "begin": "1950.800",
+   "begin": "1951.160",
    "children": [],
    "end": "1952.720",
-   "id": "f000162",
+   "id": "f000323",
    "language": "eng",
    "lines": [
     "rently unable to speak."
@@ -1623,18 +3233,28 @@
   {
    "begin": "1952.720",
    "children": [],
-   "end": "1965.480",
-   "id": "f000163",
+   "end": "1957.520",
+   "id": "f000324",
    "language": "eng",
    "lines": [
-    "\"But I got him, Father!\" cackled Morfin. \"I got him as he went by and he didn't look so pretty with hives all over him, did he, Merope?\""
+    "\"But I got him, Father!\" cackled Morfin."
+   ]
+  },
+  {
+   "begin": "1957.520",
+   "children": [],
+   "end": "1965.480",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "\"I got him as he went by and he didn't look so pretty with hives all over him, did he, Merope?\""
    ]
   },
   {
    "begin": "1965.480",
    "children": [],
    "end": "1977.280",
-   "id": "f000164",
+   "id": "f000326",
    "language": "eng",
    "lines": [
     "\"You disgusting little Squib, you filthy little blood traitor!\" roared Gaunt, losing control, and his hands closed around his daughter's throat."
@@ -1643,98 +3263,228 @@
   {
    "begin": "1977.280",
    "children": [],
-   "end": "2004.040",
-   "id": "f000165",
+   "end": "1986.240",
+   "id": "f000327",
    "language": "eng",
    "lines": [
-    "Both Harry and Ogden yelled \"No!\" at the same time; Ogden raised his wand and cried, \"Relashio!\" Gaunt was thrown backward, away from his daughter; he tripped over a chair and fell flat on his back. With a roar of rage, Morfin leapt out of his chair and ran at Ogden, brandishing his bloody knife and firing hexes indiscriminately from his wand."
+    "Both Harry and Ogden yelled \"No!\" at the same time; Ogden raised his wand and cried, \"Relashio!\""
+   ]
+  },
+  {
+   "begin": "1986.240",
+   "children": [],
+   "end": "1993.480",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "Gaunt was thrown backward, away from his daughter; he tripped over a chair and fell flat on his back."
+   ]
+  },
+  {
+   "begin": "1993.480",
+   "children": [],
+   "end": "2004.040",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "With a roar of rage, Morfin leapt out of his chair and ran at Ogden, brandishing his bloody knife and firing hexes indiscriminately from his wand."
    ]
   },
   {
    "begin": "2004.040",
    "children": [],
-   "end": "2014.920",
-   "id": "f000166",
+   "end": "2007.040",
+   "id": "f000330",
    "language": "eng",
    "lines": [
-    "Ogden ran for his life. Dumbledore indicated that they ought to follow and Harry obeyed, Merope's screams echoing in his ears."
+    "Ogden ran for his life."
+   ]
+  },
+  {
+   "begin": "2007.040",
+   "children": [],
+   "end": "2014.920",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "Dumbledore indicated that they ought to follow and Harry obeyed, Merope's screams echoing in his ears."
    ]
   },
   {
    "begin": "2014.920",
    "children": [],
-   "end": "2044.720",
-   "id": "f000167",
+   "end": "2028.440",
+   "id": "f000332",
    "language": "eng",
    "lines": [
-    "Ogden hurtled up the path and erupted onto the main lane, his arms over his head, where he collided with the glossy chestnut horse ridden by a very handsome, dark-haired young man. Both he and the pretty girl riding beside him on a gray horse roared with laughter at the sight of Ogden, who bounced off the horse's flank and set off again, his frock coat flying, covered from head to foot in dust, running pell-mell up the lane."
+    "Ogden hurtled up the path and erupted onto the main lane, his arms over his head, where he collided with the glossy chestnut horse ridden by a very handsome, dark-haired young man."
+   ]
+  },
+  {
+   "begin": "2028.440",
+   "children": [],
+   "end": "2044.720",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "Both he and the pretty girl riding beside him on a gray horse roared with laughter at the sight of Ogden, who bounced off the horse's flank and set off again, his frock coat flying, covered from head to foot in dust, running pell-mell up the lane."
    ]
   },
   {
    "begin": "2044.720",
    "children": [],
-   "end": "2064.280",
-   "id": "f000168",
+   "end": "2049.040",
+   "id": "f000334",
    "language": "eng",
    "lines": [
-    "\"I think that will do, Harry,\" said Dumbledore. He took Harry by the elbow and tugged. Next moment, they were both soaring weightlessly through darkness, until they landed squarely on their feet, back in Dumbledore's now twilit office."
+    "\"I think that will do, Harry,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "2049.040",
+   "children": [],
+   "end": "2052.560",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "He took Harry by the elbow and tugged."
+   ]
+  },
+  {
+   "begin": "2052.560",
+   "children": [],
+   "end": "2064.280",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "Next moment, they were both soaring weightlessly through darkness, until they landed squarely on their feet, back in Dumbledore's now twilit office."
    ]
   },
   {
    "begin": "2064.280",
    "children": [],
-   "end": "2074.240",
-   "id": "f000169",
+   "end": "2071.600",
+   "id": "f000337",
    "language": "eng",
    "lines": [
-    "\"What happened to the girl in the cottage?\" said Harry at once, as Dumbledore lit extra lamps with a flick of his wand. \"Merope, or whatever her name was?\""
+    "\"What happened to the girl in the cottage?\" said Harry at once, as Dumbledore lit extra lamps with a flick of his wand."
+   ]
+  },
+  {
+   "begin": "2071.600",
+   "children": [],
+   "end": "2074.240",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "\"Merope, or whatever her name was?\""
    ]
   },
   {
    "begin": "2074.240",
    "children": [],
-   "end": "2104.760",
-   "id": "f000170",
+   "end": "2082.680",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "\"Oh, she survived,\" said Dumbledore, reseating himself behind his desk and indicating that Harry should sit down too. \"Ogden Apparated back to the Ministry and returned with reinforcements within fifteen minutes. Morfin and his father attempted to fight, but both were overpowered, removed from the cottage, and subsequently convicted by the Wizengamot. Morfin, who already had a record of Muggle attacks, was sentenced to three years"
+    "\"Oh, she survived,\" said Dumbledore, reseating himself behind his desk and indicating that Harry should sit down too."
+   ]
+  },
+  {
+   "begin": "2082.680",
+   "children": [],
+   "end": "2089.560",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "\"Ogden Apparated back to the Ministry and returned with reinforcements within fifteen minutes."
+   ]
+  },
+  {
+   "begin": "2089.560",
+   "children": [],
+   "end": "2098.680",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "Morfin and his father attempted to fight, but both were overpowered, removed from the cottage, and subsequently convicted by the Wizengamot."
+   ]
+  },
+  {
+   "begin": "2098.680",
+   "children": [],
+   "end": "2104.760",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "Morfin, who already had a record of Muggle attacks, was sentenced to three years"
    ]
   },
   {
    "begin": "2104.760",
    "children": [],
-   "end": "2113.640",
-   "id": "f000171",
+   "end": "2105.680",
+   "id": "f000343",
    "language": "eng",
    "lines": [
-    "in Azkaban. Marvolo, who had injured several Ministry employees in addition to Ogden, received six months.\""
+    "in Azkaban."
+   ]
+  },
+  {
+   "begin": "2105.680",
+   "children": [],
+   "end": "2113.640",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "Marvolo, who had injured several Ministry employees in addition to Ogden, received six months.\""
    ]
   },
   {
    "begin": "2113.640",
    "children": [],
-   "end": "2118.160",
-   "id": "f000172",
+   "end": "2116.280",
+   "id": "f000345",
    "language": "eng",
    "lines": [
-    "\"Marvolo?\" Harry repeated wonderingly."
+    "\"Marvolo?\""
+   ]
+  },
+  {
+   "begin": "2116.280",
+   "children": [],
+   "end": "2118.160",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "Harry repeated wonderingly."
    ]
   },
   {
    "begin": "2118.160",
    "children": [],
-   "end": "2124.200",
-   "id": "f000173",
+   "end": "2121.920",
+   "id": "f000347",
    "language": "eng",
    "lines": [
-    "\"That's right,\" said Dumbledore, smiling in approval. \"I am glad to see you're keeping up.\""
+    "\"That's right,\" said Dumbledore, smiling in approval."
+   ]
+  },
+  {
+   "begin": "2121.920",
+   "children": [],
+   "end": "2124.200",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "\"I am glad to see you're keeping up.\""
    ]
   },
   {
    "begin": "2124.200",
    "children": [],
    "end": "2127.200",
-   "id": "f000174",
+   "id": "f000349",
    "language": "eng",
    "lines": [
     "\"That old man was - ?\""
@@ -1743,78 +3493,198 @@
   {
    "begin": "2127.200",
    "children": [],
-   "end": "2177.400",
-   "id": "f000175",
+   "end": "2132.000",
+   "id": "f000350",
    "language": "eng",
    "lines": [
-    "\"Voldemort's grandfather, yes,\" said Dumbledore. \"Marvolo, his son, Morfin, and his daughter, Merope, were the last of the Gaunts, a very ancient Wizarding family noted for a vein of instability and violence that flourished through the generations due to their habit of marrying their own cousins. Lack of sense coupled with a great liking for grandeur meant that the family gold was squandered several generations before Marvolo was born. He, as you saw, was left in squalor and poverty, with a very nasty temper, a fantastic amount of arrogance and pride, and a couple of family heirlooms that he treasured just as much as his son, and rather more than his daughter.\""
+    "\"Voldemort's grandfather, yes,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "2132.000",
+   "children": [],
+   "end": "2150.200",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "\"Marvolo, his son, Morfin, and his daughter, Merope, were the last of the Gaunts, a very ancient Wizarding family noted for a vein of instability and violence that flourished through the generations due to their habit of marrying their own cousins."
+   ]
+  },
+  {
+   "begin": "2150.200",
+   "children": [],
+   "end": "2161.400",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "Lack of sense coupled with a great liking for grandeur meant that the family gold was squandered several generations before Marvolo was born."
+   ]
+  },
+  {
+   "begin": "2161.400",
+   "children": [],
+   "end": "2177.400",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "He, as you saw, was left in squalor and poverty, with a very nasty temper, a fantastic amount of arrogance and pride, and a couple of family heirlooms that he treasured just as much as his son, and rather more than his daughter.\""
    ]
   },
   {
    "begin": "2177.400",
    "children": [],
-   "end": "2194.520",
-   "id": "f000176",
+   "end": "2187.840",
+   "id": "f000354",
    "language": "eng",
    "lines": [
-    "\"So Merope,\" said Harry, leaning forward in his chair and staring at Dumbledore, \"so Merope was... Sir, does that mean she was... Voldemort's mother?\""
+    "\"So Merope,\" said Harry, leaning forward in his chair and staring at Dumbledore, \"so Merope was..."
+   ]
+  },
+  {
+   "begin": "2187.840",
+   "children": [],
+   "end": "2191.640",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "Sir, does that mean she was..."
+   ]
+  },
+  {
+   "begin": "2191.640",
+   "children": [],
+   "end": "2194.520",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "Voldemort's mother?\""
    ]
   },
   {
    "begin": "2194.520",
    "children": [],
-   "end": "2206.320",
-   "id": "f000177",
+   "end": "2198.200",
+   "id": "f000357",
    "language": "eng",
    "lines": [
-    "\"It does,\" said Dumbledore. \"And it so happens that we also had a glimpse of Voldemort's father. I wonder whether you noticed?\""
+    "\"It does,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "2198.200",
+   "children": [],
+   "end": "2203.680",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "\"And it so happens that we also had a glimpse of Voldemort's father."
+   ]
+  },
+  {
+   "begin": "2203.680",
+   "children": [],
+   "end": "2206.320",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "I wonder whether you noticed?\""
    ]
   },
   {
    "begin": "2206.320",
    "children": [],
-   "end": "2210.800",
-   "id": "f000178",
+   "end": "2209.440",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "\"The Muggle Morfin attacked? The man on the horse?\""
+    "\"The Muggle Morfin attacked?"
+   ]
+  },
+  {
+   "begin": "2209.440",
+   "children": [],
+   "end": "2210.800",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "The man on the horse?\""
    ]
   },
   {
    "begin": "2210.800",
    "children": [],
-   "end": "2227.880",
-   "id": "f000179",
+   "end": "2215.320",
+   "id": "f000362",
    "language": "eng",
    "lines": [
-    "\"Very good indeed,\" said Dumbledore, beaming. \"Yes, that was Tom Riddle senior, the handsome Muggle who used to go riding past the Gaunt cottage and for whom Merope Gaunt cherished a secret, burning passion.\""
+    "\"Very good indeed,\" said Dumbledore, beaming."
+   ]
+  },
+  {
+   "begin": "2215.320",
+   "children": [],
+   "end": "2227.880",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "\"Yes, that was Tom Riddle senior, the handsome Muggle who used to go riding past the Gaunt cottage and for whom Merope Gaunt cherished a secret, burning passion.\""
    ]
   },
   {
    "begin": "2227.880",
    "children": [],
-   "end": "2236.760",
-   "id": "f000180",
+   "end": "2230.680",
+   "id": "f000364",
    "language": "eng",
    "lines": [
-    "\"And they ended up married?\" Harry said in disbelief, unable to imagine two people less likely to fall in love."
+    "\"And they ended up married?\""
+   ]
+  },
+  {
+   "begin": "2230.680",
+   "children": [],
+   "end": "2236.760",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "Harry said in disbelief, unable to imagine two people less likely to fall in love."
    ]
   },
   {
    "begin": "2236.760",
    "children": [],
-   "end": "2257.320",
-   "id": "f000181",
+   "end": "2243.000",
+   "id": "f000366",
    "language": "eng",
    "lines": [
-    "\"I think you are forgetting,\" said Dumbledore, \"that Merope was a witch. I do not believe that her magical powers appeared to their best advantage when she was being terrorized by her father. Once Marvolo and Morfin were safely in Azkaban, once she was alone and free for the first time in her"
+    "\"I think you are forgetting,\" said Dumbledore, \"that Merope was a witch."
+   ]
+  },
+  {
+   "begin": "2243.000",
+   "children": [],
+   "end": "2250.080",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "I do not believe that her magical powers appeared to their best advantage when she was being terrorized by her father."
+   ]
+  },
+  {
+   "begin": "2250.080",
+   "children": [],
+   "end": "2257.320",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "Once Marvolo and Morfin were safely in Azkaban, once she was alone and free for the first time in her"
    ]
   },
   {
    "begin": "2257.320",
    "children": [],
    "end": "2266.960",
-   "id": "f000182",
+   "id": "f000369",
    "language": "eng",
    "lines": [
     "life, then, I am sure, she was able to give full rein to her abilities and to plot her escape from the desperate life she had led for eighteen years."
@@ -1824,7 +3694,7 @@
    "begin": "2266.960",
    "children": [],
    "end": "2276.920",
-   "id": "f000183",
+   "id": "f000370",
    "language": "eng",
    "lines": [
     "\"Can you not think of any measure Merope could have taken to make Tom Riddle forget his Muggle companion, and fall in love with her instead?\""
@@ -1833,78 +3703,248 @@
   {
    "begin": "2276.920",
    "children": [],
-   "end": "2282.440",
-   "id": "f000184",
+   "end": "2279.760",
+   "id": "f000371",
    "language": "eng",
    "lines": [
-    "\"The Imperius Curse?\" Harry suggested. \"Or a love potion?\""
+    "\"The Imperius Curse?\""
+   ]
+  },
+  {
+   "begin": "2279.760",
+   "children": [],
+   "end": "2280.920",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "Harry suggested."
+   ]
+  },
+  {
+   "begin": "2280.920",
+   "children": [],
+   "end": "2282.440",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "\"Or a love potion?\""
    ]
   },
   {
    "begin": "2282.440",
    "children": [],
-   "end": "2317.640",
-   "id": "f000185",
+   "end": "2284.440",
+   "id": "f000374",
    "language": "eng",
    "lines": [
-    "\"Very good. Personally, I am inclined to think that she used a love potion. I am sure it would have seemed more romantic to her, and I do not think it would have been very difficult, some hot day, when Riddle was riding alone, to persuade him to take a drink of water. In any case, within a few months of the scene we have just witnessed, the village of Little Hangleton enjoyed a tremendous scandal. You can imagine the gossip it caused when the squire's son ran off with the tramp's daughter, Merope."
+    "\"Very good."
+   ]
+  },
+  {
+   "begin": "2284.440",
+   "children": [],
+   "end": "2288.600",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "Personally, I am inclined to think that she used a love potion."
+   ]
+  },
+  {
+   "begin": "2288.600",
+   "children": [],
+   "end": "2299.800",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "I am sure it would have seemed more romantic to her, and I do not think it would have been very difficult, some hot day, when Riddle was riding alone, to persuade him to take a drink of water."
+   ]
+  },
+  {
+   "begin": "2299.800",
+   "children": [],
+   "end": "2310.000",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "In any case, within a few months of the scene we have just witnessed, the village of Little Hangleton enjoyed a tremendous scandal."
+   ]
+  },
+  {
+   "begin": "2310.000",
+   "children": [],
+   "end": "2317.640",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "You can imagine the gossip it caused when the squire's son ran off with the tramp's daughter, Merope."
    ]
   },
   {
    "begin": "2317.640",
    "children": [],
-   "end": "2338.840",
-   "id": "f000186",
+   "end": "2322.440",
+   "id": "f000379",
    "language": "eng",
    "lines": [
-    "\"But the villagers' shock was nothing to Marvolo's. He returned from Azkaban, expecting to find his daughter dutifully awaiting his return with a hot meal ready on his table. Instead, he found a clear inch of dust and her note of farewell, explaining what she had done."
+    "\"But the villagers' shock was nothing to Marvolo's."
+   ]
+  },
+  {
+   "begin": "2322.440",
+   "children": [],
+   "end": "2330.280",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "He returned from Azkaban, expecting to find his daughter dutifully awaiting his return with a hot meal ready on his table."
+   ]
+  },
+  {
+   "begin": "2330.280",
+   "children": [],
+   "end": "2338.840",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "Instead, he found a clear inch of dust and her note of farewell, explaining what she had done."
    ]
   },
   {
    "begin": "2338.840",
    "children": [],
-   "end": "2363.560",
-   "id": "f000187",
+   "end": "2348.320",
+   "id": "f000382",
    "language": "eng",
    "lines": [
-    "\"From all that I have been able to discover, he never mentioned her name or existence from that time forth. The shock of her desertion may have contributed to his early death - or perhaps he had simply never learned to feed himself. Azkaban had greatly weakened Marvolo, and he did not live to see Morfin return to the cottage.\""
+    "\"From all that I have been able to discover, he never mentioned her name or existence from that time forth."
+   ]
+  },
+  {
+   "begin": "2348.320",
+   "children": [],
+   "end": "2356.080",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "The shock of her desertion may have contributed to his early death - or perhaps he had simply never learned to feed himself."
+   ]
+  },
+  {
+   "begin": "2356.080",
+   "children": [],
+   "end": "2363.560",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "Azkaban had greatly weakened Marvolo, and he did not live to see Morfin return to the cottage.\""
    ]
   },
   {
    "begin": "2363.560",
    "children": [],
-   "end": "2369.840",
-   "id": "f000188",
+   "end": "2365.680",
+   "id": "f000385",
    "language": "eng",
    "lines": [
-    "\"And Merope? She... she died, didn't she? Wasn't Voldemort brought up in an orphanage?\""
+    "\"And Merope?"
+   ]
+  },
+  {
+   "begin": "2365.680",
+   "children": [],
+   "end": "2367.840",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "She... she died, didn't she?"
+   ]
+  },
+  {
+   "begin": "2367.840",
+   "children": [],
+   "end": "2369.840",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "Wasn't Voldemort brought up in an orphanage?\""
    ]
   },
   {
    "begin": "2369.840",
    "children": [],
-   "end": "2407.840",
-   "id": "f000189",
+   "end": "2372.440",
+   "id": "f000388",
    "language": "eng",
    "lines": [
-    "\"Yes, indeed,\" said Dumbledore. \"We must do a certain amount of guessing here, although I do not think it is difficult to deduce what happened. You see, within a few months of their runaway marriage, Tom Riddle reappeared at the manor house in Little Hangleton without his wife. The rumor flew around the neighborhood that he was talking of being 'hoodwinked' and 'taken in.' What he meant, I am sure, is that he had been under an enchantment that had now lifted, though I daresay he did not dare use those pre-"
+    "\"Yes, indeed,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "2372.440",
+   "children": [],
+   "end": "2380.600",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "\"We must do a certain amount of guessing here, although I do not think it is difficult to deduce what happened."
+   ]
+  },
+  {
+   "begin": "2380.600",
+   "children": [],
+   "end": "2390.240",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "You see, within a few months of their runaway marriage, Tom Riddle reappeared at the manor house in Little Hangleton without his wife."
+   ]
+  },
+  {
+   "begin": "2390.240",
+   "children": [],
+   "end": "2398.120",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "The rumor flew around the neighborhood that he was talking of being 'hoodwinked' and 'taken in.'"
+   ]
+  },
+  {
+   "begin": "2398.120",
+   "children": [],
+   "end": "2407.840",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "What he meant, I am sure, is that he had been under an enchantment that had now lifted, though I daresay he did not dare use those pre-"
    ]
   },
   {
    "begin": "2407.840",
    "children": [],
-   "end": "2423.640",
-   "id": "f000190",
+   "end": "2410.720",
+   "id": "f000393",
    "language": "eng",
    "lines": [
-    "cise words for fear of being thought insane. When they heard what he was saying, however, the villagers guessed that Merope had lied to Tom Riddle, pretending that she was going to have his baby, and that he had married her for this reason.\""
+    "cise words for fear of being thought insane."
+   ]
+  },
+  {
+   "begin": "2410.720",
+   "children": [],
+   "end": "2423.640",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "When they heard what he was saying, however, the villagers guessed that Merope had lied to Tom Riddle, pretending that she was going to have his baby, and that he had married her for this reason.\""
    ]
   },
   {
    "begin": "2423.640",
    "children": [],
    "end": "2426.080",
-   "id": "f000191",
+   "id": "f000395",
    "language": "eng",
    "lines": [
     "\"But she did have his baby.\""
@@ -1913,38 +3953,108 @@
   {
    "begin": "2426.080",
    "children": [],
-   "end": "2432.880",
-   "id": "f000192",
+   "end": "2429.720",
+   "id": "f000396",
    "language": "eng",
    "lines": [
-    "\"But not until a year after they were married. Tom Riddle left her while she was still pregnant.\""
+    "\"But not until a year after they were married."
+   ]
+  },
+  {
+   "begin": "2429.720",
+   "children": [],
+   "end": "2432.880",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "Tom Riddle left her while she was still pregnant.\""
    ]
   },
   {
    "begin": "2432.880",
    "children": [],
-   "end": "2438.120",
-   "id": "f000193",
+   "end": "2435.720",
+   "id": "f000398",
    "language": "eng",
    "lines": [
-    "\"What went wrong?\" asked Harry. \"Why did the love potion stop working?\""
+    "\"What went wrong?\" asked Harry."
+   ]
+  },
+  {
+   "begin": "2435.720",
+   "children": [],
+   "end": "2438.120",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "\"Why did the love potion stop working?\""
    ]
   },
   {
    "begin": "2438.120",
    "children": [],
-   "end": "2479.840",
-   "id": "f000194",
+   "end": "2451.280",
+   "id": "f000400",
    "language": "eng",
    "lines": [
-    "\"Again, this is guesswork,\" said Dumbledore, \"but I believe that Merope, who was deeply in love with her husband, could not bear to continue enslaving him by magical means. I believe that she made the choice to stop giving him the potion. Perhaps, besotted as she was, she had convinced herself that he would by now have fallen in love with her in return. Perhaps she thought he would stay for the baby's sake. If so, she was wrong on both counts. He left her, never saw her again, and never troubled to discover what became of his son.\""
+    "\"Again, this is guesswork,\" said Dumbledore, \"but I believe that Merope, who was deeply in love with her husband, could not bear to continue enslaving him by magical means."
+   ]
+  },
+  {
+   "begin": "2451.280",
+   "children": [],
+   "end": "2456.000",
+   "id": "f000401",
+   "language": "eng",
+   "lines": [
+    "I believe that she made the choice to stop giving him the potion."
+   ]
+  },
+  {
+   "begin": "2456.000",
+   "children": [],
+   "end": "2464.280",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "Perhaps, besotted as she was, she had convinced herself that he would by now have fallen in love with her in return."
+   ]
+  },
+  {
+   "begin": "2464.280",
+   "children": [],
+   "end": "2467.920",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Perhaps she thought he would stay for the baby's sake."
+   ]
+  },
+  {
+   "begin": "2467.920",
+   "children": [],
+   "end": "2471.920",
+   "id": "f000404",
+   "language": "eng",
+   "lines": [
+    "If so, she was wrong on both counts."
+   ]
+  },
+  {
+   "begin": "2471.920",
+   "children": [],
+   "end": "2479.840",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "He left her, never saw her again, and never troubled to discover what became of his son.\""
    ]
   },
   {
    "begin": "2479.840",
    "children": [],
    "end": "2488.520",
-   "id": "f000195",
+   "id": "f000406",
    "language": "eng",
    "lines": [
     "The sky outside was inky black and the lamps in Dumbledore's office seemed to glow more brightly than before."
@@ -1954,7 +4064,7 @@
    "begin": "2488.520",
    "children": [],
    "end": "2495.000",
-   "id": "f000196",
+   "id": "f000407",
    "language": "eng",
    "lines": [
     "\"I think that will do for tonight, Harry,\" said Dumbledore after a moment or two."
@@ -1964,7 +4074,7 @@
    "begin": "2495.000",
    "children": [],
    "end": "2497.400",
-   "id": "f000197",
+   "id": "f000408",
    "language": "eng",
    "lines": [
     "\"Yes, sir,\" said Harry."
@@ -1974,7 +4084,7 @@
    "begin": "2497.400",
    "children": [],
    "end": "2501.240",
-   "id": "f000198",
+   "id": "f000409",
    "language": "eng",
    "lines": [
     "He got to his feet, but did not leave."
@@ -1983,18 +4093,18 @@
   {
    "begin": "2501.240",
    "children": [],
-   "end": "2507.000",
-   "id": "f000199",
+   "end": "2507.120",
+   "id": "f000410",
    "language": "eng",
    "lines": [
     "\"Sir... is it important to know all this about Voldemort's past?\""
    ]
   },
   {
-   "begin": "2507.000",
+   "begin": "2507.120",
    "children": [],
    "end": "2511.480",
-   "id": "f000200",
+   "id": "f000411",
    "language": "eng",
    "lines": [
     "\"Very important, I think,\" said Dumbledore."
@@ -2004,7 +4114,7 @@
    "begin": "2511.480",
    "children": [],
    "end": "2515.120",
-   "id": "f000201",
+   "id": "f000412",
    "language": "eng",
    "lines": [
     "\"And it... it's got something to do with the prophecy?\""
@@ -2014,7 +4124,7 @@
    "begin": "2515.120",
    "children": [],
    "end": "2518.560",
-   "id": "f000202",
+   "id": "f000413",
    "language": "eng",
    "lines": [
     "\"It has everything to do with the prophecy.\""
@@ -2024,7 +4134,7 @@
    "begin": "2518.560",
    "children": [],
    "end": "2524.520",
-   "id": "f000203",
+   "id": "f000414",
    "language": "eng",
    "lines": [
     "\"Right,\" said Harry, a little confused, but reassured all the same."
@@ -2033,58 +4143,118 @@
   {
    "begin": "2524.520",
    "children": [],
-   "end": "2534.320",
-   "id": "f000204",
+   "end": "2530.240",
+   "id": "f000415",
    "language": "eng",
    "lines": [
-    "He turned to go, then another question occurred to him, and he turned back again. \"Sir, am I allowed to tell Ron and Hermione everything you've told me?\""
+    "He turned to go, then another question occurred to him, and he turned back again."
+   ]
+  },
+  {
+   "begin": "2530.240",
+   "children": [],
+   "end": "2534.320",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "\"Sir, am I allowed to tell Ron and Hermione everything you've told me?\""
    ]
   },
   {
    "begin": "2534.320",
    "children": [],
-   "end": "2561.160",
-   "id": "f000205",
+   "end": "2545.040",
+   "id": "f000417",
    "language": "eng",
    "lines": [
-    "Dumbledore considered him for a moment, then said, \"Yes, I think Mr. Weasley and Miss Granger have proved themselves trustworthy. But Harry, I am going to ask you to ask them not to repeat any of this to anybody else. It would not be a good idea if word got around how much I know, or suspect, about Lord Voldemort's secrets.\""
+    "Dumbledore considered him for a moment, then said, \"Yes, I think Mr. Weasley and Miss Granger have proved themselves trustworthy."
+   ]
+  },
+  {
+   "begin": "2545.040",
+   "children": [],
+   "end": "2552.480",
+   "id": "f000418",
+   "language": "eng",
+   "lines": [
+    "But Harry, I am going to ask you to ask them not to repeat any of this to anybody else."
+   ]
+  },
+  {
+   "begin": "2552.480",
+   "children": [],
+   "end": "2561.160",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "It would not be a good idea if word got around how much I know, or suspect, about Lord Voldemort's secrets.\""
    ]
   },
   {
    "begin": "2561.160",
    "children": [],
-   "end": "2566.360",
-   "id": "f000206",
+   "end": "2565.120",
+   "id": "f000420",
    "language": "eng",
    "lines": [
-    "\"No, sir, I'll make sure it's just Ron and Hermione. Good night.\""
+    "\"No, sir, I'll make sure it's just Ron and Hermione."
+   ]
+  },
+  {
+   "begin": "2565.120",
+   "children": [],
+   "end": "2566.360",
+   "id": "f000421",
+   "language": "eng",
+   "lines": [
+    "Good night.\""
    ]
   },
   {
    "begin": "2566.360",
    "children": [],
-   "end": "2585.400",
-   "id": "f000207",
+   "end": "2571.440",
+   "id": "f000422",
    "language": "eng",
    "lines": [
-    "He turned away again, and was almost at the door when he saw it. Sitting on one of the little spindle-legged tables that supported so many fraillooking silver instruments, was an ugly gold ring set with a large, cracked, black stone."
+    "He turned away again, and was almost at the door when he saw it."
+   ]
+  },
+  {
+   "begin": "2571.440",
+   "children": [],
+   "end": "2585.400",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "Sitting on one of the little spindle-legged tables that supported so many fraillooking silver instruments, was an ugly gold ring set with a large, cracked, black stone."
    ]
   },
   {
    "begin": "2585.400",
    "children": [],
-   "end": "2590.280",
-   "id": "f000208",
+   "end": "2588.880",
+   "id": "f000424",
    "language": "eng",
    "lines": [
-    "\"Sir,\" said Harry, staring at it. \"That ring - \""
+    "\"Sir,\" said Harry, staring at it."
+   ]
+  },
+  {
+   "begin": "2588.880",
+   "children": [],
+   "end": "2590.280",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "\"That ring - \""
    ]
   },
   {
    "begin": "2590.280",
    "children": [],
    "end": "2592.760",
-   "id": "f000209",
+   "id": "f000426",
    "language": "eng",
    "lines": [
     "\"Yes?\" said Dumbledore."
@@ -2094,7 +4264,7 @@
    "begin": "2592.760",
    "children": [],
    "end": "2597.200",
-   "id": "f000210",
+   "id": "f000427",
    "language": "eng",
    "lines": [
     "\"You were wearing it when we visited Professor Slughorn that night.\""
@@ -2104,7 +4274,7 @@
    "begin": "2597.200",
    "children": [],
    "end": "2600.120",
-   "id": "f000211",
+   "id": "f000428",
    "language": "eng",
    "lines": [
     "\"So I was,\" Dumbledore agreed."
@@ -2113,38 +4283,78 @@
   {
    "begin": "2600.120",
    "children": [],
-   "end": "2611.080",
-   "id": "f000212",
+   "end": "2606.640",
+   "id": "f000429",
    "language": "eng",
    "lines": [
-    "\"But isn't it... sir, isn't it the same ring Marvolo Gaunt showed Ogden?\" Dumbledore bowed his head. \"The very same.\""
+    "\"But isn't it... sir, isn't it the same ring Marvolo Gaunt showed Ogden?\""
+   ]
+  },
+  {
+   "begin": "2606.640",
+   "children": [],
+   "end": "2609.160",
+   "id": "f000430",
+   "language": "eng",
+   "lines": [
+    "Dumbledore bowed his head."
+   ]
+  },
+  {
+   "begin": "2609.160",
+   "children": [],
+   "end": "2611.080",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "\"The very same.\""
    ]
   },
   {
    "begin": "2611.080",
    "children": [],
-   "end": "2615.000",
-   "id": "f000213",
+   "end": "2613.320",
+   "id": "f000432",
    "language": "eng",
    "lines": [
-    "\"But how come - ? Have you always had it?\""
+    "\"But how come - ?"
+   ]
+  },
+  {
+   "begin": "2613.320",
+   "children": [],
+   "end": "2615.000",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "Have you always had it?\""
    ]
   },
   {
    "begin": "2615.000",
    "children": [],
-   "end": "2623.760",
-   "id": "f000214",
+   "end": "2619.480",
+   "id": "f000434",
    "language": "eng",
    "lines": [
-    "\"No, I acquired it very recently,\" said Dumbledore. \"A few days before I came to fetch you from your aunt and uncle's, in fact.\""
+    "\"No, I acquired it very recently,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "2619.480",
+   "children": [],
+   "end": "2623.760",
+   "id": "f000435",
+   "language": "eng",
+   "lines": [
+    "\"A few days before I came to fetch you from your aunt and uncle's, in fact.\""
    ]
   },
   {
    "begin": "2623.760",
    "children": [],
    "end": "2627.600",
-   "id": "f000215",
+   "id": "f000436",
    "language": "eng",
    "lines": [
     "\"That would be around the time you injured your hand, then, sir?\""
@@ -2154,7 +4364,7 @@
    "begin": "2627.600",
    "children": [],
    "end": "2630.640",
-   "id": "f000216",
+   "id": "f000437",
    "language": "eng",
    "lines": [
     "\"Around that time, yes, Harry.\""
@@ -2163,28 +4373,68 @@
   {
    "begin": "2630.640",
    "children": [],
-   "end": "2638.400",
-   "id": "f000217",
+   "end": "2633.040",
+   "id": "f000438",
    "language": "eng",
    "lines": [
-    "Harry hesitated. Dumbledore was smiling. \"Sir, how exactly - ?\""
+    "Harry hesitated."
+   ]
+  },
+  {
+   "begin": "2633.040",
+   "children": [],
+   "end": "2635.080",
+   "id": "f000439",
+   "language": "eng",
+   "lines": [
+    "Dumbledore was smiling."
+   ]
+  },
+  {
+   "begin": "2635.080",
+   "children": [],
+   "end": "2638.400",
+   "id": "f000440",
+   "language": "eng",
+   "lines": [
+    "\"Sir, how exactly - ?\""
    ]
   },
   {
    "begin": "2638.400",
    "children": [],
-   "end": "2644.880",
-   "id": "f000218",
+   "end": "2640.080",
+   "id": "f000441",
    "language": "eng",
    "lines": [
-    "\"Too late, Harry! You shall hear the story another time. Good night.\""
+    "\"Too late, Harry!"
+   ]
+  },
+  {
+   "begin": "2640.080",
+   "children": [],
+   "end": "2643.400",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "You shall hear the story another time."
+   ]
+  },
+  {
+   "begin": "2643.400",
+   "children": [],
+   "end": "2644.880",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "Good night.\""
    ]
   },
   {
    "begin": "2644.880",
    "children": [],
    "end": "2649.760",
-   "id": "f000219",
+   "id": "f000444",
    "language": "eng",
    "lines": [
     "\"Good night, sir.\""

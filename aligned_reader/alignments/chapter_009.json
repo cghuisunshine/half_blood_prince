@@ -13,18 +13,28 @@
   {
    "begin": "7.080",
    "children": [],
-   "end": "20.360",
+   "end": "11.840",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Harry and Ron met Hermione in the common room before breakfast next morning. Hoping for some support for his theory, Harry lost no time in telling Hermione what he had overheard Malfoy saying on the Hogwarts Express."
+    "Harry and Ron met Hermione in the common room before breakfast next morning."
+   ]
+  },
+  {
+   "begin": "11.840",
+   "children": [],
+   "end": "20.360",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Hoping for some support for his theory, Harry lost no time in telling Hermione what he had overheard Malfoy saying on the Hogwarts Express."
    ]
   },
   {
    "begin": "20.360",
    "children": [],
    "end": "27.560",
-   "id": "f000003",
+   "id": "f000004",
    "language": "eng",
    "lines": [
     "\"But he was obviously showing off for Parkinson, wasn't he?\" interjected Ron quickly, before Hermione could say anything."
@@ -33,18 +43,28 @@
   {
    "begin": "27.560",
    "children": [],
-   "end": "39.000",
-   "id": "f000004",
+   "end": "32.520",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "\"Well,\" she said uncertainly, \"I don't know... It would be like Malfoy to make himself seem more important than he is... but that's a big lie to tell...\""
+    "\"Well,\" she said uncertainly, \"I don't know..."
+   ]
+  },
+  {
+   "begin": "32.520",
+   "children": [],
+   "end": "39.000",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "It would be like Malfoy to make himself seem more important than he is... but that's a big lie to tell...\""
    ]
   },
   {
    "begin": "39.000",
    "children": [],
    "end": "50.240",
-   "id": "f000005",
+   "id": "f000007",
    "language": "eng",
    "lines": [
     "\"Exactly,\" said Harry, but he could not press the point, because so many people were trying to listen in to his conversation, not to mention staring at him and whispering behind their hands."
@@ -53,38 +73,78 @@
   {
    "begin": "50.240",
    "children": [],
-   "end": "69.200",
-   "id": "f000006",
+   "end": "59.720",
+   "id": "f000008",
    "language": "eng",
    "lines": [
-    "\"It's rude to point,\" Ron snapped at a particularly minuscule first-year boy as they joined the queue to climb out of the portrait hole. The boy, who had been muttering something about Harry behind his hand to his friend, promptly turned scarlet and toppled out of the hole in alarm. Ron sniggered."
+    "\"It's rude to point,\" Ron snapped at a particularly minuscule first-year boy as they joined the queue to climb out of the portrait hole."
+   ]
+  },
+  {
+   "begin": "59.720",
+   "children": [],
+   "end": "68.200",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "The boy, who had been muttering something about Harry behind his hand to his friend, promptly turned scarlet and toppled out of the hole in alarm."
+   ]
+  },
+  {
+   "begin": "68.200",
+   "children": [],
+   "end": "69.200",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Ron sniggered."
    ]
   },
   {
    "begin": "69.200",
    "children": [],
-   "end": "78.760",
-   "id": "f000007",
+   "end": "72.400",
+   "id": "f000011",
    "language": "eng",
    "lines": [
-    "\"I love being a sixth year. And we're going to be getting free time this year. Whole periods when we can just sit up here and relax.\""
+    "\"I love being a sixth year."
+   ]
+  },
+  {
+   "begin": "72.400",
+   "children": [],
+   "end": "75.000",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And we're going to be getting free time this year."
+   ]
+  },
+  {
+   "begin": "75.000",
+   "children": [],
+   "end": "78.760",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Whole periods when we can just sit up here and relax.\""
    ]
   },
   {
    "begin": "78.760",
    "children": [],
-   "end": "83.400",
-   "id": "f000008",
+   "end": "83.440",
+   "id": "f000014",
    "language": "eng",
    "lines": [
     "\"We're going to need that time for studying, Ron!\" said Hermione, as"
    ]
   },
   {
-   "begin": "83.400",
+   "begin": "83.440",
    "children": [],
    "end": "84.840",
-   "id": "f000009",
+   "id": "f000015",
    "language": "eng",
    "lines": [
     "they set off down the corridor."
@@ -93,28 +153,68 @@
   {
    "begin": "84.840",
    "children": [],
-   "end": "89.880",
-   "id": "f000010",
+   "end": "87.360",
+   "id": "f000016",
    "language": "eng",
    "lines": [
-    "\"Yeah, but not today,\" said Ron. \"Today's going to be a real doss, I reckon.\""
+    "\"Yeah, but not today,\" said Ron."
+   ]
+  },
+  {
+   "begin": "87.360",
+   "children": [],
+   "end": "89.880",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "\"Today's going to be a real doss, I reckon.\""
    ]
   },
   {
    "begin": "89.880",
    "children": [],
-   "end": "117.920",
-   "id": "f000011",
+   "end": "101.000",
+   "id": "f000018",
    "language": "eng",
    "lines": [
-    "\"Hold it!\" said Hermione, throwing out an arm and halting a passing fourth year, who was attempting to push past her with a lime-green disk clutched tightly in his hand. \"Fanged Frisbees are banned, hand it over,\" she told him sternly. The scowling boy handed over the snarling Frisbee, ducked under her arm, and took off after his friends. Ron waited for him to vanish, then tugged the Frisbee from Hermione's grip."
+    "\"Hold it!\" said Hermione, throwing out an arm and halting a passing fourth year, who was attempting to push past her with a lime-green disk clutched tightly in his hand."
+   ]
+  },
+  {
+   "begin": "101.000",
+   "children": [],
+   "end": "106.000",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "\"Fanged Frisbees are banned, hand it over,\" she told him sternly."
+   ]
+  },
+  {
+   "begin": "106.000",
+   "children": [],
+   "end": "113.640",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "The scowling boy handed over the snarling Frisbee, ducked under her arm, and took off after his friends."
+   ]
+  },
+  {
+   "begin": "113.640",
+   "children": [],
+   "end": "117.920",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Ron waited for him to vanish, then tugged the Frisbee from Hermione's grip."
    ]
   },
   {
    "begin": "117.920",
    "children": [],
    "end": "121.680",
-   "id": "f000012",
+   "id": "f000022",
    "language": "eng",
    "lines": [
     "\"Excellent, I've always wanted one of these.\""
@@ -123,118 +223,298 @@
   {
    "begin": "121.680",
    "children": [],
-   "end": "140.040",
-   "id": "f000013",
+   "end": "130.560",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "Hermione's remonstration was drowned by a loud giggle; Lavender Brown had apparently found Ron's remark highly amusing. She continued to laugh as she passed them, glancing back at Ron over her shoulder. Ron looked rather pleased with himself."
+    "Hermione's remonstration was drowned by a loud giggle; Lavender Brown had apparently found Ron's remark highly amusing."
+   ]
+  },
+  {
+   "begin": "130.560",
+   "children": [],
+   "end": "136.000",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "She continued to laugh as she passed them, glancing back at Ron over her shoulder."
+   ]
+  },
+  {
+   "begin": "136.000",
+   "children": [],
+   "end": "140.040",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Ron looked rather pleased with himself."
    ]
   },
   {
    "begin": "140.040",
    "children": [],
-   "end": "159.360",
-   "id": "f000014",
+   "end": "149.960",
+   "id": "f000026",
    "language": "eng",
    "lines": [
-    "The ceiling of the Great Hall was serenely blue and streaked with frail, wispy clouds, just like the squares of sky visible through the high mullioned windows. While they tucked into porridge and eggs and bacon, Harry and Ron told Hermione about their embarrassing conversation with Hagrid the previous evening."
+    "The ceiling of the Great Hall was serenely blue and streaked with frail, wispy clouds, just like the squares of sky visible through the high mullioned windows."
+   ]
+  },
+  {
+   "begin": "149.960",
+   "children": [],
+   "end": "159.360",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "While they tucked into porridge and eggs and bacon, Harry and Ron told Hermione about their embarrassing conversation with Hagrid the previous evening."
    ]
   },
   {
    "begin": "159.360",
    "children": [],
-   "end": "173.600",
-   "id": "f000015",
+   "end": "166.960",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "\"But he can't really think we'd continue Care of Magical Creatures!\" she said, looking distressed. \"I mean, when has any of us expressed... you know... any enthusiasm?\""
+    "\"But he can't really think we'd continue Care of Magical Creatures!\" she said, looking distressed."
+   ]
+  },
+  {
+   "begin": "166.960",
+   "children": [],
+   "end": "173.600",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "\"I mean, when has any of us expressed... you know... any enthusiasm?\""
    ]
   },
   {
    "begin": "173.600",
    "children": [],
-   "end": "191.840",
-   "id": "f000016",
+   "end": "179.080",
+   "id": "f000030",
    "language": "eng",
    "lines": [
-    "\"That's it, though, innit?\" said Ron, swallowing an entire fried egg whole. \"We were the ones who made the most effort in classes because we like Hagrid. But he thinks we liked the stupid subject. D'you reckon anyone's going to go on to N.E.W.T.?\""
+    "\"That's it, though, innit?\" said Ron, swallowing an entire fried egg whole."
+   ]
+  },
+  {
+   "begin": "179.080",
+   "children": [],
+   "end": "184.400",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "\"We were the ones who made the most effort in classes because we like Hagrid."
+   ]
+  },
+  {
+   "begin": "184.400",
+   "children": [],
+   "end": "187.680",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "But he thinks we liked the stupid subject."
+   ]
+  },
+  {
+   "begin": "187.680",
+   "children": [],
+   "end": "191.840",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "D'you reckon anyone's going to go on to N.E.W.T.?\""
    ]
   },
   {
    "begin": "191.840",
    "children": [],
-   "end": "212.160",
-   "id": "f000017",
+   "end": "196.240",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "Neither Harry nor Hermione answered; there was no need. They knew perfectly well that nobody in their year would want to continue Care of Magical Creatures. They avoided Hagrid's eye and returned his cheery wave only halfheartedly when he left the staff table ten minutes later."
+    "Neither Harry nor Hermione answered; there was no need."
    ]
   },
   {
-   "begin": "212.160",
+   "begin": "196.240",
    "children": [],
-   "end": "215.960",
-   "id": "f000018",
+   "end": "203.160",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "They knew perfectly well that nobody in their year would want to continue Care of Magical Creatures."
+   ]
+  },
+  {
+   "begin": "203.160",
+   "children": [],
+   "end": "212.200",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "They avoided Hagrid's eye and returned his cheery wave only halfheartedly when he left the staff table ten minutes later."
+   ]
+  },
+  {
+   "begin": "212.200",
+   "children": [],
+   "end": "216.080",
+   "id": "f000037",
    "language": "eng",
    "lines": [
     "After they had eaten, they remained in their places, awaiting Professor"
    ]
   },
   {
-   "begin": "215.960",
+   "begin": "216.080",
    "children": [],
-   "end": "233.600",
-   "id": "f000019",
+   "end": "219.160",
+   "id": "f000038",
    "language": "eng",
    "lines": [
-    "McGonagall's descent from the staff table. The distribution of class schedules was more complicated than usual this year, for Professor McGonagall needed first to confirm that everybody had achieved the necessary O.W.L. grades to continue with their chosen N.E.W.T.s."
+    "McGonagall's descent from the staff table."
    ]
   },
   {
-   "begin": "233.600",
+   "begin": "219.160",
    "children": [],
-   "end": "260.280",
-   "id": "f000020",
+   "end": "233.880",
+   "id": "f000039",
    "language": "eng",
    "lines": [
-    "Hermione was immediately cleared to continue with Charms, Defense Against the Dark Arts, Transfiguration, Herbology, Arithmancy, Ancient Runes, and Potions, and shot off to a first-period Ancient Runes class without further ado. Neville took a little longer to sort out; his round face was anxious as Professor McGonagall looked down his application and then consulted his O.W.L. results."
+    "The distribution of class schedules was more complicated than usual this year, for Professor McGonagall needed first to confirm that everybody had achieved the necessary O.W.L. grades to continue with their chosen N.E.W.T.s."
+   ]
+  },
+  {
+   "begin": "233.880",
+   "children": [],
+   "end": "250.360",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Hermione was immediately cleared to continue with Charms, Defense Against the Dark Arts, Transfiguration, Herbology, Arithmancy, Ancient Runes, and Potions, and shot off to a first-period Ancient Runes class without further ado."
+   ]
+  },
+  {
+   "begin": "250.360",
+   "children": [],
+   "end": "260.280",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Neville took a little longer to sort out; his round face was anxious as Professor McGonagall looked down his application and then consulted his O.W.L. results."
    ]
   },
   {
    "begin": "260.280",
    "children": [],
-   "end": "288.360",
-   "id": "f000021",
+   "end": "263.200",
+   "id": "f000042",
    "language": "eng",
    "lines": [
-    "\"Herbology, fine,\" she said. \"Professor Sprout will be delighted to see you back with an 'Outstanding' O.W.L. And you qualify for Defense Against the Dark Arts with 'Exceeds Expectations.' But the problem is Transfiguration. I'm sorry, Longbottom, but an 'Acceptable' really isn't good enough to continue to N.E.W.T. level. I just don't think you'd be able to cope with the coursework.\""
+    "\"Herbology, fine,\" she said."
    ]
   },
   {
-   "begin": "288.360",
+   "begin": "263.200",
    "children": [],
-   "end": "293.640",
-   "id": "f000022",
+   "end": "269.120",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "Neville hung his head. Professor McGonagall peered at him through her square spectacles."
+    "\"Professor Sprout will be delighted to see you back with an 'Outstanding' O.W.L."
+   ]
+  },
+  {
+   "begin": "269.120",
+   "children": [],
+   "end": "274.480",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And you qualify for Defense Against the Dark Arts with 'Exceeds Expectations.'"
+   ]
+  },
+  {
+   "begin": "274.480",
+   "children": [],
+   "end": "277.520",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "But the problem is Transfiguration."
+   ]
+  },
+  {
+   "begin": "277.520",
+   "children": [],
+   "end": "284.560",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "I'm sorry, Longbottom, but an 'Acceptable' really isn't good enough to continue to N.E.W.T. level."
+   ]
+  },
+  {
+   "begin": "284.560",
+   "children": [],
+   "end": "288.320",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "I just don't think you'd be able to cope with the coursework.\""
+   ]
+  },
+  {
+   "begin": "288.320",
+   "children": [],
+   "end": "289.720",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Neville hung his head."
+   ]
+  },
+  {
+   "begin": "289.720",
+   "children": [],
+   "end": "293.640",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Professor McGonagall peered at him through her square spectacles."
    ]
   },
   {
    "begin": "293.640",
    "children": [],
-   "end": "302.440",
-   "id": "f000023",
+   "end": "298.320",
+   "id": "f000050",
    "language": "eng",
    "lines": [
-    "\"Why do you want to continue with Transfiguration, anyway? I've never had the impression that you particularly enjoyed it.\""
+    "\"Why do you want to continue with Transfiguration, anyway?"
+   ]
+  },
+  {
+   "begin": "298.320",
+   "children": [],
+   "end": "302.440",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "I've never had the impression that you particularly enjoyed it.\""
    ]
   },
   {
    "begin": "302.440",
    "children": [],
    "end": "307.000",
-   "id": "f000024",
+   "id": "f000052",
    "language": "eng",
    "lines": [
     "Neville looked miserable and muttered something about \"my grandmother wants.\""
@@ -243,18 +523,28 @@
   {
    "begin": "307.000",
    "children": [],
-   "end": "321.200",
-   "id": "f000025",
+   "end": "309.840",
+   "id": "f000053",
    "language": "eng",
    "lines": [
-    "\"Hmph,\" snorted Professor McGonagall. \"It's high time your grandmather learned to be proud of the grandson she's got, rather than the one she thinks she ought to have - particularly after what happened at the Ministry.\""
+    "\"Hmph,\" snorted Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "309.840",
+   "children": [],
+   "end": "321.200",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "\"It's high time your grandmather learned to be proud of the grandson she's got, rather than the one she thinks she ought to have - particularly after what happened at the Ministry.\""
    ]
   },
   {
    "begin": "321.200",
    "children": [],
    "end": "327.640",
-   "id": "f000026",
+   "id": "f000055",
    "language": "eng",
    "lines": [
     "Neville turned very pink and blinked confusedly; Professor McGonagall had never paid him a compliment before."
@@ -263,28 +553,58 @@
   {
    "begin": "327.640",
    "children": [],
-   "end": "341.400",
-   "id": "f000027",
+   "end": "333.880",
+   "id": "f000056",
    "language": "eng",
    "lines": [
-    "\"I'm sorry, Longbottom, but I cannot let you into my N.E.W.T. class. I see that you have an 'Exceeds Expectations' in Charms, however - why not try for a N.E.W.T. in Charms?\""
+    "\"I'm sorry, Longbottom, but I cannot let you into my N.E.W.T. class."
+   ]
+  },
+  {
+   "begin": "333.880",
+   "children": [],
+   "end": "341.400",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "I see that you have an 'Exceeds Expectations' in Charms, however - why not try for a N.E.W.T. in Charms?\""
    ]
   },
   {
    "begin": "341.400",
    "children": [],
-   "end": "372.640",
-   "id": "f000028",
+   "end": "346.080",
+   "id": "f000058",
    "language": "eng",
    "lines": [
-    "\"My grandmother thinks Charms is a soft option,\" mumbled Neville. \"Take Charms,\" said Professor McGonagall, \"and I shall drop Augusta a line reminding her that just because she failed her Charms O.W.L., the subject is not necessarily worthless.\" Smiling slightly at the look of delighted incredulity on Neville's face, Professor McGonagall tapped a blank schedule with the tip of her wand and handed it, now carrying details of his new classes, to Neville."
+    "\"My grandmother thinks Charms is a soft option,\" mumbled Neville."
    ]
   },
   {
-   "begin": "372.640",
+   "begin": "346.080",
+   "children": [],
+   "end": "359.400",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "\"Take Charms,\" said Professor McGonagall, \"and I shall drop Augusta a line reminding her that just because she failed her Charms O.W.L., the subject is not necessarily worthless.\""
+   ]
+  },
+  {
+   "begin": "359.400",
+   "children": [],
+   "end": "371.240",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Smiling slightly at the look of delighted incredulity on Neville's face, Professor McGonagall tapped a blank schedule with the tip of her wand and handed it, now carrying details of his new classes, to Neville."
+   ]
+  },
+  {
+   "begin": "371.240",
    "children": [],
    "end": "382.440",
-   "id": "f000029",
+   "id": "f000061",
    "language": "eng",
    "lines": [
     "Professor McGonagall turned next to Parvati Patil, whose first question was whether Firenze, the handsome centaur, was still teaching Divination."
@@ -293,28 +613,88 @@
   {
    "begin": "382.440",
    "children": [],
-   "end": "399.560",
-   "id": "f000030",
+   "end": "396.240",
+   "id": "f000062",
    "language": "eng",
    "lines": [
-    "\"He and Professor Trelawney are dividing classes between them this year,\" said Professor McGonagall, a hint of disapproval in her voice; it was common knowledge that she despised the subject of Divination. \"The sixth year is being taken by Professor Trelawney.\""
+    "\"He and Professor Trelawney are dividing classes between them this year,\" said Professor McGonagall, a hint of disapproval in her voice; it was common knowledge that she despised the subject of Divination."
+   ]
+  },
+  {
+   "begin": "396.240",
+   "children": [],
+   "end": "399.560",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "\"The sixth year is being taken by Professor Trelawney.\""
    ]
   },
   {
    "begin": "399.560",
    "children": [],
-   "end": "430.880",
-   "id": "f000031",
+   "end": "405.760",
+   "id": "f000064",
    "language": "eng",
    "lines": [
-    "Parvati set off for Divination five minutes later looking slightly crestfallen. \"So, Potter, Potter...\" said Professor McGonagall, consulting her notes as she turned to Harry. \"Charms, Defense Against the Dark Arts, Herbology, Transfiguration\u2026 all fine. I must say, I was pleased with your Transfiguration mark, Potter, very pleased. Now, why haven't you applied to continue with Potions? I thought it was your ambition to become an Auror?\""
+    "Parvati set off for Divination five minutes later looking slightly crestfallen."
+   ]
+  },
+  {
+   "begin": "405.760",
+   "children": [],
+   "end": "413.440",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "\"So, Potter, Potter...\" said Professor McGonagall, consulting her notes as she turned to Harry."
+   ]
+  },
+  {
+   "begin": "413.440",
+   "children": [],
+   "end": "420.040",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "\"Charms, Defense Against the Dark Arts, Herbology, Transfiguration\u2026 all fine."
+   ]
+  },
+  {
+   "begin": "420.040",
+   "children": [],
+   "end": "425.280",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "I must say, I was pleased with your Transfiguration mark, Potter, very pleased."
+   ]
+  },
+  {
+   "begin": "425.280",
+   "children": [],
+   "end": "428.520",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Now, why haven't you applied to continue with Potions?"
+   ]
+  },
+  {
+   "begin": "428.520",
+   "children": [],
+   "end": "430.880",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "I thought it was your ambition to become an Auror?\""
    ]
   },
   {
    "begin": "430.880",
    "children": [],
    "end": "436.360",
-   "id": "f000032",
+   "id": "f000070",
    "language": "eng",
    "lines": [
     "\"It was, but you told me I had to get an 'Outstanding' in my O.W.L., Professor.\""
@@ -323,18 +703,38 @@
   {
    "begin": "436.360",
    "children": [],
-   "end": "450.880",
-   "id": "f000033",
+   "end": "440.360",
+   "id": "f000071",
    "language": "eng",
    "lines": [
-    "\"And so you did when Professor Snape was teaching the subject. Professor Slughorn, however, is perfectly happy to accept N.E.W.T. students with 'Exceeds Expectations' at O.W.L. Do you wish to proceed with Potions?\""
+    "\"And so you did when Professor Snape was teaching the subject."
+   ]
+  },
+  {
+   "begin": "440.360",
+   "children": [],
+   "end": "448.800",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "Professor Slughorn, however, is perfectly happy to accept N.E.W.T. students with 'Exceeds Expectations' at O.W.L."
+   ]
+  },
+  {
+   "begin": "448.800",
+   "children": [],
+   "end": "450.880",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "Do you wish to proceed with Potions?\""
    ]
   },
   {
    "begin": "450.880",
    "children": [],
    "end": "455.600",
-   "id": "f000034",
+   "id": "f000074",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry, \"but I didn't buy the books or any ingredients or anything - \""
@@ -343,28 +743,58 @@
   {
    "begin": "455.600",
    "children": [],
-   "end": "468.440",
-   "id": "f000035",
+   "end": "460.600",
+   "id": "f000075",
    "language": "eng",
    "lines": [
-    "\"I'm sure Professor Slughorn will be able to lend you some,\" said Professor McGonagall. \"Very well, Potter, here is your schedule. Oh, by the way - twenty hopefuls have already put down their names for the Gry-"
+    "\"I'm sure Professor Slughorn will be able to lend you some,\" said Professor McGonagall."
    ]
   },
   {
-   "begin": "468.440",
+   "begin": "460.600",
    "children": [],
-   "end": "475.880",
-   "id": "f000036",
+   "end": "463.200",
+   "id": "f000076",
    "language": "eng",
    "lines": [
-    "ffindor Quidditch team. I shall pass the list to you in due course and you can fix up trials at your leisure.\""
+    "\"Very well, Potter, here is your schedule."
+   ]
+  },
+  {
+   "begin": "463.200",
+   "children": [],
+   "end": "468.360",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "Oh, by the way - twenty hopefuls have already put down their names for the Gry-"
+   ]
+  },
+  {
+   "begin": "468.360",
+   "children": [],
+   "end": "470.320",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "ffindor Quidditch team."
+   ]
+  },
+  {
+   "begin": "470.320",
+   "children": [],
+   "end": "475.880",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "I shall pass the list to you in due course and you can fix up trials at your leisure.\""
    ]
   },
   {
    "begin": "475.880",
    "children": [],
    "end": "481.840",
-   "id": "f000037",
+   "id": "f000080",
    "language": "eng",
    "lines": [
     "A few minutes later, Ron was cleared to do the same subjects as Harry, and the two of them left the table together."
@@ -374,7 +804,7 @@
    "begin": "481.840",
    "children": [],
    "end": "492.920",
-   "id": "f000038",
+   "id": "f000081",
    "language": "eng",
    "lines": [
     "\"Look,\" said Ron delightedly, gazing at his schedule, \"we've got a free period now... and a free period after break... and after lunch... excellent!\""
@@ -384,7 +814,7 @@
    "begin": "492.920",
    "children": [],
    "end": "505.160",
-   "id": "f000039",
+   "id": "f000082",
    "language": "eng",
    "lines": [
     "They returned to the common room, which was empty apart from a half dozen seventh years, including Katie Bell, the only remaining member of the original Gryffindor Quidditch team that Harry had joined in his first year."
@@ -393,18 +823,28 @@
   {
    "begin": "505.160",
    "children": [],
-   "end": "514.600",
-   "id": "f000040",
+   "end": "512.440",
+   "id": "f000083",
    "language": "eng",
    "lines": [
-    "\"I thought you'd get that, well done,\" she called over, pointing at the Captain's badge on Harry's chest. \"Tell me when you call trials!\""
+    "\"I thought you'd get that, well done,\" she called over, pointing at the Captain's badge on Harry's chest."
+   ]
+  },
+  {
+   "begin": "512.440",
+   "children": [],
+   "end": "514.600",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "\"Tell me when you call trials!\""
    ]
   },
   {
    "begin": "514.600",
    "children": [],
    "end": "520.520",
-   "id": "f000041",
+   "id": "f000085",
    "language": "eng",
    "lines": [
     "\"Don't be stupid,\" said Harry, \"you don't need to try out, I've watched you play for five years \""
@@ -413,38 +853,108 @@
   {
    "begin": "520.520",
    "children": [],
-   "end": "536.400",
-   "id": "f000042",
+   "end": "524.200",
+   "id": "f000086",
    "language": "eng",
    "lines": [
-    "\"You mustn't start off like that,\" she said warningly. \"For all you know, there's someone much better than me out there. Good teams have been ruined before now because Captains just kept playing the old faces, or letting in their friends \""
+    "\"You mustn't start off like that,\" she said warningly."
    ]
   },
   {
-   "begin": "536.400",
+   "begin": "524.200",
    "children": [],
-   "end": "554.000",
-   "id": "f000043",
+   "end": "528.200",
+   "id": "f000087",
    "language": "eng",
    "lines": [
-    "Ron looked a little uncomfortable and began playing with the Fanged Frisbee Hermione had taken from the fourth-year student. It zoomed around the common room, snarling and attempting to take bites of the tapestry. Crookshanks's yellow eyes followed it and he hissed when it came too close."
+    "\"For all you know, there's someone much better than me out there."
    ]
   },
   {
-   "begin": "554.000",
+   "begin": "528.200",
+   "children": [],
+   "end": "535.400",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "Good teams have been ruined before now because Captains just kept playing the old faces, or letting in their friends \""
+   ]
+  },
+  {
+   "begin": "535.400",
+   "children": [],
+   "end": "543.080",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "Ron looked a little uncomfortable and began playing with the Fanged Frisbee Hermione had taken from the fourth-year student."
+   ]
+  },
+  {
+   "begin": "543.080",
+   "children": [],
+   "end": "547.640",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "It zoomed around the common room, snarling and attempting to take bites of the tapestry."
+   ]
+  },
+  {
+   "begin": "547.640",
+   "children": [],
+   "end": "552.800",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "Crookshanks's yellow eyes followed it and he hissed when it came too close."
+   ]
+  },
+  {
+   "begin": "552.800",
+   "children": [],
+   "end": "562.640",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "An hour later they reluctantly left the sunlit common room for the Defense Against the Dark Arts classroom four floors below."
+   ]
+  },
+  {
+   "begin": "562.640",
+   "children": [],
+   "end": "568.360",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "Hermione was already queuing outside, carrying an armful of heavy books and looking put-upon."
+   ]
+  },
+  {
+   "begin": "568.360",
+   "children": [],
+   "end": "574.360",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "\"We got so much homework for Runes,\" she said anxiously, when Harry and Ron joined her."
+   ]
+  },
+  {
+   "begin": "574.360",
    "children": [],
    "end": "580.400",
-   "id": "f000044",
+   "id": "f000095",
    "language": "eng",
    "lines": [
-    "An hour later they reluctantly left the sunlit common room for the Defense Against the Dark Arts classroom four floors below. Hermione was already queuing outside, carrying an armful of heavy books and looking put-upon. \"We got so much homework for Runes,\" she said anxiously, when Harry and Ron joined her. \"A fifteen-inch essay, two translations, and I've got to read these by Wednesday!\""
+    "\"A fifteen-inch essay, two translations, and I've got to read these by Wednesday!\""
    ]
   },
   {
    "begin": "580.400",
    "children": [],
    "end": "583.280",
-   "id": "f000045",
+   "id": "f000096",
    "language": "eng",
    "lines": [
     "\"Shame,\" yawned Ron."
@@ -453,58 +963,118 @@
   {
    "begin": "583.280",
    "children": [],
-   "end": "589.120",
-   "id": "f000046",
+   "end": "585.840",
+   "id": "f000097",
    "language": "eng",
    "lines": [
-    "\"You wait,\" she said resentfully. \"I bet Snape gives us loads.\""
+    "\"You wait,\" she said resentfully."
    ]
   },
   {
-   "begin": "589.120",
+   "begin": "585.840",
    "children": [],
-   "end": "601.920",
-   "id": "f000047",
+   "end": "588.080",
+   "id": "f000098",
    "language": "eng",
    "lines": [
-    "The classroom door opened as she spoke, and Snape stepped into the corridor, his sallow face framed as ever by two curtains of greasy black hair. Silence fell over the queue immediately."
+    "\"I bet Snape gives us loads.\""
+   ]
+  },
+  {
+   "begin": "588.080",
+   "children": [],
+   "end": "599.080",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "The classroom door opened as she spoke, and Snape stepped into the corridor, his sallow face framed as ever by two curtains of greasy black hair."
+   ]
+  },
+  {
+   "begin": "599.080",
+   "children": [],
+   "end": "601.920",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "Silence fell over the queue immediately."
    ]
   },
   {
    "begin": "601.920",
    "children": [],
-   "end": "606.040",
-   "id": "f000048",
+   "end": "604.960",
+   "id": "f000101",
    "language": "eng",
    "lines": [
     "\"Inside,\" he said."
    ]
   },
   {
-   "begin": "606.040",
+   "begin": "604.960",
    "children": [],
-   "end": "633.920",
-   "id": "f000049",
+   "end": "607.800",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "Harry looked around as they entered. Snape had imposed his personality upon the room already; it was gloomier than usual, as curtains had been drawn over the windows, and was lit by candlelight. New pictures adorned the walls, many of them showing people who appeared to be in pain, sporting grisly injuries or strangely contorted body parts. Nobody spoke as they settled down, looking around at the shadowy, gruesome pictures."
+    "Harry looked around as they entered."
+   ]
+  },
+  {
+   "begin": "607.800",
+   "children": [],
+   "end": "617.560",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "Snape had imposed his personality upon the room already; it was gloomier than usual, as curtains had been drawn over the windows, and was lit by candlelight."
+   ]
+  },
+  {
+   "begin": "617.560",
+   "children": [],
+   "end": "628.720",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "New pictures adorned the walls, many of them showing people who appeared to be in pain, sporting grisly injuries or strangely contorted body parts."
+   ]
+  },
+  {
+   "begin": "628.720",
+   "children": [],
+   "end": "633.920",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "Nobody spoke as they settled down, looking around at the shadowy, gruesome pictures."
    ]
   },
   {
    "begin": "633.920",
    "children": [],
-   "end": "654.120",
-   "id": "f000050",
+   "end": "650.040",
+   "id": "f000106",
    "language": "eng",
    "lines": [
-    "\"I have not asked you to take out your books,\" said Snape, closing the door and moving to face the class from behind his desk; Hermione hastily dropped her copy of Confronting the Faceless back into her bag and stowed it under her chair. \"I wish to speak to you, and I want your fullest attention.\""
+    "\"I have not asked you to take out your books,\" said Snape, closing the door and moving to face the class from behind his desk; Hermione hastily dropped her copy of Confronting the Faceless back into her bag and stowed it under her chair."
+   ]
+  },
+  {
+   "begin": "650.040",
+   "children": [],
+   "end": "654.120",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "\"I wish to speak to you, and I want your fullest attention.\""
    ]
   },
   {
    "begin": "654.120",
    "children": [],
    "end": "663.200",
-   "id": "f000051",
+   "id": "f000108",
    "language": "eng",
    "lines": [
     "His black eyes roved over their upturned faces, lingering for a fraction of a second longer on Harry's than anyone else's."
@@ -513,18 +1083,18 @@
   {
    "begin": "663.200",
    "children": [],
-   "end": "669.520",
-   "id": "f000052",
+   "end": "668.560",
+   "id": "f000109",
    "language": "eng",
    "lines": [
     "\"You have had five teachers in this subject so far, I believe.\""
    ]
   },
   {
-   "begin": "669.520",
+   "begin": "668.560",
    "children": [],
    "end": "676.760",
-   "id": "f000053",
+   "id": "f000110",
    "language": "eng",
    "lines": [
     "You believe... like you haven't watched them all come and go, Snape, hoping you'd be next, thought Harry scathingly."
@@ -533,28 +1103,48 @@
   {
    "begin": "676.760",
    "children": [],
-   "end": "688.120",
-   "id": "f000054",
+   "end": "682.920",
+   "id": "f000111",
    "language": "eng",
    "lines": [
-    "\"Naturally, these teachers will all have had their own methods and priorities. Given this confusion I am surprised so many of you scraped an"
+    "\"Naturally, these teachers will all have had their own methods and priorities."
    ]
   },
   {
-   "begin": "688.120",
+   "begin": "682.920",
    "children": [],
-   "end": "698.240",
-   "id": "f000055",
+   "end": "688.400",
+   "id": "f000112",
    "language": "eng",
    "lines": [
-    "O.W.L. in this subject. I shall be even more surprised if all of you manage to keep up with the N.E.W.T. work, which will be much more advanced.\""
+    "Given this confusion I am surprised so many of you scraped an"
+   ]
+  },
+  {
+   "begin": "688.400",
+   "children": [],
+   "end": "690.040",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "O.W.L. in this subject."
+   ]
+  },
+  {
+   "begin": "690.040",
+   "children": [],
+   "end": "698.240",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "I shall be even more surprised if all of you manage to keep up with the N.E.W.T. work, which will be much more advanced.\""
    ]
   },
   {
    "begin": "698.240",
    "children": [],
    "end": "707.080",
-   "id": "f000056",
+   "id": "f000115",
    "language": "eng",
    "lines": [
     "Snape set off around the edge of the room, speaking now in a lower voice; the class craned their necks to keep him in view."
@@ -563,28 +1153,58 @@
   {
    "begin": "707.080",
    "children": [],
-   "end": "734.040",
-   "id": "f000057",
+   "end": "715.680",
+   "id": "f000116",
    "language": "eng",
    "lines": [
-    "\"The Dark Arts,\" said Snape, \"are many, varied, ever-changing, and eternal. Fighting them is like fighting a many-headed monster, which, each time a neck is severed, sprouts a head even fiercer and cleverer than before. You are fighting that which is unfixed, mutating, indestructible.\""
+    "\"The Dark Arts,\" said Snape, \"are many, varied, ever-changing, and eternal."
    ]
   },
   {
-   "begin": "734.040",
+   "begin": "715.680",
    "children": [],
-   "end": "744.920",
-   "id": "f000058",
+   "end": "726.160",
+   "id": "f000117",
    "language": "eng",
    "lines": [
-    "Harry stared at Snape. It was surely one thing to respect the Dark Arts as a dangerous enemy, another to speak of them, as Snape was doing, with a"
+    "Fighting them is like fighting a many-headed monster, which, each time a neck is severed, sprouts a head even fiercer and cleverer than before."
+   ]
+  },
+  {
+   "begin": "726.160",
+   "children": [],
+   "end": "732.400",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "You are fighting that which is unfixed, mutating, indestructible.\""
+   ]
+  },
+  {
+   "begin": "732.400",
+   "children": [],
+   "end": "735.800",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "Harry stared at Snape."
+   ]
+  },
+  {
+   "begin": "735.800",
+   "children": [],
+   "end": "744.920",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "It was surely one thing to respect the Dark Arts as a dangerous enemy, another to speak of them, as Snape was doing, with a"
    ]
   },
   {
    "begin": "744.920",
    "children": [],
    "end": "746.920",
-   "id": "f000059",
+   "id": "f000121",
    "language": "eng",
    "lines": [
     "loving caress in his voice?"
@@ -593,38 +1213,68 @@
   {
    "begin": "746.920",
    "children": [],
-   "end": "786.160",
-   "id": "f000060",
+   "end": "756.280",
+   "id": "f000122",
    "language": "eng",
    "lines": [
-    "\"Your defenses,\" said Snape, a little louder, \"must therefore be as flexible and inventive as the arts you seek to undo. These pictures\" - he indicated a few of them as he swept past - \"give a fair representation of what happens to those who suffer, for instance, the Cruciatus Curse\" - he waved a hand toward a witch who was clearly shrieking in agony - \"feel the Dementor's Kiss\" - a wizard lying huddled and blank-eyed, slumped against a wall - \"or provoke the aggression of the Inferius\" - a bloody mass upon the ground."
+    "\"Your defenses,\" said Snape, a little louder, \"must therefore be as flexible and inventive as the arts you seek to undo."
+   ]
+  },
+  {
+   "begin": "756.280",
+   "children": [],
+   "end": "786.160",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "These pictures\" - he indicated a few of them as he swept past - \"give a fair representation of what happens to those who suffer, for instance, the Cruciatus Curse\" - he waved a hand toward a witch who was clearly shrieking in agony - \"feel the Dementor's Kiss\" - a wizard lying huddled and blank-eyed, slumped against a wall - \"or provoke the aggression of the Inferius\" - a bloody mass upon the ground."
    ]
   },
   {
    "begin": "786.160",
    "children": [],
-   "end": "795.360",
-   "id": "f000061",
+   "end": "792.440",
+   "id": "f000124",
    "language": "eng",
    "lines": [
-    "\"Has an Inferius been seen, then?\" said Parvati Patil in a high-pitched voice. \"Is it definite, is he using them?\""
+    "\"Has an Inferius been seen, then?\" said Parvati Patil in a high-pitched voice."
+   ]
+  },
+  {
+   "begin": "792.440",
+   "children": [],
+   "end": "795.360",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "\"Is it definite, is he using them?\""
    ]
   },
   {
    "begin": "795.360",
    "children": [],
-   "end": "806.840",
-   "id": "f000062",
+   "end": "805.160",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "\"The Dark Lord has used Inferi in the past,\" said Snape, \"which means you would be well-advised to assume he might use them again. Now...\""
+    "\"The Dark Lord has used Inferi in the past,\" said Snape, \"which means you would be well-advised to assume he might use them again."
    ]
   },
   {
-   "begin": "806.840",
+   "begin": "805.160",
+   "children": [],
+   "end": "806.440",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "Now...\""
+   ]
+  },
+  {
+   "begin": "806.440",
    "children": [],
    "end": "816.400",
-   "id": "f000063",
+   "id": "f000128",
    "language": "eng",
    "lines": [
     "He set off again around the other side of the classroom toward his desk, and again, they watched him as he walked, his dark robes billowing behind him."
@@ -633,28 +1283,48 @@
   {
    "begin": "816.400",
    "children": [],
-   "end": "828.080",
-   "id": "f000064",
+   "end": "823.280",
+   "id": "f000129",
    "language": "eng",
    "lines": [
-    "\"... you are, I believe, complete novices in the use of nonverbal spells. What is the advantage of a nonverbal spell?\""
+    "\"... you are, I believe, complete novices in the use of nonverbal spells."
    ]
   },
   {
-   "begin": "828.080",
+   "begin": "823.280",
    "children": [],
-   "end": "840.120",
-   "id": "f000065",
+   "end": "827.440",
+   "id": "f000130",
    "language": "eng",
    "lines": [
-    "Hermione's hand shot into the air. Snape took his time looking around at everybody else, making sure he had no choice, before saying curtly, \"Very well - Miss Granger?\""
+    "What is the advantage of a nonverbal spell?\""
+   ]
+  },
+  {
+   "begin": "827.440",
+   "children": [],
+   "end": "830.400",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "Hermione's hand shot into the air."
+   ]
+  },
+  {
+   "begin": "830.400",
+   "children": [],
+   "end": "840.120",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "Snape took his time looking around at everybody else, making sure he had no choice, before saying curtly, \"Very well - Miss Granger?\""
    ]
   },
   {
    "begin": "840.120",
    "children": [],
    "end": "848.200",
-   "id": "f000066",
+   "id": "f000133",
    "language": "eng",
    "lines": [
     "\"Your adversary has no warning about what kind of magic you're about to perform,\" said Hermione, \"which gives you a split-second advantage.\""
@@ -663,98 +1333,228 @@
   {
    "begin": "848.200",
    "children": [],
-   "end": "885.560",
-   "id": "f000067",
+   "end": "862.440",
+   "id": "f000134",
    "language": "eng",
    "lines": [
-    "\"An answer copied almost word for word from The Standard Book of Spells, Grade Six,\" said Snape dismissively (over in the corner, Malfoy sniggered), \"but correct in essentials. Yes, those who progress to using magic without shouting incantations gain an element of surprise in their spell-casting. Not all wizards can do this, of course; it is a question of concentration and mind power which some\" - his gaze lingered maliciously upon Harry once more - \"lack.\""
+    "\"An answer copied almost word for word from The Standard Book of Spells, Grade Six,\" said Snape dismissively (over in the corner, Malfoy sniggered), \"but correct in essentials."
    ]
   },
   {
-   "begin": "885.560",
+   "begin": "862.440",
    "children": [],
-   "end": "889.600",
-   "id": "f000068",
+   "end": "871.440",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "Yes, those who progress to using magic without shouting incantations gain an element of surprise in their spell-casting."
+   ]
+  },
+  {
+   "begin": "871.440",
+   "children": [],
+   "end": "884.280",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Not all wizards can do this, of course; it is a question of concentration and mind power which some\" - his gaze lingered maliciously upon Harry once more - \"lack.\""
+   ]
+  },
+  {
+   "begin": "884.280",
+   "children": [],
+   "end": "889.560",
+   "id": "f000137",
    "language": "eng",
    "lines": [
     "Harry knew Snape was thinking of their disastrous Occlumency lessons"
    ]
   },
   {
-   "begin": "889.600",
+   "begin": "889.560",
    "children": [],
-   "end": "896.600",
-   "id": "f000069",
+   "end": "890.600",
+   "id": "f000138",
    "language": "eng",
    "lines": [
-    "of the previous year. He refused to drop his gaze, but glowered at Snape until Snape looked away."
+    "of the previous year."
+   ]
+  },
+  {
+   "begin": "890.600",
+   "children": [],
+   "end": "896.600",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "He refused to drop his gaze, but glowered at Snape until Snape looked away."
    ]
   },
   {
    "begin": "896.600",
    "children": [],
-   "end": "914.000",
-   "id": "f000070",
+   "end": "901.520",
+   "id": "f000140",
    "language": "eng",
    "lines": [
-    "\"You will now divide,\" Snape went on, \"into pairs. One partner will atempt to jinx the other without speaking. The other will attempt to repel the jinx in equal silence. Carry on.\""
+    "\"You will now divide,\" Snape went on, \"into pairs."
    ]
   },
   {
-   "begin": "914.000",
+   "begin": "901.520",
    "children": [],
-   "end": "966.600",
-   "id": "f000071",
+   "end": "906.200",
+   "id": "f000141",
    "language": "eng",
    "lines": [
-    "Although Snape did not know it, Harry had taught at least half the class (everyone who had been a member of the D.A.) how to perform a Shield Charm the previous year. None of them had ever cast the charm without speaking, however. A reasonable amount of cheating ensued; many people were merely whispering the incantation instead of saying it aloud. Typically, ten minutes into the lesson Hermione managed to repel Neville's muttered Jelly-Legs Jinx without uttering a single word, a feat that would surely have earned her twenty points for Gryffindor from any reasonable teacher, thought Harry bitterly, but which Snape ignored. He swept between them as they practiced, looking just as much like an overgrown bat as ever, lingering to watch Harry and Ron struggling with the task."
+    "One partner will atempt to jinx the other without speaking."
    ]
   },
   {
-   "begin": "966.600",
+   "begin": "906.200",
+   "children": [],
+   "end": "911.600",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "The other will attempt to repel the jinx in equal silence."
+   ]
+  },
+  {
+   "begin": "911.600",
+   "children": [],
+   "end": "912.880",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "Carry on.\""
+   ]
+  },
+  {
+   "begin": "912.880",
+   "children": [],
+   "end": "923.960",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Although Snape did not know it, Harry had taught at least half the class (everyone who had been a member of the D.A.) how to perform a Shield Charm the previous year."
+   ]
+  },
+  {
+   "begin": "923.960",
+   "children": [],
+   "end": "928.160",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "None of them had ever cast the charm without speaking, however."
+   ]
+  },
+  {
+   "begin": "928.160",
+   "children": [],
+   "end": "936.120",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "A reasonable amount of cheating ensued; many people were merely whispering the incantation instead of saying it aloud."
+   ]
+  },
+  {
+   "begin": "936.120",
+   "children": [],
+   "end": "955.320",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "Typically, ten minutes into the lesson Hermione managed to repel Neville's muttered Jelly-Legs Jinx without uttering a single word, a feat that would surely have earned her twenty points for Gryffindor from any reasonable teacher, thought Harry bitterly, but which Snape ignored."
+   ]
+  },
+  {
+   "begin": "955.320",
+   "children": [],
+   "end": "965.600",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "He swept between them as they practiced, looking just as much like an overgrown bat as ever, lingering to watch Harry and Ron struggling with the task."
+   ]
+  },
+  {
+   "begin": "965.600",
+   "children": [],
+   "end": "976.480",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "Ron, who was supposed to be jinxing Harry, was purple in the face, his lips tightly compressed to save himself from the temptation of muttering the incantation."
+   ]
+  },
+  {
+   "begin": "976.480",
    "children": [],
    "end": "983.760",
-   "id": "f000072",
+   "id": "f000150",
    "language": "eng",
    "lines": [
-    "Ron, who was supposed to be jinxing Harry, was purple in the face, his lips tightly compressed to save himself from the temptation of muttering the incantation. Harry had his wand raised, waiting on tenterhooks to repel a jinx that seemed unlikely ever to come."
+    "Harry had his wand raised, waiting on tenterhooks to repel a jinx that seemed unlikely ever to come."
    ]
   },
   {
    "begin": "983.760",
    "children": [],
-   "end": "991.160",
-   "id": "f000073",
+   "end": "988.200",
+   "id": "f000151",
    "language": "eng",
    "lines": [
-    "\"Pathetic, Weasley,\" said Snape, after a while. \"Here - let me show you - \""
+    "\"Pathetic, Weasley,\" said Snape, after a while."
    ]
   },
   {
-   "begin": "991.160",
+   "begin": "988.200",
    "children": [],
-   "end": "1000.280",
-   "id": "f000074",
+   "end": "990.560",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "\"Here - let me show you - \""
+   ]
+  },
+  {
+   "begin": "990.560",
+   "children": [],
+   "end": "999.680",
+   "id": "f000153",
    "language": "eng",
    "lines": [
     "He turned his wand on Harry so fast that Harry reacted instinctively; all thought of nonverbal spells forgotten, he yelled, \"Protego!\""
    ]
   },
   {
-   "begin": "1000.280",
+   "begin": "999.680",
    "children": [],
-   "end": "1011.160",
-   "id": "f000075",
+   "end": "1004.960",
+   "id": "f000154",
    "language": "eng",
    "lines": [
-    "His Shield Charm was so strong Snape was knocked off-balance and hit a desk. The whole class had looked around and now watched as Snape righted himself, scowling."
+    "His Shield Charm was so strong Snape was knocked off-balance and hit a desk."
+   ]
+  },
+  {
+   "begin": "1004.960",
+   "children": [],
+   "end": "1011.160",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "The whole class had looked around and now watched as Snape righted himself, scowling."
    ]
   },
   {
    "begin": "1011.160",
    "children": [],
    "end": "1017.640",
-   "id": "f000076",
+   "id": "f000156",
    "language": "eng",
    "lines": [
     "\"Do you remember me telling you we are practicing nonverbal spells, Potter?\""
@@ -763,48 +1563,88 @@
   {
    "begin": "1017.640",
    "children": [],
-   "end": "1022.520",
-   "id": "f000077",
+   "end": "1020.520",
+   "id": "f000157",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Harry stiffly. \"Yes, sir.\""
+    "\"Yes,\" said Harry stiffly."
+   ]
+  },
+  {
+   "begin": "1020.520",
+   "children": [],
+   "end": "1022.520",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "\"Yes, sir.\""
    ]
   },
   {
    "begin": "1022.520",
    "children": [],
-   "end": "1026.480",
-   "id": "f000078",
+   "end": "1025.320",
+   "id": "f000159",
    "language": "eng",
    "lines": [
     "\"There's no need to call me 'sir,' Professor.\""
    ]
   },
   {
-   "begin": "1026.480",
+   "begin": "1025.320",
    "children": [],
-   "end": "1037.920",
-   "id": "f000079",
+   "end": "1029.520",
+   "id": "f000160",
    "language": "eng",
    "lines": [
-    "The words had escaped him before he knew what he was saying. Several people gasped, including Hermione. Behind Snape, however, Ron, Dean, and Seamus grinned appreciatively."
+    "The words had escaped him before he knew what he was saying."
+   ]
+  },
+  {
+   "begin": "1029.520",
+   "children": [],
+   "end": "1032.960",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "Several people gasped, including Hermione."
+   ]
+  },
+  {
+   "begin": "1032.960",
+   "children": [],
+   "end": "1037.920",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "Behind Snape, however, Ron, Dean, and Seamus grinned appreciatively."
    ]
   },
   {
    "begin": "1037.920",
    "children": [],
-   "end": "1048.320",
-   "id": "f000080",
+   "end": "1042.800",
+   "id": "f000163",
    "language": "eng",
    "lines": [
-    "\"Detention, Saturday night, my office,\" said Snape. \"I do not take cheek from anyone, Potter... not even 'the Chosen One.'\""
+    "\"Detention, Saturday night, my office,\" said Snape."
+   ]
+  },
+  {
+   "begin": "1042.800",
+   "children": [],
+   "end": "1048.320",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "\"I do not take cheek from anyone, Potter... not even 'the Chosen One.'\""
    ]
   },
   {
    "begin": "1048.320",
    "children": [],
    "end": "1057.160",
-   "id": "f000081",
+   "id": "f000165",
    "language": "eng",
    "lines": [
     "\"That was brilliant, Harry!\" chortled Ron, once they were safely on their way to break a short while later."
@@ -813,28 +1653,98 @@
   {
    "begin": "1057.160",
    "children": [],
-   "end": "1063.360",
-   "id": "f000082",
+   "end": "1062.080",
+   "id": "f000166",
    "language": "eng",
    "lines": [
-    "\"You really shouldn't have said it,\" said Hermione, frowning at Ron. \"What made you?\""
+    "\"You really shouldn't have said it,\" said Hermione, frowning at Ron."
+   ]
+  },
+  {
+   "begin": "1062.080",
+   "children": [],
+   "end": "1063.360",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "\"What made you?\""
    ]
   },
   {
    "begin": "1063.360",
    "children": [],
-   "end": "1087.760",
-   "id": "f000083",
+   "end": "1067.760",
+   "id": "f000168",
    "language": "eng",
    "lines": [
-    "\"He tried to jinx me, in case you didn't notice!\" fumed Harry. \"I had enough of that during those Occlumency lessons! Why doesn't he use another guinea pig for a change? What's Dumbledore playing at, anyway, letting him teach Defense? Did you hear him talking about the Dark Arts? He loves them! All that unfixed, indestructible stuff - \""
+    "\"He tried to jinx me, in case you didn't notice!\" fumed Harry."
+   ]
+  },
+  {
+   "begin": "1067.760",
+   "children": [],
+   "end": "1071.320",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "\"I had enough of that during those Occlumency lessons!"
+   ]
+  },
+  {
+   "begin": "1071.320",
+   "children": [],
+   "end": "1074.520",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "Why doesn't he use another guinea pig for a change?"
+   ]
+  },
+  {
+   "begin": "1074.520",
+   "children": [],
+   "end": "1079.360",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "What's Dumbledore playing at, anyway, letting him teach Defense?"
+   ]
+  },
+  {
+   "begin": "1079.360",
+   "children": [],
+   "end": "1082.280",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "Did you hear him talking about the Dark Arts?"
+   ]
+  },
+  {
+   "begin": "1082.280",
+   "children": [],
+   "end": "1083.640",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "He loves them!"
+   ]
+  },
+  {
+   "begin": "1083.640",
+   "children": [],
+   "end": "1087.760",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "All that unfixed, indestructible stuff - \""
    ]
   },
   {
    "begin": "1087.760",
    "children": [],
    "end": "1092.400",
-   "id": "f000084",
+   "id": "f000175",
    "language": "eng",
    "lines": [
     "\"Well,\" said Hermione, \"I thought he sounded a bit like you.\""
@@ -844,7 +1754,7 @@
    "begin": "1092.400",
    "children": [],
    "end": "1094.160",
-   "id": "f000085",
+   "id": "f000176",
    "language": "eng",
    "lines": [
     "\"Like me?\""
@@ -853,18 +1763,38 @@
   {
    "begin": "1094.160",
    "children": [],
-   "end": "1110.880",
-   "id": "f000086",
+   "end": "1098.040",
+   "id": "f000177",
    "language": "eng",
    "lines": [
-    "\"Yes, when you were telling us what it's like to face Voldemort. You said it wasn't just memorizing a bunch of spells, you said it was just you and your brains and your guts - well, wasn't that what Snape was saying? That it really comes down to being brave and quick-thinking?\""
+    "\"Yes, when you were telling us what it's like to face Voldemort."
+   ]
+  },
+  {
+   "begin": "1098.040",
+   "children": [],
+   "end": "1107.720",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "You said it wasn't just memorizing a bunch of spells, you said it was just you and your brains and your guts - well, wasn't that what Snape was saying?"
+   ]
+  },
+  {
+   "begin": "1107.720",
+   "children": [],
+   "end": "1110.880",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "That it really comes down to being brave and quick-thinking?\""
    ]
   },
   {
    "begin": "1110.880",
    "children": [],
    "end": "1120.000",
-   "id": "f000087",
+   "id": "f000180",
    "language": "eng",
    "lines": [
     "Harry was so disarmed that she had thought his words as well worth memorizing as The Standard Book of Spells that he did not argue."
@@ -873,18 +1803,28 @@
   {
    "begin": "1120.000",
    "children": [],
-   "end": "1122.360",
-   "id": "f000088",
+   "end": "1121.360",
+   "id": "f000181",
    "language": "eng",
    "lines": [
-    "\"Harry! Hey, Harry!\""
+    "\"Harry!"
+   ]
+  },
+  {
+   "begin": "1121.360",
+   "children": [],
+   "end": "1122.360",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "Hey, Harry!\""
    ]
   },
   {
    "begin": "1122.360",
    "children": [],
    "end": "1132.200",
-   "id": "f000089",
+   "id": "f000183",
    "language": "eng",
    "lines": [
     "Harry looked around; Jack Sloper, one of the Beaters on last year's Gryffindor Quidditch team, was hurrying toward him holding a roll of parchment."
@@ -893,48 +1833,148 @@
   {
    "begin": "1132.200",
    "children": [],
-   "end": "1139.040",
-   "id": "f000090",
+   "end": "1134.920",
+   "id": "f000184",
    "language": "eng",
    "lines": [
-    "\"For you,\" panted Sloper. \"Listen, I heard you're the new Captain. When're you holding trials?\""
+    "\"For you,\" panted Sloper."
+   ]
+  },
+  {
+   "begin": "1134.920",
+   "children": [],
+   "end": "1137.440",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "\"Listen, I heard you're the new Captain."
+   ]
+  },
+  {
+   "begin": "1137.440",
+   "children": [],
+   "end": "1139.040",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "When're you holding trials?\""
    ]
   },
   {
    "begin": "1139.040",
    "children": [],
-   "end": "1146.840",
-   "id": "f000091",
+   "end": "1145.720",
+   "id": "f000187",
    "language": "eng",
    "lines": [
-    "\"I'm not sure yet,\" said Harry, thinking privately that Sloper would be very lucky to get back on the team. \"I'll let you know.\""
+    "\"I'm not sure yet,\" said Harry, thinking privately that Sloper would be very lucky to get back on the team."
+   ]
+  },
+  {
+   "begin": "1145.720",
+   "children": [],
+   "end": "1146.840",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "\"I'll let you know.\""
    ]
   },
   {
    "begin": "1146.840",
    "children": [],
-   "end": "1150.600",
-   "id": "f000092",
+   "end": "1148.160",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "\"Oh, right. I was hoping it'd be this weekend - \""
+    "\"Oh, right."
    ]
   },
   {
-   "begin": "1150.600",
+   "begin": "1148.160",
    "children": [],
-   "end": "1183.280",
-   "id": "f000093",
+   "end": "1150.000",
+   "id": "f000190",
    "language": "eng",
    "lines": [
-    "But Harry was not listening; he had just recognized the thin, slanting writing on the parchment. Leaving Sloper in mid-sentence, he hurried away with Ron and Hermione, unrolling the parchment as he went. Dear Harry, I would like to start our private lessons this Saturday. Kindly come along to my office at 8 p.m. I hope you are enjoying your first day back at school. Yours sincerely, Albus Dumbledore P.S. I enjoy Acid Pops."
+    "I was hoping it'd be this weekend - \""
+   ]
+  },
+  {
+   "begin": "1150.000",
+   "children": [],
+   "end": "1156.880",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "But Harry was not listening; he had just recognized the thin, slanting writing on the parchment."
+   ]
+  },
+  {
+   "begin": "1156.880",
+   "children": [],
+   "end": "1164.160",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "Leaving Sloper in mid-sentence, he hurried away with Ron and Hermione, unrolling the parchment as he went."
+   ]
+  },
+  {
+   "begin": "1164.160",
+   "children": [],
+   "end": "1170.120",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "Dear Harry, I would like to start our private lessons this Saturday."
+   ]
+  },
+  {
+   "begin": "1170.120",
+   "children": [],
+   "end": "1173.160",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "Kindly come along to my office at 8 p.m."
+   ]
+  },
+  {
+   "begin": "1173.160",
+   "children": [],
+   "end": "1176.760",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "I hope you are enjoying your first day back at school."
+   ]
+  },
+  {
+   "begin": "1176.760",
+   "children": [],
+   "end": "1180.760",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "Yours sincerely, Albus Dumbledore P.S."
+   ]
+  },
+  {
+   "begin": "1180.760",
+   "children": [],
+   "end": "1183.280",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "I enjoy Acid Pops."
    ]
   },
   {
    "begin": "1183.280",
    "children": [],
    "end": "1191.400",
-   "id": "f000094",
+   "id": "f000198",
    "language": "eng",
    "lines": [
     "\"He enjoys Acid Pops?\" said Ron, who had read the message over Harry's shoulder and was looking perplexed."
@@ -943,98 +1983,308 @@
   {
    "begin": "1191.400",
    "children": [],
-   "end": "1203.400",
-   "id": "f000095",
+   "end": "1197.840",
+   "id": "f000199",
    "language": "eng",
    "lines": [
-    "\"It's the password to get past the gargoyle outside his study,\" said Harry in a low voice. \"Ha! Snape's not going to be pleased... I won't be able to do his detention!\""
+    "\"It's the password to get past the gargoyle outside his study,\" said Harry in a low voice."
    ]
   },
   {
-   "begin": "1203.400",
+   "begin": "1197.840",
    "children": [],
-   "end": "1259.080",
-   "id": "f000096",
+   "end": "1198.520",
+   "id": "f000200",
    "language": "eng",
    "lines": [
-    "He, Ron, and Hermione spent the whole of break speculating on what Dumbledore would teach Harry. Ron thought it most likely to be spectacular jinxes and hexes of the type the Death Eaters would not know. Hermione said such things were illegal, and thought it much more likely that Dumbledore wanted to teach Harry advanced Defensive magic. After break, she went off to Arithmancy while Harry and Ron returned to the common room, where they grudgingly started Snape's homework. This turned out to be so complex that they still had not finished when Hermione joined them for their after-lunch free period (though she considerably speeded up the process). They had only just finished when the bell rang for the afternoon's double Potions and they beat the familiar path down to the dungeon classroom that had, for so long, been Snape's."
+    "\"Ha!"
    ]
   },
   {
-   "begin": "1259.080",
+   "begin": "1198.520",
+   "children": [],
+   "end": "1200.600",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "Snape's not going to be pleased..."
+   ]
+  },
+  {
+   "begin": "1200.600",
+   "children": [],
+   "end": "1202.560",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "I won't be able to do his detention!\""
+   ]
+  },
+  {
+   "begin": "1202.560",
+   "children": [],
+   "end": "1209.480",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "He, Ron, and Hermione spent the whole of break speculating on what Dumbledore would teach Harry."
+   ]
+  },
+  {
+   "begin": "1209.480",
+   "children": [],
+   "end": "1216.840",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Ron thought it most likely to be spectacular jinxes and hexes of the type the Death Eaters would not know."
+   ]
+  },
+  {
+   "begin": "1216.840",
+   "children": [],
+   "end": "1225.080",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "Hermione said such things were illegal, and thought it much more likely that Dumbledore wanted to teach Harry advanced Defensive magic."
+   ]
+  },
+  {
+   "begin": "1225.080",
+   "children": [],
+   "end": "1234.600",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "After break, she went off to Arithmancy while Harry and Ron returned to the common room, where they grudgingly started Snape's homework."
+   ]
+  },
+  {
+   "begin": "1234.600",
+   "children": [],
+   "end": "1244.600",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "This turned out to be so complex that they still had not finished when Hermione joined them for their after-lunch free period (though she considerably speeded up the process)."
+   ]
+  },
+  {
+   "begin": "1244.600",
+   "children": [],
+   "end": "1257.880",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "They had only just finished when the bell rang for the afternoon's double Potions and they beat the familiar path down to the dungeon classroom that had, for so long, been Snape's."
+   ]
+  },
+  {
+   "begin": "1257.880",
+   "children": [],
+   "end": "1265.080",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "When they arrived in the corridor they saw that there were only a dozen people progressing to N.E.W.T. level."
+   ]
+  },
+  {
+   "begin": "1265.080",
    "children": [],
    "end": "1272.640",
-   "id": "f000097",
+   "id": "f000210",
    "language": "eng",
    "lines": [
-    "When they arrived in the corridor they saw that there were only a dozen people progressing to N.E.W.T. level. Crabbe and Goyle had evidently failed to achieve the required O.W.L. grade, but four Slytherins had made"
+    "Crabbe and Goyle had evidently failed to achieve the required O.W.L. grade, but four Slytherins had made"
    ]
   },
   {
    "begin": "1272.640",
    "children": [],
-   "end": "1283.320",
-   "id": "f000098",
+   "end": "1274.920",
+   "id": "f000211",
    "language": "eng",
    "lines": [
-    "it through, including Malfoy. Four Ravenclaws were there, and one Hufflepuff, Ernie Macmillan, whom Harry liked despite his rather pompous manner."
+    "it through, including Malfoy."
+   ]
+  },
+  {
+   "begin": "1274.920",
+   "children": [],
+   "end": "1283.320",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "Four Ravenclaws were there, and one Hufflepuff, Ernie Macmillan, whom Harry liked despite his rather pompous manner."
    ]
   },
   {
    "begin": "1283.320",
    "children": [],
-   "end": "1303.160",
-   "id": "f000099",
+   "end": "1293.480",
+   "id": "f000213",
    "language": "eng",
    "lines": [
-    "\"Harry,\" Ernie said portentously, holding out his hand as Harry approached, \"didn't get a chance to speak in Defense Against the Dark Arts this morning. Good lesson, I thought, but Shield Charms are old hat, of course, for us old D.A. lags... And how are you, Ron - Hermione?\""
+    "\"Harry,\" Ernie said portentously, holding out his hand as Harry approached, \"didn't get a chance to speak in Defense Against the Dark Arts this morning."
    ]
   },
   {
-   "begin": "1303.160",
+   "begin": "1293.480",
    "children": [],
-   "end": "1321.000",
-   "id": "f000100",
+   "end": "1299.920",
+   "id": "f000214",
    "language": "eng",
    "lines": [
-    "Before they could say more than \"fine,\" the dungeon door opened and Slughorn's belly preceded him out of the door. As they filed into the room, his great walrus mustache curved above his beaming mouth, and he greeted Harry and Zabini with particular enthusiasm."
+    "Good lesson, I thought, but Shield Charms are old hat, of course, for us old D.A. lags..."
+   ]
+  },
+  {
+   "begin": "1299.920",
+   "children": [],
+   "end": "1302.200",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "And how are you, Ron - Hermione?\""
+   ]
+  },
+  {
+   "begin": "1302.200",
+   "children": [],
+   "end": "1310.440",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "Before they could say more than \"fine,\" the dungeon door opened and Slughorn's belly preceded him out of the door."
+   ]
+  },
+  {
+   "begin": "1310.440",
+   "children": [],
+   "end": "1321.000",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "As they filed into the room, his great walrus mustache curved above his beaming mouth, and he greeted Harry and Zabini with particular enthusiasm."
    ]
   },
   {
    "begin": "1321.000",
    "children": [],
-   "end": "1380.800",
-   "id": "f000101",
+   "end": "1327.600",
+   "id": "f000218",
    "language": "eng",
    "lines": [
-    "The dungeon was, most unusually, already full of vapors and odd smells. Harry, Ron, and Hermione sniffed interestedly as they passed large, bubbling cauldrons. The four Slytherins took a table together, as did the four Ravenclaws. This left Harry, Ron, and Hermione to share a table with Ernie. They chose the one nearest a gold-colored cauldron that was emitting one of the most seductive scents Harry had ever inhaled: Somehow it reminded him simultaneously of treacle tart, the woody smell of a broomstick handle, and something flowery he thought he might have smelled at the Burrow. He found that he was breathing very slowly and deeply and that the potion's fumes seemed to be filling him up like drink. A great contentment stole over him; he grinned across at Ron, who grinned back lazily."
+    "The dungeon was, most unusually, already full of vapors and odd smells."
    ]
   },
   {
-   "begin": "1380.800",
+   "begin": "1327.600",
    "children": [],
-   "end": "1396.520",
-   "id": "f000102",
+   "end": "1333.840",
+   "id": "f000219",
    "language": "eng",
    "lines": [
-    "\"Now then, now then, now then,\" said Slughorn, whose massive outline was quivering through the many shimmering vapors. \"Scales out, everyone, and potion kits, and don't forget your copies of Advanced Potion-Mak-ing...\""
+    "Harry, Ron, and Hermione sniffed interestedly as they passed large, bubbling cauldrons."
+   ]
+  },
+  {
+   "begin": "1333.840",
+   "children": [],
+   "end": "1338.760",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "The four Slytherins took a table together, as did the four Ravenclaws."
+   ]
+  },
+  {
+   "begin": "1338.760",
+   "children": [],
+   "end": "1342.960",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "This left Harry, Ron, and Hermione to share a table with Ernie."
+   ]
+  },
+  {
+   "begin": "1342.960",
+   "children": [],
+   "end": "1364.600",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "They chose the one nearest a gold-colored cauldron that was emitting one of the most seductive scents Harry had ever inhaled: Somehow it reminded him simultaneously of treacle tart, the woody smell of a broomstick handle, and something flowery he thought he might have smelled at the Burrow."
+   ]
+  },
+  {
+   "begin": "1364.600",
+   "children": [],
+   "end": "1373.160",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "He found that he was breathing very slowly and deeply and that the potion's fumes seemed to be filling him up like drink."
+   ]
+  },
+  {
+   "begin": "1373.160",
+   "children": [],
+   "end": "1380.760",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "A great contentment stole over him; he grinned across at Ron, who grinned back lazily."
+   ]
+  },
+  {
+   "begin": "1380.760",
+   "children": [],
+   "end": "1389.800",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "\"Now then, now then, now then,\" said Slughorn, whose massive outline was quivering through the many shimmering vapors."
+   ]
+  },
+  {
+   "begin": "1389.800",
+   "children": [],
+   "end": "1396.520",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "\"Scales out, everyone, and potion kits, and don't forget your copies of Advanced Potion-Mak-ing...\""
    ]
   },
   {
    "begin": "1396.520",
    "children": [],
-   "end": "1400.480",
-   "id": "f000103",
+   "end": "1399.160",
+   "id": "f000227",
    "language": "eng",
    "lines": [
-    "\"Sir?\" said Harry, raising his hand. \"Harry, m'boy?\""
+    "\"Sir?\" said Harry, raising his hand."
+   ]
+  },
+  {
+   "begin": "1399.160",
+   "children": [],
+   "end": "1400.480",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "\"Harry, m'boy?\""
    ]
   },
   {
    "begin": "1400.480",
    "children": [],
    "end": "1407.720",
-   "id": "f000104",
+   "id": "f000229",
    "language": "eng",
    "lines": [
     "\"I haven't got a book or scales or anything - nor's Ron - we didn't realize we'd be able to do the N.E.W.T., you see - \""
@@ -1043,28 +2293,38 @@
   {
    "begin": "1407.720",
    "children": [],
-   "end": "1417.120",
-   "id": "f000105",
+   "end": "1414.520",
+   "id": "f000230",
    "language": "eng",
    "lines": [
-    "\"Ah, yes, Professor McGonagall did mention... not to worry, my dear boy, not to worry at all. You can use ingredients from the store cupboard"
+    "\"Ah, yes, Professor McGonagall did mention... not to worry, my dear boy, not to worry at all."
+   ]
+  },
+  {
+   "begin": "1414.520",
+   "children": [],
+   "end": "1417.120",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "You can use ingredients from the store cupboard"
    ]
   },
   {
    "begin": "1417.120",
    "children": [],
-   "end": "1426.760",
-   "id": "f000106",
+   "end": "1425.960",
+   "id": "f000232",
    "language": "eng",
    "lines": [
     "today, and I'm sure we can lend you some scales, and we've got a small stock of old books here, they'll do until you can write to Flourish and Blotts.\""
    ]
   },
   {
-   "begin": "1426.760",
+   "begin": "1425.960",
    "children": [],
    "end": "1442.560",
-   "id": "f000107",
+   "id": "f000233",
    "language": "eng",
    "lines": [
     "Slughorn strode over to a corner cupboard and, after a moment's foraging, emerged with two very battered-looking copies of Advanced Potion- Making by Libatius Borage, which he gave to Harry and Ron along with two sets of tarnished scales."
@@ -1073,28 +2333,68 @@
   {
    "begin": "1442.560",
    "children": [],
-   "end": "1469.040",
-   "id": "f000108",
+   "end": "1457.520",
+   "id": "f000234",
    "language": "eng",
    "lines": [
-    "\"Now then,\" said Slughorn, returning to the front of the class and inflating his already bulging chest so that the buttons on his waistcoat threatened to burst off, \"I've prepared a few potions for you to have a look at, just out of interest, you know. These are the kind of thing you ought to be able to make after completing your N.E.W.T.s. You ought to have heard of 'em, even if you haven't made 'em yet. Anyone tell me what this one is?\""
+    "\"Now then,\" said Slughorn, returning to the front of the class and inflating his already bulging chest so that the buttons on his waistcoat threatened to burst off, \"I've prepared a few potions for you to have a look at, just out of interest, you know."
+   ]
+  },
+  {
+   "begin": "1457.520",
+   "children": [],
+   "end": "1463.560",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "These are the kind of thing you ought to be able to make after completing your N.E.W.T.s."
+   ]
+  },
+  {
+   "begin": "1463.560",
+   "children": [],
+   "end": "1466.720",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "You ought to have heard of 'em, even if you haven't made 'em yet."
+   ]
+  },
+  {
+   "begin": "1466.720",
+   "children": [],
+   "end": "1469.040",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "Anyone tell me what this one is?\""
    ]
   },
   {
    "begin": "1469.040",
    "children": [],
-   "end": "1479.680",
-   "id": "f000109",
+   "end": "1472.680",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "He indicated the cauldron nearest the Slytherin table. Harry raised himself slightly in his seat and saw what looked like plain water boiling away inside it."
+    "He indicated the cauldron nearest the Slytherin table."
+   ]
+  },
+  {
+   "begin": "1472.680",
+   "children": [],
+   "end": "1479.680",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "Harry raised himself slightly in his seat and saw what looked like plain water boiling away inside it."
    ]
   },
   {
    "begin": "1479.680",
    "children": [],
    "end": "1486.400",
-   "id": "f000110",
+   "id": "f000240",
    "language": "eng",
    "lines": [
     "Hermione's well-practiced hand hit the air before anybody else's; Slughorn pointed at her."
@@ -1104,7 +2404,7 @@
    "begin": "1486.400",
    "children": [],
    "end": "1493.040",
-   "id": "f000111",
+   "id": "f000241",
    "language": "eng",
    "lines": [
     "\"It's Veritaserum, a colorless, odorless potion that forces the drinker to tell the truth,\" said Hermione."
@@ -1113,28 +2413,68 @@
   {
    "begin": "1493.040",
    "children": [],
-   "end": "1508.520",
-   "id": "f000112",
+   "end": "1497.680",
+   "id": "f000242",
    "language": "eng",
    "lines": [
-    "\"Very good, very good!\" said Slughorn happily. \"Now,\" he continued, pointing at the cauldron nearest the Ravenclaw table, \"this one here is pretty well known... Featured in a few Ministry leaflets lately too... Who can - ?\""
+    "\"Very good, very good!\" said Slughorn happily."
    ]
   },
   {
-   "begin": "1508.520",
+   "begin": "1497.680",
    "children": [],
-   "end": "1513.960",
-   "id": "f000113",
+   "end": "1504.680",
+   "id": "f000243",
    "language": "eng",
    "lines": [
-    "Hermione's hand was fastest once more. \"It's Polyjuice Potion, sir,\" she said."
+    "\"Now,\" he continued, pointing at the cauldron nearest the Ravenclaw table, \"this one here is pretty well known..."
+   ]
+  },
+  {
+   "begin": "1504.680",
+   "children": [],
+   "end": "1507.320",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "Featured in a few Ministry leaflets lately too..."
+   ]
+  },
+  {
+   "begin": "1507.320",
+   "children": [],
+   "end": "1508.160",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "Who can - ?\""
+   ]
+  },
+  {
+   "begin": "1508.160",
+   "children": [],
+   "end": "1511.000",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "Hermione's hand was fastest once more."
+   ]
+  },
+  {
+   "begin": "1511.000",
+   "children": [],
+   "end": "1513.960",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "\"It's Polyjuice Potion, sir,\" she said."
    ]
   },
   {
    "begin": "1513.960",
    "children": [],
    "end": "1529.320",
-   "id": "f000114",
+   "id": "f000248",
    "language": "eng",
    "lines": [
     "Harry too had recognized the slow-bubbling, mudlike substance in the second cauldron, but did not resent Hermione getting the credit for answering the question; she, after all, was the one who had succeeded in making it, back in their second year."
@@ -1143,18 +2483,28 @@
   {
    "begin": "1529.320",
    "children": [],
-   "end": "1540.600",
-   "id": "f000115",
+   "end": "1532.080",
+   "id": "f000249",
    "language": "eng",
    "lines": [
-    "\"Excellent, excellent! Now, this one here... yes, my dear?\" said Slughorn, now looking slightly bemused, as Hermione's hand punched the air again."
+    "\"Excellent, excellent!"
+   ]
+  },
+  {
+   "begin": "1532.080",
+   "children": [],
+   "end": "1540.600",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "Now, this one here... yes, my dear?\" said Slughorn, now looking slightly bemused, as Hermione's hand punched the air again."
    ]
   },
   {
    "begin": "1540.600",
    "children": [],
    "end": "1542.600",
-   "id": "f000116",
+   "id": "f000251",
    "language": "eng",
    "lines": [
     "\"It's Amortentia!\""
@@ -1163,18 +2513,28 @@
   {
    "begin": "1542.600",
    "children": [],
-   "end": "1554.400",
-   "id": "f000117",
+   "end": "1545.440",
+   "id": "f000252",
    "language": "eng",
    "lines": [
-    "\"It is indeed. It seems almost foolish to ask,\" said Slughorn, who was looking mightily impressed, \"but I assume you know what it does?\""
+    "\"It is indeed."
+   ]
+  },
+  {
+   "begin": "1545.440",
+   "children": [],
+   "end": "1554.400",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "It seems almost foolish to ask,\" said Slughorn, who was looking mightily impressed, \"but I assume you know what it does?\""
    ]
   },
   {
    "begin": "1554.400",
    "children": [],
    "end": "1559.520",
-   "id": "f000118",
+   "id": "f000254",
    "language": "eng",
    "lines": [
     "\"It's the most powerful love potion in the world!\" said Hermione."
@@ -1183,18 +2543,28 @@
   {
    "begin": "1559.520",
    "children": [],
-   "end": "1565.680",
-   "id": "f000119",
+   "end": "1560.840",
+   "id": "f000255",
    "language": "eng",
    "lines": [
-    "\"Quite right! You recognized it, I suppose, by its distinctive mother-of-pearl sheen?\""
+    "\"Quite right!"
+   ]
+  },
+  {
+   "begin": "1560.840",
+   "children": [],
+   "end": "1565.680",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "You recognized it, I suppose, by its distinctive mother-of-pearl sheen?\""
    ]
   },
   {
    "begin": "1565.680",
    "children": [],
    "end": "1579.760",
-   "id": "f000120",
+   "id": "f000257",
    "language": "eng",
    "lines": [
     "\"And the steam rising in characteristic spirals,\" said Hermione enthusiastically, \"and it's supposed to smell differently to each of us, according to what attracts us, and I can smell freshly mown grass and new parchment and - \""
@@ -1204,7 +2574,7 @@
    "begin": "1579.760",
    "children": [],
    "end": "1583.960",
-   "id": "f000121",
+   "id": "f000258",
    "language": "eng",
    "lines": [
     "But she turned slightly pink and did not complete the sentence."
@@ -1213,18 +2583,18 @@
   {
    "begin": "1583.960",
    "children": [],
-   "end": "1591.920",
-   "id": "f000122",
+   "end": "1591.320",
+   "id": "f000259",
    "language": "eng",
    "lines": [
     "\"May I ask your name, my dear?\" said Slughorn, ignoring Hermione's embarrassment."
    ]
   },
   {
-   "begin": "1591.920",
+   "begin": "1591.320",
    "children": [],
    "end": "1593.240",
-   "id": "f000123",
+   "id": "f000260",
    "language": "eng",
    "lines": [
     "\"Hermione Granger, sir.\""
@@ -1233,28 +2603,58 @@
   {
    "begin": "1593.240",
    "children": [],
-   "end": "1604.240",
-   "id": "f000124",
+   "end": "1594.960",
+   "id": "f000261",
    "language": "eng",
    "lines": [
-    "\"Granger? Granger? Can you possibly be related to Hector Dagworth- Granger, who founded the Most Extraordinary Society of Potioneers?\""
+    "\"Granger?"
+   ]
+  },
+  {
+   "begin": "1594.960",
+   "children": [],
+   "end": "1596.000",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "Granger?"
+   ]
+  },
+  {
+   "begin": "1596.000",
+   "children": [],
+   "end": "1604.240",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "Can you possibly be related to Hector Dagworth- Granger, who founded the Most Extraordinary Society of Potioneers?\""
    ]
   },
   {
    "begin": "1604.240",
    "children": [],
-   "end": "1608.320",
-   "id": "f000125",
+   "end": "1606.400",
+   "id": "f000264",
    "language": "eng",
    "lines": [
-    "\"No, I don't think so, sir. I'm Muggle-born, you see.\""
+    "\"No, I don't think so, sir."
+   ]
+  },
+  {
+   "begin": "1606.400",
+   "children": [],
+   "end": "1608.320",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "I'm Muggle-born, you see.\""
    ]
   },
   {
    "begin": "1608.320",
    "children": [],
    "end": "1622.000",
-   "id": "f000126",
+   "id": "f000266",
    "language": "eng",
    "lines": [
     "Harry saw Malfoy lean close to Nott and whisper something; both of them sniggered, but Slughorn showed no dismay; on the contrary, he beamed and looked from Hermione to Harry, who was sitting next to her."
@@ -1263,18 +2663,38 @@
   {
    "begin": "1622.000",
    "children": [],
-   "end": "1634.280",
-   "id": "f000127",
+   "end": "1624.520",
+   "id": "f000267",
    "language": "eng",
    "lines": [
-    "\"Oho! 'One of my best friends is Muggle-born, and she's the best in our year!' I'm assuming this is the very friend of whom you spoke, Harry?\""
+    "\"Oho!"
+   ]
+  },
+  {
+   "begin": "1624.520",
+   "children": [],
+   "end": "1630.360",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "'One of my best friends is Muggle-born, and she's the best in our year!'"
+   ]
+  },
+  {
+   "begin": "1630.360",
+   "children": [],
+   "end": "1634.280",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "I'm assuming this is the very friend of whom you spoke, Harry?\""
    ]
   },
   {
    "begin": "1634.280",
    "children": [],
    "end": "1636.240",
-   "id": "f000128",
+   "id": "f000270",
    "language": "eng",
    "lines": [
     "\"Yes, sir,\" said Harry."
@@ -1283,58 +2703,138 @@
   {
    "begin": "1636.240",
    "children": [],
-   "end": "1643.200",
-   "id": "f000129",
+   "end": "1642.480",
+   "id": "f000271",
    "language": "eng",
    "lines": [
     "\"Well, well, take twenty well-earned points for Gryffindor, Miss Granger,\" said Slughorn genially."
    ]
   },
   {
-   "begin": "1643.200",
+   "begin": "1642.480",
    "children": [],
-   "end": "1656.400",
-   "id": "f000130",
+   "end": "1647.760",
+   "id": "f000272",
    "language": "eng",
    "lines": [
-    "Malfoy looked rather as he had done the time Hermione had punched him in the face. Hermione turned to Harry with a radiant expression and whispered, \"Did you really tell him I'm the best in the year? Oh, Harry!\""
+    "Malfoy looked rather as he had done the time Hermione had punched him in the face."
+   ]
+  },
+  {
+   "begin": "1647.760",
+   "children": [],
+   "end": "1655.000",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "Hermione turned to Harry with a radiant expression and whispered, \"Did you really tell him I'm the best in the year?"
+   ]
+  },
+  {
+   "begin": "1655.000",
+   "children": [],
+   "end": "1656.400",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "Oh, Harry!\""
    ]
   },
   {
    "begin": "1656.400",
    "children": [],
-   "end": "1665.000",
-   "id": "f000131",
+   "end": "1661.400",
+   "id": "f000275",
    "language": "eng",
    "lines": [
-    "\"Well, what's so impressive about that?\" whispered Ron, who for some reason looked annoyed. \"You are the best in the year - I'd've told him so if he'd asked me!\""
+    "\"Well, what's so impressive about that?\" whispered Ron, who for some reason looked annoyed."
+   ]
+  },
+  {
+   "begin": "1661.400",
+   "children": [],
+   "end": "1665.000",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "\"You are the best in the year - I'd've told him so if he'd asked me!\""
    ]
   },
   {
    "begin": "1665.000",
    "children": [],
-   "end": "1674.160",
-   "id": "f000132",
+   "end": "1671.720",
+   "id": "f000277",
    "language": "eng",
    "lines": [
-    "Hermione smiled but made a \"shhing\" gesture, so that they could hear what Slughorn was saying. Ron looked slightly disgruntled."
+    "Hermione smiled but made a \"shhing\" gesture, so that they could hear what Slughorn was saying."
+   ]
+  },
+  {
+   "begin": "1671.720",
+   "children": [],
+   "end": "1674.160",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "Ron looked slightly disgruntled."
    ]
   },
   {
    "begin": "1674.160",
    "children": [],
-   "end": "1704.760",
-   "id": "f000133",
+   "end": "1679.280",
+   "id": "f000279",
    "language": "eng",
    "lines": [
-    "\"Amortentia doesn't really create love, of course. It is impossible to manufacture or imitate love. No, this will simply cause a powerful infatuation or obsession. It is probably the most dangerous and powerful potion in this room - oh yes,\" he said, nodding gravely at Malfoy and Nott, both of whom were smirking skeptically. \"When you have seen as much of life as I have, you will not underestimate the power of obsessive love..."
+    "\"Amortentia doesn't really create love, of course."
+   ]
+  },
+  {
+   "begin": "1679.280",
+   "children": [],
+   "end": "1682.440",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "It is impossible to manufacture or imitate love."
+   ]
+  },
+  {
+   "begin": "1682.440",
+   "children": [],
+   "end": "1687.400",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "No, this will simply cause a powerful infatuation or obsession."
+   ]
+  },
+  {
+   "begin": "1687.400",
+   "children": [],
+   "end": "1697.600",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "It is probably the most dangerous and powerful potion in this room - oh yes,\" he said, nodding gravely at Malfoy and Nott, both of whom were smirking skeptically."
+   ]
+  },
+  {
+   "begin": "1697.600",
+   "children": [],
+   "end": "1704.760",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "\"When you have seen as much of life as I have, you will not underestimate the power of obsessive love..."
    ]
   },
   {
    "begin": "1704.760",
    "children": [],
    "end": "1710.520",
-   "id": "f000134",
+   "id": "f000284",
    "language": "eng",
    "lines": [
     "\"And now,\" said Slughorn, \"it is time for us to start work.\""
@@ -1343,98 +2843,288 @@
   {
    "begin": "1710.520",
    "children": [],
-   "end": "1731.080",
-   "id": "f000135",
+   "end": "1719.360",
+   "id": "f000285",
    "language": "eng",
    "lines": [
-    "\"Sir, you haven't told us what's in this one,\" said Ernie Macmillan, pointing at a small black cauldron standing on Slughorn's desk. The potion within was splashing about merrily; it was the color of molten gold, and large drops were leaping like goldfish above the surface, though not a particle had spilled."
+    "\"Sir, you haven't told us what's in this one,\" said Ernie Macmillan, pointing at a small black cauldron standing on Slughorn's desk."
+   ]
+  },
+  {
+   "begin": "1719.360",
+   "children": [],
+   "end": "1731.080",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "The potion within was splashing about merrily; it was the color of molten gold, and large drops were leaping like goldfish above the surface, though not a particle had spilled."
    ]
   },
   {
    "begin": "1731.080",
    "children": [],
-   "end": "1764.440",
-   "id": "f000136",
+   "end": "1735.040",
+   "id": "f000287",
    "language": "eng",
    "lines": [
-    "\"Oho,\" said Slughorn again. Harry was sure that Slughorn had not forgotten the potion at all, but had waited to be asked for dramatic effect. \"Yes. That. Well, that one, ladies and gentlemen, is a most curious little potion called Felix Felicis. I take it,\" he turned, smiling, to look at Hermione, who had let out an audible gasp, \"that you know what Felix Felicis does, Miss Granger?\""
+    "\"Oho,\" said Slughorn again."
+   ]
+  },
+  {
+   "begin": "1735.040",
+   "children": [],
+   "end": "1742.840",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "Harry was sure that Slughorn had not forgotten the potion at all, but had waited to be asked for dramatic effect."
+   ]
+  },
+  {
+   "begin": "1742.840",
+   "children": [],
+   "end": "1744.680",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "\"Yes."
+   ]
+  },
+  {
+   "begin": "1744.680",
+   "children": [],
+   "end": "1746.680",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "That."
+   ]
+  },
+  {
+   "begin": "1746.680",
+   "children": [],
+   "end": "1754.480",
+   "id": "f000291",
+   "language": "eng",
+   "lines": [
+    "Well, that one, ladies and gentlemen, is a most curious little potion called Felix Felicis."
+   ]
+  },
+  {
+   "begin": "1754.480",
+   "children": [],
+   "end": "1764.440",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "I take it,\" he turned, smiling, to look at Hermione, who had let out an audible gasp, \"that you know what Felix Felicis does, Miss Granger?\""
    ]
   },
   {
    "begin": "1764.440",
    "children": [],
-   "end": "1769.480",
-   "id": "f000137",
+   "end": "1768.320",
+   "id": "f000293",
    "language": "eng",
    "lines": [
-    "\"It's liquid luck,\" said Hermione excitedly. \"It makes you lucky!\""
+    "\"It's liquid luck,\" said Hermione excitedly."
+   ]
+  },
+  {
+   "begin": "1768.320",
+   "children": [],
+   "end": "1769.480",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "\"It makes you lucky!\""
    ]
   },
   {
    "begin": "1769.480",
    "children": [],
-   "end": "1783.920",
-   "id": "f000138",
+   "end": "1773.360",
+   "id": "f000295",
    "language": "eng",
    "lines": [
-    "The whole class seemed to sit up a little straighter. Now all Harry could see of Malfoy was the back of his sleek blond head, because he was at last giving Slughorn his full and undivided attention."
+    "The whole class seemed to sit up a little straighter."
+   ]
+  },
+  {
+   "begin": "1773.360",
+   "children": [],
+   "end": "1783.920",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "Now all Harry could see of Malfoy was the back of his sleek blond head, because he was at last giving Slughorn his full and undivided attention."
    ]
   },
   {
    "begin": "1783.920",
    "children": [],
-   "end": "1807.200",
-   "id": "f000139",
+   "end": "1788.120",
+   "id": "f000297",
    "language": "eng",
    "lines": [
-    "\"Quite right, take another ten points for Gryffindor. Yes, it's a funny little potion, Felix Felicis,\" said Slughorn. \"Desperately tricky to make, and disastrous to get wrong. However, if brewed correctly, as this has been, you will find that all your endeavors tend to succeed... at least until the effects wear off.\""
+    "\"Quite right, take another ten points for Gryffindor."
+   ]
+  },
+  {
+   "begin": "1788.120",
+   "children": [],
+   "end": "1793.040",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "Yes, it's a funny little potion, Felix Felicis,\" said Slughorn."
+   ]
+  },
+  {
+   "begin": "1793.040",
+   "children": [],
+   "end": "1797.120",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "\"Desperately tricky to make, and disastrous to get wrong."
+   ]
+  },
+  {
+   "begin": "1797.120",
+   "children": [],
+   "end": "1807.200",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "However, if brewed correctly, as this has been, you will find that all your endeavors tend to succeed... at least until the effects wear off.\""
    ]
   },
   {
    "begin": "1807.200",
    "children": [],
-   "end": "1818.560",
-   "id": "f000140",
+   "end": "1812.040",
+   "id": "f000301",
    "language": "eng",
    "lines": [
-    "\"Why don't people drink it all the time, sir?\" said Terry Boot eagerly. \"Because if taken in excess, it causes giddiness, recklessness, and dan-"
+    "\"Why don't people drink it all the time, sir?\" said Terry Boot eagerly."
+   ]
+  },
+  {
+   "begin": "1812.040",
+   "children": [],
+   "end": "1818.560",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "\"Because if taken in excess, it causes giddiness, recklessness, and dan-"
    ]
   },
   {
    "begin": "1818.560",
    "children": [],
-   "end": "1829.840",
-   "id": "f000141",
+   "end": "1821.560",
+   "id": "f000303",
    "language": "eng",
    "lines": [
-    "gerous overconfidence,\" said Slughorn. \"Too much of a good thing, you know... highly toxic in large quantities. But taken sparingly, and very occasionally...\""
+    "gerous overconfidence,\" said Slughorn."
+   ]
+  },
+  {
+   "begin": "1821.560",
+   "children": [],
+   "end": "1826.560",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "\"Too much of a good thing, you know... highly toxic in large quantities."
+   ]
+  },
+  {
+   "begin": "1826.560",
+   "children": [],
+   "end": "1829.840",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "But taken sparingly, and very occasionally...\""
    ]
   },
   {
    "begin": "1829.840",
    "children": [],
-   "end": "1850.000",
-   "id": "f000142",
+   "end": "1834.520",
+   "id": "f000306",
    "language": "eng",
    "lines": [
-    "\"Have you ever taken it, sir?\" asked Michael Corner with great interest. \"Twice in my life,\" said Slughorn. \"Once when I was twenty-four, once when I was fifty-seven. Two tablespoonfuls taken with breakfast. Two perfect days.\""
+    "\"Have you ever taken it, sir?\" asked Michael Corner with great interest."
+   ]
+  },
+  {
+   "begin": "1834.520",
+   "children": [],
+   "end": "1838.240",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "\"Twice in my life,\" said Slughorn."
+   ]
+  },
+  {
+   "begin": "1838.240",
+   "children": [],
+   "end": "1843.000",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "\"Once when I was twenty-four, once when I was fifty-seven."
+   ]
+  },
+  {
+   "begin": "1843.000",
+   "children": [],
+   "end": "1846.320",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "Two tablespoonfuls taken with breakfast."
+   ]
+  },
+  {
+   "begin": "1846.320",
+   "children": [],
+   "end": "1850.000",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "Two perfect days.\""
    ]
   },
   {
    "begin": "1850.000",
    "children": [],
-   "end": "1858.440",
-   "id": "f000143",
+   "end": "1853.680",
+   "id": "f000311",
    "language": "eng",
    "lines": [
-    "He gazed dreamily into the distance. Whether he was playacting or not, thought Harry, the effect was good."
+    "He gazed dreamily into the distance."
    ]
   },
   {
-   "begin": "1858.440",
+   "begin": "1853.680",
+   "children": [],
+   "end": "1858.520",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "Whether he was playacting or not, thought Harry, the effect was good."
+   ]
+  },
+  {
+   "begin": "1858.520",
    "children": [],
    "end": "1867.440",
-   "id": "f000144",
+   "id": "f000313",
    "language": "eng",
    "lines": [
     "\"And that,\" said Slughorn, apparently coming back to earth, \"is what I shall be offering as a prize in this lesson.\""
@@ -1444,7 +3134,7 @@
    "begin": "1867.440",
    "children": [],
    "end": "1875.800",
-   "id": "f000145",
+   "id": "f000314",
    "language": "eng",
    "lines": [
     "There was silence in which every bubble and gurgle of the surrounding potions seemed magnified tenfold."
@@ -1453,98 +3143,288 @@
   {
    "begin": "1875.800",
    "children": [],
-   "end": "1895.040",
-   "id": "f000146",
+   "end": "1886.400",
+   "id": "f000315",
    "language": "eng",
    "lines": [
-    "\"One tiny bottle of Felix Felicis,\" said Slughorn, taking a minuscule glass bottle with a cork in it out of his pocket and showing it to them all. \"Enough for twelve hours' luck. From dawn till dusk, you will be lucky in everything you attempt."
+    "\"One tiny bottle of Felix Felicis,\" said Slughorn, taking a minuscule glass bottle with a cork in it out of his pocket and showing it to them all."
+   ]
+  },
+  {
+   "begin": "1886.400",
+   "children": [],
+   "end": "1890.000",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "\"Enough for twelve hours' luck."
+   ]
+  },
+  {
+   "begin": "1890.000",
+   "children": [],
+   "end": "1895.040",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "From dawn till dusk, you will be lucky in everything you attempt."
    ]
   },
   {
    "begin": "1895.040",
    "children": [],
-   "end": "1915.760",
-   "id": "f000147",
+   "end": "1907.200",
+   "id": "f000318",
    "language": "eng",
    "lines": [
-    "\"Now, I must give you warning that Felix Felicis is a banned substance in organized competitions... sporting events, for instance, examinations, or elections. So the winner is to use it on an ordinary day only... and watch how that ordinary day becomes extraordinary!"
+    "\"Now, I must give you warning that Felix Felicis is a banned substance in organized competitions... sporting events, for instance, examinations, or elections."
+   ]
+  },
+  {
+   "begin": "1907.200",
+   "children": [],
+   "end": "1915.760",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "So the winner is to use it on an ordinary day only... and watch how that ordinary day becomes extraordinary!"
    ]
   },
   {
    "begin": "1915.760",
    "children": [],
-   "end": "1945.200",
-   "id": "f000148",
+   "end": "1921.640",
+   "id": "f000320",
    "language": "eng",
    "lines": [
-    "\"So,\" said Slughorn, suddenly brisk, \"how are you to win my fabulous prize? Well, by turning to page ten of Advanced Potion-Making. We have a little over an hour left to us, which should be time for you to make a decent attempt at the Draught of Living Death. I know it is more complex than anything you have attempted before, and I do not expect a perfect potion from anybody. The person who does best, however, will win little Felix here. Off you go!\""
+    "\"So,\" said Slughorn, suddenly brisk, \"how are you to win my fabulous prize?"
+   ]
+  },
+  {
+   "begin": "1921.640",
+   "children": [],
+   "end": "1925.480",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "Well, by turning to page ten of Advanced Potion-Making."
+   ]
+  },
+  {
+   "begin": "1925.480",
+   "children": [],
+   "end": "1933.000",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "We have a little over an hour left to us, which should be time for you to make a decent attempt at the Draught of Living Death."
+   ]
+  },
+  {
+   "begin": "1933.000",
+   "children": [],
+   "end": "1939.600",
+   "id": "f000323",
+   "language": "eng",
+   "lines": [
+    "I know it is more complex than anything you have attempted before, and I do not expect a perfect potion from anybody."
+   ]
+  },
+  {
+   "begin": "1939.600",
+   "children": [],
+   "end": "1943.920",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "The person who does best, however, will win little Felix here."
+   ]
+  },
+  {
+   "begin": "1943.920",
+   "children": [],
+   "end": "1945.200",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "Off you go!\""
    ]
   },
   {
    "begin": "1945.200",
    "children": [],
-   "end": "1960.760",
-   "id": "f000149",
+   "end": "1955.520",
+   "id": "f000326",
    "language": "eng",
    "lines": [
-    "There was a scraping as everyone drew their cauldrons toward them and some loud clunks as people began adding weights to their scales, but nobody spoke. The concentration within the room was almost tangible. Harry saw"
+    "There was a scraping as everyone drew their cauldrons toward them and some loud clunks as people began adding weights to their scales, but nobody spoke."
    ]
   },
   {
-   "begin": "1960.760",
+   "begin": "1955.520",
    "children": [],
-   "end": "1975.680",
-   "id": "f000150",
+   "end": "1959.600",
+   "id": "f000327",
    "language": "eng",
    "lines": [
-    "Malfoy riffling feverishly through his copy of Advanced Potion-Making. It could not have been clearer that Malfoy really wanted that lucky day. Harry bent swiftly over the tattered book Slughorn had lent him."
+    "The concentration within the room was almost tangible."
+   ]
+  },
+  {
+   "begin": "1959.600",
+   "children": [],
+   "end": "1960.720",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "Harry saw"
+   ]
+  },
+  {
+   "begin": "1960.720",
+   "children": [],
+   "end": "1964.800",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "Malfoy riffling feverishly through his copy of Advanced Potion-Making."
+   ]
+  },
+  {
+   "begin": "1964.800",
+   "children": [],
+   "end": "1970.600",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "It could not have been clearer that Malfoy really wanted that lucky day."
+   ]
+  },
+  {
+   "begin": "1970.600",
+   "children": [],
+   "end": "1975.680",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "Harry bent swiftly over the tattered book Slughorn had lent him."
    ]
   },
   {
    "begin": "1975.680",
    "children": [],
-   "end": "2005.840",
-   "id": "f000151",
+   "end": "1986.360",
+   "id": "f000332",
    "language": "eng",
    "lines": [
-    "To his annoyance he saw that the previous owner had scribbled all over the pages, so that the margins were as black as the printed portions. Bending low to decipher the ingredients (even here, the previous owner had made annotations and crossed things out) Harry hurried off toward the store cupboard to find what he needed. As he dashed back to his cauldron, he saw Malfoy cutting up valerian roots as fast as he could."
+    "To his annoyance he saw that the previous owner had scribbled all over the pages, so that the margins were as black as the printed portions."
+   ]
+  },
+  {
+   "begin": "1986.360",
+   "children": [],
+   "end": "1999.000",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "Bending low to decipher the ingredients (even here, the previous owner had made annotations and crossed things out) Harry hurried off toward the store cupboard to find what he needed."
+   ]
+  },
+  {
+   "begin": "1999.000",
+   "children": [],
+   "end": "2005.840",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "As he dashed back to his cauldron, he saw Malfoy cutting up valerian roots as fast as he could."
    ]
   },
   {
    "begin": "2005.840",
    "children": [],
-   "end": "2035.400",
-   "id": "f000152",
+   "end": "2018.360",
+   "id": "f000335",
    "language": "eng",
    "lines": [
-    "Everyone kept glancing around at what the rest of the class was doing; this was both an advantage and a disadvantage of Potions, that it was hard to keep your work private. Within ten minutes, the whole place was full of bluish steam. Hermione, of course, seemed to have progressed furthest. Her potion already resembled the \"smooth, black currant-colored liquid\" mentioned as the ideal halfway stage."
+    "Everyone kept glancing around at what the rest of the class was doing; this was both an advantage and a disadvantage of Potions, that it was hard to keep your work private."
+   ]
+  },
+  {
+   "begin": "2018.360",
+   "children": [],
+   "end": "2022.800",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "Within ten minutes, the whole place was full of bluish steam."
+   ]
+  },
+  {
+   "begin": "2022.800",
+   "children": [],
+   "end": "2027.120",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "Hermione, of course, seemed to have progressed furthest."
+   ]
+  },
+  {
+   "begin": "2027.120",
+   "children": [],
+   "end": "2035.400",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "Her potion already resembled the \"smooth, black currant-colored liquid\" mentioned as the ideal halfway stage."
    ]
   },
   {
    "begin": "2035.400",
    "children": [],
-   "end": "2062.160",
-   "id": "f000153",
+   "end": "2040.960",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "Having finished chopping his roots, Harry bent low over his book again. It was really very irritating, having to try and decipher the directions under all the stupid scribbles of the previous owner, who for some reason had taken issue with the order to cut up the sopophorous bean and had written in the alternative instruction: Crush with flat side of silver dagger, releases juice better than cutting."
+    "Having finished chopping his roots, Harry bent low over his book again."
+   ]
+  },
+  {
+   "begin": "2040.960",
+   "children": [],
+   "end": "2062.160",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "It was really very irritating, having to try and decipher the directions under all the stupid scribbles of the previous owner, who for some reason had taken issue with the order to cut up the sopophorous bean and had written in the alternative instruction: Crush with flat side of silver dagger, releases juice better than cutting."
    ]
   },
   {
    "begin": "2062.160",
    "children": [],
-   "end": "2072.720",
-   "id": "f000154",
+   "end": "2067.920",
+   "id": "f000341",
    "language": "eng",
    "lines": [
-    "\"Sir, I think you knew my grandfather, Abraxas Malfoy?\" Harry looked up; Slughorn was just passing the Slytherin table."
+    "\"Sir, I think you knew my grandfather, Abraxas Malfoy?\""
+   ]
+  },
+  {
+   "begin": "2067.920",
+   "children": [],
+   "end": "2072.720",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "Harry looked up; Slughorn was just passing the Slytherin table."
    ]
   },
   {
    "begin": "2072.720",
    "children": [],
    "end": "2084.400",
-   "id": "f000155",
+   "id": "f000343",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Slughorn, without looking at Malfoy, \"I was sorry to hear he had died, although of course it wasn't unexpected, dragon pox at his age \""
@@ -1553,28 +3433,68 @@
   {
    "begin": "2084.400",
    "children": [],
-   "end": "2108.000",
-   "id": "f000156",
+   "end": "2086.480",
+   "id": "f000344",
    "language": "eng",
    "lines": [
-    "And he walked away. Harry bent back over his cauldron, smirking. He could tell that Malfoy had expected to be treated like Harry or Zabini; perhaps even hoped for some preferential treatment of the type he had learned to expect from Snape. It looked as though Malfoy would have to rely on nothing but talent to win the bottle of Felix Felicis."
+    "And he walked away."
+   ]
+  },
+  {
+   "begin": "2086.480",
+   "children": [],
+   "end": "2090.000",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "Harry bent back over his cauldron, smirking."
+   ]
+  },
+  {
+   "begin": "2090.000",
+   "children": [],
+   "end": "2100.280",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "He could tell that Malfoy had expected to be treated like Harry or Zabini; perhaps even hoped for some preferential treatment of the type he had learned to expect from Snape."
+   ]
+  },
+  {
+   "begin": "2100.280",
+   "children": [],
+   "end": "2108.000",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "It looked as though Malfoy would have to rely on nothing but talent to win the bottle of Felix Felicis."
    ]
   },
   {
    "begin": "2108.000",
    "children": [],
-   "end": "2115.000",
-   "id": "f000157",
+   "end": "2113.200",
+   "id": "f000348",
    "language": "eng",
    "lines": [
-    "The sopophorous bean was proving very difficult to cut up. Harry turned to Hermione."
+    "The sopophorous bean was proving very difficult to cut up."
+   ]
+  },
+  {
+   "begin": "2113.200",
+   "children": [],
+   "end": "2115.000",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "Harry turned to Hermione."
    ]
   },
   {
    "begin": "2115.000",
    "children": [],
    "end": "2117.440",
-   "id": "f000158",
+   "id": "f000350",
    "language": "eng",
    "lines": [
     "\"Can I borrow your silver knife?\""
@@ -1584,7 +3504,7 @@
    "begin": "2117.440",
    "children": [],
    "end": "2127.480",
-   "id": "f000159",
+   "id": "f000351",
    "language": "eng",
    "lines": [
     "She nodded impatiently, not taking her eyes off her potion, which was still deep purple, though according to the book ought to be turning a light shade of lilac by now."
@@ -1593,28 +3513,78 @@
   {
    "begin": "2127.480",
    "children": [],
-   "end": "2152.440",
-   "id": "f000160",
+   "end": "2132.000",
+   "id": "f000352",
    "language": "eng",
    "lines": [
-    "Harry crushed his bean with the flat side of the dagger. To his astonishment, it immediately exuded so much juice he was amazed the shriveled bean could have held it all. Hastily scooping it all into the cauldron he saw, to his surprise, that the potion immediately turned exactly the shade of lilac described by the textbook."
+    "Harry crushed his bean with the flat side of the dagger."
    ]
   },
   {
-   "begin": "2152.440",
+   "begin": "2132.000",
    "children": [],
-   "end": "2185.960",
-   "id": "f000161",
+   "end": "2140.560",
+   "id": "f000353",
    "language": "eng",
    "lines": [
-    "His annoyance with the previous owner vanishing on the spot, Harry now squinted at the next line of instructions. According to the book, he had to stir counterclockwise until the potion turned clear as water. According to the addition the previous owner had made, however, he ought to add a clockwise stir after every seventh counterclockwise stir. Could the old owner be right twice?"
+    "To his astonishment, it immediately exuded so much juice he was amazed the shriveled bean could have held it all."
+   ]
+  },
+  {
+   "begin": "2140.560",
+   "children": [],
+   "end": "2152.320",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "Hastily scooping it all into the cauldron he saw, to his surprise, that the potion immediately turned exactly the shade of lilac described by the textbook."
+   ]
+  },
+  {
+   "begin": "2152.320",
+   "children": [],
+   "end": "2161.360",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "His annoyance with the previous owner vanishing on the spot, Harry now squinted at the next line of instructions."
+   ]
+  },
+  {
+   "begin": "2161.360",
+   "children": [],
+   "end": "2169.480",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "According to the book, he had to stir counterclockwise until the potion turned clear as water."
+   ]
+  },
+  {
+   "begin": "2169.480",
+   "children": [],
+   "end": "2181.920",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "According to the addition the previous owner had made, however, he ought to add a clockwise stir after every seventh counterclockwise stir."
+   ]
+  },
+  {
+   "begin": "2181.920",
+   "children": [],
+   "end": "2185.960",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "Could the old owner be right twice?"
    ]
   },
   {
    "begin": "2185.960",
    "children": [],
    "end": "2194.040",
-   "id": "f000162",
+   "id": "f000359",
    "language": "eng",
    "lines": [
     "Harry stirred counterclockwise, held his breath, and stirred once clockwise."
@@ -1623,18 +3593,28 @@
   {
    "begin": "2194.040",
    "children": [],
-   "end": "2199.640",
-   "id": "f000163",
+   "end": "2196.520",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "The effect was immediate. The potion turned palest pink."
+    "The effect was immediate."
+   ]
+  },
+  {
+   "begin": "2196.520",
+   "children": [],
+   "end": "2199.640",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "The potion turned palest pink."
    ]
   },
   {
    "begin": "2199.640",
    "children": [],
    "end": "2213.080",
-   "id": "f000164",
+   "id": "f000362",
    "language": "eng",
    "lines": [
     "\"How are you doing that?\" demanded Hermione, who was red-faced and whose hair was growing bushier and bushier in the fumes from her cauldron; her potion was still resolutely purple."
@@ -1644,7 +3624,7 @@
    "begin": "2213.080",
    "children": [],
    "end": "2215.240",
-   "id": "f000165",
+   "id": "f000363",
    "language": "eng",
    "lines": [
     "\"Add a clockwise stir - \""
@@ -1654,7 +3634,7 @@
    "begin": "2215.240",
    "children": [],
    "end": "2219.000",
-   "id": "f000166",
+   "id": "f000364",
    "language": "eng",
    "lines": [
     "\"No, no, the book says counterclockwise!\" she snapped."
@@ -1663,28 +3643,68 @@
   {
    "begin": "2219.000",
    "children": [],
-   "end": "2233.800",
-   "id": "f000167",
+   "end": "2222.360",
+   "id": "f000365",
    "language": "eng",
    "lines": [
-    "Harry shrugged and continued what he was doing. Seven stirs counterclockwise, one clockwise, pause... seven stirs counterclockwise, one stir clockwise..."
+    "Harry shrugged and continued what he was doing."
+   ]
+  },
+  {
+   "begin": "2222.360",
+   "children": [],
+   "end": "2233.800",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "Seven stirs counterclockwise, one clockwise, pause... seven stirs counterclockwise, one stir clockwise..."
    ]
   },
   {
    "begin": "2233.800",
    "children": [],
-   "end": "2251.960",
-   "id": "f000168",
+   "end": "2241.880",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "Across the table, Ron was cursing fluently under his breath; his potion looked like liquid licorice. Harry glanced around. As far as he could see, no one else's potion had turned as pale as his. He felt elated, something that"
+    "Across the table, Ron was cursing fluently under his breath; his potion looked like liquid licorice."
+   ]
+  },
+  {
+   "begin": "2241.880",
+   "children": [],
+   "end": "2244.080",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "Harry glanced around."
+   ]
+  },
+  {
+   "begin": "2244.080",
+   "children": [],
+   "end": "2249.240",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "As far as he could see, no one else's potion had turned as pale as his."
+   ]
+  },
+  {
+   "begin": "2249.240",
+   "children": [],
+   "end": "2251.960",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "He felt elated, something that"
    ]
   },
   {
    "begin": "2251.960",
    "children": [],
    "end": "2254.640",
-   "id": "f000169",
+   "id": "f000371",
    "language": "eng",
    "lines": [
     "had certainly never happened before in this dungeon."
@@ -1693,98 +3713,378 @@
   {
    "begin": "2254.640",
    "children": [],
-   "end": "2261.240",
-   "id": "f000170",
+   "end": "2259.360",
+   "id": "f000372",
    "language": "eng",
    "lines": [
-    "\"And time's... up!\" called Slughorn. \"Stop stirring, please!\""
+    "\"And time's... up!\" called Slughorn."
+   ]
+  },
+  {
+   "begin": "2259.360",
+   "children": [],
+   "end": "2261.240",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "\"Stop stirring, please!\""
    ]
   },
   {
    "begin": "2261.240",
    "children": [],
-   "end": "2297.480",
-   "id": "f000171",
+   "end": "2267.600",
+   "id": "f000374",
    "language": "eng",
    "lines": [
-    "Slughorn moved slowly among the tables, peering into cauldrons. He made no comment, but occasionally gave the potions a stir or a sniff. At last he reached the table where Harry, Ron, Hermione, and Ernie were sitting. He smiled ruefully at the tarlike substance in Ron's cauldron. He passed over Ernie's navy concoction. Hermione's potion he gave an approving nod. Then he saw Harry's, and a look of incredulous delight spread over his face."
+    "Slughorn moved slowly among the tables, peering into cauldrons."
+   ]
+  },
+  {
+   "begin": "2267.600",
+   "children": [],
+   "end": "2272.560",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "He made no comment, but occasionally gave the potions a stir or a sniff."
+   ]
+  },
+  {
+   "begin": "2272.560",
+   "children": [],
+   "end": "2278.280",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "At last he reached the table where Harry, Ron, Hermione, and Ernie were sitting."
+   ]
+  },
+  {
+   "begin": "2278.280",
+   "children": [],
+   "end": "2283.440",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "He smiled ruefully at the tarlike substance in Ron's cauldron."
+   ]
+  },
+  {
+   "begin": "2283.440",
+   "children": [],
+   "end": "2287.040",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "He passed over Ernie's navy concoction."
+   ]
+  },
+  {
+   "begin": "2287.040",
+   "children": [],
+   "end": "2290.360",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "Hermione's potion he gave an approving nod."
+   ]
+  },
+  {
+   "begin": "2290.360",
+   "children": [],
+   "end": "2297.480",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "Then he saw Harry's, and a look of incredulous delight spread over his face."
    ]
   },
   {
    "begin": "2297.480",
    "children": [],
-   "end": "2319.200",
-   "id": "f000172",
+   "end": "2300.960",
+   "id": "f000381",
    "language": "eng",
    "lines": [
-    "\"The clear winner!\" he cried to the dungeon. \"Excellent, excellent, Harry! Good lord, it's clear you've inherited your mother's talent. She was a dab hand at Potions, Lily was! Here you are, then, here you are - one bottle of Felix Felicis, as promised, and use it well!\""
+    "\"The clear winner!\" he cried to the dungeon."
+   ]
+  },
+  {
+   "begin": "2300.960",
+   "children": [],
+   "end": "2303.640",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "\"Excellent, excellent, Harry!"
+   ]
+  },
+  {
+   "begin": "2303.640",
+   "children": [],
+   "end": "2307.920",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "Good lord, it's clear you've inherited your mother's talent."
+   ]
+  },
+  {
+   "begin": "2307.920",
+   "children": [],
+   "end": "2311.040",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "She was a dab hand at Potions, Lily was!"
+   ]
+  },
+  {
+   "begin": "2311.040",
+   "children": [],
+   "end": "2319.200",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "Here you are, then, here you are - one bottle of Felix Felicis, as promised, and use it well!\""
    ]
   },
   {
    "begin": "2319.200",
    "children": [],
-   "end": "2336.680",
-   "id": "f000173",
+   "end": "2333.560",
+   "id": "f000386",
    "language": "eng",
    "lines": [
-    "Harry slipped the tiny bottle of golden liquid into his inner pocket, feeling an odd combination of delight at the furious looks on the Slytherins' faces and guilt at the disappointed expression on Hermione's. Ron looked simply dumbfounded."
+    "Harry slipped the tiny bottle of golden liquid into his inner pocket, feeling an odd combination of delight at the furious looks on the Slytherins' faces and guilt at the disappointed expression on Hermione's."
+   ]
+  },
+  {
+   "begin": "2333.560",
+   "children": [],
+   "end": "2336.680",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "Ron looked simply dumbfounded."
    ]
   },
   {
    "begin": "2336.680",
    "children": [],
-   "end": "2359.080",
-   "id": "f000174",
+   "end": "2341.600",
+   "id": "f000388",
    "language": "eng",
    "lines": [
-    "\"How did you do that?\" he whispered to Harry as they left the dungeon. \"Got lucky, I suppose,\" said Harry, because Malfoy was within earshot. Once they were securely ensconced at the Gryffindor table for dinner, however, he felt safe enough to tell them. Hermione's face became stonier with every word he uttered."
+    "\"How did you do that?\" he whispered to Harry as they left the dungeon."
+   ]
+  },
+  {
+   "begin": "2341.600",
+   "children": [],
+   "end": "2346.960",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "\"Got lucky, I suppose,\" said Harry, because Malfoy was within earshot."
+   ]
+  },
+  {
+   "begin": "2346.960",
+   "children": [],
+   "end": "2353.960",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "Once they were securely ensconced at the Gryffindor table for dinner, however, he felt safe enough to tell them."
+   ]
+  },
+  {
+   "begin": "2353.960",
+   "children": [],
+   "end": "2359.080",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "Hermione's face became stonier with every word he uttered."
    ]
   },
   {
    "begin": "2359.080",
    "children": [],
-   "end": "2369.320",
-   "id": "f000175",
+   "end": "2364.240",
+   "id": "f000392",
    "language": "eng",
    "lines": [
-    "\"I s'pose you think I cheated?\" he finished, aggravated by her expression. \"Well, it wasn't exactly your own work, was it?\" she said stiffly."
+    "\"I s'pose you think I cheated?\" he finished, aggravated by her expression."
+   ]
+  },
+  {
+   "begin": "2364.240",
+   "children": [],
+   "end": "2369.320",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "\"Well, it wasn't exactly your own work, was it?\" she said stiffly."
    ]
   },
   {
    "begin": "2369.320",
    "children": [],
-   "end": "2389.520",
-   "id": "f000176",
+   "end": "2373.520",
+   "id": "f000394",
    "language": "eng",
    "lines": [
-    "\"He only followed different instructions to ours,\" said Ron. \"Could've been a catastrophe, couldn't it? But he took a risk and it paid off.\" He heaved a sigh. \"Slughorn could've handed me that book, but no, I get the one no one's ever written on. Puked on, by the look of page fifty-two, but - \""
+    "\"He only followed different instructions to ours,\" said Ron."
+   ]
+  },
+  {
+   "begin": "2373.520",
+   "children": [],
+   "end": "2375.640",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "\"Could've been a catastrophe, couldn't it?"
+   ]
+  },
+  {
+   "begin": "2375.640",
+   "children": [],
+   "end": "2378.160",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "But he took a risk and it paid off.\""
+   ]
+  },
+  {
+   "begin": "2378.160",
+   "children": [],
+   "end": "2380.000",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "He heaved a sigh."
+   ]
+  },
+  {
+   "begin": "2380.000",
+   "children": [],
+   "end": "2386.280",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "\"Slughorn could've handed me that book, but no, I get the one no one's ever written on."
+   ]
+  },
+  {
+   "begin": "2386.280",
+   "children": [],
+   "end": "2389.520",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "Puked on, by the look of page fifty-two, but - \""
    ]
   },
   {
    "begin": "2389.520",
    "children": [],
-   "end": "2408.760",
-   "id": "f000177",
+   "end": "2398.480",
+   "id": "f000400",
    "language": "eng",
    "lines": [
-    "\"Hang on,\" said a voice close by Harry's left ear and he caught a sudden waft of that flowery smell he had picked up in Slughorn's dungeon. He looked around and saw that Ginny had joined them. \"Did I hear right? You've been taking orders from something someone wrote in a book, Harry?\""
+    "\"Hang on,\" said a voice close by Harry's left ear and he caught a sudden waft of that flowery smell he had picked up in Slughorn's dungeon."
+   ]
+  },
+  {
+   "begin": "2398.480",
+   "children": [],
+   "end": "2402.160",
+   "id": "f000401",
+   "language": "eng",
+   "lines": [
+    "He looked around and saw that Ginny had joined them."
+   ]
+  },
+  {
+   "begin": "2402.160",
+   "children": [],
+   "end": "2404.320",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "\"Did I hear right?"
+   ]
+  },
+  {
+   "begin": "2404.320",
+   "children": [],
+   "end": "2408.760",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "You've been taking orders from something someone wrote in a book, Harry?\""
    ]
   },
   {
    "begin": "2408.760",
    "children": [],
-   "end": "2424.400",
-   "id": "f000178",
+   "end": "2411.360",
+   "id": "f000404",
    "language": "eng",
    "lines": [
-    "She looked alarmed and angry. Harry knew what was on her mind at once. \"It's nothing,\" he said reassuringly, lowering his voice. \"It's not like, you know, Riddle's diary. It's just an old textbook someone's scribbled on.\""
+    "She looked alarmed and angry."
+   ]
+  },
+  {
+   "begin": "2411.360",
+   "children": [],
+   "end": "2414.480",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "Harry knew what was on her mind at once."
+   ]
+  },
+  {
+   "begin": "2414.480",
+   "children": [],
+   "end": "2418.600",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "\"It's nothing,\" he said reassuringly, lowering his voice."
+   ]
+  },
+  {
+   "begin": "2418.600",
+   "children": [],
+   "end": "2421.560",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "\"It's not like, you know, Riddle's diary."
+   ]
+  },
+  {
+   "begin": "2421.560",
+   "children": [],
+   "end": "2424.400",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "It's just an old textbook someone's scribbled on.\""
    ]
   },
   {
    "begin": "2424.400",
    "children": [],
    "end": "2426.960",
-   "id": "f000179",
+   "id": "f000409",
    "language": "eng",
    "lines": [
     "\"But you're doing what it says?\""
@@ -1793,28 +4093,48 @@
   {
    "begin": "2426.960",
    "children": [],
-   "end": "2432.600",
-   "id": "f000180",
+   "end": "2432.560",
+   "id": "f000410",
    "language": "eng",
    "lines": [
     "\"I just tried a few of the tips written in the margins, honestly, Ginny, there's nothing funny - \""
    ]
   },
   {
-   "begin": "2432.600",
+   "begin": "2432.560",
    "children": [],
-   "end": "2442.600",
-   "id": "f000181",
+   "end": "2436.200",
+   "id": "f000411",
    "language": "eng",
    "lines": [
-    "\"Ginny's got a point,\" said Hermione, perking up at once. \"We ought to check that there's nothing odd about it. I mean, all these funny instructions, who knows?\""
+    "\"Ginny's got a point,\" said Hermione, perking up at once."
+   ]
+  },
+  {
+   "begin": "2436.200",
+   "children": [],
+   "end": "2438.960",
+   "id": "f000412",
+   "language": "eng",
+   "lines": [
+    "\"We ought to check that there's nothing odd about it."
+   ]
+  },
+  {
+   "begin": "2438.960",
+   "children": [],
+   "end": "2442.600",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "I mean, all these funny instructions, who knows?\""
    ]
   },
   {
    "begin": "2442.600",
    "children": [],
    "end": "2450.640",
-   "id": "f000182",
+   "id": "f000414",
    "language": "eng",
    "lines": [
     "\"Hey!\" said Harry indignantly, as she pulled his copy of Advanced Potion-Making out of his bag and raised her wand."
@@ -1824,7 +4144,7 @@
    "begin": "2450.640",
    "children": [],
    "end": "2456.080",
-   "id": "f000183",
+   "id": "f000415",
    "language": "eng",
    "lines": [
     "\"Specialis Revelio!\" she said, rapping it smartly on the front cover."
@@ -1833,51 +4153,111 @@
   {
    "begin": "2456.080",
    "children": [],
-   "end": "2465.000",
-   "id": "f000184",
+   "end": "2459.320",
+   "id": "f000416",
    "language": "eng",
    "lines": [
-    "Nothing whatsoever happened. The book simply lay there, looking old and dirty and dog-eared."
+    "Nothing whatsoever happened."
+   ]
+  },
+  {
+   "begin": "2459.320",
+   "children": [],
+   "end": "2465.000",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "The book simply lay there, looking old and dirty and dog-eared."
    ]
   },
   {
    "begin": "2465.000",
    "children": [],
-   "end": "2471.160",
-   "id": "f000185",
+   "end": "2468.120",
+   "id": "f000418",
    "language": "eng",
    "lines": [
-    "\"Finished?\" said Harry irritably. \"Or d'you want to wait and see if it does a few backflips?\""
+    "\"Finished?\" said Harry irritably."
+   ]
+  },
+  {
+   "begin": "2468.120",
+   "children": [],
+   "end": "2471.160",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "\"Or d'you want to wait and see if it does a few backflips?\""
    ]
   },
   {
    "begin": "2471.160",
    "children": [],
-   "end": "2482.400",
-   "id": "f000186",
+   "end": "2477.480",
+   "id": "f000420",
    "language": "eng",
    "lines": [
-    "\"It seems all right,\" said Hermione, still staring at the book suspiciously. \"I mean, it really does seem to be... just a textbook.\""
+    "\"It seems all right,\" said Hermione, still staring at the book suspiciously."
+   ]
+  },
+  {
+   "begin": "2477.480",
+   "children": [],
+   "end": "2482.400",
+   "id": "f000421",
+   "language": "eng",
+   "lines": [
+    "\"I mean, it really does seem to be... just a textbook.\""
    ]
   },
   {
    "begin": "2482.400",
    "children": [],
-   "end": "2490.560",
-   "id": "f000187",
+   "end": "2483.400",
+   "id": "f000422",
    "language": "eng",
    "lines": [
-    "\"Good. Then I'll have it back,\" said Harry, snatching it off the table, but it slipped from his hand and landed open on the floor."
+    "\"Good."
+   ]
+  },
+  {
+   "begin": "2483.400",
+   "children": [],
+   "end": "2490.560",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "Then I'll have it back,\" said Harry, snatching it off the table, but it slipped from his hand and landed open on the floor."
    ]
   },
   {
    "begin": "2490.560",
    "children": [],
-   "end": "2521.640",
-   "id": "f000188",
+   "end": "2493.040",
+   "id": "f000424",
    "language": "eng",
    "lines": [
-    "Nobody else was looking. Harry bent low to retrieve the book, and as he did so, he saw something scribbled along the bottom of the back cover in the same small, cramped handwriting as the instructions that had won him his bottle of Felix Felicis, now safely hidden inside a pair of socks in his trunk upstairs. This Book is the Property of the Half-Blood Prince."
+    "Nobody else was looking."
+   ]
+  },
+  {
+   "begin": "2493.040",
+   "children": [],
+   "end": "2513.880",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "Harry bent low to retrieve the book, and as he did so, he saw something scribbled along the bottom of the back cover in the same small, cramped handwriting as the instructions that had won him his bottle of Felix Felicis, now safely hidden inside a pair of socks in his trunk upstairs."
+   ]
+  },
+  {
+   "begin": "2513.880",
+   "children": [],
+   "end": "2521.640",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "This Book is the Property of the Half-Blood Prince."
    ]
   }
  ]

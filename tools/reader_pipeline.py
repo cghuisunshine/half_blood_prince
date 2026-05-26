@@ -11,14 +11,10 @@ from pathlib import Path
 from typing import Iterable, Sequence
 
 
-BOOK_PDF = Path(
-    "Harry Potter and the Sorcerer's Stone, Book 1 (Unabridged)"
-    "/Harry Potter and the Sorcerer's Sto (2597)"
-    "/Harry Potter and the Sorcerer's Stone.pdf"
-)
-AUDIO_DIR = Path("Harry Potter and the Sorcerer's Stone, Book 1 (Unabridged)")
+BOOK_PDF = Path("harry-potter-and-the-half-blood-prince-j.k.-rowling.pdf")
+AUDIO_DIR = Path("Harry Potter and the Half-Blood Prince")
 OUTPUT_DIR = Path("aligned_reader")
-DEFAULT_BOOK_TITLE = "Harry Potter and the Sorcerer's Stone"
+DEFAULT_BOOK_TITLE = "Harry Potter and the Half-Blood Prince"
 
 CHAPTER_WORDS = [
     "ONE",
@@ -122,6 +118,41 @@ SORCERERS_STONE_CHAPTER_TITLES = {
     17: "The Man with Two Faces",
 }
 
+HALF_BLOOD_PRINCE_CHAPTER_TITLES = dict(
+    [
+        (1, "The Other Minister"),
+        (2, "Spinner's End"),
+        (3, "Will and Won't"),
+        (4, "Horace Slughorn"),
+        (5, "An Excess of Phlegm"),
+        (6, "Draco's Detour"),
+        (7, "The Slug Club"),
+        (8, "Snape Victorious"),
+        (9, "The Half-Blood Prince"),
+        (10, "The House of Gaunt"),
+        (11, "Hermione's Helping Hand"),
+        (12, "Silver and Opals"),
+        (13, "The Secret Riddle"),
+        (14, "Felix Felicis"),
+        (15, "The Unbreakable Vow"),
+        (16, "A Very Frosty Christmas"),
+        (17, "A Sluggish Memory"),
+        (18, "Birthday Surprises"),
+        (19, "Elf Tails"),
+        (20, "Lord Voldemort's Request"),
+        (21, "The Unknowable Room"),
+        (22, "After the Burial"),
+        (23, "Horcruxes"),
+        (24, "Sectumsempra"),
+        (25, "The Seer Overheard"),
+        (26, "The Cave"),
+        (27, "The Lightning-Struck Tower"),
+        (28, "Flight of the Prince"),
+        (29, "The Phoenix Lament"),
+        (30, "The White Tomb"),
+    ]
+)
+
 
 @dataclass(frozen=True)
 class Chapter:
@@ -148,8 +179,8 @@ class AudioChapterSpan:
 
 DEFAULT_BOOK_CONFIG = BookConfig(
     title=DEFAULT_BOOK_TITLE,
-    chapter_titles=SORCERERS_STONE_CHAPTER_TITLES,
-    chapter_count=len(SORCERERS_STONE_CHAPTER_TITLES),
+    chapter_titles=HALF_BLOOD_PRINCE_CHAPTER_TITLES,
+    chapter_count=len(HALF_BLOOD_PRINCE_CHAPTER_TITLES),
 )
 
 
@@ -417,15 +448,93 @@ def flush_paragraph(lines: list[str], paragraphs: list[str]) -> None:
         paragraphs.append(paragraph)
 
 
+SENTENCE_ABBREVIATIONS = {
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "St.",
+    "Sr.",
+    "Jr.",
+    "etc.",
+    "e.g.",
+    "i.e.",
+}
+
+
+def split_sentences(text: str) -> list[str]:
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return []
+
+    sentences = []
+    start = 0
+    index = 0
+    while index < len(text):
+        char = text[index]
+        if char not in ".!?":
+            index += 1
+            continue
+
+        end = index + 1
+        if char == "." and text[index : index + 3] == "...":
+            end = index + 3
+
+        if char == ".":
+            previous_word = text[start:end].rsplit(" ", 1)[-1]
+            if previous_word in SENTENCE_ABBREVIATIONS:
+                index = end
+                continue
+            if index > 0 and index + 1 < len(text) and text[index - 1].isdigit() and text[index + 1].isdigit():
+                index = end
+                continue
+
+        while end < len(text) and text[end] in "\"')]}":
+            end += 1
+
+        if end < len(text) and not text[end].isspace():
+            index = end
+            continue
+
+        next_start = end
+        while next_start < len(text) and text[next_start].isspace():
+            next_start += 1
+
+        next_character_index = next_start
+        while next_character_index < len(text) and text[next_character_index] in "\"'([{":
+            next_character_index += 1
+
+        if next_character_index < len(text) and text[next_character_index].islower():
+            index = end
+            continue
+
+        sentence = text[start:end].strip()
+        if sentence:
+            sentences.append(sentence)
+        start = next_start
+        index = next_start
+
+    remainder = text[start:].strip()
+    if remainder:
+        sentences.append(remainder)
+    return sentences
+
+
 def chapter_fragments(chapter: Chapter) -> list[str]:
     heading = f"Chapter {display_chapter_word(chapter.number)}. {chapter.title}."
-    return [heading, *normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))]
+    sentences = []
+    for paragraph in normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter)):
+        sentences.extend(split_sentences(paragraph))
+    return [heading, *sentences]
+
 
 
 def running_headers_for(chapter: Chapter) -> set[str]:
     headers = {chapter.title.upper()}
     headers.update(title.upper() for title in CHAPTER_TITLES.values())
     headers.update(title.upper() for title in SORCERERS_STONE_CHAPTER_TITLES.values())
+    headers.update(title.upper() for title in HALF_BLOOD_PRINCE_CHAPTER_TITLES.values())
     headers.add("THE ADVANCED GUARD")
     return headers
 
@@ -766,14 +875,14 @@ def build_reader_manifest(
     for chapter, audio_path, duration in zip(chapters, audio_files, durations, strict=True):
         alignment_path = alignment_dir / f"chapter_{chapter.number:03d}.json"
         data = json.loads(alignment_path.read_text(encoding="utf-8"))
-        paragraphs = []
+        sentences = []
         for fragment in data.get("fragments", []):
             begin = float(fragment["begin"])
             end = float(fragment["end"])
             text = " ".join(fragment.get("lines", [])).strip()
-            paragraphs.append(
+            sentences.append(
                 {
-                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(paragraphs))}",
+                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(sentences))}",
                     "text": text,
                     "begin": round(offset + begin, 3),
                     "end": round(offset + end, 3),
@@ -790,7 +899,7 @@ def build_reader_manifest(
                 "start": round(offset, 3),
                 "end": round(offset + duration, 3),
                 "duration": round(duration, 3),
-                "paragraphs": paragraphs,
+                "sentences": sentences,
             }
         )
         offset += duration
@@ -805,7 +914,7 @@ def build_reader_manifest(
                 "start": round(offset, 3),
                 "end": round(offset + outro_duration, 3),
                 "duration": round(outro_duration, 3),
-                "paragraphs": [],
+                "sentences": [],
             }
         )
         offset += outro_duration
@@ -834,14 +943,14 @@ def build_reader_manifest_from_single_alignment(
                 f"expected {expected_count}, found {len(chapter_fragments_data)}"
             )
         cursor += expected_count
-        paragraphs = []
+        sentences = []
         for fragment in chapter_fragments_data:
             begin = float(fragment["begin"])
             end = float(fragment["end"])
             text = " ".join(fragment.get("lines", [])).strip()
-            paragraphs.append(
+            sentences.append(
                 {
-                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(paragraphs))}",
+                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(sentences))}",
                     "text": text,
                     "begin": round(begin, 3),
                     "end": round(end, 3),
@@ -849,7 +958,7 @@ def build_reader_manifest_from_single_alignment(
                     "localEnd": round(end, 3),
                 }
             )
-        start = paragraphs[0]["localBegin"] if paragraphs else 0.0
+        start = sentences[0]["localBegin"] if sentences else 0.0
         manifest["chapters"].append(
             {
                 "kind": "chapter",
@@ -860,7 +969,7 @@ def build_reader_manifest_from_single_alignment(
                 "start": start,
                 "end": start,
                 "duration": 0.0,
-                "paragraphs": paragraphs,
+                "sentences": sentences,
             }
         )
 
@@ -1043,15 +1152,15 @@ def build_reader_html(manifest: dict) -> str:
       padding-bottom: 14px;
       border-bottom: 1px solid var(--line);
     }}
-    .paragraph {{
+    .sentence {{
       margin: 0 0 14px;
       padding: 3px 6px;
       border-left: 3px solid transparent;
       border-radius: 4px;
       cursor: pointer;
     }}
-    .paragraph:hover {{ background: #f8f6f1; }}
-    .paragraph.active {{
+    .sentence:hover {{ background: #f8f6f1; }}
+    .sentence.active {{
       background: var(--active);
       border-left-color: var(--active-line);
     }}
@@ -1151,14 +1260,14 @@ def build_reader_html(manifest: dict) -> str:
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
     let currentIndex = 0;
-    let currentParagraphId = null;
+    let currentSentenceId = null;
 
-    function saveProgress(paragraph) {{
-      if (!paragraph) return;
+    function saveProgress(sentence) {{
+      if (!sentence) return;
       localStorage.setItem(PROGRESS_KEY, JSON.stringify({{
         chapterIndex: currentIndex,
-        paragraphId: paragraph.id,
-        currentTime: paragraph.localBegin,
+        sentenceId: sentence.id,
+        currentTime: sentence.localBegin,
       }}));
     }}
 
@@ -1198,7 +1307,7 @@ def build_reader_html(manifest: dict) -> str:
     function loadChapter(index, autoplay = false, seek = true) {{
       currentIndex = Math.max(0, Math.min(index, manifest.chapters.length - 1));
       const chapter = manifest.chapters[currentIndex];
-      currentParagraphId = null;
+      currentSentenceId = null;
       const nextSource = new URL(chapter.audio, window.location.href).href;
       const sourceChanged = audio.src !== nextSource;
       if (sourceChanged) {{
@@ -1206,15 +1315,15 @@ def build_reader_html(manifest: dict) -> str:
       }}
       chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${{chapter.number}}. ${{chapter.title}}` : chapter.title;
       reader.innerHTML = '';
-      if (chapter.paragraphs.length) {{
-        chapter.paragraphs.forEach((paragraph) => {{
+      if (chapter.sentences.length) {{
+        chapter.sentences.forEach((sentence) => {{
           const node = document.createElement('p');
-          node.className = 'paragraph';
-          node.id = paragraph.id;
-          node.textContent = paragraph.text;
+          node.className = 'sentence';
+          node.id = sentence.id;
+          node.textContent = sentence.text;
           node.addEventListener('click', () => {{
-            saveProgress(paragraph);
-            audio.currentTime = paragraph.localBegin;
+            saveProgress(sentence);
+            audio.currentTime = sentence.localBegin;
             audio.play();
           }});
           reader.appendChild(node);
@@ -1258,18 +1367,18 @@ def build_reader_html(manifest: dict) -> str:
 
     function updateHighlight(local) {{
       const chapter = manifest.chapters[currentIndex];
-      const paragraph = chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd);
-      const nextId = paragraph ? paragraph.id : null;
-      if (nextId === currentParagraphId) return;
-      if (currentParagraphId) {{
-        document.getElementById(currentParagraphId)?.classList.remove('active');
+      const sentence = chapter.sentences.find((item) => local >= item.localBegin && local < item.localEnd);
+      const nextId = sentence ? sentence.id : null;
+      if (nextId === currentSentenceId) return;
+      if (currentSentenceId) {{
+        document.getElementById(currentSentenceId)?.classList.remove('active');
       }}
-      currentParagraphId = nextId;
-      if (currentParagraphId) {{
-        const node = document.getElementById(currentParagraphId);
+      currentSentenceId = nextId;
+      if (currentSentenceId) {{
+        const node = document.getElementById(currentSentenceId);
         node?.classList.add('active');
         node?.scrollIntoView({{ block: 'center', behavior: 'smooth' }});
-        saveProgress(paragraph);
+        saveProgress(sentence);
       }}
     }}
 

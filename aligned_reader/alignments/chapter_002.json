@@ -13,28 +13,68 @@
   {
    "begin": "7.320",
    "children": [],
-   "end": "45.280",
+   "end": "21.160",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Many miles away the chilly mist that had pressed against the Prime Minister's windows drifted over a dirty river that wound between overgrown, rubbish-strewn banks. An immense chimney, relic of a disused mill, reared up, shadowy and ominous. There was no sound apart from the whisper of the black water and no sign of life apart from a scrawny fox that had slunk down the bank to nose hopefully at some old fish-and-chip wrappings in the tall grass."
+    "Many miles away the chilly mist that had pressed against the Prime Minister's windows drifted over a dirty river that wound between overgrown, rubbish-strewn banks."
+   ]
+  },
+  {
+   "begin": "21.160",
+   "children": [],
+   "end": "28.800",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "An immense chimney, relic of a disused mill, reared up, shadowy and ominous."
+   ]
+  },
+  {
+   "begin": "28.800",
+   "children": [],
+   "end": "45.280",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "There was no sound apart from the whisper of the black water and no sign of life apart from a scrawny fox that had slunk down the bank to nose hopefully at some old fish-and-chip wrappings in the tall grass."
    ]
   },
   {
    "begin": "45.280",
    "children": [],
-   "end": "73.560",
-   "id": "f000003",
+   "end": "55.320",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "But then, with a very faint pop, a slim, hooded figure appeared out of thin air on the edge of the river. The fox froze, wary eyes fixed upon this strange new phenomenon. The figure seemed to take its bearings for a few moments, then set off with light, quick strides, its long cloak rustling over the grass."
+    "But then, with a very faint pop, a slim, hooded figure appeared out of thin air on the edge of the river."
    ]
   },
   {
-   "begin": "73.560",
+   "begin": "55.320",
+   "children": [],
+   "end": "62.800",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "The fox froze, wary eyes fixed upon this strange new phenomenon."
+   ]
+  },
+  {
+   "begin": "62.800",
+   "children": [],
+   "end": "73.520",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "The figure seemed to take its bearings for a few moments, then set off with light, quick strides, its long cloak rustling over the grass."
+   ]
+  },
+  {
+   "begin": "73.520",
    "children": [],
    "end": "79.000",
-   "id": "f000004",
+   "id": "f000008",
    "language": "eng",
    "lines": [
     "With a second and louder pop, another hooded figure materialized."
@@ -44,7 +84,7 @@
    "begin": "79.000",
    "children": [],
    "end": "81.640",
-   "id": "f000005",
+   "id": "f000009",
    "language": "eng",
    "lines": [
     "\"Wait!\""
@@ -53,18 +93,38 @@
   {
    "begin": "81.640",
    "children": [],
-   "end": "99.960",
-   "id": "f000006",
+   "end": "87.200",
+   "id": "f000010",
    "language": "eng",
    "lines": [
-    "The harsh cry startled the fox, now crouching almost flat in the undergrowth. It leapt from its hiding place and up the bank. There was a flash of green light, a yelp, and the fox fell back to the ground, dead."
+    "The harsh cry startled the fox, now crouching almost flat in the undergrowth."
+   ]
+  },
+  {
+   "begin": "87.200",
+   "children": [],
+   "end": "91.080",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "It leapt from its hiding place and up the bank."
+   ]
+  },
+  {
+   "begin": "91.080",
+   "children": [],
+   "end": "99.960",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "There was a flash of green light, a yelp, and the fox fell back to the ground, dead."
    ]
   },
   {
    "begin": "99.960",
    "children": [],
    "end": "103.640",
-   "id": "f000007",
+   "id": "f000013",
    "language": "eng",
    "lines": [
     "The second figure turned over the animal with its toe."
@@ -73,18 +133,28 @@
   {
    "begin": "103.640",
    "children": [],
-   "end": "114.960",
-   "id": "f000008",
+   "end": "109.400",
+   "id": "f000014",
    "language": "eng",
    "lines": [
-    "\"Just a fox,\" said a woman's voice dismissively from under the hood. \"I thought perhaps an Auror - Cissy, wait!\""
+    "\"Just a fox,\" said a woman's voice dismissively from under the hood."
+   ]
+  },
+  {
+   "begin": "109.400",
+   "children": [],
+   "end": "114.960",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "\"I thought perhaps an Auror - Cissy, wait!\""
    ]
   },
   {
    "begin": "114.960",
    "children": [],
    "end": "123.000",
-   "id": "f000009",
+   "id": "f000016",
    "language": "eng",
    "lines": [
     "But her quarry, who had paused and looked back at the flash of light, was already scrambling up the bank the fox had just fallen down."
@@ -94,7 +164,7 @@
    "begin": "123.000",
    "children": [],
    "end": "127.960",
-   "id": "f000010",
+   "id": "f000017",
    "language": "eng",
    "lines": [
     "\"Cissy - Narcissa - listen to me - \""
@@ -104,7 +174,7 @@
    "begin": "127.960",
    "children": [],
    "end": "133.520",
-   "id": "f000011",
+   "id": "f000018",
    "language": "eng",
    "lines": [
     "The second woman caught the first and seized her arm, but the other wrenched it away."
@@ -114,7 +184,7 @@
    "begin": "133.520",
    "children": [],
    "end": "135.480",
-   "id": "f000012",
+   "id": "f000019",
    "language": "eng",
    "lines": [
     "\"Go back, Bella!\""
@@ -124,7 +194,7 @@
    "begin": "135.480",
    "children": [],
    "end": "138.320",
-   "id": "f000013",
+   "id": "f000020",
    "language": "eng",
    "lines": [
     "\"You must listen to me!\""
@@ -133,38 +203,108 @@
   {
    "begin": "138.320",
    "children": [],
-   "end": "146.680",
-   "id": "f000014",
+   "end": "141.560",
+   "id": "f000021",
    "language": "eng",
    "lines": [
-    "\"I've listened already. I've made my decision. Leave me alone!\""
+    "\"I've listened already."
+   ]
+  },
+  {
+   "begin": "141.560",
+   "children": [],
+   "end": "144.000",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "I've made my decision."
+   ]
+  },
+  {
+   "begin": "144.000",
+   "children": [],
+   "end": "146.680",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Leave me alone!\""
    ]
   },
   {
    "begin": "146.680",
    "children": [],
-   "end": "172.120",
-   "id": "f000015",
+   "end": "156.480",
+   "id": "f000024",
    "language": "eng",
    "lines": [
-    "The woman named Narcissa gained the top of the bank, where a line of old railings separated the river from a narrow, cobbled street. The other woman, Bella, followed at once. Side by side they stood looking across the road at the rows and rows of dilapidated brick houses, their windows dull and blind in the darkness."
+    "The woman named Narcissa gained the top of the bank, where a line of old railings separated the river from a narrow, cobbled street."
+   ]
+  },
+  {
+   "begin": "156.480",
+   "children": [],
+   "end": "160.840",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "The other woman, Bella, followed at once."
+   ]
+  },
+  {
+   "begin": "160.840",
+   "children": [],
+   "end": "172.120",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Side by side they stood looking across the road at the rows and rows of dilapidated brick houses, their windows dull and blind in the darkness."
    ]
   },
   {
    "begin": "172.120",
    "children": [],
-   "end": "186.400",
-   "id": "f000016",
+   "end": "178.040",
+   "id": "f000027",
    "language": "eng",
    "lines": [
-    "\"He lives here?\" asked Bella in a voice of contempt. \"Here? In this Muggle dunghill? We must be the first of our kind ever to set foot - \""
+    "\"He lives here?\" asked Bella in a voice of contempt."
+   ]
+  },
+  {
+   "begin": "178.040",
+   "children": [],
+   "end": "179.800",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "\"Here?"
+   ]
+  },
+  {
+   "begin": "179.800",
+   "children": [],
+   "end": "182.440",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "In this Muggle dunghill?"
+   ]
+  },
+  {
+   "begin": "182.440",
+   "children": [],
+   "end": "186.400",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "We must be the first of our kind ever to set foot - \""
    ]
   },
   {
    "begin": "186.400",
    "children": [],
    "end": "194.560",
-   "id": "f000017",
+   "id": "f000031",
    "language": "eng",
    "lines": [
     "But Narcissa was not listening; she had slipped through a gap in the rusty railings and was already hurrying across the road."
@@ -173,28 +313,48 @@
   {
    "begin": "194.560",
    "children": [],
-   "end": "197.640",
-   "id": "f000018",
+   "end": "197.600",
+   "id": "f000032",
    "language": "eng",
    "lines": [
     "\"Cissy, wait!\""
    ]
   },
   {
-   "begin": "197.640",
+   "begin": "197.600",
    "children": [],
-   "end": "227.640",
-   "id": "f000019",
+   "end": "208.840",
+   "id": "f000033",
    "language": "eng",
    "lines": [
-    "Bella followed, her cloak streaming behind, and saw Narcissa darting through an alley between the houses into a second, almost identical street. Some of the streetlamps were broken; the two women were running between patches of light and deep darkness. The pursuer caught up with her prey just as she turned another corner, this time succeeding in catching hold of her arm and swinging her around so that they faced each other."
+    "Bella followed, her cloak streaming behind, and saw Narcissa darting through an alley between the houses into a second, almost identical street."
+   ]
+  },
+  {
+   "begin": "208.840",
+   "children": [],
+   "end": "216.840",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Some of the streetlamps were broken; the two women were running between patches of light and deep darkness."
+   ]
+  },
+  {
+   "begin": "216.840",
+   "children": [],
+   "end": "227.640",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "The pursuer caught up with her prey just as she turned another corner, this time succeeding in catching hold of her arm and swinging her around so that they faced each other."
    ]
   },
   {
    "begin": "227.640",
    "children": [],
    "end": "232.960",
-   "id": "f000020",
+   "id": "f000036",
    "language": "eng",
    "lines": [
     "\"Cissy, you must not do this, you can't trust him - \""
@@ -204,7 +364,7 @@
    "begin": "232.960",
    "children": [],
    "end": "236.200",
-   "id": "f000021",
+   "id": "f000037",
    "language": "eng",
    "lines": [
     "\"The Dark Lord trusts him, doesn't he?\""
@@ -213,58 +373,128 @@
   {
    "begin": "236.200",
    "children": [],
-   "end": "257.520",
-   "id": "f000022",
+   "end": "239.840",
+   "id": "f000038",
    "language": "eng",
    "lines": [
-    "\"The Dark Lord is... I believe... mistaken,\" Bella panted, and her eyes gleamed momentarily under her hood as she looked around to check that they were indeed alone. \"In any case, we were told not to speak of the plan"
+    "\"The Dark Lord is..."
    ]
   },
   {
-   "begin": "257.520",
+   "begin": "239.840",
    "children": [],
-   "end": "261.040",
-   "id": "f000023",
+   "end": "251.720",
+   "id": "f000039",
    "language": "eng",
    "lines": [
-    "to anyone. This is a betrayal of the Dark Lord's - \""
+    "I believe... mistaken,\" Bella panted, and her eyes gleamed momentarily under her hood as she looked around to check that they were indeed alone."
+   ]
+  },
+  {
+   "begin": "251.720",
+   "children": [],
+   "end": "257.160",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "\"In any case, we were told not to speak of the plan"
+   ]
+  },
+  {
+   "begin": "257.160",
+   "children": [],
+   "end": "258.600",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "to anyone."
+   ]
+  },
+  {
+   "begin": "258.600",
+   "children": [],
+   "end": "261.040",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "This is a betrayal of the Dark Lord's - \""
    ]
   },
   {
    "begin": "261.040",
    "children": [],
-   "end": "271.560",
-   "id": "f000024",
+   "end": "270.160",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "\"Let go, Bella!\" snarled Narcissa, and she drew a wand from beneath her cloak, holding it threateningly in the other's face. Bella merely laughed."
+    "\"Let go, Bella!\" snarled Narcissa, and she drew a wand from beneath her cloak, holding it threateningly in the other's face."
+   ]
+  },
+  {
+   "begin": "270.160",
+   "children": [],
+   "end": "271.560",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Bella merely laughed."
    ]
   },
   {
    "begin": "271.560",
    "children": [],
-   "end": "278.280",
-   "id": "f000025",
+   "end": "275.960",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "\"Cissy, your own sister? You wouldn't - \""
+    "\"Cissy, your own sister?"
+   ]
+  },
+  {
+   "begin": "275.960",
+   "children": [],
+   "end": "278.280",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "You wouldn't - \""
    ]
   },
   {
    "begin": "278.280",
    "children": [],
-   "end": "294.280",
-   "id": "f000026",
+   "end": "281.360",
+   "id": "f000047",
    "language": "eng",
    "lines": [
-    "\"There is nothing I wouldn't do anymore!\" Narcissa breathed, a note of hysteria in her voice, and as she brought down the wand like a knife, there was another flash of light. Bella let go of her sister's arm as though burned."
+    "\"There is nothing I wouldn't do anymore!\""
+   ]
+  },
+  {
+   "begin": "281.360",
+   "children": [],
+   "end": "290.280",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Narcissa breathed, a note of hysteria in her voice, and as she brought down the wand like a knife, there was another flash of light."
+   ]
+  },
+  {
+   "begin": "290.280",
+   "children": [],
+   "end": "294.280",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Bella let go of her sister's arm as though burned."
    ]
   },
   {
    "begin": "294.280",
    "children": [],
    "end": "297.120",
-   "id": "f000027",
+   "id": "f000050",
    "language": "eng",
    "lines": [
     "\"Narcissa!\""
@@ -273,78 +503,188 @@
   {
    "begin": "297.120",
    "children": [],
-   "end": "336.960",
-   "id": "f000028",
+   "end": "299.520",
+   "id": "f000051",
    "language": "eng",
    "lines": [
-    "But Narcissa had rushed ahead. Rubbing her hand, her pursuer followed again, keeping her distance now, as they moved deeper into the deserted labyrinth of brick houses. At last, Narcissa hurried up a street named Spinner's End, over which the towering mill chimney seemed to hover like a giant admonitory finger. Her footsteps echoed on the cobbles as she passed boarded and broken windows, until she reached the very last house, where a dim light glimmered through the curtains in a downstairs room."
+    "But Narcissa had rushed ahead."
+   ]
+  },
+  {
+   "begin": "299.520",
+   "children": [],
+   "end": "310.600",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "Rubbing her hand, her pursuer followed again, keeping her distance now, as they moved deeper into the deserted labyrinth of brick houses."
+   ]
+  },
+  {
+   "begin": "310.600",
+   "children": [],
+   "end": "321.760",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "At last, Narcissa hurried up a street named Spinner's End, over which the towering mill chimney seemed to hover like a giant admonitory finger."
+   ]
+  },
+  {
+   "begin": "321.760",
+   "children": [],
+   "end": "336.960",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Her footsteps echoed on the cobbles as she passed boarded and broken windows, until she reached the very last house, where a dim light glimmered through the curtains in a downstairs room."
    ]
   },
   {
    "begin": "336.960",
    "children": [],
-   "end": "370.920",
-   "id": "f000029",
+   "end": "341.600",
+   "id": "f000055",
    "language": "eng",
    "lines": [
-    "She had knocked on the door before Bella, cursing under her breath, had caught up. Together they stood waiting, panting slightly, breathing in the smell of the dirty river that was carried to them on the night breeze. After a few seconds, they heard movement behind the door and it opened a crack. A sliver of a man could be seen looking out at them, a man with long black hair parted in curtains around a sallow face and black eyes."
+    "She had knocked on the door before Bella, cursing under her breath, had caught up."
+   ]
+  },
+  {
+   "begin": "341.600",
+   "children": [],
+   "end": "352.200",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "Together they stood waiting, panting slightly, breathing in the smell of the dirty river that was carried to them on the night breeze."
+   ]
+  },
+  {
+   "begin": "352.200",
+   "children": [],
+   "end": "358.560",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "After a few seconds, they heard movement behind the door and it opened a crack."
+   ]
+  },
+  {
+   "begin": "358.560",
+   "children": [],
+   "end": "370.920",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "A sliver of a man could be seen looking out at them, a man with long black hair parted in curtains around a sallow face and black eyes."
    ]
   },
   {
    "begin": "370.920",
    "children": [],
-   "end": "383.320",
-   "id": "f000030",
+   "end": "373.200",
+   "id": "f000059",
    "language": "eng",
    "lines": [
-    "Narcissa threw back her hood. She was so pale that she seemed to shine in the darkness; the long blonde hair streaming down her back gave her the look of a drowned person."
+    "Narcissa threw back her hood."
+   ]
+  },
+  {
+   "begin": "373.200",
+   "children": [],
+   "end": "383.320",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "She was so pale that she seemed to shine in the darkness; the long blonde hair streaming down her back gave her the look of a drowned person."
    ]
   },
   {
    "begin": "383.320",
    "children": [],
-   "end": "395.680",
-   "id": "f000031",
+   "end": "392.640",
+   "id": "f000061",
    "language": "eng",
    "lines": [
-    "\"Narcissa!\" said the man, opening the door a little wider, so that the light fell upon her and her sister too. \"What a pleasant surprise!\""
+    "\"Narcissa!\" said the man, opening the door a little wider, so that the light fell upon her and her sister too."
+   ]
+  },
+  {
+   "begin": "392.640",
+   "children": [],
+   "end": "395.680",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "\"What a pleasant surprise!\""
    ]
   },
   {
    "begin": "395.680",
    "children": [],
-   "end": "404.600",
-   "id": "f000032",
+   "end": "400.880",
+   "id": "f000063",
    "language": "eng",
    "lines": [
-    "\"Severus,\" she said in a strained whisper. \"May I speak to you? It's urgent.\""
+    "\"Severus,\" she said in a strained whisper."
+   ]
+  },
+  {
+   "begin": "400.880",
+   "children": [],
+   "end": "403.520",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "\"May I speak to you?"
+   ]
+  },
+  {
+   "begin": "403.520",
+   "children": [],
+   "end": "404.600",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "It's urgent.\""
    ]
   },
   {
    "begin": "404.600",
    "children": [],
-   "end": "408.040",
-   "id": "f000033",
+   "end": "407.000",
+   "id": "f000066",
    "language": "eng",
    "lines": [
     "\"But of course.\""
    ]
   },
   {
-   "begin": "408.040",
+   "begin": "407.000",
    "children": [],
-   "end": "416.120",
-   "id": "f000034",
+   "end": "412.560",
+   "id": "f000067",
    "language": "eng",
    "lines": [
-    "He stood back to allow her to pass him into the house. Her still-hooded sister followed without invitation."
+    "He stood back to allow her to pass him into the house."
+   ]
+  },
+  {
+   "begin": "412.560",
+   "children": [],
+   "end": "416.120",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Her still-hooded sister followed without invitation."
    ]
   },
   {
    "begin": "416.120",
    "children": [],
    "end": "420.400",
-   "id": "f000035",
+   "id": "f000069",
    "language": "eng",
    "lines": [
     "\"Snape,\" she said curtly as she passed him."
@@ -354,7 +694,7 @@
    "begin": "420.400",
    "children": [],
    "end": "432.480",
-   "id": "f000036",
+   "id": "f000070",
    "language": "eng",
    "lines": [
     "\"Bellatrix,\" he replied, his thin mouth curling into a slightly mocking smile as he closed the door with a snap behind them."
@@ -363,58 +703,138 @@
   {
    "begin": "432.480",
    "children": [],
-   "end": "465.160",
-   "id": "f000037",
+   "end": "439.400",
+   "id": "f000071",
    "language": "eng",
    "lines": [
-    "They had stepped directly into a tiny sitting room, which had the feeling of a dark, padded cell. The walls were completely covered in books, most of them bound in old black or brown leather; a threadbare sofa, an old armchair, and a rickety table stood grouped together in a pool of dim light cast by a candle-filled lamp hung from the ceiling. The place had an air of neglect, as though it was not usually inhabited."
+    "They had stepped directly into a tiny sitting room, which had the feeling of a dark, padded cell."
    ]
   },
   {
-   "begin": "465.160",
+   "begin": "439.400",
    "children": [],
-   "end": "493.200",
-   "id": "f000038",
+   "end": "457.280",
+   "id": "f000072",
    "language": "eng",
    "lines": [
-    "Snape gestured Narcissa to the sofa. She threw off her cloak, cast it aside, and sat down, staring at her white and trembling hands clasped in her lap. Bellatrix lowered her hood more slowly. Dark as her sister was fair, with heavily lidded eyes and a strong jaw, she did not take her gaze from Snape as she moved to stand behind Narcissa."
+    "The walls were completely covered in books, most of them bound in old black or brown leather; a threadbare sofa, an old armchair, and a rickety table stood grouped together in a pool of dim light cast by a candle-filled lamp hung from the ceiling."
+   ]
+  },
+  {
+   "begin": "457.280",
+   "children": [],
+   "end": "463.600",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "The place had an air of neglect, as though it was not usually inhabited."
+   ]
+  },
+  {
+   "begin": "463.600",
+   "children": [],
+   "end": "467.520",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "Snape gestured Narcissa to the sofa."
+   ]
+  },
+  {
+   "begin": "467.520",
+   "children": [],
+   "end": "476.880",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "She threw off her cloak, cast it aside, and sat down, staring at her white and trembling hands clasped in her lap."
+   ]
+  },
+  {
+   "begin": "476.880",
+   "children": [],
+   "end": "482.120",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "Bellatrix lowered her hood more slowly."
+   ]
+  },
+  {
+   "begin": "482.120",
+   "children": [],
+   "end": "493.200",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "Dark as her sister was fair, with heavily lidded eyes and a strong jaw, she did not take her gaze from Snape as she moved to stand behind Narcissa."
    ]
   },
   {
    "begin": "493.200",
    "children": [],
-   "end": "502.800",
-   "id": "f000039",
+   "end": "497.760",
+   "id": "f000078",
    "language": "eng",
    "lines": [
-    "\"So, what can I do for you?\" Snape asked, settling himself in the armchair opposite the two sisters."
+    "\"So, what can I do for you?\""
+   ]
+  },
+  {
+   "begin": "497.760",
+   "children": [],
+   "end": "502.800",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "Snape asked, settling himself in the armchair opposite the two sisters."
    ]
   },
   {
    "begin": "502.800",
    "children": [],
-   "end": "509.760",
-   "id": "f000040",
+   "end": "508.160",
+   "id": "f000080",
    "language": "eng",
    "lines": [
-    "\"We... we are alone, aren't we?\" Narcissa asked quietly."
+    "\"We... we are alone, aren't we?\""
+   ]
+  },
+  {
+   "begin": "508.160",
+   "children": [],
+   "end": "509.760",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "Narcissa asked quietly."
    ]
   },
   {
    "begin": "509.760",
    "children": [],
-   "end": "517.680",
-   "id": "f000041",
+   "end": "511.560",
+   "id": "f000082",
    "language": "eng",
    "lines": [
-    "\"Yes, of course. Well, Wormtail's here, but we're not counting vermin, are we?\""
+    "\"Yes, of course."
+   ]
+  },
+  {
+   "begin": "511.560",
+   "children": [],
+   "end": "517.680",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "Well, Wormtail's here, but we're not counting vermin, are we?\""
    ]
   },
   {
    "begin": "517.680",
    "children": [],
    "end": "528.480",
-   "id": "f000042",
+   "id": "f000084",
    "language": "eng",
    "lines": [
     "He pointed his wand at the wall of books behind him and with a bang, a hidden door flew open, revealing a narrow staircase upon which a small man stood frozen."
@@ -424,7 +844,7 @@
    "begin": "528.480",
    "children": [],
    "end": "537.440",
-   "id": "f000043",
+   "id": "f000085",
    "language": "eng",
    "lines": [
     "\"As you have clearly realized, Wormtail, we have guests,\" said Snape lazily."
@@ -433,58 +853,128 @@
   {
    "begin": "537.440",
    "children": [],
-   "end": "556.320",
-   "id": "f000044",
+   "end": "543.440",
+   "id": "f000086",
    "language": "eng",
    "lines": [
-    "The man crept, hunchbacked, down the last few steps and moved into the room. He had small, watery eyes, a pointed nose, and wore an unpleasant simper. His left hand was caressing his right, which looked as though it was encased in a bright silver glove."
+    "The man crept, hunchbacked, down the last few steps and moved into the room."
+   ]
+  },
+  {
+   "begin": "543.440",
+   "children": [],
+   "end": "549.160",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "He had small, watery eyes, a pointed nose, and wore an unpleasant simper."
+   ]
+  },
+  {
+   "begin": "549.160",
+   "children": [],
+   "end": "556.320",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "His left hand was caressing his right, which looked as though it was encased in a bright silver glove."
    ]
   },
   {
    "begin": "556.320",
    "children": [],
-   "end": "563.360",
-   "id": "f000045",
+   "end": "560.640",
+   "id": "f000089",
    "language": "eng",
    "lines": [
-    "\"Narcissa!\" he said, in a squeaky voice. \"And Bellatrix! How charming.\""
+    "\"Narcissa!\" he said, in a squeaky voice."
+   ]
+  },
+  {
+   "begin": "560.640",
+   "children": [],
+   "end": "561.840",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "\"And Bellatrix!"
+   ]
+  },
+  {
+   "begin": "561.840",
+   "children": [],
+   "end": "563.360",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "How charming.\""
    ]
   },
   {
    "begin": "563.360",
    "children": [],
-   "end": "572.840",
-   "id": "f000046",
+   "end": "567.960",
+   "id": "f000092",
    "language": "eng",
    "lines": [
-    "\"Wormtail will get us drinks, if you'd like them,\" said Snape. \"And then he will return to his bedroom.\""
+    "\"Wormtail will get us drinks, if you'd like them,\" said Snape."
    ]
   },
   {
-   "begin": "572.840",
+   "begin": "567.960",
    "children": [],
-   "end": "581.120",
-   "id": "f000047",
+   "end": "571.480",
+   "id": "f000093",
    "language": "eng",
    "lines": [
-    "Wormtail winced as though Snape had thrown something at him. \"I am not your servant!\" he squeaked, avoiding Snape's eye."
+    "\"And then he will return to his bedroom.\""
+   ]
+  },
+  {
+   "begin": "571.480",
+   "children": [],
+   "end": "576.000",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "Wormtail winced as though Snape had thrown something at him."
+   ]
+  },
+  {
+   "begin": "576.000",
+   "children": [],
+   "end": "581.120",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "\"I am not your servant!\" he squeaked, avoiding Snape's eye."
    ]
   },
   {
    "begin": "581.120",
    "children": [],
-   "end": "588.640",
-   "id": "f000048",
+   "end": "583.720",
+   "id": "f000096",
    "language": "eng",
    "lines": [
-    "\"Really? I was under the impression that the Dark Lord placed you here to assist me.\""
+    "\"Really?"
+   ]
+  },
+  {
+   "begin": "583.720",
+   "children": [],
+   "end": "588.640",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "I was under the impression that the Dark Lord placed you here to assist me.\""
    ]
   },
   {
    "begin": "588.640",
    "children": [],
    "end": "594.560",
-   "id": "f000049",
+   "id": "f000098",
    "language": "eng",
    "lines": [
     "\"To assist, yes - but not to make you drinks and - and clean your house!\""
@@ -493,18 +983,28 @@
   {
    "begin": "594.560",
    "children": [],
-   "end": "608.600",
-   "id": "f000050",
+   "end": "602.480",
+   "id": "f000099",
    "language": "eng",
    "lines": [
-    "\"I had no idea, Wormtail, that you were craving more dangerous assignments,\" said Snape silkily. \"This can be easily arranged: I shall speak to the Dark Lord - \""
+    "\"I had no idea, Wormtail, that you were craving more dangerous assignments,\" said Snape silkily."
+   ]
+  },
+  {
+   "begin": "602.480",
+   "children": [],
+   "end": "608.600",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "\"This can be easily arranged: I shall speak to the Dark Lord - \""
    ]
   },
   {
    "begin": "608.600",
    "children": [],
    "end": "611.240",
-   "id": "f000051",
+   "id": "f000101",
    "language": "eng",
    "lines": [
     "\"I can speak to him myself if I want to!\""
@@ -513,38 +1013,108 @@
   {
    "begin": "611.240",
    "children": [],
-   "end": "624.080",
-   "id": "f000052",
+   "end": "615.960",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "\"Of course you can,\" said Snape, sneering. \"But in the meantime, bring us drinks. Some of the elf-made wine will do.\""
+    "\"Of course you can,\" said Snape, sneering."
+   ]
+  },
+  {
+   "begin": "615.960",
+   "children": [],
+   "end": "619.200",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "\"But in the meantime, bring us drinks."
+   ]
+  },
+  {
+   "begin": "619.200",
+   "children": [],
+   "end": "624.080",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "Some of the elf-made wine will do.\""
    ]
   },
   {
    "begin": "624.080",
    "children": [],
-   "end": "648.840",
-   "id": "f000053",
+   "end": "631.760",
+   "id": "f000105",
    "language": "eng",
    "lines": [
-    "Wormtail hesitated for a moment, looking as though he might argue, but then turned and headed through a second hidden door. They heard banging and a clinking of glasses. Within seconds he was back, bearing a dusty bottle and three glasses upon a tray. He dropped these on the rickety table and scurried from their presence, slamming the book-covered door behind him."
+    "Wormtail hesitated for a moment, looking as though he might argue, but then turned and headed through a second hidden door."
+   ]
+  },
+  {
+   "begin": "631.760",
+   "children": [],
+   "end": "635.000",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "They heard banging and a clinking of glasses."
+   ]
+  },
+  {
+   "begin": "635.000",
+   "children": [],
+   "end": "640.680",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "Within seconds he was back, bearing a dusty bottle and three glasses upon a tray."
+   ]
+  },
+  {
+   "begin": "640.680",
+   "children": [],
+   "end": "648.840",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "He dropped these on the rickety table and scurried from their presence, slamming the book-covered door behind him."
    ]
   },
   {
    "begin": "648.840",
    "children": [],
-   "end": "670.320",
-   "id": "f000054",
+   "end": "656.880",
+   "id": "f000109",
    "language": "eng",
    "lines": [
-    "Snape poured out three glasses of bloodred wine and handed two of them to the sisters. Narcissa murmured a word of thanks, whilst Bellatrix said nothing, but continued to glower at Snape. This did not seem to discompose him; on the contrary, he looked rather amused."
+    "Snape poured out three glasses of bloodred wine and handed two of them to the sisters."
+   ]
+  },
+  {
+   "begin": "656.880",
+   "children": [],
+   "end": "663.640",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Narcissa murmured a word of thanks, whilst Bellatrix said nothing, but continued to glower at Snape."
+   ]
+  },
+  {
+   "begin": "663.640",
+   "children": [],
+   "end": "670.320",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "This did not seem to discompose him; on the contrary, he looked rather amused."
    ]
   },
   {
    "begin": "670.320",
    "children": [],
    "end": "676.240",
-   "id": "f000055",
+   "id": "f000112",
    "language": "eng",
    "lines": [
     "\"The Dark Lord,\" he said, raising his glass and draining it."
@@ -553,48 +1123,98 @@
   {
    "begin": "676.240",
    "children": [],
-   "end": "694.400",
-   "id": "f000056",
+   "end": "678.520",
+   "id": "f000113",
    "language": "eng",
    "lines": [
-    "The sisters copied him. Snape refilled their glasses. As Narcissa took her second drink she said in a rush, \"Severus, I'm sorry to come here like this, but I had to see you. I think you are the only one who can help me - \""
+    "The sisters copied him."
    ]
   },
   {
-   "begin": "694.400",
+   "begin": "678.520",
    "children": [],
-   "end": "709.560",
-   "id": "f000057",
+   "end": "681.280",
+   "id": "f000114",
    "language": "eng",
    "lines": [
-    "Snape held up a hand to stop her, then pointed his wand again at the concealed staircase door. There was a loud bang and a squeal, followed by the sound of Wormtail scurrying back up the stairs."
+    "Snape refilled their glasses."
+   ]
+  },
+  {
+   "begin": "681.280",
+   "children": [],
+   "end": "690.080",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "As Narcissa took her second drink she said in a rush, \"Severus, I'm sorry to come here like this, but I had to see you."
+   ]
+  },
+  {
+   "begin": "690.080",
+   "children": [],
+   "end": "693.400",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "I think you are the only one who can help me - \""
+   ]
+  },
+  {
+   "begin": "693.400",
+   "children": [],
+   "end": "701.400",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "Snape held up a hand to stop her, then pointed his wand again at the concealed staircase door."
+   ]
+  },
+  {
+   "begin": "701.400",
+   "children": [],
+   "end": "709.560",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "There was a loud bang and a squeal, followed by the sound of Wormtail scurrying back up the stairs."
    ]
   },
   {
    "begin": "709.560",
    "children": [],
-   "end": "721.360",
-   "id": "f000058",
+   "end": "712.960",
+   "id": "f000119",
    "language": "eng",
    "lines": [
-    "\"My apologies,\" said Snape. \"He has lately taken to listening at doors, I don't know what he means by it You were saying, Narcissa?\""
+    "\"My apologies,\" said Snape."
+   ]
+  },
+  {
+   "begin": "712.960",
+   "children": [],
+   "end": "721.360",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "\"He has lately taken to listening at doors, I don't know what he means by it You were saying, Narcissa?\""
    ]
   },
   {
    "begin": "721.360",
    "children": [],
-   "end": "728.040",
-   "id": "f000059",
+   "end": "727.680",
+   "id": "f000121",
    "language": "eng",
    "lines": [
     "She took a great, shuddering breath and started again."
    ]
   },
   {
-   "begin": "728.040",
+   "begin": "727.680",
    "children": [],
    "end": "734.280",
-   "id": "f000060",
+   "id": "f000122",
    "language": "eng",
    "lines": [
     "\"Severus, I know I ought not to be here, I have been told to say nothing to anyone, but - \""
@@ -603,78 +1223,218 @@
   {
    "begin": "734.280",
    "children": [],
-   "end": "741.200",
-   "id": "f000061",
+   "end": "738.280",
+   "id": "f000123",
    "language": "eng",
    "lines": [
-    "\"Then you ought to hold your tongue!\" snarled Bellatrix. \"Particularly in present company!\""
+    "\"Then you ought to hold your tongue!\" snarled Bellatrix."
+   ]
+  },
+  {
+   "begin": "738.280",
+   "children": [],
+   "end": "741.200",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "\"Particularly in present company!\""
    ]
   },
   {
    "begin": "741.200",
    "children": [],
-   "end": "751.000",
-   "id": "f000062",
+   "end": "746.640",
+   "id": "f000125",
    "language": "eng",
    "lines": [
-    "\"'Present company'?\" repeated Snape sardonically. \"And what am I to understand by that, Bellatrix?\""
+    "\"'Present company'?\" repeated Snape sardonically."
+   ]
+  },
+  {
+   "begin": "746.640",
+   "children": [],
+   "end": "751.000",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "\"And what am I to understand by that, Bellatrix?\""
    ]
   },
   {
    "begin": "751.000",
    "children": [],
-   "end": "757.440",
-   "id": "f000063",
+   "end": "756.160",
+   "id": "f000127",
    "language": "eng",
    "lines": [
     "\"That I don't trust you, Snape, as you very well know!\""
    ]
   },
   {
-   "begin": "757.440",
+   "begin": "756.160",
    "children": [],
-   "end": "774.160",
-   "id": "f000064",
+   "end": "763.240",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "Narcissa let out a noise that might have been a dry sob and covered her face with her hands. Snape set his glass down upon the table and sat back again, his hands upon the arms of his chair, smiling into Bellatrix's glowering face."
+    "Narcissa let out a noise that might have been a dry sob and covered her face with her hands."
+   ]
+  },
+  {
+   "begin": "763.240",
+   "children": [],
+   "end": "774.160",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "Snape set his glass down upon the table and sat back again, his hands upon the arms of his chair, smiling into Bellatrix's glowering face."
    ]
   },
   {
    "begin": "774.160",
    "children": [],
-   "end": "790.280",
-   "id": "f000065",
+   "end": "783.320",
+   "id": "f000130",
    "language": "eng",
    "lines": [
-    "\"Narcissa, I think we ought to hear what Bellatrix is bursting to say; it will save tedious interruptions. Well, continue, Bellatrix,\" said Snape. \"Why is it that you do not trust me?\""
+    "\"Narcissa, I think we ought to hear what Bellatrix is bursting to say; it will save tedious interruptions."
+   ]
+  },
+  {
+   "begin": "783.320",
+   "children": [],
+   "end": "787.280",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "Well, continue, Bellatrix,\" said Snape."
+   ]
+  },
+  {
+   "begin": "787.280",
+   "children": [],
+   "end": "790.280",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "\"Why is it that you do not trust me?\""
    ]
   },
   {
    "begin": "790.280",
    "children": [],
-   "end": "841.960",
-   "id": "f000066",
+   "end": "798.760",
+   "id": "f000133",
    "language": "eng",
    "lines": [
-    "\"A hundred reasons!\" she said loudly, striding out from behind the sofa to slam her glass upon the table. \"Where to start! Where were you when the Dark Lord fell? Why did you never make any attempt to find him when he vanished? What have you been doing all these years that you've lived in Dumbledore's pocket? Why did you stop the Dark Lord procuring the Sorcerer's Stone? Why did you not return at once when the Dark Lord was reborn? Where were you a few weeks ago when we battled to retrieve the prophecy for the Dark Lord? And why, Snape, is Harry Potter still alive, when you have had him at your mercy for five years?\""
+    "\"A hundred reasons!\" she said loudly, striding out from behind the sofa to slam her glass upon the table."
    ]
   },
   {
-   "begin": "841.960",
+   "begin": "798.760",
    "children": [],
-   "end": "854.000",
-   "id": "f000067",
+   "end": "800.400",
+   "id": "f000134",
    "language": "eng",
    "lines": [
-    "She paused, her chest rising and falling rapidly, the color high in her cheeks. Behind her, Narcissa sat motionless, her face still hidden in her hands."
+    "\"Where to start!"
+   ]
+  },
+  {
+   "begin": "800.400",
+   "children": [],
+   "end": "804.640",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "Where were you when the Dark Lord fell?"
+   ]
+  },
+  {
+   "begin": "804.640",
+   "children": [],
+   "end": "808.080",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Why did you never make any attempt to find him when he vanished?"
+   ]
+  },
+  {
+   "begin": "808.080",
+   "children": [],
+   "end": "814.680",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "What have you been doing all these years that you've lived in Dumbledore's pocket?"
+   ]
+  },
+  {
+   "begin": "814.680",
+   "children": [],
+   "end": "819.200",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "Why did you stop the Dark Lord procuring the Sorcerer's Stone?"
+   ]
+  },
+  {
+   "begin": "819.200",
+   "children": [],
+   "end": "824.040",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "Why did you not return at once when the Dark Lord was reborn?"
+   ]
+  },
+  {
+   "begin": "824.040",
+   "children": [],
+   "end": "831.480",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "Where were you a few weeks ago when we battled to retrieve the prophecy for the Dark Lord?"
+   ]
+  },
+  {
+   "begin": "831.480",
+   "children": [],
+   "end": "840.600",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "And why, Snape, is Harry Potter still alive, when you have had him at your mercy for five years?\""
+   ]
+  },
+  {
+   "begin": "840.600",
+   "children": [],
+   "end": "847.680",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "She paused, her chest rising and falling rapidly, the color high in her cheeks."
+   ]
+  },
+  {
+   "begin": "847.680",
+   "children": [],
+   "end": "854.000",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "Behind her, Narcissa sat motionless, her face still hidden in her hands."
    ]
   },
   {
    "begin": "854.000",
    "children": [],
    "end": "856.640",
-   "id": "f000068",
+   "id": "f000144",
    "language": "eng",
    "lines": [
     "Snape smiled."
@@ -683,28 +1443,68 @@
   {
    "begin": "856.640",
    "children": [],
-   "end": "883.320",
-   "id": "f000069",
+   "end": "863.280",
+   "id": "f000145",
    "language": "eng",
    "lines": [
-    "\"Before I answer you - oh yes, Bellatrix, I am going to answer! You can carry my words back to the others who whisper behind my back, and carry false tales of my treachery to the Dark Lord! Before I answer you, I say, let me ask a question in turn. Do you really think that the Dark Lord has not"
+    "\"Before I answer you - oh yes, Bellatrix, I am going to answer!"
    ]
   },
   {
-   "begin": "883.320",
+   "begin": "863.280",
    "children": [],
-   "end": "896.560",
-   "id": "f000070",
+   "end": "872.320",
+   "id": "f000146",
    "language": "eng",
    "lines": [
-    "asked me each and every one of those questions? And do you really think that, had I not been able to give satisfactory answers, I would be sitting here talking to you?\""
+    "You can carry my words back to the others who whisper behind my back, and carry false tales of my treachery to the Dark Lord!"
+   ]
+  },
+  {
+   "begin": "872.320",
+   "children": [],
+   "end": "878.800",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "Before I answer you, I say, let me ask a question in turn."
+   ]
+  },
+  {
+   "begin": "878.800",
+   "children": [],
+   "end": "883.280",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "Do you really think that the Dark Lord has not"
+   ]
+  },
+  {
+   "begin": "883.280",
+   "children": [],
+   "end": "886.680",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "asked me each and every one of those questions?"
+   ]
+  },
+  {
+   "begin": "886.680",
+   "children": [],
+   "end": "896.560",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "And do you really think that, had I not been able to give satisfactory answers, I would be sitting here talking to you?\""
    ]
   },
   {
    "begin": "896.560",
    "children": [],
    "end": "899.000",
-   "id": "f000071",
+   "id": "f000151",
    "language": "eng",
    "lines": [
     "She hesitated."
@@ -714,7 +1514,7 @@
    "begin": "899.000",
    "children": [],
    "end": "902.560",
-   "id": "f000072",
+   "id": "f000152",
    "language": "eng",
    "lines": [
     "\"I know he believes you, but...\""
@@ -723,28 +1523,88 @@
   {
    "begin": "902.560",
    "children": [],
-   "end": "916.400",
-   "id": "f000073",
+   "end": "905.000",
+   "id": "f000153",
    "language": "eng",
    "lines": [
-    "\"You think he is mistaken? Or that I have somehow hoodwinked him? Fooled the Dark Lord, the greatest wizard, the most accomplished Legilimens the world has ever seen?\""
+    "\"You think he is mistaken?"
+   ]
+  },
+  {
+   "begin": "905.000",
+   "children": [],
+   "end": "908.040",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "Or that I have somehow hoodwinked him?"
+   ]
+  },
+  {
+   "begin": "908.040",
+   "children": [],
+   "end": "916.400",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "Fooled the Dark Lord, the greatest wizard, the most accomplished Legilimens the world has ever seen?\""
    ]
   },
   {
    "begin": "916.400",
    "children": [],
-   "end": "951.480",
-   "id": "f000074",
+   "end": "922.960",
+   "id": "f000156",
    "language": "eng",
    "lines": [
-    "Bellatrix said nothing, but looked, for the first time, a little discomfited. Snape did not press the point. He picked up his drink again, sipped it, and continued, \"You ask where I was when the Dark Lord fell. I was where he had ordered me to be, at Hogwarts School of Witchcraft and Wizardry, because he wished me to spy upon Albus Dumbledore. You know, I presume, that it was on the Dark Lord's orders that I took up the post?\""
+    "Bellatrix said nothing, but looked, for the first time, a little discomfited."
+   ]
+  },
+  {
+   "begin": "922.960",
+   "children": [],
+   "end": "926.280",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "Snape did not press the point."
+   ]
+  },
+  {
+   "begin": "926.280",
+   "children": [],
+   "end": "934.360",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "He picked up his drink again, sipped it, and continued, \"You ask where I was when the Dark Lord fell."
+   ]
+  },
+  {
+   "begin": "934.360",
+   "children": [],
+   "end": "944.720",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "I was where he had ordered me to be, at Hogwarts School of Witchcraft and Wizardry, because he wished me to spy upon Albus Dumbledore."
+   ]
+  },
+  {
+   "begin": "944.720",
+   "children": [],
+   "end": "951.480",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "You know, I presume, that it was on the Dark Lord's orders that I took up the post?\""
    ]
   },
   {
    "begin": "951.480",
    "children": [],
    "end": "958.120",
-   "id": "f000075",
+   "id": "f000161",
    "language": "eng",
    "lines": [
     "She nodded almost imperceptibly and then opened her mouth, but Snape forestalled her."
@@ -753,78 +1613,188 @@
   {
    "begin": "958.120",
    "children": [],
-   "end": "991.880",
-   "id": "f000076",
+   "end": "962.960",
+   "id": "f000162",
    "language": "eng",
    "lines": [
-    "\"You ask why I did not attempt to find him when he vanished. For the same reason that Avery, Yaxley, the Carrows, Greyback, Lucius\" - he inclined his head slightly to Narcissa - \"and many others did not attempt to find him. I believed him finished. I am not proud of it, I was wrong, but there it is... If he had not forgiven we who lost faith at that time, he would have very few followers left.\""
+    "\"You ask why I did not attempt to find him when he vanished."
+   ]
+  },
+  {
+   "begin": "962.960",
+   "children": [],
+   "end": "976.920",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "For the same reason that Avery, Yaxley, the Carrows, Greyback, Lucius\" - he inclined his head slightly to Narcissa - \"and many others did not attempt to find him."
+   ]
+  },
+  {
+   "begin": "976.920",
+   "children": [],
+   "end": "980.080",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "I believed him finished."
+   ]
+  },
+  {
+   "begin": "980.080",
+   "children": [],
+   "end": "984.880",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "I am not proud of it, I was wrong, but there it is..."
+   ]
+  },
+  {
+   "begin": "984.880",
+   "children": [],
+   "end": "991.880",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "If he had not forgiven we who lost faith at that time, he would have very few followers left.\""
    ]
   },
   {
    "begin": "991.880",
    "children": [],
-   "end": "999.840",
-   "id": "f000077",
+   "end": "996.160",
+   "id": "f000167",
    "language": "eng",
    "lines": [
-    "\"He'd have me!\" said Bellatrix passionately. \"I, who spent many years in Azkaban for him!\""
+    "\"He'd have me!\" said Bellatrix passionately."
+   ]
+  },
+  {
+   "begin": "996.160",
+   "children": [],
+   "end": "999.840",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "\"I, who spent many years in Azkaban for him!\""
    ]
   },
   {
    "begin": "999.840",
    "children": [],
-   "end": "1013.880",
-   "id": "f000078",
+   "end": "1006.440",
+   "id": "f000169",
    "language": "eng",
    "lines": [
-    "\"Yes, indeed, most admirable,\" said Snape in a bored voice. \"Of course, you weren't a lot of use to him in prison, but the gesture was undoubtedly fine - \""
+    "\"Yes, indeed, most admirable,\" said Snape in a bored voice."
+   ]
+  },
+  {
+   "begin": "1006.440",
+   "children": [],
+   "end": "1013.880",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "\"Of course, you weren't a lot of use to him in prison, but the gesture was undoubtedly fine - \""
    ]
   },
   {
    "begin": "1013.880",
    "children": [],
-   "end": "1027.440",
-   "id": "f000079",
+   "end": "1019.360",
+   "id": "f000171",
    "language": "eng",
    "lines": [
-    "\"Gesture!\" she shrieked; in her fury she looked slightly mad. \"While I endured the dementors, you remained at Hogwarts, comfortably playing Dumbledore's pet!\""
+    "\"Gesture!\" she shrieked; in her fury she looked slightly mad."
+   ]
+  },
+  {
+   "begin": "1019.360",
+   "children": [],
+   "end": "1027.440",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "\"While I endured the dementors, you remained at Hogwarts, comfortably playing Dumbledore's pet!\""
    ]
   },
   {
    "begin": "1027.440",
    "children": [],
-   "end": "1033.680",
-   "id": "f000080",
+   "end": "1031.120",
+   "id": "f000173",
    "language": "eng",
    "lines": [
-    "\"Not quite,\" said Snape calmly. \"He wouldn't give me the Defense Agai-"
+    "\"Not quite,\" said Snape calmly."
    ]
   },
   {
-   "begin": "1033.680",
+   "begin": "1031.120",
    "children": [],
-   "end": "1043.400",
-   "id": "f000081",
+   "end": "1033.640",
+   "id": "f000174",
    "language": "eng",
    "lines": [
-    "nst the Dark Arts job, you know. Seemed to think it might, ah, bring about a relapse... tempt me into my old ways.\""
+    "\"He wouldn't give me the Defense Agai-"
+   ]
+  },
+  {
+   "begin": "1033.640",
+   "children": [],
+   "end": "1035.920",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "nst the Dark Arts job, you know."
+   ]
+  },
+  {
+   "begin": "1035.920",
+   "children": [],
+   "end": "1043.400",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "Seemed to think it might, ah, bring about a relapse... tempt me into my old ways.\""
    ]
   },
   {
    "begin": "1043.400",
    "children": [],
-   "end": "1061.480",
-   "id": "f000082",
+   "end": "1052.240",
+   "id": "f000177",
    "language": "eng",
    "lines": [
-    "\"This was your sacrifice for the Dark Lord, not to teach your favorite subject?\" she jeered. \"Why did you stay there all that time, Snape? Still spying on Dumbledore for a master you believed dead?\""
+    "\"This was your sacrifice for the Dark Lord, not to teach your favorite subject?\" she jeered."
+   ]
+  },
+  {
+   "begin": "1052.240",
+   "children": [],
+   "end": "1056.240",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "\"Why did you stay there all that time, Snape?"
+   ]
+  },
+  {
+   "begin": "1056.240",
+   "children": [],
+   "end": "1061.480",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "Still spying on Dumbledore for a master you believed dead?\""
    ]
   },
   {
    "begin": "1061.480",
    "children": [],
    "end": "1082.560",
-   "id": "f000083",
+   "id": "f000180",
    "language": "eng",
    "lines": [
     "\"Hardly,\" said Snape, \"although the Dark Lord is pleased that I never deserted my post: I had sixteen years of information on Dumbledore to give him when he returned, a rather more useful welcome-back present than endless reminiscences of how unpleasant Azkaban is \""
@@ -834,7 +1804,7 @@
    "begin": "1082.560",
    "children": [],
    "end": "1085.040",
-   "id": "f000084",
+   "id": "f000181",
    "language": "eng",
    "lines": [
     "\"But you stayed - \""
@@ -843,28 +1813,148 @@
   {
    "begin": "1085.040",
    "children": [],
-   "end": "1115.320",
-   "id": "f000085",
+   "end": "1091.960",
+   "id": "f000182",
    "language": "eng",
    "lines": [
-    "\"Yes, Bellatrix, I stayed,\" said Snape, betraying a hint of impatience for the first time. \"I had a comfortable job that I preferred to a stint in Azkaban. They were rounding up the Death Eaters, you know. Dumbledore's protection kept me out of jail; it was most convenient and I used it. I repeat: The Dark Lord does not complain that I stayed, so I do not see why you do."
+    "\"Yes, Bellatrix, I stayed,\" said Snape, betraying a hint of impatience for the first time."
+   ]
+  },
+  {
+   "begin": "1091.960",
+   "children": [],
+   "end": "1097.760",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "\"I had a comfortable job that I preferred to a stint in Azkaban."
+   ]
+  },
+  {
+   "begin": "1097.760",
+   "children": [],
+   "end": "1100.840",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "They were rounding up the Death Eaters, you know."
+   ]
+  },
+  {
+   "begin": "1100.840",
+   "children": [],
+   "end": "1107.360",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "Dumbledore's protection kept me out of jail; it was most convenient and I used it."
+   ]
+  },
+  {
+   "begin": "1107.360",
+   "children": [],
+   "end": "1115.320",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "I repeat: The Dark Lord does not complain that I stayed, so I do not see why you do."
    ]
   },
   {
    "begin": "1115.320",
    "children": [],
-   "end": "1170.560",
-   "id": "f000086",
+   "end": "1129.400",
+   "id": "f000187",
    "language": "eng",
    "lines": [
-    "\"I think you next wanted to know,\" he pressed on, a little more loudly, for Bellatrix showed every sign of interrupting, \"why I stood between the Dark Lord and the Sorcerer's Stone. That is easily answered. He did not know whether he could trust me. He thought, like you, that I had turned from faithful Death Eater to Dumbledore's stooge. He was in a pitiable condition, very weak, sharing the body of a mediocre wizard. He did not dare reveal himself to a former ally if that ally might turn him over to Dumbledore or the Ministry. I deeply regret that he did not trust me. He would have returned to power three years sooner. As it was, I saw only greedy and unworthy Quirrell attempting to steal the stone and, I admit, I did all I could to thwart him.\""
+    "\"I think you next wanted to know,\" he pressed on, a little more loudly, for Bellatrix showed every sign of interrupting, \"why I stood between the Dark Lord and the Sorcerer's Stone."
+   ]
+  },
+  {
+   "begin": "1129.400",
+   "children": [],
+   "end": "1131.080",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "That is easily answered."
+   ]
+  },
+  {
+   "begin": "1131.080",
+   "children": [],
+   "end": "1133.720",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "He did not know whether he could trust me."
+   ]
+  },
+  {
+   "begin": "1133.720",
+   "children": [],
+   "end": "1140.320",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "He thought, like you, that I had turned from faithful Death Eater to Dumbledore's stooge."
+   ]
+  },
+  {
+   "begin": "1140.320",
+   "children": [],
+   "end": "1145.640",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "He was in a pitiable condition, very weak, sharing the body of a mediocre wizard."
+   ]
+  },
+  {
+   "begin": "1145.640",
+   "children": [],
+   "end": "1153.200",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "He did not dare reveal himself to a former ally if that ally might turn him over to Dumbledore or the Ministry."
+   ]
+  },
+  {
+   "begin": "1153.200",
+   "children": [],
+   "end": "1157.640",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "I deeply regret that he did not trust me."
+   ]
+  },
+  {
+   "begin": "1157.640",
+   "children": [],
+   "end": "1161.200",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "He would have returned to power three years sooner."
+   ]
+  },
+  {
+   "begin": "1161.200",
+   "children": [],
+   "end": "1170.560",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "As it was, I saw only greedy and unworthy Quirrell attempting to steal the stone and, I admit, I did all I could to thwart him.\""
    ]
   },
   {
    "begin": "1170.560",
    "children": [],
    "end": "1176.760",
-   "id": "f000087",
+   "id": "f000196",
    "language": "eng",
    "lines": [
     "Bellatrix's mouth twisted as though she had taken an unpleasant dose of medicine."
@@ -874,7 +1964,7 @@
    "begin": "1176.760",
    "children": [],
    "end": "1185.280",
-   "id": "f000088",
+   "id": "f000197",
    "language": "eng",
    "lines": [
     "\"But you didn't return when he came back, you didn't fly back to him at once when you felt the Dark Mark burn - \""
@@ -883,18 +1973,38 @@
   {
    "begin": "1185.280",
    "children": [],
-   "end": "1194.160",
-   "id": "f000089",
+   "end": "1186.680",
+   "id": "f000198",
    "language": "eng",
    "lines": [
-    "\"Correct. I returned two hours later. I returned on Dumbledore's orders.\""
+    "\"Correct."
+   ]
+  },
+  {
+   "begin": "1186.680",
+   "children": [],
+   "end": "1189.760",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "I returned two hours later."
+   ]
+  },
+  {
+   "begin": "1189.760",
+   "children": [],
+   "end": "1194.160",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "I returned on Dumbledore's orders.\""
    ]
   },
   {
    "begin": "1194.160",
    "children": [],
    "end": "1199.960",
-   "id": "f000090",
+   "id": "f000201",
    "language": "eng",
    "lines": [
     "\"On Dumbledore's - ?\" she began, in tones of outrage."
@@ -903,78 +2013,198 @@
   {
    "begin": "1199.960",
    "children": [],
-   "end": "1249.080",
-   "id": "f000091",
+   "end": "1204.200",
+   "id": "f000202",
    "language": "eng",
    "lines": [
-    "\"Think!\" said Snape, impatient again. \"Think! By waiting two hours, just two hours, I ensured that I could remain at Hogwarts as a spy! By allowing Dumbledore to think that I was only returning to the Dark Lord's side because I was ordered to, I have been able to pass information on Dumbledore and the Order of the Phoenix ever since! Consider, Bellatrix: The Dark Mark had been growing stronger for months. I knew he must be about to return, all the Death Eaters knew! I had plenty of time to think about what I wanted to do, to plan my next move, to escape like Karkaroff, didn't I?"
+    "\"Think!\" said Snape, impatient again."
+   ]
+  },
+  {
+   "begin": "1204.200",
+   "children": [],
+   "end": "1205.760",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "\"Think!"
+   ]
+  },
+  {
+   "begin": "1205.760",
+   "children": [],
+   "end": "1214.040",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "By waiting two hours, just two hours, I ensured that I could remain at Hogwarts as a spy!"
+   ]
+  },
+  {
+   "begin": "1214.040",
+   "children": [],
+   "end": "1228.440",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "By allowing Dumbledore to think that I was only returning to the Dark Lord's side because I was ordered to, I have been able to pass information on Dumbledore and the Order of the Phoenix ever since!"
+   ]
+  },
+  {
+   "begin": "1228.440",
+   "children": [],
+   "end": "1235.360",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "Consider, Bellatrix: The Dark Mark had been growing stronger for months."
+   ]
+  },
+  {
+   "begin": "1235.360",
+   "children": [],
+   "end": "1240.360",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "I knew he must be about to return, all the Death Eaters knew!"
+   ]
+  },
+  {
+   "begin": "1240.360",
+   "children": [],
+   "end": "1249.080",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "I had plenty of time to think about what I wanted to do, to plan my next move, to escape like Karkaroff, didn't I?"
    ]
   },
   {
    "begin": "1249.080",
    "children": [],
-   "end": "1268.280",
-   "id": "f000092",
+   "end": "1262.160",
+   "id": "f000209",
    "language": "eng",
    "lines": [
-    "\"The Dark Lord's initial displeasure at my lateness vanished entirely, I assure you, when I explained that I remained faithful, although Dumbledore thought I was his man. Yes, the Dark Lord thought that I had left him forever, but he was wrong.\""
+    "\"The Dark Lord's initial displeasure at my lateness vanished entirely, I assure you, when I explained that I remained faithful, although Dumbledore thought I was his man."
+   ]
+  },
+  {
+   "begin": "1262.160",
+   "children": [],
+   "end": "1268.280",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "Yes, the Dark Lord thought that I had left him forever, but he was wrong.\""
    ]
   },
   {
    "begin": "1268.280",
    "children": [],
-   "end": "1276.040",
-   "id": "f000093",
+   "end": "1272.880",
+   "id": "f000211",
    "language": "eng",
    "lines": [
-    "\"But what use have you been?\" sneered Bellatrix. \"What useful information have we had from you?\""
+    "\"But what use have you been?\" sneered Bellatrix."
+   ]
+  },
+  {
+   "begin": "1272.880",
+   "children": [],
+   "end": "1276.040",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "\"What useful information have we had from you?\""
    ]
   },
   {
    "begin": "1276.040",
    "children": [],
-   "end": "1286.920",
-   "id": "f000094",
+   "end": "1283.440",
+   "id": "f000213",
    "language": "eng",
    "lines": [
-    "\"My information has been conveyed directly to the Dark Lord,\" said Snape. \"If he chooses not to share it with you - \""
+    "\"My information has been conveyed directly to the Dark Lord,\" said Snape."
+   ]
+  },
+  {
+   "begin": "1283.440",
+   "children": [],
+   "end": "1286.920",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "\"If he chooses not to share it with you - \""
    ]
   },
   {
    "begin": "1286.920",
    "children": [],
-   "end": "1295.520",
-   "id": "f000095",
+   "end": "1291.960",
+   "id": "f000215",
    "language": "eng",
    "lines": [
-    "\"He shares everything with me!\" said Bellatrix, firing up at once. \"He calls me his most loyal, his most faithful - \""
+    "\"He shares everything with me!\" said Bellatrix, firing up at once."
+   ]
+  },
+  {
+   "begin": "1291.960",
+   "children": [],
+   "end": "1295.520",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "\"He calls me his most loyal, his most faithful - \""
    ]
   },
   {
    "begin": "1295.520",
    "children": [],
-   "end": "1307.880",
-   "id": "f000096",
+   "end": "1303.400",
+   "id": "f000217",
    "language": "eng",
    "lines": [
-    "\"Does he?\" said Snape, his voice delicately inflected to suggest his disbelief. \"Does he still, after the fiasco at the Ministry?\""
+    "\"Does he?\" said Snape, his voice delicately inflected to suggest his disbelief."
+   ]
+  },
+  {
+   "begin": "1303.400",
+   "children": [],
+   "end": "1307.880",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "\"Does he still, after the fiasco at the Ministry?\""
    ]
   },
   {
    "begin": "1307.880",
    "children": [],
-   "end": "1318.440",
-   "id": "f000097",
+   "end": "1311.880",
+   "id": "f000219",
    "language": "eng",
    "lines": [
-    "\"That was not my fault!\" said Bellatrix, flushing. \"The Dark Lord has, in the past, entrusted me with his most precious - if Lucius hadn't - \""
+    "\"That was not my fault!\" said Bellatrix, flushing."
+   ]
+  },
+  {
+   "begin": "1311.880",
+   "children": [],
+   "end": "1318.440",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "\"The Dark Lord has, in the past, entrusted me with his most precious - if Lucius hadn't - \""
    ]
   },
   {
    "begin": "1318.440",
    "children": [],
    "end": "1329.440",
-   "id": "f000098",
+   "id": "f000221",
    "language": "eng",
    "lines": [
     "\"Don't you dare - don't you dare blame my husband!\" said Narcissa, in a low and deadly voice, looking up at her sister."
@@ -983,88 +2213,218 @@
   {
    "begin": "1329.440",
    "children": [],
-   "end": "1337.320",
-   "id": "f000099",
+   "end": "1334.440",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "\"There is no point apportioning blame,\" said Snape smoothly. \"What is done, is done.\""
+    "\"There is no point apportioning blame,\" said Snape smoothly."
+   ]
+  },
+  {
+   "begin": "1334.440",
+   "children": [],
+   "end": "1337.320",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "\"What is done, is done.\""
    ]
   },
   {
    "begin": "1337.320",
    "children": [],
-   "end": "1348.640",
-   "id": "f000100",
+   "end": "1341.680",
+   "id": "f000224",
    "language": "eng",
    "lines": [
-    "\"But not by you!\" said Bellatrix furiously. \"No, you were once again absent while the rest of us ran dangers, were you not, Snape?\""
+    "\"But not by you!\" said Bellatrix furiously."
    ]
   },
   {
-   "begin": "1348.640",
+   "begin": "1341.680",
    "children": [],
-   "end": "1359.760",
-   "id": "f000101",
+   "end": "1348.480",
+   "id": "f000225",
    "language": "eng",
    "lines": [
-    "\"My orders were to remain behind,\" said Snape. \"Perhaps you disagree with the Dark Lord, perhaps you think that Dumbledore would not have"
+    "\"No, you were once again absent while the rest of us ran dangers, were you not, Snape?\""
    ]
   },
   {
-   "begin": "1359.760",
+   "begin": "1348.480",
+   "children": [],
+   "end": "1353.640",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "\"My orders were to remain behind,\" said Snape."
+   ]
+  },
+  {
+   "begin": "1353.640",
+   "children": [],
+   "end": "1359.680",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "\"Perhaps you disagree with the Dark Lord, perhaps you think that Dumbledore would not have"
+   ]
+  },
+  {
+   "begin": "1359.680",
+   "children": [],
+   "end": "1366.000",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "noticed if I had joined forces with the Death Eaters to fight the Order of the Phoenix?"
+   ]
+  },
+  {
+   "begin": "1366.000",
    "children": [],
    "end": "1374.040",
-   "id": "f000102",
+   "id": "f000229",
    "language": "eng",
    "lines": [
-    "noticed if I had joined forces with the Death Eaters to fight the Order of the Phoenix? And - forgive me - you speak of dangers... you were facing six teenagers, were you not?\""
+    "And - forgive me - you speak of dangers... you were facing six teenagers, were you not?\""
    ]
   },
   {
    "begin": "1374.040",
    "children": [],
-   "end": "1388.840",
-   "id": "f000103",
+   "end": "1380.760",
+   "id": "f000230",
    "language": "eng",
    "lines": [
-    "\"They were joined, as you very well know, by half of the Order before long!\" snarled Bellatrix. \"And, while we are on the subject of the Order, you still claim you cannot reveal the whereabouts of their headquarters, don't you?\""
+    "\"They were joined, as you very well know, by half of the Order before long!\" snarled Bellatrix."
+   ]
+  },
+  {
+   "begin": "1380.760",
+   "children": [],
+   "end": "1388.840",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "\"And, while we are on the subject of the Order, you still claim you cannot reveal the whereabouts of their headquarters, don't you?\""
    ]
   },
   {
    "begin": "1388.840",
    "children": [],
-   "end": "1419.560",
-   "id": "f000104",
+   "end": "1395.720",
+   "id": "f000232",
    "language": "eng",
    "lines": [
-    "\"I am not the Secret-Keeper; I cannot speak the name of the place. You understand how the enchantment works, I think? The Dark Lord is satisfied with the information I have passed him on the Order. It led, as perhaps you have guessed, to the recent capture and murder of Emmeline Vance, and it certainly helped dispose of Sirius Black, though I give you full credit for finishing him off.\""
+    "\"I am not the Secret-Keeper; I cannot speak the name of the place."
+   ]
+  },
+  {
+   "begin": "1395.720",
+   "children": [],
+   "end": "1399.280",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "You understand how the enchantment works, I think?"
+   ]
+  },
+  {
+   "begin": "1399.280",
+   "children": [],
+   "end": "1405.160",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "The Dark Lord is satisfied with the information I have passed him on the Order."
+   ]
+  },
+  {
+   "begin": "1405.160",
+   "children": [],
+   "end": "1419.560",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "It led, as perhaps you have guessed, to the recent capture and murder of Emmeline Vance, and it certainly helped dispose of Sirius Black, though I give you full credit for finishing him off.\""
    ]
   },
   {
    "begin": "1419.560",
    "children": [],
-   "end": "1425.680",
-   "id": "f000105",
+   "end": "1423.160",
+   "id": "f000236",
    "language": "eng",
    "lines": [
-    "He inclined his head and toasted her. Her expression did not soften."
+    "He inclined his head and toasted her."
+   ]
+  },
+  {
+   "begin": "1423.160",
+   "children": [],
+   "end": "1425.680",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "Her expression did not soften."
    ]
   },
   {
    "begin": "1425.680",
    "children": [],
-   "end": "1440.520",
-   "id": "f000106",
+   "end": "1430.080",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "\"You are avoiding my last question, Snape. Harry Potter. You could have killed him at any point in the past five years. You have not done it. Why?\""
+    "\"You are avoiding my last question, Snape."
+   ]
+  },
+  {
+   "begin": "1430.080",
+   "children": [],
+   "end": "1432.400",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "Harry Potter."
+   ]
+  },
+  {
+   "begin": "1432.400",
+   "children": [],
+   "end": "1437.520",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "You could have killed him at any point in the past five years."
+   ]
+  },
+  {
+   "begin": "1437.520",
+   "children": [],
+   "end": "1439.040",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "You have not done it."
+   ]
+  },
+  {
+   "begin": "1439.040",
+   "children": [],
+   "end": "1440.520",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "Why?\""
    ]
   },
   {
    "begin": "1440.520",
    "children": [],
    "end": "1446.200",
-   "id": "f000107",
+   "id": "f000243",
    "language": "eng",
    "lines": [
     "\"Have you discussed this matter with the Dark Lord?\" asked Snape."
@@ -1073,18 +2433,28 @@
   {
    "begin": "1446.200",
    "children": [],
-   "end": "1451.320",
-   "id": "f000108",
+   "end": "1449.400",
+   "id": "f000244",
    "language": "eng",
    "lines": [
-    "\"He... lately, we... I am asking you, Snape!\""
+    "\"He... lately, we..."
+   ]
+  },
+  {
+   "begin": "1449.400",
+   "children": [],
+   "end": "1451.320",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "I am asking you, Snape!\""
    ]
   },
   {
    "begin": "1451.320",
    "children": [],
    "end": "1461.080",
-   "id": "f000109",
+   "id": "f000246",
    "language": "eng",
    "lines": [
     "\"If I had murdered Harry Potter, the Dark Lord could not have used his blood to regenerate, making him invincible - \""
@@ -1094,7 +2464,7 @@
    "begin": "1461.080",
    "children": [],
    "end": "1466.640",
-   "id": "f000110",
+   "id": "f000247",
    "language": "eng",
    "lines": [
     "\"You claim you foresaw his use of the boy!\" she jeered."
@@ -1103,18 +2473,28 @@
   {
    "begin": "1466.640",
    "children": [],
-   "end": "1485.200",
-   "id": "f000111",
+   "end": "1476.520",
+   "id": "f000248",
    "language": "eng",
    "lines": [
-    "\"I do not claim it; I had no idea of his plans; I have already confessed that I thought the Dark Lord dead. I am merely trying to explain why the Dark Lord is not sorry that Potter survived, at least until a year ago \""
+    "\"I do not claim it; I had no idea of his plans; I have already confessed that I thought the Dark Lord dead."
+   ]
+  },
+  {
+   "begin": "1476.520",
+   "children": [],
+   "end": "1485.200",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "I am merely trying to explain why the Dark Lord is not sorry that Potter survived, at least until a year ago \""
    ]
   },
   {
    "begin": "1485.200",
    "children": [],
    "end": "1488.120",
-   "id": "f000112",
+   "id": "f000250",
    "language": "eng",
    "lines": [
     "\"But why did you keep him alive?\""
@@ -1123,118 +2503,358 @@
   {
    "begin": "1488.120",
    "children": [],
-   "end": "1522.520",
-   "id": "f000113",
+   "end": "1491.280",
+   "id": "f000251",
    "language": "eng",
    "lines": [
-    "\"Have you not understood me? It was only Dumbledore's protection that was keeping me out of Azkaban! Do you disagree that murdering his favorite student might have turned him against me? But there was more to it than that. I should remind you that when Potter first arrived at Hogwarts there were still many stories circulating about him, rumors that he himself was a great Dark wizard, which was how he had survived the Dark Lord's attack."
+    "\"Have you not understood me?"
    ]
   },
   {
-   "begin": "1522.520",
+   "begin": "1491.280",
    "children": [],
-   "end": "1536.680",
-   "id": "f000114",
+   "end": "1497.440",
+   "id": "f000252",
    "language": "eng",
    "lines": [
-    "Indeed, many of the Dark Lord's old followers thought Potter might be a standard around which we could all rally once more. I was curious, I admit it, and not at all inclined to murder him the moment he set foot in the castle."
+    "It was only Dumbledore's protection that was keeping me out of Azkaban!"
+   ]
+  },
+  {
+   "begin": "1497.440",
+   "children": [],
+   "end": "1504.200",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "Do you disagree that murdering his favorite student might have turned him against me?"
+   ]
+  },
+  {
+   "begin": "1504.200",
+   "children": [],
+   "end": "1506.960",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "But there was more to it than that."
+   ]
+  },
+  {
+   "begin": "1506.960",
+   "children": [],
+   "end": "1521.520",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "I should remind you that when Potter first arrived at Hogwarts there were still many stories circulating about him, rumors that he himself was a great Dark wizard, which was how he had survived the Dark Lord's attack."
+   ]
+  },
+  {
+   "begin": "1521.520",
+   "children": [],
+   "end": "1529.400",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "Indeed, many of the Dark Lord's old followers thought Potter might be a standard around which we could all rally once more."
+   ]
+  },
+  {
+   "begin": "1529.400",
+   "children": [],
+   "end": "1536.680",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "I was curious, I admit it, and not at all inclined to murder him the moment he set foot in the castle."
    ]
   },
   {
    "begin": "1536.680",
    "children": [],
-   "end": "1575.040",
-   "id": "f000115",
+   "end": "1542.160",
+   "id": "f000258",
    "language": "eng",
    "lines": [
-    "\"Of course, it became apparent to me very quickly that he had no extraordinary talent at all. He has fought his way out of a number of tight corners by a simple combination of sheer luck and more talented friends. He is mediocre to the last degree, though as obnoxious and self-satisfied as was his father before him. I have done my utmost to have him thrown out of Hogwarts, where I believe he scarcely belongs, but kill him, or allow him to be killed in front of me? I would have been a fool to risk it with Dumbledore close at hand.\""
+    "\"Of course, it became apparent to me very quickly that he had no extraordinary talent at all."
+   ]
+  },
+  {
+   "begin": "1542.160",
+   "children": [],
+   "end": "1549.880",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "He has fought his way out of a number of tight corners by a simple combination of sheer luck and more talented friends."
+   ]
+  },
+  {
+   "begin": "1549.880",
+   "children": [],
+   "end": "1558.440",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "He is mediocre to the last degree, though as obnoxious and self-satisfied as was his father before him."
+   ]
+  },
+  {
+   "begin": "1558.440",
+   "children": [],
+   "end": "1569.840",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "I have done my utmost to have him thrown out of Hogwarts, where I believe he scarcely belongs, but kill him, or allow him to be killed in front of me?"
+   ]
+  },
+  {
+   "begin": "1569.840",
+   "children": [],
+   "end": "1575.040",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "I would have been a fool to risk it with Dumbledore close at hand.\""
    ]
   },
   {
    "begin": "1575.040",
    "children": [],
-   "end": "1590.760",
-   "id": "f000116",
+   "end": "1584.360",
+   "id": "f000263",
    "language": "eng",
    "lines": [
-    "\"And through all this we are supposed to believe Dumbledore has never suspected you?\" asked Bellatrix. \"He has no idea of your true allegiance, he trusts you implicitly still?\""
+    "\"And through all this we are supposed to believe Dumbledore has never suspected you?\" asked Bellatrix."
+   ]
+  },
+  {
+   "begin": "1584.360",
+   "children": [],
+   "end": "1590.760",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "\"He has no idea of your true allegiance, he trusts you implicitly still?\""
    ]
   },
   {
    "begin": "1590.760",
    "children": [],
-   "end": "1657.720",
-   "id": "f000117",
+   "end": "1594.800",
+   "id": "f000265",
    "language": "eng",
    "lines": [
-    "\"I have played my part well,\" said Snape. \"And you overlook Dumbledore's greatest weakness: He has to believe the best of people. I spun him a tale of deepest remorse when I joined his staff, fresh from my Death Eater days, and he embraced me with open arms - though, as I say, never allowing me nearer the Dark Arts than he could help. Dumbledore has been a great wizard - oh yes, he has,\" (for Bellatrix had made a scathing noise), \"the Dark Lord acknowledges it. I am pleased to say, however, that Dumbledore is growing old. The duel with the Dark Lord last month shook him. He has since sustained a serious injury because his reactions are slower than they once were. But through all these years, he has never stopped trusting Severus Snape, and therein lies my great value to the Dark Lord.\""
+    "\"I have played my part well,\" said Snape."
+   ]
+  },
+  {
+   "begin": "1594.800",
+   "children": [],
+   "end": "1603.800",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "\"And you overlook Dumbledore's greatest weakness: He has to believe the best of people."
+   ]
+  },
+  {
+   "begin": "1603.800",
+   "children": [],
+   "end": "1620.640",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "I spun him a tale of deepest remorse when I joined his staff, fresh from my Death Eater days, and he embraced me with open arms - though, as I say, never allowing me nearer the Dark Arts than he could help."
+   ]
+  },
+  {
+   "begin": "1620.640",
+   "children": [],
+   "end": "1631.240",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "Dumbledore has been a great wizard - oh yes, he has,\" (for Bellatrix had made a scathing noise), \"the Dark Lord acknowledges it."
+   ]
+  },
+  {
+   "begin": "1631.240",
+   "children": [],
+   "end": "1636.440",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "I am pleased to say, however, that Dumbledore is growing old."
+   ]
+  },
+  {
+   "begin": "1636.440",
+   "children": [],
+   "end": "1639.920",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "The duel with the Dark Lord last month shook him."
+   ]
+  },
+  {
+   "begin": "1639.920",
+   "children": [],
+   "end": "1646.080",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "He has since sustained a serious injury because his reactions are slower than they once were."
+   ]
+  },
+  {
+   "begin": "1646.080",
+   "children": [],
+   "end": "1657.720",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "But through all these years, he has never stopped trusting Severus Snape, and therein lies my great value to the Dark Lord.\""
    ]
   },
   {
    "begin": "1657.720",
    "children": [],
-   "end": "1670.120",
-   "id": "f000118",
+   "end": "1665.320",
+   "id": "f000273",
    "language": "eng",
    "lines": [
-    "Bellatrix still looked unhappy, though she appeared unsure how best to attack Snape next. Taking advantage of her silence, Snape turned to her sister."
+    "Bellatrix still looked unhappy, though she appeared unsure how best to attack Snape next."
+   ]
+  },
+  {
+   "begin": "1665.320",
+   "children": [],
+   "end": "1670.120",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "Taking advantage of her silence, Snape turned to her sister."
    ]
   },
   {
    "begin": "1670.120",
    "children": [],
-   "end": "1681.200",
-   "id": "f000119",
+   "end": "1675.040",
+   "id": "f000275",
    "language": "eng",
    "lines": [
-    "\"Now... you came to ask me for help, Narcissa?\" Narcissa looked up at him, her face eloquent with despair."
+    "\"Now... you came to ask me for help, Narcissa?\""
+   ]
+  },
+  {
+   "begin": "1675.040",
+   "children": [],
+   "end": "1681.200",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "Narcissa looked up at him, her face eloquent with despair."
    ]
   },
   {
    "begin": "1681.200",
    "children": [],
-   "end": "1689.080",
-   "id": "f000120",
+   "end": "1683.960",
+   "id": "f000277",
    "language": "eng",
    "lines": [
-    "\"Yes, Severus. I - I think you are the only one who can help me, I have"
+    "\"Yes, Severus."
    ]
   },
   {
-   "begin": "1689.080",
+   "begin": "1683.960",
    "children": [],
-   "end": "1693.360",
-   "id": "f000121",
+   "end": "1689.000",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "nowhere else to turn. Lucius is in jail and...\""
+    "I - I think you are the only one who can help me, I have"
+   ]
+  },
+  {
+   "begin": "1689.000",
+   "children": [],
+   "end": "1691.160",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "nowhere else to turn."
+   ]
+  },
+  {
+   "begin": "1691.160",
+   "children": [],
+   "end": "1693.360",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "Lucius is in jail and...\""
    ]
   },
   {
    "begin": "1693.360",
    "children": [],
-   "end": "1707.640",
-   "id": "f000122",
+   "end": "1700.400",
+   "id": "f000281",
    "language": "eng",
    "lines": [
-    "She closed her eyes and two large tears seeped from beneath her eyelids. \"The Dark Lord has forbidden me to speak of it,\" Narcissa continued, her"
+    "She closed her eyes and two large tears seeped from beneath her eyelids."
+   ]
+  },
+  {
+   "begin": "1700.400",
+   "children": [],
+   "end": "1707.640",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "\"The Dark Lord has forbidden me to speak of it,\" Narcissa continued, her"
    ]
   },
   {
    "begin": "1707.640",
    "children": [],
-   "end": "1716.680",
-   "id": "f000123",
+   "end": "1709.280",
+   "id": "f000283",
    "language": "eng",
    "lines": [
-    "eyes still closed. \"He wishes none to know of the plan. It is... very secret."
+    "eyes still closed."
+   ]
+  },
+  {
+   "begin": "1709.280",
+   "children": [],
+   "end": "1713.040",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "\"He wishes none to know of the plan."
+   ]
+  },
+  {
+   "begin": "1713.040",
+   "children": [],
+   "end": "1716.680",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "It is... very secret."
    ]
   },
   {
    "begin": "1716.680",
    "children": [],
    "end": "1717.800",
-   "id": "f000124",
+   "id": "f000286",
    "language": "eng",
    "lines": [
     "But - \""
@@ -1243,148 +2863,338 @@
   {
    "begin": "1717.800",
    "children": [],
-   "end": "1725.720",
-   "id": "f000125",
+   "end": "1722.720",
+   "id": "f000287",
    "language": "eng",
    "lines": [
-    "\"If he has forbidden it, you ought not to speak,\" said Snape at once. \"The Dark Lord's word is law.\""
+    "\"If he has forbidden it, you ought not to speak,\" said Snape at once."
+   ]
+  },
+  {
+   "begin": "1722.720",
+   "children": [],
+   "end": "1725.720",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "\"The Dark Lord's word is law.\""
    ]
   },
   {
    "begin": "1725.720",
    "children": [],
-   "end": "1736.360",
-   "id": "f000126",
+   "end": "1731.320",
+   "id": "f000289",
    "language": "eng",
    "lines": [
-    "Narcissa gasped as though he had doused her with cold water. Bellatrix looked satisfied for the first time since she had entered the house."
+    "Narcissa gasped as though he had doused her with cold water."
+   ]
+  },
+  {
+   "begin": "1731.320",
+   "children": [],
+   "end": "1736.360",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "Bellatrix looked satisfied for the first time since she had entered the house."
    ]
   },
   {
    "begin": "1736.360",
    "children": [],
-   "end": "1745.720",
-   "id": "f000127",
+   "end": "1739.800",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "\"There!\" she said triumphantly to her sister. \"Even Snape says so: You were told not to talk, so hold your silence!\""
+    "\"There!\" she said triumphantly to her sister."
+   ]
+  },
+  {
+   "begin": "1739.800",
+   "children": [],
+   "end": "1745.720",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "\"Even Snape says so: You were told not to talk, so hold your silence!\""
    ]
   },
   {
    "begin": "1745.720",
    "children": [],
-   "end": "1760.000",
-   "id": "f000128",
+   "end": "1756.440",
+   "id": "f000293",
    "language": "eng",
    "lines": [
-    "But Snape had gotten to his feet and strode to the small window, peered through the curtains at the deserted street, then closed them again with a jerk. He turned around to face Narcissa, frowning."
+    "But Snape had gotten to his feet and strode to the small window, peered through the curtains at the deserted street, then closed them again with a jerk."
+   ]
+  },
+  {
+   "begin": "1756.440",
+   "children": [],
+   "end": "1760.000",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "He turned around to face Narcissa, frowning."
    ]
   },
   {
    "begin": "1760.000",
    "children": [],
-   "end": "1780.400",
-   "id": "f000129",
+   "end": "1767.040",
+   "id": "f000295",
    "language": "eng",
    "lines": [
-    "\"It so happens that I know of the plan,\" he said in a low voice. \"I am one of the few the Dark Lord has told. Nevertheless, had I not been in on the secret, Narcissa, you would have been guilty of great treachery to the Dark Lord.\""
+    "\"It so happens that I know of the plan,\" he said in a low voice."
    ]
   },
   {
-   "begin": "1780.400",
+   "begin": "1767.040",
    "children": [],
-   "end": "1788.560",
-   "id": "f000130",
+   "end": "1771.360",
+   "id": "f000296",
    "language": "eng",
    "lines": [
-    "\"I thought you must know about it!\" said Narcissa, breathing more freely. \"He trusts you so, Severus \""
+    "\"I am one of the few the Dark Lord has told."
+   ]
+  },
+  {
+   "begin": "1771.360",
+   "children": [],
+   "end": "1781.600",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "Nevertheless, had I not been in on the secret, Narcissa, you would have been guilty of great treachery to the Dark Lord.\""
+   ]
+  },
+  {
+   "begin": "1781.600",
+   "children": [],
+   "end": "1785.840",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "\"I thought you must know about it!\" said Narcissa, breathing more freely."
+   ]
+  },
+  {
+   "begin": "1785.840",
+   "children": [],
+   "end": "1788.560",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "\"He trusts you so, Severus \""
    ]
   },
   {
    "begin": "1788.560",
    "children": [],
-   "end": "1798.440",
-   "id": "f000131",
+   "end": "1797.680",
+   "id": "f000300",
    "language": "eng",
    "lines": [
-    "\"You know about the plan?\" said Bellatrix, her fleeting expression of satisfaction replaced by a look of outrage. \"You know?\""
+    "\"You know about the plan?\" said Bellatrix, her fleeting expression of satisfaction replaced by a look of outrage."
+   ]
+  },
+  {
+   "begin": "1797.680",
+   "children": [],
+   "end": "1798.440",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "\"You know?\""
    ]
   },
   {
    "begin": "1798.440",
    "children": [],
-   "end": "1814.360",
-   "id": "f000132",
+   "end": "1800.640",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "\"Certainly,\" said Snape. \"But what help do you require, Narcissa? If you are imagining I can persuade the Dark Lord to change his mind, I am afraid there is no hope, none at all.\""
+    "\"Certainly,\" said Snape."
+   ]
+  },
+  {
+   "begin": "1800.640",
+   "children": [],
+   "end": "1803.960",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "\"But what help do you require, Narcissa?"
+   ]
+  },
+  {
+   "begin": "1803.960",
+   "children": [],
+   "end": "1814.360",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "If you are imagining I can persuade the Dark Lord to change his mind, I am afraid there is no hope, none at all.\""
    ]
   },
   {
    "begin": "1814.360",
    "children": [],
-   "end": "1825.960",
-   "id": "f000133",
+   "end": "1820.960",
+   "id": "f000305",
    "language": "eng",
    "lines": [
-    "\"Severus,\" she whispered, tears sliding down her pale cheeks. \"My son... my only son.\""
+    "\"Severus,\" she whispered, tears sliding down her pale cheeks."
+   ]
+  },
+  {
+   "begin": "1820.960",
+   "children": [],
+   "end": "1825.960",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    "\"My son... my only son.\""
    ]
   },
   {
    "begin": "1825.960",
    "children": [],
-   "end": "1844.560",
-   "id": "f000134",
+   "end": "1831.640",
+   "id": "f000307",
    "language": "eng",
    "lines": [
-    "\"Draco should be proud,\" said Bellatrix indifferently. \"The Dark Lord is granting him a great honor. And I will say this for Draco: He isn't shrinking away from his duty, he seems glad of a chance to prove himself, excited at the prospect - \""
+    "\"Draco should be proud,\" said Bellatrix indifferently."
+   ]
+  },
+  {
+   "begin": "1831.640",
+   "children": [],
+   "end": "1834.440",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "\"The Dark Lord is granting him a great honor."
+   ]
+  },
+  {
+   "begin": "1834.440",
+   "children": [],
+   "end": "1844.560",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "And I will say this for Draco: He isn't shrinking away from his duty, he seems glad of a chance to prove himself, excited at the prospect - \""
    ]
   },
   {
    "begin": "1844.560",
    "children": [],
-   "end": "1851.520",
-   "id": "f000135",
+   "end": "1851.400",
+   "id": "f000310",
    "language": "eng",
    "lines": [
     "Narcissa began to cry in earnest, gazing beseechingly all the while at Snape."
    ]
   },
   {
-   "begin": "1851.520",
+   "begin": "1851.400",
    "children": [],
-   "end": "1869.000",
-   "id": "f000136",
+   "end": "1857.600",
+   "id": "f000311",
    "language": "eng",
    "lines": [
-    "\"That's because he is sixteen and has no idea what lies in store! Why, Severus? Why my son? It is too dangerous! This is vengeance for Lucius's mistake, I know it!\""
+    "\"That's because he is sixteen and has no idea what lies in store!"
+   ]
+  },
+  {
+   "begin": "1857.600",
+   "children": [],
+   "end": "1860.000",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "Why, Severus?"
+   ]
+  },
+  {
+   "begin": "1860.000",
+   "children": [],
+   "end": "1862.600",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "Why my son?"
+   ]
+  },
+  {
+   "begin": "1862.600",
+   "children": [],
+   "end": "1864.680",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "It is too dangerous!"
+   ]
+  },
+  {
+   "begin": "1864.680",
+   "children": [],
+   "end": "1869.000",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "This is vengeance for Lucius's mistake, I know it!\""
    ]
   },
   {
    "begin": "1869.000",
    "children": [],
-   "end": "1878.720",
-   "id": "f000137",
+   "end": "1871.200",
+   "id": "f000316",
    "language": "eng",
    "lines": [
-    "Snape said nothing. He looked away from the sight of her tears as though they were indecent, but he could not pretend not to hear her."
+    "Snape said nothing."
+   ]
+  },
+  {
+   "begin": "1871.200",
+   "children": [],
+   "end": "1878.720",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "He looked away from the sight of her tears as though they were indecent, but he could not pretend not to hear her."
    ]
   },
   {
    "begin": "1878.720",
    "children": [],
-   "end": "1886.120",
-   "id": "f000138",
+   "end": "1884.120",
+   "id": "f000318",
    "language": "eng",
    "lines": [
-    "\"That's why he's chosen Draco, isn't it?\" she persisted. \"To punish Lucius?\""
+    "\"That's why he's chosen Draco, isn't it?\" she persisted."
+   ]
+  },
+  {
+   "begin": "1884.120",
+   "children": [],
+   "end": "1886.120",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "\"To punish Lucius?\""
    ]
   },
   {
    "begin": "1886.120",
    "children": [],
    "end": "1895.760",
-   "id": "f000139",
+   "id": "f000320",
    "language": "eng",
    "lines": [
     "\"If Draco succeeds,\" said Snape, still looking away from her, \"he will be honored above all others.\""
@@ -1393,18 +3203,28 @@
   {
    "begin": "1895.760",
    "children": [],
-   "end": "1904.560",
-   "id": "f000140",
+   "end": "1900.440",
+   "id": "f000321",
    "language": "eng",
    "lines": [
-    "\"But he won't succeed!\" sobbed Narcissa. \"How can he, when the Dark Lord himself - ?\""
+    "\"But he won't succeed!\" sobbed Narcissa."
+   ]
+  },
+  {
+   "begin": "1900.440",
+   "children": [],
+   "end": "1904.560",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "\"How can he, when the Dark Lord himself - ?\""
    ]
   },
   {
    "begin": "1904.560",
    "children": [],
    "end": "1909.720",
-   "id": "f000141",
+   "id": "f000323",
    "language": "eng",
    "lines": [
     "Bellatrix gasped; Narcissa seemed to lose her nerve."
@@ -1413,68 +3233,228 @@
   {
    "begin": "1909.720",
    "children": [],
-   "end": "1923.320",
-   "id": "f000142",
+   "end": "1914.200",
+   "id": "f000324",
    "language": "eng",
    "lines": [
-    "\"I only meant... that nobody has yet succeeded... Severus... please... You are, you have always been, Draco's favorite teacher You"
+    "\"I only meant... that nobody has yet succeeded..."
    ]
   },
   {
-   "begin": "1923.320",
+   "begin": "1914.200",
    "children": [],
-   "end": "1935.560",
-   "id": "f000143",
+   "end": "1916.920",
+   "id": "f000325",
    "language": "eng",
    "lines": [
-    "are Lucius's old friend... I beg you... You are the Dark Lord's favorite, his most trusted advisor Will you speak to him, persuade him - ?\""
+    "Severus... please..."
+   ]
+  },
+  {
+   "begin": "1916.920",
+   "children": [],
+   "end": "1923.280",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "You are, you have always been, Draco's favorite teacher You"
+   ]
+  },
+  {
+   "begin": "1923.280",
+   "children": [],
+   "end": "1925.080",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "are Lucius's old friend..."
+   ]
+  },
+  {
+   "begin": "1925.080",
+   "children": [],
+   "end": "1927.000",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "I beg you..."
+   ]
+  },
+  {
+   "begin": "1927.000",
+   "children": [],
+   "end": "1935.560",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "You are the Dark Lord's favorite, his most trusted advisor Will you speak to him, persuade him - ?\""
    ]
   },
   {
    "begin": "1935.560",
    "children": [],
-   "end": "1967.560",
-   "id": "f000144",
+   "end": "1944.360",
+   "id": "f000330",
    "language": "eng",
    "lines": [
-    "\"The Dark Lord will not be persuaded, and I am not stupid enough to attempt it,\" said Snape flatly. \"I cannot pretend that the Dark Lord is not angry with Lucius. Lucius was supposed to be in charge. He got himself captured, along with how many others, and failed to retrieve the prophecy into the bargain. Yes, the Dark Lord is angry, Narcissa, very angry indeed.\""
+    "\"The Dark Lord will not be persuaded, and I am not stupid enough to attempt it,\" said Snape flatly."
+   ]
+  },
+  {
+   "begin": "1944.360",
+   "children": [],
+   "end": "1950.360",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "\"I cannot pretend that the Dark Lord is not angry with Lucius."
+   ]
+  },
+  {
+   "begin": "1950.360",
+   "children": [],
+   "end": "1953.480",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "Lucius was supposed to be in charge."
+   ]
+  },
+  {
+   "begin": "1953.480",
+   "children": [],
+   "end": "1960.560",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "He got himself captured, along with how many others, and failed to retrieve the prophecy into the bargain."
+   ]
+  },
+  {
+   "begin": "1960.560",
+   "children": [],
+   "end": "1967.560",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "Yes, the Dark Lord is angry, Narcissa, very angry indeed.\""
    ]
   },
   {
    "begin": "1967.560",
    "children": [],
-   "end": "1982.320",
-   "id": "f000145",
+   "end": "1975.680",
+   "id": "f000335",
    "language": "eng",
    "lines": [
-    "\"Then I am right, he has chosen Draco in revenge!\" choked Narcissa. \"He does not mean him to succeed, he wants him to be killed trying!\""
+    "\"Then I am right, he has chosen Draco in revenge!\" choked Narcissa."
+   ]
+  },
+  {
+   "begin": "1975.680",
+   "children": [],
+   "end": "1982.320",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "\"He does not mean him to succeed, he wants him to be killed trying!\""
    ]
   },
   {
    "begin": "1982.320",
    "children": [],
-   "end": "2011.480",
-   "id": "f000146",
+   "end": "1990.880",
+   "id": "f000337",
    "language": "eng",
    "lines": [
-    "When Snape said nothing, Narcissa seemed to lose what little self-res-traint she still possessed. Standing up, she staggered to Snape and seized the front of his robes. Her face close to his, her tears falling onto his chest, she gasped, \"You could do it. You could do it instead of Draco, Severus. You would succeed, of course you would, and he would reward you beyond all of us - \""
+    "When Snape said nothing, Narcissa seemed to lose what little self-res-traint she still possessed."
+   ]
+  },
+  {
+   "begin": "1990.880",
+   "children": [],
+   "end": "1996.160",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "Standing up, she staggered to Snape and seized the front of his robes."
+   ]
+  },
+  {
+   "begin": "1996.160",
+   "children": [],
+   "end": "2002.960",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "Her face close to his, her tears falling onto his chest, she gasped, \"You could do it."
+   ]
+  },
+  {
+   "begin": "2002.960",
+   "children": [],
+   "end": "2006.840",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "You could do it instead of Draco, Severus."
+   ]
+  },
+  {
+   "begin": "2006.840",
+   "children": [],
+   "end": "2011.480",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "You would succeed, of course you would, and he would reward you beyond all of us - \""
    ]
   },
   {
    "begin": "2011.480",
    "children": [],
-   "end": "2043.240",
-   "id": "f000147",
+   "end": "2016.880",
+   "id": "f000342",
    "language": "eng",
    "lines": [
-    "Snape caught hold of her wrists and removed her clutching hands. Looking down into her tearstained face, he said slowly, \"He intends me to do it in the end, I think. But he is determined that Draco should try first. You see, in the unlikely event that Draco succeeds, I shall be able to remain at Hogwarts a little longer, fulfilling my useful role as spy.\""
+    "Snape caught hold of her wrists and removed her clutching hands."
+   ]
+  },
+  {
+   "begin": "2016.880",
+   "children": [],
+   "end": "2026.520",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "Looking down into her tearstained face, he said slowly, \"He intends me to do it in the end, I think."
+   ]
+  },
+  {
+   "begin": "2026.520",
+   "children": [],
+   "end": "2030.560",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "But he is determined that Draco should try first."
+   ]
+  },
+  {
+   "begin": "2030.560",
+   "children": [],
+   "end": "2043.240",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "You see, in the unlikely event that Draco succeeds, I shall be able to remain at Hogwarts a little longer, fulfilling my useful role as spy.\""
    ]
   },
   {
    "begin": "2043.240",
    "children": [],
    "end": "2048.600",
-   "id": "f000148",
+   "id": "f000346",
    "language": "eng",
    "lines": [
     "\"In other words, it doesn't matter to him if Draco is killed!\""
@@ -1483,68 +3463,158 @@
   {
    "begin": "2048.600",
    "children": [],
-   "end": "2064.240",
-   "id": "f000149",
+   "end": "2055.720",
+   "id": "f000347",
    "language": "eng",
    "lines": [
-    "\"The Dark Lord is very angry,\" repeated Snape quietly. \"He failed to hear the prophecy. You know as well as I do, Narcissa, that he does not forgive easily.\""
+    "\"The Dark Lord is very angry,\" repeated Snape quietly."
+   ]
+  },
+  {
+   "begin": "2055.720",
+   "children": [],
+   "end": "2058.960",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "\"He failed to hear the prophecy."
+   ]
+  },
+  {
+   "begin": "2058.960",
+   "children": [],
+   "end": "2064.240",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "You know as well as I do, Narcissa, that he does not forgive easily.\""
    ]
   },
   {
    "begin": "2064.240",
    "children": [],
-   "end": "2076.320",
-   "id": "f000150",
+   "end": "2070.720",
+   "id": "f000350",
    "language": "eng",
    "lines": [
-    "She crumpled, falling at his feet, sobbing and moaning on the floor. \"My only son... my only son \""
+    "She crumpled, falling at his feet, sobbing and moaning on the floor."
+   ]
+  },
+  {
+   "begin": "2070.720",
+   "children": [],
+   "end": "2076.320",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "\"My only son... my only son \""
    ]
   },
   {
    "begin": "2076.320",
    "children": [],
-   "end": "2086.440",
-   "id": "f000151",
+   "end": "2080.600",
+   "id": "f000352",
    "language": "eng",
    "lines": [
-    "\"You should be proud!\" said Bellatrix ruthlessly. \"If I had sons, I would be glad to give them up to the service of the Dark Lord!\""
+    "\"You should be proud!\" said Bellatrix ruthlessly."
+   ]
+  },
+  {
+   "begin": "2080.600",
+   "children": [],
+   "end": "2086.440",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "\"If I had sons, I would be glad to give them up to the service of the Dark Lord!\""
    ]
   },
   {
    "begin": "2086.440",
    "children": [],
-   "end": "2105.560",
-   "id": "f000152",
+   "end": "2093.000",
+   "id": "f000354",
    "language": "eng",
    "lines": [
-    "Narcissa gave a little scream of despair and clutched at her long blonde hair. Snape stooped, seized her by the arms, lifted her up, and steered her back onto the sofa. He then poured her more wine and forced the glass into her hand."
+    "Narcissa gave a little scream of despair and clutched at her long blonde hair."
+   ]
+  },
+  {
+   "begin": "2093.000",
+   "children": [],
+   "end": "2099.840",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "Snape stooped, seized her by the arms, lifted her up, and steered her back onto the sofa."
+   ]
+  },
+  {
+   "begin": "2099.840",
+   "children": [],
+   "end": "2105.560",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "He then poured her more wine and forced the glass into her hand."
    ]
   },
   {
    "begin": "2105.560",
    "children": [],
-   "end": "2110.480",
-   "id": "f000153",
+   "end": "2107.560",
+   "id": "f000357",
    "language": "eng",
    "lines": [
-    "\"Narcissa, that's enough. Drink this. Listen to me.\""
+    "\"Narcissa, that's enough."
+   ]
+  },
+  {
+   "begin": "2107.560",
+   "children": [],
+   "end": "2108.720",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "Drink this."
+   ]
+  },
+  {
+   "begin": "2108.720",
+   "children": [],
+   "end": "2110.480",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "Listen to me.\""
    ]
   },
   {
    "begin": "2110.480",
    "children": [],
-   "end": "2123.040",
-   "id": "f000154",
+   "end": "2117.040",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "She quieted a little; slopping wine down herself, she took a shaky sip. \"It might be possible... for me to help Draco.\""
+    "She quieted a little; slopping wine down herself, she took a shaky sip."
+   ]
+  },
+  {
+   "begin": "2117.040",
+   "children": [],
+   "end": "2123.040",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "\"It might be possible... for me to help Draco.\""
    ]
   },
   {
    "begin": "2123.040",
    "children": [],
    "end": "2129.000",
-   "id": "f000155",
+   "id": "f000362",
    "language": "eng",
    "lines": [
     "She sat up, her face paper-white, her eyes huge."
@@ -1553,18 +3623,28 @@
   {
    "begin": "2129.000",
    "children": [],
-   "end": "2137.160",
-   "id": "f000156",
+   "end": "2133.400",
+   "id": "f000363",
    "language": "eng",
    "lines": [
-    "\"Severus - oh, Severus - you would help him? Would you look after him, see he comes to no harm?\""
+    "\"Severus - oh, Severus - you would help him?"
+   ]
+  },
+  {
+   "begin": "2133.400",
+   "children": [],
+   "end": "2137.160",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "Would you look after him, see he comes to no harm?\""
    ]
   },
   {
    "begin": "2137.160",
    "children": [],
    "end": "2139.440",
-   "id": "f000157",
+   "id": "f000365",
    "language": "eng",
    "lines": [
     "\"I can try.\""
@@ -1573,28 +3653,48 @@
   {
    "begin": "2139.440",
    "children": [],
-   "end": "2152.840",
-   "id": "f000158",
+   "end": "2151.840",
+   "id": "f000366",
    "language": "eng",
    "lines": [
     "She flung away her glass; it skidded across the table as she slid off the sofa into a kneeling position at Snape's feet, seized his hand in both of hers, and pressed her lips to it."
    ]
   },
   {
-   "begin": "2152.840",
+   "begin": "2151.840",
    "children": [],
-   "end": "2161.160",
-   "id": "f000159",
+   "end": "2155.200",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "\"If you are there to protect him... Severus, will you swear it? Will you make the Unbreakable Vow?\""
+    "\"If you are there to protect him..."
+   ]
+  },
+  {
+   "begin": "2155.200",
+   "children": [],
+   "end": "2158.080",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "Severus, will you swear it?"
+   ]
+  },
+  {
+   "begin": "2158.080",
+   "children": [],
+   "end": "2161.160",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "Will you make the Unbreakable Vow?\""
    ]
   },
   {
    "begin": "2161.160",
    "children": [],
    "end": "2165.240",
-   "id": "f000160",
+   "id": "f000370",
    "language": "eng",
    "lines": [
     "\"The Unbreakable Vow?\""
@@ -1603,18 +3703,28 @@
   {
    "begin": "2165.240",
    "children": [],
-   "end": "2173.480",
-   "id": "f000161",
+   "end": "2170.800",
+   "id": "f000371",
    "language": "eng",
    "lines": [
-    "Snape's expression was blank, unreadable. Bellatrix, however, let out a"
+    "Snape's expression was blank, unreadable."
+   ]
+  },
+  {
+   "begin": "2170.800",
+   "children": [],
+   "end": "2173.480",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "Bellatrix, however, let out a"
    ]
   },
   {
    "begin": "2173.480",
    "children": [],
    "end": "2175.520",
-   "id": "f000162",
+   "id": "f000373",
    "language": "eng",
    "lines": [
     "cackle of triumphant laughter."
@@ -1623,48 +3733,108 @@
   {
    "begin": "2175.520",
    "children": [],
-   "end": "2190.960",
-   "id": "f000163",
+   "end": "2178.800",
+   "id": "f000374",
    "language": "eng",
    "lines": [
-    "\"Aren't you listening, Narcissa? Oh, he'll try, I'm sure... The usual empty words, the usual slithering out of action... oh, on the Dark Lord's or- ders, of course!\""
+    "\"Aren't you listening, Narcissa?"
+   ]
+  },
+  {
+   "begin": "2178.800",
+   "children": [],
+   "end": "2181.760",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "Oh, he'll try, I'm sure..."
+   ]
+  },
+  {
+   "begin": "2181.760",
+   "children": [],
+   "end": "2190.960",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "The usual empty words, the usual slithering out of action... oh, on the Dark Lord's or- ders, of course!\""
    ]
   },
   {
    "begin": "2190.960",
    "children": [],
-   "end": "2202.360",
-   "id": "f000164",
+   "end": "2194.320",
+   "id": "f000377",
    "language": "eng",
    "lines": [
-    "Snape did not look at Bellatrix. His black eyes were fixed upon Narcissa's tear-filled blue ones as she continued to clutch his hand."
+    "Snape did not look at Bellatrix."
+   ]
+  },
+  {
+   "begin": "2194.320",
+   "children": [],
+   "end": "2202.360",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "His black eyes were fixed upon Narcissa's tear-filled blue ones as she continued to clutch his hand."
    ]
   },
   {
    "begin": "2202.360",
    "children": [],
-   "end": "2214.960",
-   "id": "f000165",
+   "end": "2209.800",
+   "id": "f000379",
    "language": "eng",
    "lines": [
-    "\"Certainly, Narcissa, I shall make the Unbreakable Vow,\" he said quietly. \"Perhaps your sister will consent to be our Bonder.\""
+    "\"Certainly, Narcissa, I shall make the Unbreakable Vow,\" he said quietly."
+   ]
+  },
+  {
+   "begin": "2209.800",
+   "children": [],
+   "end": "2214.960",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "\"Perhaps your sister will consent to be our Bonder.\""
    ]
   },
   {
    "begin": "2214.960",
    "children": [],
-   "end": "2229.800",
-   "id": "f000166",
+   "end": "2218.680",
+   "id": "f000381",
    "language": "eng",
    "lines": [
-    "Bellatrix's mouth fell open. Snape lowered himself so that he was kneeling opposite Narcissa. Beneath Bellatrix's astonished gaze, they grasped right hands."
+    "Bellatrix's mouth fell open."
+   ]
+  },
+  {
+   "begin": "2218.680",
+   "children": [],
+   "end": "2224.080",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "Snape lowered himself so that he was kneeling opposite Narcissa."
+   ]
+  },
+  {
+   "begin": "2224.080",
+   "children": [],
+   "end": "2229.800",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "Beneath Bellatrix's astonished gaze, they grasped right hands."
    ]
   },
   {
    "begin": "2229.800",
    "children": [],
    "end": "2235.040",
-   "id": "f000167",
+   "id": "f000384",
    "language": "eng",
    "lines": [
     "\"You will need your wand, Bellatrix,\" said Snape coldly."
@@ -1674,7 +3844,7 @@
    "begin": "2235.040",
    "children": [],
    "end": "2238.960",
-   "id": "f000168",
+   "id": "f000385",
    "language": "eng",
    "lines": [
     "She drew it, still looking astonished."
@@ -1684,7 +3854,7 @@
    "begin": "2238.960",
    "children": [],
    "end": "2243.800",
-   "id": "f000169",
+   "id": "f000386",
    "language": "eng",
    "lines": [
     "\"And you will need to move a little closer,\" he said."
@@ -1694,7 +3864,7 @@
    "begin": "2243.800",
    "children": [],
    "end": "2251.240",
-   "id": "f000170",
+   "id": "f000387",
    "language": "eng",
    "lines": [
     "She stepped forward so that she stood over them, and placed the tip of her wand on their linked hands."
@@ -1704,7 +3874,7 @@
    "begin": "2251.240",
    "children": [],
    "end": "2254.000",
-   "id": "f000171",
+   "id": "f000388",
    "language": "eng",
    "lines": [
     "Narcissa spoke."
@@ -1714,7 +3884,7 @@
    "begin": "2254.000",
    "children": [],
    "end": "2265.080",
-   "id": "f000172",
+   "id": "f000389",
    "language": "eng",
    "lines": [
     "\"Will you, Severus, watch over my son, Draco, as he attempts to fulfill the Dark Lord's wishes?\""
@@ -1723,18 +3893,18 @@
   {
    "begin": "2265.080",
    "children": [],
-   "end": "2268.920",
-   "id": "f000173",
+   "end": "2268.800",
+   "id": "f000390",
    "language": "eng",
    "lines": [
     "\"I will,\" said Snape."
    ]
   },
   {
-   "begin": "2268.920",
+   "begin": "2268.800",
    "children": [],
    "end": "2278.440",
-   "id": "f000174",
+   "id": "f000391",
    "language": "eng",
    "lines": [
     "A thin tongue of brilliant flame issued from the wand and wound its way around their hands like a red-hot wire."
@@ -1744,7 +3914,7 @@
    "begin": "2278.440",
    "children": [],
    "end": "2285.760",
-   "id": "f000175",
+   "id": "f000392",
    "language": "eng",
    "lines": [
     "\"And will you, to the best of your ability, protect him from harm?\""
@@ -1754,7 +3924,7 @@
    "begin": "2285.760",
    "children": [],
    "end": "2289.560",
-   "id": "f000176",
+   "id": "f000393",
    "language": "eng",
    "lines": [
     "\"I will,\" said Snape."
@@ -1764,7 +3934,7 @@
    "begin": "2289.560",
    "children": [],
    "end": "2298.560",
-   "id": "f000177",
+   "id": "f000394",
    "language": "eng",
    "lines": [
     "A second tongue of flame shot from the wand and interlinked with the first, making a fine, glowing chain."
@@ -1774,7 +3944,7 @@
    "begin": "2298.560",
    "children": [],
    "end": "2319.680",
-   "id": "f000178",
+   "id": "f000395",
    "language": "eng",
    "lines": [
     "\"And, should it prove necessary... if it seems Draco will fail...\" whispered Narcissa (Snape's hand twitched within hers, but he did not draw away), \"will you carry out the deed that the Dark Lord has ordered Draco to perform?\""
@@ -1783,18 +3953,28 @@
   {
    "begin": "2319.680",
    "children": [],
-   "end": "2326.480",
-   "id": "f000179",
+   "end": "2323.000",
+   "id": "f000396",
    "language": "eng",
    "lines": [
-    "There was a moment's silence. Bellatrix watched, her wand upon their"
+    "There was a moment's silence."
+   ]
+  },
+  {
+   "begin": "2323.000",
+   "children": [],
+   "end": "2326.480",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "Bellatrix watched, her wand upon their"
    ]
   },
   {
    "begin": "2326.480",
    "children": [],
    "end": "2329.520",
-   "id": "f000180",
+   "id": "f000398",
    "language": "eng",
    "lines": [
     "clasped hands, her eyes wide."
@@ -1803,18 +3983,18 @@
   {
    "begin": "2329.520",
    "children": [],
-   "end": "2333.440",
-   "id": "f000181",
+   "end": "2333.320",
+   "id": "f000399",
    "language": "eng",
    "lines": [
     "\"I will,\" said Snape."
    ]
   },
   {
-   "begin": "2333.440",
+   "begin": "2333.320",
    "children": [],
    "end": "2355.120",
-   "id": "f000182",
+   "id": "f000400",
    "language": "eng",
    "lines": [
     "Bellatrix's astounded face glowed red in the blaze of a third tongue of flame, which shot from the wand, twisted with the others, and bound itself thickly around their clasped hands, like a rope, like a fiery snake."

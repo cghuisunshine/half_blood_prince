@@ -9,12 +9,13 @@ from tools import reader_pipeline
 
 
 class ReaderPipelineTests(unittest.TestCase):
-    def test_aligned_reader_persists_latest_paragraph_in_local_storage(self):
+    def test_aligned_reader_persists_latest_sentence_in_local_storage(self):
         html = Path("aligned_reader/index.html").read_text(encoding="utf-8")
 
         self.assertIn("localStorage.setItem(PROGRESS_KEY", html)
         self.assertIn("localStorage.getItem(PROGRESS_KEY", html)
-        self.assertIn("saveProgress(paragraph)", html)
+        self.assertIn("saveProgress(sentence)", html)
+        self.assertIn("className = 'sentence'", html)
         self.assertIn("loadChapter(initialProgress.chapterIndex", html)
 
     def test_extract_chapters_skips_contents_and_splits_real_chapters(self):
@@ -139,6 +140,23 @@ class ReaderPipelineTests(unittest.TestCase):
         paragraphs = reader_pipeline.normalize_paragraphs(body)
 
         self.assertEqual(paragraphs, ["top-of-the-range broomstick", "summer holidays"])
+
+    def test_chapter_fragments_aligns_sentences_instead_of_paragraphs(self):
+        chapter = reader_pipeline.Chapter(
+            1,
+            "The Other Minister",
+            'Mr. Fudge arrived late. "Not again!" said the Prime Minister.\n\nThe room went quiet.',
+        )
+
+        self.assertEqual(
+            reader_pipeline.chapter_fragments(chapter),
+            [
+                "Chapter One. The Other Minister.",
+                "Mr. Fudge arrived late.",
+                '"Not again!" said the Prime Minister.',
+                "The room went quiet.",
+            ],
+        )
 
     def test_extract_chapter_without_visible_title_keeps_body(self):
         source = """
@@ -418,7 +436,7 @@ class ReaderPipelineTests(unittest.TestCase):
         self.assertEqual(manifest["chapters"][1]["start"], 3.0)
         self.assertEqual(manifest["chapters"][1]["end"], 6.0)
         self.assertEqual(manifest["chapters"][1]["audioStart"], 3.0)
-        self.assertEqual(manifest["chapters"][1]["paragraphs"][0]["localBegin"], 3.0)
+        self.assertEqual(manifest["chapters"][1]["sentences"][0]["localBegin"], 3.0)
 
     def test_build_reader_manifest_offsets_chapter_fragments_and_appends_outro(self):
         with tempfile.TemporaryDirectory() as temp_dir:
@@ -466,7 +484,7 @@ class ReaderPipelineTests(unittest.TestCase):
         self.assertEqual(manifest["title"], "Example Book")
         self.assertEqual(len(manifest["chapters"]), 3)
         self.assertEqual(manifest["chapters"][1]["start"], 3.0)
-        self.assertEqual(manifest["chapters"][1]["paragraphs"][0]["begin"], 3.0)
+        self.assertEqual(manifest["chapters"][1]["sentences"][0]["begin"], 3.0)
         self.assertEqual(manifest["chapters"][2]["kind"], "outro")
         self.assertEqual(manifest["duration"], 105.0)
 
